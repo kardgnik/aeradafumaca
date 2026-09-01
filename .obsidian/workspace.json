@@ -180,16 +180,28 @@
               "icon": "lucide-list",
               "title": "Sumário de A Era da Fumaça"
             }
+          },
+          {
+            "id": "2f8ec647e7cd5c42",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 423.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
@@ -199,7 +211,7 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "8e86c8089e6004e6",
+  "active": "693f25683829544a",
   "lastOpenFiles": [
     "A Era da Fumaça.md"
   ]

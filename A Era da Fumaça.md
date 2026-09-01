@@ -11,3 +11,5 @@ tags: [cenário, industrial, magia, fumaça, lore]
 ---
 
 ## ⚙️ Visão Geral do Cenário
+
+oi
