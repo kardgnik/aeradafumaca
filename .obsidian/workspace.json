@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Deuses Neutros.md",
+                "file": "NOTAS/Deuses Bons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deuses Neutros"
+              "title": "Deuses Bons"
             }
           }
         ]
@@ -200,6 +200,7 @@
   "active": "693f25683829544a",
   "lastOpenFiles": [
     "NOTAS/Deuses.md",
+    "NOTAS/Deuses Maus.md",
     "NOTAS/Deuses Neutros.md",
     "NOTAS/Deuses Bons.md",
     "NOTAS/Torven.md",
@@ -222,7 +223,6 @@
     "NOTAS/Namyss.md",
     "NOTAS/Eol-Saha.md",
     "NOTAS/Cevran.md",
-    "NOTAS/Deuses Maus.md",
     "PJ",
     "IMAGENS",
     "NOTAS"
