@@ -6,7 +6,6 @@
       {
         "id": "c7f8d86b8dddb9e2",
         "type": "tabs",
-        "dimension": 35.234215885947044,
         "children": [
           {
             "id": "693f25683829544a",
@@ -20,23 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "A Era da Fumaça"
-            }
-          }
-        ]
-      },
-      {
-        "id": "2a16fc1bab18030e",
-        "type": "tabs",
-        "dimension": 64.76578411405295,
-        "children": [
-          {
-            "id": "a17a450bfb9a895b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
             }
           }
         ]
@@ -98,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "5ba1bfa9dc09bea3",
@@ -200,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 423.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,7 +197,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a17a450bfb9a895b",
+  "active": "693f25683829544a",
   "lastOpenFiles": [
     "A Era da Fumaça.md",
     "PJ",
