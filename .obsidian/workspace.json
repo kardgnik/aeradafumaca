@@ -11,12 +11,14 @@
             "id": "693f25683829544a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "IMAGENS/Sael-Kor, o Contador dos Sóis.jpg"
+                "file": "A Era da Fumaça.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Sael-Kor, o Contador dos Sóis"
+              "icon": "lucide-file",
+              "title": "A Era da Fumaça"
             }
           }
         ]
@@ -53,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Telúrica",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -195,32 +197,32 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "8e86c8089e6004e6",
+  "active": "693f25683829544a",
   "lastOpenFiles": [
-    "IMAGENS/Ambrienne, a Chama na Janela.jpg",
+    "NOTAS/Korvenn.md",
     "NOTAS/Deuses Maus.md",
+    "NOTAS/Deuses.md",
+    "A Era da Fumaça.md",
+    "IMAGENS/Sael-Kor, o Contador dos Sóis.jpg",
+    "IMAGENS/Ambrienne, a Chama na Janela.jpg",
     "NOTAS/Thren-Kaiv.md",
     "IMAGENS/Thren-Kaiv, o Imperador sem Mundo.jpg",
     "NOTAS/Azhur-Maal.md",
     "IMAGENS/Azhur-Maal, a Boca Depois da Luz.jpg",
     "NOTAS/Saldren.md",
     "IMAGENS/Saldren, o Credor de Sangue.jpg",
-    "NOTAS/Korvenn.md",
     "IMAGENS/Korvenn, o Dente da Ferrugem.jpg",
     "NOTAS/Velisse.md",
     "IMAGENS/Velisse, a Dama do Aplauso Vazio.jpg",
     "NOTAS/Dravosk.md",
     "IMAGENS/Dravosk, o Senhor do Turno Sem Fim.jpg",
-    "NOTAS/Deuses.md",
     "NOTAS/Deuses Neutros.md",
     "NOTAS/Quor-Aven.md",
     "IMAGENS/Quor-Aven, a Porta que Sonha.jpg",
     "NOTAS/Sael-Kor.md",
-    "IMAGENS/Sael-Kor, o Contador dos Sóis.jpg",
     "NOTAS/Salmora.md",
     "IMAGENS/Salmora, Rainha do Horizonte Cinzento.jpg",
     "NOTAS/Ormec.md",
-    "IMAGENS/Ormec, o Peso Exato.jpg",
     "NOTAS/Tessara.md",
     "NOTAS/Volgrin.md",
     "NOTAS/Deuses Bons.md",
@@ -230,7 +232,6 @@
     "NOTAS/Lysara.md",
     "NOTAS/Torven.md",
     "NOTAS/Ambrienne.md",
-    "A Era da Fumaça.md",
     "NOTAS/Eol-Saha.md",
     "PJ",
     "IMAGENS",
