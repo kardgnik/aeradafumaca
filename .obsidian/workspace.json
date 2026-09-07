@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Lysara.md",
+                "file": "NOTAS/Deuses Bons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lysara"
+              "title": "Deuses Bons"
             }
           }
         ]
@@ -199,6 +199,7 @@
   },
   "active": "693f25683829544a",
   "lastOpenFiles": [
+    "NOTAS/Lysara.md",
     "NOTAS/Deuses Bons.md",
     "NOTAS/Deuses.md",
     "NOTAS/Deuses Neutros.md",
@@ -220,7 +221,6 @@
     "NOTAS/Namyss.md",
     "NOTAS/Eol-Saha.md",
     "NOTAS/Cevran.md",
-    "NOTAS/Lysara.md",
     "NOTAS/Torven.md",
     "NOTAS/Deuses Maus.md",
     "PJ",
