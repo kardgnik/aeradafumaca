@@ -20,6 +20,6 @@ As chamadas remanências, vultos, vozes e lembranças duplicadas observadas depo
 
 ## Brumaferro
 
-A estação desativada investigada pela equipe de [[Elian Mercer]] permanece ligada a estruturas sob a cidade. O [Nó de Distribuição 7B](No-7B.md), oficialmente parte da rede energética, também funciona como um ponto de alimentação para mecanismos associados à antiga malha de transposição.
+A estação desativada investigada pela equipe de [[Elian Mercer]] permanece ligada a estruturas sob a cidade. O [[No-7B|Nó de Distribuição 7B]], oficialmente parte da rede energética, também funciona como um ponto de alimentação para mecanismos associados à antiga malha de transposição.
 
 A equipe não desapareceu em um acidente industrial comum. A ativação parcial da instalação abriu uma rota que os sistemas modernos não possuem capacidade de identificar.

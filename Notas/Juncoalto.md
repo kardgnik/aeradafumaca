@@ -2,9 +2,9 @@
 
 #Lugares
 
-[Voltar para Vhalaris](Vhalaris)
+[[Vhalaris|Voltar para Vhalaris]]
 
-Juncoalto é a maior comunidade permanente dos [Baixios de Mouralume](Baixios-de-Mouralume). A vila foi construída sobre centenas de palafitas, plataformas interligadas e embarcações mantidas como extensões das próprias casas.
+Juncoalto é a maior comunidade permanente dos [[Baixios-de-Mouralume|Baixios de Mouralume]]. A vila foi construída sobre centenas de palafitas, plataformas interligadas e embarcações mantidas como extensões das próprias casas.
 
 Não existem ruas no sentido tradicional. Os moradores se orientam por canais, pontes suspensas, sinos e marcos pintados nas estacas. Durante as cheias maiores, partes inteiras da vila são soltas de suas amarras e rebocadas para posições mais seguras.
 
@@ -26,4 +26,4 @@ No ponto mais alto da cheia, lanternas são colocadas junto às marcas dos anos 
 
 Juncoalto exporta ervas, fibras, pescado e conhecimento de navegação. Em troca, recebe ferramentas, sal, medicamentos e peças industriais.
 
-A vila desconfia de projetos elaborados em [[Brumaferro]] para controlar os pântanos. Seus moradores sabem que uma decisão tomada em [Sete Comportas](Sete-Comportas), a centenas de quilômetros, pode determinar quais casas permanecerão secas.
+A vila desconfia de projetos elaborados em [[Brumaferro]] para controlar os pântanos. Seus moradores sabem que uma decisão tomada em [[Sete-Comportas|Sete Comportas]], a centenas de quilômetros, pode determinar quais casas permanecerão secas.

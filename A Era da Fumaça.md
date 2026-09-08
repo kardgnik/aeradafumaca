@@ -15,11 +15,11 @@ tags: [cenário, industrial, magia, fumaça, lore]
 #### LOCALIDADES
 O Chamado Plano Material. Lar dos Mortais, dominado por Cinco continentes e mares selvagens, são eles: 
 
-- [Vhalaris, o coração industrial](Vhalaris.md)
-- [Continente das Caldeiras](Caldeiras.md)
-- [Keldrann, o Continente Branco](Keldrann.md)
-- [Pelágora, as Mil Ilhas](Pelagora.md)
-- [Vertilis, o Continente Vertical](Vertilis.md)
+- [[Vhalaris|Vhalaris, o coração industrial]]
+- [[Caldeiras|Continente das Caldeiras]]
+- [[Keldrann|Keldrann, o Continente Branco]]
+- [[Pelagora|Pelágora, as Mil Ilhas]]
+- [[Vertilis|Vertilis, o Continente Vertical]]
 
 
 

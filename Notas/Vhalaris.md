@@ -36,13 +36,13 @@ Não existe uma única cultura vhalariana. Cada região preserva costumes, sotaq
 
 ### Regiões, vilas e marcos do interior
 
-Os [Campos de Valebrando](Campos-de-Valebrando.md) formam uma das principais regiões agrícolas do continente. Suas colheitas abastecem centros industriais, enquanto a vila de [Ponte-Cinza](Ponte-Cinza.md) conecta fazendas, navegação fluvial e ferrovias.
+Os [[Campos-de-Valebrando|Campos de Valebrando]] formam uma das principais regiões agrícolas do continente. Suas colheitas abastecem centros industriais, enquanto a vila de [[Ponte-Cinza]] conecta fazendas, navegação fluvial e ferrovias.
 
-Nos [Baixios de Mouralume](Baixios-de-Mouralume.md), as cheias redesenham caminhos e obrigam comunidades inteiras a viver sobre plataformas e embarcações. [Juncoalto](Juncoalto.md), a maior vila palafítica da região, tornou-se referência em navegação, plantas medicinais e construção adaptada às águas.
+Nos [[Baixios-de-Mouralume|Baixios de Mouralume]], as cheias redesenham caminhos e obrigam comunidades inteiras a viver sobre plataformas e embarcações. [[Juncoalto]], a maior vila palafítica da região, tornou-se referência em navegação, plantas medicinais e construção adaptada às águas.
 
-As [Sete Comportas](Sete-Comportas.md) regulam parte do encontro entre os rios das planícies e os pântanos. A obra protege lavouras e rotas comerciais, mas também permite que decisões tomadas longe dos baixios determinem quais comunidades serão inundadas.
+As [[Sete-Comportas|Sete Comportas]] regulam parte do encontro entre os rios das planícies e os pântanos. A obra protege lavouras e rotas comerciais, mas também permite que decisões tomadas longe dos baixios determinem quais comunidades serão inundadas.
 
-A [Mata de Carvalume](Mata-de-Carvalume.md) preserva uma cultura de manejo florestal anterior à industrialização. Sua madeira, resina e conhecimento medicinal atraem companhias interessadas em explorar rapidamente recursos mantidos por gerações.
+A [[Mata-de-Carvalume|Mata de Carvalume]] preserva uma cultura de manejo florestal anterior à industrialização. Sua madeira, resina e conhecimento medicinal atraem companhias interessadas em explorar rapidamente recursos mantidos por gerações.
 
 Companhias industriais e ferroviárias exercem influência comparável à de muitas autoridades públicas. Engenheiros, refinadores e estudiosos do Éter formam uma nova elite técnica. Ao mesmo tempo, operários, mineiros, condutores, estivadores e mecânicos sustentam o funcionamento do continente, quase sempre assumindo os maiores riscos e recebendo a menor parte de sua prosperidade.
 
@@ -54,4 +54,4 @@ A explicação aceita afirma que o Éter é um recurso natural encontrado nas pr
 
 Também se reconhece publicamente que a exposição prolongada pode provocar doenças, alterações físicas, perturbações mentais e fenômenos mágicos. Acidentes graves costumam ser atribuídos a impurezas, falhas técnicas ou manuseio inadequado. Informações sobre métodos de extração, reservas e comportamento do Éter são tratadas como segredos industriais ou assuntos de segurança continental.
 
-## [Verdades ocultas](Vhalaris-Oculto.md)
+## [[Vhalaris-Oculto|Verdades ocultas]]

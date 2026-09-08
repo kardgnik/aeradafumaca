@@ -2,7 +2,7 @@
 
 #Lugares
 
-[Voltar para Vhalaris](Vhalaris.md)
+[[Vhalaris|Voltar para Vhalaris]]
 
 Sete Comportas é uma gigantesca obra hidráulica construída na passagem entre os rios das planícies e os Baixios de Mouralume. Suas sete portas de ferro regulam o nível das águas, permitem a passagem de embarcações e protegem rotas agrícolas durante parte do período de cheias.
 
