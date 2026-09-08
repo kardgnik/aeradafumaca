@@ -18,3 +18,9 @@ Os sistemas desse nível contêm Éter mesmo quando o restante do nó é isolado
 O Nó 7B alimenta mecanismos associados a uma estação de transposição considerada inoperante. A equipe ligada a [[Elian Mercer]] desapareceu depois que os sistemas antigos responderam a uma tentativa moderna de diagnóstico.
 
 A instalação não está simplesmente defeituosa. Ela está executando uma função para a qual a rede atual não foi projetada.
+
+## A equipe de inspeção
+
+A equipe enviada para investigar as anomalias do Nó incluía [[Samuel Mercer]], filho do supervisor [[Elian Mercer]] e melhor amigo de [[Malik|Malik “Mão Pesada” Booker]].
+
+Samuel estudava registros de uma antiga [[Estações de Transposição|Estação de Transposição]] desativada depois do acidente que matou [[Caleb Booker]]. Pouco antes da missão, encontrou semelhanças entre as leituras daquela instalação e as oscilações observadas no Nó 7B.
