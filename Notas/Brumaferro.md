@@ -14,4 +14,4 @@ Brumaferro concentra refinarias, oficinas, companhias ferroviárias, laboratóri
 
 A rede de Éter é supervisionada por equipes técnicas responsáveis pelas tubulações e pelos cabos que distribuem energia, além das estações e dos reguladores que controlam seu fluxo. Entre seus supervisores está [[Elian Mercer]], ligado ao desaparecimento de uma equipe enviada a uma estação desativada.
 
-## [Verdades ocultas](Brumaferro-Oculto.md)
+## ![[icone-verdades-ocultas.png|48]] [Verdades ocultas](Brumaferro-Oculto.md) ![[icone-verdades-ocultas.png|48]]
