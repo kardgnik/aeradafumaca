@@ -4,7 +4,7 @@
 
 [[Brumaferro]]
 
-A Oficina Sete Batidas ocupa o térreo de um prédio estreito do Bairro das Caldeiras. Sua placa promete reparos mecânicos, ajustes de ferramentas e manutenção de pequenos equipamentos industriais. Quase todos no bairro, entretanto, conhecem o segundo ofício de seu proprietário, [[Elias Baptiste|Elias “Sete” Baptiste]].
+A Oficina Sete Batidas ocupa o térreo de um prédio estreito do Bairro das Caldeiras. Sua placa promete reparos mecânicos, ajustes de ferramentas e manutenção de pequenos equipamentos industriais. Quase todos no bairro, entretanto, conhecem o segundo ofício de seu proprietário, [[Elias Baptiste]].
 
 Durante o dia, a oficina recebe válvulas, relógios de pressão, próteses mecânicas, bombas, fechaduras e ferramentas danificadas. Elias aceita pagamentos modestos de trabalhadores locais e frequentemente troca serviços por peças, comida ou favores.
 
@@ -14,7 +14,7 @@ Nos fundos existe um porão reforçado com vigas retiradas de uma antiga fábric
 
 Elias treina poucos alunos de cada vez. Não anuncia as aulas e recusa pessoas interessadas apenas em ferir os outros. O treinamento começa com postura, respiração e movimento. Um aluno pode passar semanas sem receber permissão para golpear alguém.
 
-Foi nesse porão que [[Malik|Malik “Mão Pesada” Booker]] aprendeu a diferença entre bater e lutar.
+Foi nesse porão que [[Malik|Mão Pesada]] aprendeu a diferença entre bater e lutar.
 
 ## Neutralidade
 

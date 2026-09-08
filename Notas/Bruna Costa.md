@@ -10,9 +10,9 @@ O apelido nasceu da cor avermelhada que cobre suas luvas, ferramentas e parte de
 
 ## Relação com Malik
 
-Bruna e [[Malik|Malik “Mão Pesada” Booker]] desenvolveram uma amizade quase fraternal. Ela consertava o que ele quebrava, escondia armas antes das batidas da Guarda e era uma das poucas pessoas capazes de rir depois de uma discussão com ele.
+Bruna e [[Malik]] desenvolveram uma amizade quase fraternal. Ela consertava o que ele quebrava, escondia armas antes das batidas da Guarda e era uma das poucas pessoas capazes de rir depois de uma discussão com ele.
 
-Não considera Malik um traidor. Para Bruna, sua saída era inevitável porque ele nunca soube obedecer a ordens que julgava erradas. Os dois ainda mantêm contato ocasional, embora qualquer ajuda prestada a Malik precise ser escondida de [[Abel Morel|Abel “Trinco” Morel]].
+Não considera Malik um traidor. Para Bruna, sua saída era inevitável porque ele nunca soube obedecer a ordens que julgava erradas. Os dois ainda mantêm contato ocasional, embora qualquer ajuda prestada a Malik precise ser escondida de [[Abel Morel|Trinco]].
 
 ## Papel atual
 

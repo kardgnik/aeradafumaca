@@ -2,7 +2,7 @@
 
 #NPC
 
-Caleb Booker foi operador de manutenção especializado em reguladores, válvulas de pressão e sistemas auxiliares das [[Estações de Transposição]] de [[Brumaferro]]. Era marido de Miriam Booker e pai de [[Malik|Malik “Mão Pesada” Booker]].
+Caleb Booker foi operador de manutenção especializado em reguladores, válvulas de pressão e sistemas auxiliares das [[Estações de Transposição]] de [[Brumaferro]]. Era marido de Miriam Booker e pai de [[Malik|Malik Booker]].
 
 Trabalhava diretamente sob a supervisão de [[Elian Mercer]], que o considerava um técnico cuidadoso e experiente com mecanismos antigos.
 

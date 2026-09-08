@@ -18,19 +18,19 @@ Malik não é contrário ao [[Éter]], mas tampouco confia no discurso de que to
 
 Ainda adolescente, Malik entrou para [[Os Cães da Caldeira]], uma gangue territorial dos bairros industriais. Começou fazendo entregas, cobrando dívidas e intimidando comerciantes. Depois passou a lutar em becos, porões e depósitos abandonados, algumas vezes por apostas e outras apenas para estabelecer quem mandava naquele trecho da cidade.
 
-O líder da gangue, [[Silas Rook|Silas “Rei da Caldeira” Rook]], reconheceu nele coragem, raiva e um orgulho perigoso. Durante alguns anos, Silas ocupou uma posição quase paterna na vida de Malik. Foi ele quem criou o apelido Mão Pesada, depois de ver Malik, aos dezessete anos, suportar uma surra e encerrar a luta com um único golpe.
+O líder da gangue, [[Silas Rook]], reconheceu nele coragem, raiva e um orgulho perigoso. Durante alguns anos, Silas ocupou uma posição quase paterna na vida de Malik. Foi ele quem criou o apelido Mão Pesada, depois de ver Malik, aos dezessete anos, suportar uma surra e encerrar a luta com um único golpe.
 
 Entre os Cães, Malik formou laços que ainda o perseguem:
 
-- [[Bruna Costa|Bruna “Ferrugem” Costa]] continua sendo uma amiga e contato no submundo.
-- [[Abel Morel|Abel “Trinco” Morel]] foi quase um irmão, até transformar violência em crueldade e tornar-se inimigo de Malik.
-- [[Jonas Dantas|Jonas “Pavio” Dantas]] era o mais jovem da gangue e cresceu sob sua proteção.
+- [[Bruna Costa|Ferrugem]] continua sendo uma amiga e contato no submundo.
+- [[Abel Morel|Trinco]] foi quase um irmão, até transformar violência em crueldade e tornar-se inimigo de Malik.
+- [[Jonas Dantas|Pavio]] era o mais jovem da gangue e cresceu sob sua proteção.
 
 Malik deixou os Cães depois de se recusar a participar das torturas conduzidas por Abel. O confronto terminou com Trinco brutalmente derrotado e Malik fora da organização. Se ele saiu ou foi expulso depende de quem conta a história.
 
 ## A ciência da pancada
 
-Aos dezesseis anos, Malik começou a frequentar os fundos da [[Oficina Sete Batidas]], onde [[Elias Baptiste|Elias “Sete” Baptiste]], antigo lutador clandestino, mantinha um espaço de treinamento.
+Aos dezesseis anos, Malik começou a frequentar os fundos da [[Oficina Sete Batidas]], onde [[Elias Baptiste]], antigo lutador clandestino, mantinha um espaço de treinamento.
 
 Elias ensinou distância, equilíbrio, leitura corporal, economia de movimento, controle da respiração, absorção de impacto e, acima de tudo, quando não atacar. Malik chama esses ensinamentos de ciência da pancada, ou Sweet Science, embora raramente consiga explicá-los sem usar os próprios punhos como exemplo.
 
@@ -38,7 +38,7 @@ Elias tornou-se professor, conselheiro e outra figura paterna em sua vida.
 
 ## Samuel Mercer
 
-[[Samuel Mercer|Samuel “Fio” Mercer]] é o melhor amigo de Malik e filho de [[Elian Mercer]], antigo supervisor de [[Caleb Booker]]. Os dois se conheceram por volta dos doze anos, quando Samuel tentou ajudar Malik contra dois garotos mais velhos, apesar de ser menor e não saber lutar.
+[[Samuel Mercer]] é o melhor amigo de Malik e filho de [[Elian Mercer]], antigo supervisor de [[Caleb Booker]]. Os dois se conheceram por volta dos doze anos, quando Samuel tentou ajudar Malik contra dois garotos mais velhos, apesar de ser menor e não saber lutar.
 
 Samuel ajudava Malik a preencher formulários e ensinou-lhe parte do que sabe ler. Malik o protegia nos bairros perigosos e tentou ensiná-lo a socar. Nenhum dos dois considera essa última tentativa bem-sucedida.
 
@@ -63,12 +63,12 @@ O desaparecimento de Samuel mudou isso. Malik pretende encontrá-lo ou descobrir
 ## Contatos
 
 - Miriam Booker, mãe e consciência mais severa.
-- [[Elias Baptiste|Elias “Sete” Baptiste]], professor e mentor.
-- [[Bruna Costa|Bruna “Ferrugem” Costa]], contato no submundo.
-- [[Abel Morel|Abel “Trinco” Morel]], antigo amigo e inimigo.
-- [[Jonas Dantas|Jonas “Pavio” Dantas]], antigo protegido.
-- [[Samuel Mercer|Samuel “Fio” Mercer]], melhor amigo desaparecido.
-- [[Silas Rook|Silas “Rei da Caldeira” Rook]], antigo chefe e figura paterna ambígua.
+- [[Elias Baptiste]], professor e mentor.
+- [[Bruna Costa|Ferrugem]], contato no submundo.
+- [[Abel Morel|Trinco]], antigo amigo e inimigo.
+- [[Jonas Dantas|Pavio]], antigo protegido.
+- [[Samuel Mercer]], melhor amigo desaparecido.
+- [[Silas Rook]], antigo chefe e figura paterna ambígua.
 - [[Viktor Halden]], desafeto ligado às refinarias.
 
 ## [[Malik-Oculto|Verdades ocultas]]

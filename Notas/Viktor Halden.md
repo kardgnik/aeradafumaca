@@ -14,7 +14,7 @@ Viktor mantém informantes entre estivadores, vigias, funcionários de casas de 
 
 ## Malik
 
-Durante os anos de [[Malik|Malik “Mão Pesada” Booker]] nos [[Os Cães da Caldeira|Cães da Caldeira]], os dois se enfrentaram diversas vezes. Malik despreza Viktor por usar dinheiro, subordinados e linguagem oficial para esconder covardia.
+Durante os anos de [[Malik|Mão Pesada]] nos [[Os Cães da Caldeira|Cães da Caldeira]], os dois se enfrentaram diversas vezes. Malik despreza Viktor por usar dinheiro, subordinados e linguagem oficial para esconder covardia.
 
 Certa vez, Malik conseguiu encurralá-lo longe de seus homens. Viktor escapou, mas jamais esqueceu a sensação de não possuir ninguém entre ele e os punhos de Mão Pesada.
 

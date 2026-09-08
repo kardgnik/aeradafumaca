@@ -10,7 +10,7 @@ Recebeu o apelido Sete porque, segundo a lenda dos porões de luta, sete golpes 
 
 ## Professor
 
-Elias conheceu [[Malik|Malik “Mão Pesada” Booker]] quando o jovem tinha dezesseis anos. Durante semanas, limitou-se a observar suas lutas. Depois declarou que Malik sabia bater, mas não sabia lutar.
+Elias conheceu [[Malik]] quando o jovem tinha dezesseis anos. Durante semanas, limitou-se a observar suas lutas. Depois declarou que Malik sabia bater, mas não sabia lutar.
 
 Seu treinamento ensinou distância, equilíbrio, leitura corporal, controle da respiração, economia de movimento, absorção de impacto e o momento de recuar. Elias chama esse conjunto de conhecimentos de ciência da pancada.
 

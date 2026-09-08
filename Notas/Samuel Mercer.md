@@ -2,7 +2,7 @@
 
 #NPC
 
-Samuel Mercer é um técnico de aproximadamente vinte e nove anos, especializado na manutenção das redes de distribuição de [[Éter]] de [[Brumaferro]]. É filho de [[Elian Mercer]] e melhor amigo de [[Malik|Malik “Mão Pesada” Booker]].
+Samuel Mercer é um técnico de aproximadamente vinte e nove anos, especializado na manutenção das redes de distribuição de [[Éter]] de [[Brumaferro]]. É filho de [[Elian Mercer]] e melhor amigo de [[Malik|Malik Booker]].
 
 O apelido Fio nasceu de sua capacidade de compreender tubulações, cabos, reguladores e circuitos que pareciam incompreensíveis para outros trabalhadores. Samuel diz que toda máquina conta o que está acontecendo, desde que alguém saiba onde encostar o ouvido.
 

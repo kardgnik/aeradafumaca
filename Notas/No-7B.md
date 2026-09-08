@@ -21,6 +21,6 @@ A instalação não está simplesmente defeituosa. Ela está executando uma fun�
 
 ## A equipe de inspeção
 
-A equipe enviada para investigar as anomalias do Nó incluía [[Samuel Mercer]], filho do supervisor [[Elian Mercer]] e melhor amigo de [[Malik|Malik “Mão Pesada” Booker]].
+A equipe enviada para investigar as anomalias do Nó incluía [[Samuel Mercer]], filho do supervisor [[Elian Mercer]] e melhor amigo de [[Malik]].
 
 Samuel estudava registros de uma antiga [[Estações de Transposição|Estação de Transposição]] desativada depois do acidente que matou [[Caleb Booker]]. Pouco antes da missão, encontrou semelhanças entre as leituras daquela instalação e as oscilações observadas no Nó 7B.

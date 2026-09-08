@@ -4,7 +4,7 @@
 
 [[Os Cães da Caldeira]]
 
-Abel Morel, conhecido como Trinco, coordena cobranças, interrogatórios e punições para [[Os Cães da Caldeira]]. Cresceu dentro da gangue ao lado de [[Malik|Malik “Mão Pesada” Booker]], e durante anos os dois foram considerados irmãos.
+Abel Morel, conhecido como Trinco, coordena cobranças, interrogatórios e punições para [[Os Cães da Caldeira]]. Cresceu dentro da gangue ao lado de [[Malik]], e durante anos os dois foram considerados irmãos.
 
 Seu apelido surgiu de sua obsessão por portas fechadas. Abel aprendeu a abrir depósitos, armazéns e residências pelos fundos, guardando como troféu o trinco de cada entrada considerada impossível.
 

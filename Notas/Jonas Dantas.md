@@ -4,7 +4,7 @@
 
 [[Os Cães da Caldeira]]
 
-Jonas Dantas, conhecido como Pavio, era o integrante mais jovem dos [[Os Cães da Caldeira|Cães da Caldeira]] quando conheceu [[Malik|Malik “Mão Pesada” Booker]]. Tinha aproximadamente treze anos, fazia entregas pequenas e demonstrava coragem suficiente para esconder o quanto estava assustado.
+Jonas Dantas, conhecido como Pavio, era o integrante mais jovem dos [[Os Cães da Caldeira|Cães da Caldeira]] quando conheceu [[Malik]]. Tinha aproximadamente treze anos, fazia entregas pequenas e demonstrava coragem suficiente para esconder o quanto estava assustado.
 
 Malik passou a protegê-lo, afastando-o de cobranças mais violentas e ensinando-lhe como sobreviver nas ruas das Caldeiras. Jonas aprendeu a observar saídas, reconhecer uma emboscada e nunca ficar entre Mão Pesada e alguém que insultasse sua mãe.
 

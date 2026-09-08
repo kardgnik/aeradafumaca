@@ -16,10 +16,10 @@ A rede de Éter é supervisionada por equipes técnicas responsáveis pelas tubu
 
 ## Bairro das Caldeiras
 
-O Bairro das Caldeiras ocupa uma faixa antiga da região industrial, onde casas operárias foram construídas entre fábricas, tubulações e instalações que já funcionavam antes da expansão dos bairros elevados. Ali nasceu [[Malik|Malik “Mão Pesada” Booker]].
+O Bairro das Caldeiras ocupa uma faixa antiga da região industrial, onde casas operárias foram construídas entre fábricas, tubulações e instalações que já funcionavam antes da expansão dos bairros elevados. Ali nasceu [[Malik|Malik Booker]].
 
 A presença do poder público é irregular. A gangue conhecida como [[Os Cães da Caldeira]] controla parte das ruas, oferece proteção, cobra comerciantes e disputa território com agentes ligados às refinarias.
 
-Entre as oficinas do bairro está a [[Oficina Sete Batidas]], estabelecimento mecânico de [[Elias Baptiste|Elias “Sete” Baptiste]] e local de treinamento para lutadores.
+Entre as oficinas do bairro está a [[Oficina Sete Batidas]], estabelecimento mecânico de [[Elias Baptiste]] e local de treinamento para lutadores.
 
 ## [[Brumaferro-Oculto|Verdades ocultas]]

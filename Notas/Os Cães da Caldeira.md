@@ -20,7 +20,7 @@ Seu lema resume essa visão:
 
 ## Regras
 
-[[Silas Rook|Silas “Rei da Caldeira” Rook]] estabeleceu regras que distinguem os Cães de grupos puramente predatórios:
+[[Silas Rook]] estabeleceu regras que distinguem os Cães de grupos puramente predatórios:
 
 - Nenhuma criança pode ser usada para transportar [[Éter]] ou explosivos.
 - Casas de moradores não podem ser incendiadas por dívida.
@@ -34,9 +34,9 @@ As regras não tornam a gangue justa. Apenas tornam sua violência previsível, 
 
 Silas controla acordos, territórios e relações políticas. Abaixo dele existem cobradores, transportadores, vigias e especialistas mantidos mais por lealdade pessoal do que por hierarquia formal.
 
-[[Abel Morel|Abel “Trinco” Morel]] coordena cobranças e interrogatórios. [[Bruna Costa|Bruna “Ferrugem” Costa]] cuida de armas improvisadas, explosivos e acesso a peças. [[Jonas Dantas|Jonas “Pavio” Dantas]] supervisiona mensageiros e integrantes mais jovens.
+[[Abel Morel|Trinco]] coordena cobranças e interrogatórios. [[Bruna Costa|Ferrugem]] cuida de armas improvisadas, explosivos e acesso a peças. [[Jonas Dantas|Pavio]] supervisiona mensageiros e integrantes mais jovens.
 
-[[Malik|Malik “Mão Pesada” Booker]] foi durante anos o lutador mais reconhecido da gangue. Sua saída dividiu opiniões e continua sendo uma ferida aberta entre os Cães.
+[[Malik|Mão Pesada]] foi durante anos o lutador mais reconhecido da gangue. Sua saída dividiu opiniões e continua sendo uma ferida aberta entre os Cães.
 
 ## A Casa da Pressão
 

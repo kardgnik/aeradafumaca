@@ -24,7 +24,7 @@ Quando a violência é necessária, Silas raramente participa. Para ele, um líd
 
 ## Malik
 
-Silas encontrou [[Malik|Malik “Mão Pesada” Booker]] ainda adolescente e enxergou nele coragem, raiva e orgulho. Ensinou-lhe regras de rua, deu-lhe trabalho e, durante anos, ocupou uma posição quase paterna.
+Silas encontrou [[Malik]] ainda adolescente e enxergou nele coragem, raiva e orgulho. Ensinou-lhe regras de rua, deu-lhe trabalho e, durante anos, ocupou uma posição quase paterna.
 
 Foi Silas quem criou o apelido Mão Pesada. Ele ainda considera Malik uma de suas melhores descobertas e uma de suas maiores falhas.
 
