@@ -16,6 +16,6 @@ tags: [cenário, industrial, magia, fumaça, lore]
 O Chamado Plano Material. Lar dos Mortais, dominado por Cinco continentes e mares selvagens, são eles: 
 
 - [Vhalaris, o coração industrial](Vhalaris.md)
-- [Continente da Caldeira](Caldeiras)
+- [Continente da Caldeira](Caldeiras.md)
 
 [[Deuses]]
