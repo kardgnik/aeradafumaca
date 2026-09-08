@@ -34,6 +34,16 @@ A manutenção desse sistema depende de milhares de profissionais. Entre eles es
 
 Não existe uma única cultura vhalariana. Cada região preserva costumes, sotaques, crenças e relações próprias com a industrialização. Nas grandes cidades, o tempo é medido por turnos, sirenes e horários ferroviários. Em comunidades rurais e pantaneiras, estações, cheias, colheitas e tradições locais ainda governam a vida cotidiana.
 
+### Regiões, vilas e marcos do interior
+
+Os [Campos de Valebrando](Campos-de-Valebrando.md) formam uma das principais regiões agrícolas do continente. Suas colheitas abastecem centros industriais, enquanto a vila de [Ponte-Cinza](Ponte-Cinza.md) conecta fazendas, navegação fluvial e ferrovias.
+
+Nos [Baixios de Mouralume](Baixios-de-Mouralume.md), as cheias redesenham caminhos e obrigam comunidades inteiras a viver sobre plataformas e embarcações. [Juncoalto](Juncoalto.md), a maior vila palafítica da região, tornou-se referência em navegação, plantas medicinais e construção adaptada às águas.
+
+As [Sete Comportas](Sete-Comportas.md) regulam parte do encontro entre os rios das planícies e os pântanos. A obra protege lavouras e rotas comerciais, mas também permite que decisões tomadas longe dos baixios determinem quais comunidades serão inundadas.
+
+A [Mata de Carvalume](Mata-de-Carvalume.md) preserva uma cultura de manejo florestal anterior à industrialização. Sua madeira, resina e conhecimento medicinal atraem companhias interessadas em explorar rapidamente recursos mantidos por gerações.
+
 Companhias industriais e ferroviárias exercem influência comparável à de muitas autoridades públicas. Engenheiros, refinadores e estudiosos do Éter formam uma nova elite técnica. Ao mesmo tempo, operários, mineiros, condutores, estivadores e mecânicos sustentam o funcionamento do continente, quase sempre assumindo os maiores riscos e recebendo a menor parte de sua prosperidade.
 
 A religião permanece presente em todas as camadas sociais. Templos antigos dividem ruas com oficinas, hospitais, estações e santuários improvisados. Os [[Deuses]] não desapareceram diante das máquinas, mas a maneira como seus fiéis compreendem trabalho, progresso, dever e esperança está mudando.
