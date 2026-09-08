@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Juncoalto.md",
+                "file": "NOTAS/Conselho das Casas de Maré.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Juncoalto"
+              "title": "Conselho das Casas de Maré"
             }
           }
         ]
@@ -197,10 +197,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "8e86c8089e6004e6",
+  "active": "693f25683829544a",
   "lastOpenFiles": [
-    "Primeira.md",
     "NOTAS/Juncoalto.md",
+    "Primeira.md",
     "NOTAS/Conselho das Casas de Maré.md",
     "Conselho.md",
     "NOTAS/Baixios-de-Mouralume.md",
