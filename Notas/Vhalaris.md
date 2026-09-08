@@ -44,4 +44,4 @@ A explicação aceita afirma que o Éter é um recurso natural encontrado nas pr
 
 Também se reconhece publicamente que a exposição prolongada pode provocar doenças, alterações físicas, perturbações mentais e fenômenos mágicos. Acidentes graves costumam ser atribuídos a impurezas, falhas técnicas ou manuseio inadequado. Informações sobre métodos de extração, reservas e comportamento do Éter são tratadas como segredos industriais ou assuntos de segurança continental.
 
-## [Verdades ocultas](<Verdades Ocultas de Vhalaris.md>)
+## [Verdades ocultas](Vhalaris-Oculto.md)
