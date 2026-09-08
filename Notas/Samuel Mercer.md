@@ -8,7 +8,7 @@ O apelido Fio nasceu de sua capacidade de compreender tubulações, cabos, regul
 
 ## Amizade com Malik
 
-Samuel conheceu Malik por volta dos doze anos. Ao vê-lo perseguido por dois garotos mais velhos, tentou ajudar apesar de ser menor e não saber lutar. Quando Malik avisou que seriam três contra dois, Samuel respondeu que ao menos sabia contar.
+Samuel conheceu Malik por volta dos doze anos. Ao vê-lo perseguido por  garotos mais velhos, tentou ajudar apesar de ser menor e não saber lutar. Quando Malik avisou que seriam três contra dois, Samuel respondeu que ao menos sabia contar.
 
 A amizade cresceu a partir dessa diferença. Samuel possuía curiosidade, paciência e educação. Malik possuía instinto, força e conhecimento das ruas.
 
