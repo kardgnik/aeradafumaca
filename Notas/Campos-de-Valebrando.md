@@ -12,7 +12,7 @@ Ferrovias secundárias atravessam os campos e convergem em silos, moinhos e arma
 
 Os habitantes organizam o ano pelo solo, pelos ventos e pelas chuvas. O calendário oficial importa menos do que a primeira geada, o retorno de determinadas aves e o momento em que as sementes deixam de apodrecer na terra.
 
-Ao final da colheita ocorre a Festa do Último Feixe. A última porção de cereal não é debulhada. Ela é trançada, levada até a praça ou o celeiro comunitário e preservada até o plantio seguinte como símbolo de continuidade.
+Ao final da colheita ocorre a [Festa do Último Feixe](Festa-do-Ultimo-Feixe.md). A última porção de cereal não é debulhada. Ela é trançada, levada até a praça ou o celeiro comunitário e preservada até o plantio seguinte como símbolo de continuidade.
 
 As famílias costumam manter registros de safras, nascimentos, casamentos e enchentes nas mesmas tábuas de madeira. Para um valebrandino, conhecer a história de uma propriedade significa saber quem trabalhou nela e quantas vezes aquela terra conseguiu se recuperar.
 

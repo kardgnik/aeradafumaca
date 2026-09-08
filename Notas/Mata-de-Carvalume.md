@@ -14,7 +14,7 @@ Os habitantes de Carvalume não tratam a floresta como território intocado. Ela
 
 Mapas são transmitidos como sequências de marcos naturais, sons e histórias. Uma rota pode ser descrita pelo tronco atingido por raio, pela clareira onde determinada ave retorna ou pelo riacho que só aparece depois da segunda chuva.
 
-Na Vigília das Candeias, pequenas porções de resina são acesas ao longo das trilhas que conduzem às comunidades. A celebração marca o retorno das chuvas e homenageia aqueles que mantiveram os caminhos seguros.
+Na [Vigília das Candeias](Vigilia-das-Candeias.md), pequenas porções de resina são acesas ao longo das trilhas que conduzem às comunidades. A celebração marca o retorno das chuvas e homenageia aqueles que mantiveram os caminhos seguros.
 
 ## Pressão industrial
 
