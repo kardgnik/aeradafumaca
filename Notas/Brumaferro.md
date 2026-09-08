@@ -1,0 +1,23 @@
+# Brumaferro
+
+#Lugares
+
+Brumaferro é a maior metrópole industrial de [[Vhalaris]] e o principal símbolo da Era da Fumaça. A cidade foi construída ao redor da maior refinaria de [[Éter]] do continente e cresceu em camadas, acompanhando pontes, fábricas, linhas ferroviárias e instalações que jamais foram planejadas para sustentar uma população tão numerosa.
+
+A chuva é constante. Chaminés cobrem o céu de fuligem, bondes atravessam avenidas de tijolos escuros e dirigíveis circulam entre torres industriais. Durante a noite, a luminosidade azul-esverdeada das refinarias atravessa a névoa e transforma o horizonte em um brilho artificial permanente.
+
+Os bairros nobres ocupam as regiões elevadas, distantes da fumaça mais densa e das áreas sujeitas a alagamentos. Operários, mineiros, mecânicos e estivadores vivem mais próximos das fábricas, dos trilhos e dos níveis inferiores da cidade. Sob essas regiões existem túneis, fundações e estruturas muito anteriores à fundação de Brumaferro.
+
+## Economia e infraestrutura
+
+Brumaferro concentra refinarias, oficinas, companhias ferroviárias, laboratórios, estaleiros de dirigíveis e centros de distribuição. Grande parte da infraestrutura de Vhalaris depende direta ou indiretamente da cidade.
+
+A rede de Éter é supervisionada por equipes técnicas responsáveis por manter condutos, estações e reguladores em funcionamento. Entre seus supervisores está [[Elian Mercer]], ligado ao desaparecimento de uma equipe enviada a uma estação desativada.
+
+## Verdades ocultas
+
+Brumaferro não foi erguida por acaso sobre a maior concentração conhecida de Éter. A cidade ocupa uma parte importante da antiga infraestrutura criada para extrair energia do Sol.
+
+Alguns condutos encontrados sob seus níveis inferiores permanecem ativos mesmo sem conexão com a rede moderna. Eles não recebem energia da cidade. Em determinadas circunstâncias, retiram energia dela.
+
+A expansão industrial está conectando sistemas contemporâneos a mecanismos que seus engenheiros não compreendem. Quanto mais Brumaferro cresce, mais profundamente se integra a uma estrutura cuja escala ultrapassa a própria cidade.
