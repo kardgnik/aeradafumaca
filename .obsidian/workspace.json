@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Éter.md",
+                "file": "NOTAS/Estações de Transposição.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Éter"
+              "title": "Estações de Transposição"
             }
           }
         ]
@@ -199,8 +199,9 @@
   },
   "active": "693f25683829544a",
   "lastOpenFiles": [
-    "NOTAS/Estações de Transposição.md",
     "NOTAS/Éter.md",
+    "NOTAS/Eter-Oculto.md",
+    "NOTAS/Estações de Transposição.md",
     "NOTAS/Brumaferro.md",
     "NOTAS/Vhalaris.md",
     "A Era da Fumaça.md",
@@ -209,7 +210,6 @@
     "NOTAS/No-7B.md",
     "NOTAS/Mata-de-Carvalume.md",
     "NOTAS/Juncoalto.md",
-    "NOTAS/Eter-Oculto.md",
     "NOTAS/Estacoes-de-Transposicao-Oculto.md",
     "NOTAS/Elian-Mercer-Oculto.md",
     "NOTAS/Campos-de-Valebrando.md",
