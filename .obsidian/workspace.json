@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Era da Fumaça.md",
+                "file": "NOTAS/Vhalaris.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A Era da Fumaça"
+              "title": "Vhalaris"
             }
           }
         ]
@@ -199,11 +199,12 @@
   },
   "active": "693f25683829544a",
   "lastOpenFiles": [
+    "A Era da Fumaça.md",
+    "IMAGENS/icone-verdades-ocultas.png",
     "NOTAS/Brumaferro.md",
     "NOTAS/Brumaferro-Oculto.md",
     "NOTAS/Vhalaris.md",
     "NOTAS/Vhalaris-Oculto.md",
-    "A Era da Fumaça.md",
     "NOTAS/Verdades Ocultas de Vhalaris.md",
     "NOTAS/Verdades Ocultas de Brumaferro.md",
     "NOTAS/Elian Mercer.md",
@@ -233,8 +234,6 @@
     "IMAGENS/Dravosk, o Senhor do Turno Sem Fim.jpg",
     "NOTAS/Quor-Aven.md",
     "IMAGENS/Quor-Aven, a Porta que Sonha.jpg",
-    "NOTAS/Sael-Kor.md",
-    "IMAGENS/Salmora, Rainha do Horizonte Cinzento.jpg",
     "PJ",
     "IMAGENS",
     "NOTAS"
