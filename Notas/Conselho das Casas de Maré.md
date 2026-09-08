@@ -2,9 +2,9 @@
 
 #Organizações #Política
 
-[Voltar para Juncoalto](Juncoalto.md)
+[Voltar para Juncoalto](Juncoalto)
 
-O Conselho das Casas de Maré governa [Juncoalto](Juncoalto.md) e representa suas famílias, navegadores, oficinas e curandeiros. Apesar do nome, as Casas de Maré não formam uma nobreza hereditária. Em Juncoalto, uma casa é qualquer comunidade capaz de manter pessoas, embarcações e ofícios unidos através das cheias. Algumas nasceram de grandes famílias, outras de oficinas compartilhadas, tripulações de resgate ou grupos de vizinhos que passaram a dividir a mesma plataforma.
+O Conselho das Casas de Maré governa [[Juncoalto]] e representa suas famílias, navegadores, oficinas e curandeiros. Apesar do nome, as Casas de Maré não formam uma nobreza hereditária. Em Juncoalto, uma casa é qualquer comunidade capaz de manter pessoas, embarcações e ofícios unidos através das cheias. Algumas nasceram de grandes famílias, outras de oficinas compartilhadas, tripulações de resgate ou grupos de vizinhos que passaram a dividir a mesma plataforma.
 
 Uma nova Casa somente pode ser reconhecida depois de atravessar um ciclo completo de cheia e estiagem sem abandonar aqueles que dependem dela. Também deve manter ao menos uma embarcação de socorro, reservar mantimentos para emergências e aceitar a obrigação de acolher moradores desalojados.
 
@@ -35,12 +35,12 @@ Os conselheiros não recebem grandes salários nem residências próprias. O car
 
 Promessas feitas durante uma crise são registradas no Livro das Águas Devidas. Reparos, mantimentos, resgates e compensações permanecem anotados até que a comunidade considere a obrigação cumprida. Tentar remover um nome do livro por influência ou pagamento é uma das maneiras mais rápidas de destruir uma reputação em Juncoalto.
 
-Os concluintes da [Primeira Água](Primeira Água.md) frequentemente servem ao Conselho como mensageiros, pilotos e observadores. Muitos dos futuros representantes do Leme começam dessa forma.
+Os concluintes da [[Primeira Água]] frequentemente servem ao Conselho como mensageiros, pilotos e observadores. Muitos dos futuros representantes do Leme começam dessa forma.
 
 ## Relações externas
 
-O Conselho envia negociadores à [Feira das Quatro Chuvas](Feira-das-Quatro-Chuvas.md), mantém observadores em [Sete Comportas](Sete-Comportas.md) e troca informações com outras comunidades dos [Baixios de Mouralume](Baixios-de-Mouralume.md).
+O Conselho envia negociadores à [Feira das Quatro Chuvas](Feira-das-Quatro-Chuvas), mantém observadores em [Sete Comportas](Sete-Comportas) e troca informações com outras comunidades dos [Baixios de Mouralume](Baixios-de-Mouralume).
 
-Sua relação mais difícil é com [Brumaferro](Brumaferro.md). Projetos industriais prometem canais mais seguros, motores mais rápidos e proteção contra as cheias, mas costumam ser planejados por pessoas que nunca precisaram ler a água para voltar para casa. Dentro do próprio Conselho existe uma divisão crescente entre aqueles que desejam adotar máquinas movidas a [Éter](Éter.md) e aqueles que temem tornar Juncoalto dependente das mesmas companhias capazes de alterar o curso dos rios.
+Sua relação mais difícil é com [[Brumaferro]]. Projetos industriais prometem canais mais seguros, motores mais rápidos e proteção contra as cheias, mas costumam ser planejados por pessoas que nunca precisaram ler a água para voltar para casa. Dentro do próprio Conselho existe uma divisão crescente entre aqueles que desejam adotar máquinas movidas a [[Éter]] e aqueles que temem tornar Juncoalto dependente das mesmas companhias capazes de alterar o curso dos rios.
 
 Mesmo dividido, o Conselho sustenta um princípio que nenhuma Casa contesta publicamente: nenhuma decisão é legítima se salvar uma plataforma condenando outra em silêncio.
