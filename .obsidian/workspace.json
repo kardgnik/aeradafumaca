@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Telúrica",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -197,7 +197,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "693f25683829544a",
+  "active": "8e86c8089e6004e6",
   "lastOpenFiles": [
     "NOTAS/Vhalaris.md",
     "A Era da Fumaça.md",
