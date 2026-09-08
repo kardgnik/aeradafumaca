@@ -14,10 +14,4 @@ Brumaferro concentra refinarias, oficinas, companhias ferroviárias, laboratóri
 
 A rede de Éter é supervisionada por equipes técnicas responsáveis pelas tubulações e pelos cabos que distribuem energia, além das estações e dos reguladores que controlam seu fluxo. Entre seus supervisores está [[Elian Mercer]], ligado ao desaparecimento de uma equipe enviada a uma estação desativada.
 
-## Verdades ocultas
-
-Brumaferro não foi erguida por acaso sobre a maior concentração conhecida de Éter. A cidade ocupa uma parte importante da antiga infraestrutura criada para extrair energia do Sol.
-
-Alguns condutos encontrados sob seus níveis inferiores permanecem ativos mesmo sem conexão com a rede moderna. Eles não recebem energia da cidade. Em determinadas circunstâncias, retiram energia dela.
-
-A expansão industrial está conectando sistemas contemporâneos a mecanismos que seus engenheiros não compreendem. Quanto mais Brumaferro cresce, mais profundamente se integra a uma estrutura cuja escala ultrapassa a própria cidade.
+## [Verdades ocultas](<Verdades Ocultas de Brumaferro.md>)
