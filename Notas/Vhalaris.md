@@ -34,7 +34,7 @@ A manutenção desse sistema depende de milhares de profissionais. Entre eles es
 
 Não existe uma única cultura vhalariana. Cada região preserva costumes, sotaques, crenças e relações próprias com a industrialização. Nas grandes cidades, o tempo é medido por turnos, sirenes e horários ferroviários. Em comunidades rurais e pantaneiras, estações, cheias, colheitas e tradições locais ainda governam a vida cotidiana.
 
-### Regiões, vilas e marcos do interior
+## Regiões, vilas e marcos do interior
 
 Os [[Campos-de-Valebrando|Campos de Valebrando]] formam uma das principais regiões agrícolas do continente. Suas colheitas abastecem centros industriais, enquanto a vila de [[Ponte-Cinza]] conecta fazendas, navegação fluvial e ferrovias.
 
