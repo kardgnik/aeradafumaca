@@ -2,7 +2,7 @@
 
 #Spoiler
 
-[Voltar para Brumaferro](Brumaferro.md)
+[[Brumaferro|Voltar para Brumaferro]]
 
 Brumaferro não foi erguida por acaso sobre a maior concentração conhecida de Éter. A cidade ocupa uma parte importante da antiga infraestrutura criada para extrair energia do Sol.
 

@@ -3,7 +3,7 @@
 #Eventos
 #Tradições
 
-A Vigília das Candeias é celebrada na [Mata de Carvalume](Mata-de-Carvalume.md) durante a primeira noite de chuva contínua depois do período mais seco. A cerimônia marca a reabertura de trilhas, o início de novos ciclos de coleta e a lembrança das pessoas que mantiveram os caminhos seguros.
+A Vigília das Candeias é celebrada na [[Mata-de-Carvalume|Mata de Carvalume]] durante a primeira noite de chuva contínua depois do período mais seco. A cerimônia marca a reabertura de trilhas, o início de novos ciclos de coleta e a lembrança das pessoas que mantiveram os caminhos seguros.
 
 As candeias utilizam pequenas porções da resina de Carvalume. Sua chama é baixa, clara e resistente à chuva, podendo permanecer acesa durante toda a caminhada sem consumir grande quantidade de material.
 

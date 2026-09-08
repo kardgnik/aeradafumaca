@@ -3,7 +3,7 @@
 #Eventos
 #Tradições
 
-A Festa do Último Feixe encerra o período principal de colheita nos [Campos de Valebrando](Campos-de-Valebrando.md). Não possui uma data fixa. Cada comunidade anuncia a celebração quando a última grande lavoura compartilhada está pronta para ser recolhida e os celeiros já podem sustentar a região durante os meses seguintes.
+A Festa do Último Feixe encerra o período principal de colheita nos [[Campos-de-Valebrando|Campos de Valebrando]]. Não possui uma data fixa. Cada comunidade anuncia a celebração quando a última grande lavoura compartilhada está pronta para ser recolhida e os celeiros já podem sustentar a região durante os meses seguintes.
 
 A festa representa sobrevivência, continuidade e reconhecimento pelo trabalho coletivo. Sua importância é maior em anos difíceis, quando preservar um único feixe significa afirmar que a terra ainda produzirá novamente.
 

@@ -2,7 +2,7 @@
 
 #Tradições #Navegação
 
-[Voltar para Juncoalto](Juncoalto)
+[[Juncoalto|Voltar para Juncoalto]]
 
 A Primeira Água é o rito pelo qual os jovens de [[Juncoalto]] demonstram que são capazes de navegar sem depender da orientação constante dos mais velhos. Ela não acontece em uma idade fixa. Cada jovem é apresentado quando sua Casa considera que já consegue ler correntes, cuidar de uma embarcação e reconhecer os próprios limites.
 
@@ -10,7 +10,7 @@ Concluir a Primeira Água não significa apenas alcançar a vida adulta. É rece
 
 ## A travessia
 
-Cada participante recebe uma embarcação pequena, provisões simples, ferramentas de reparo e uma rota preparada pelos navegadores mais experientes. O percurso muda todos os anos porque os canais dos [Baixios de Mouralume](Baixios-de-Mouralume) também mudam. Decorar um mapa antigo vale muito menos do que compreender a água que existe naquele dia.
+Cada participante recebe uma embarcação pequena, provisões simples, ferramentas de reparo e uma rota preparada pelos navegadores mais experientes. O percurso muda todos os anos porque os canais dos [[Baixios-de-Mouralume|Baixios de Mouralume]] também mudam. Decorar um mapa antigo vale muito menos do que compreender a água que existe naquele dia.
 
 A travessia costuma começar antes do amanhecer e pode avançar pela noite. O jovem deve seguir marcos naturais, atravessar trechos de correnteza, encontrar passagens entre os juncais e retornar mesmo que chuva, vento ou neblina escondam parte do caminho.
 
@@ -24,7 +24,7 @@ Navegadores escolhidos pelo [[Conselho das Casas de Maré]] acompanham a prova �
 
 Quem retorna após demonstrar domínio, prudência e responsabilidade recebe a Marca da Primeira Água: um cordão azul-esverdeado preso a um pequeno aro de cobre. O aro costuma ser usado no pulso, junto ao leme ou amarrado à embarcação.
 
-A marca é reconhecida muito além de Juncoalto. Capitães fluviais, mercadores, expedições, comunidades ribeirinhas e até companhias industriais procuram seus portadores para trabalhar como pilotos, cartógrafos, mestres de embarcação e líderes de resgate. Em [Sete Comportas](Sete-Comportas), uma Marca da Primeira Água frequentemente inspira mais confiança do que certificados emitidos por escolas distantes dos rios.
+A marca é reconhecida muito além de Juncoalto. Capitães fluviais, mercadores, expedições, comunidades ribeirinhas e até companhias industriais procuram seus portadores para trabalhar como pilotos, cartógrafos, mestres de embarcação e líderes de resgate. Em [[Sete-Comportas|Sete Comportas]], uma Marca da Primeira Água frequentemente inspira mais confiança do que certificados emitidos por escolas distantes dos rios.
 
 Muitos dos maiores marinheiros de Vhalaris começaram em uma embarcação pequena, sozinhos entre os canais de Mouralume. Seus nomes circulam em portos e feiras, e algumas tripulações anunciam com orgulho possuir um navegante formado em Juncoalto.
 

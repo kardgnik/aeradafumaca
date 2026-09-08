@@ -46,4 +46,4 @@ Células desviadas alimentam um mercado clandestino utilizado por oficinas sem l
 
 O acesso ao Éter criou uma nova elite formada por proprietários industriais, engenheiros, refinadores e administradores da rede. Também criou uma classe de trabalhadores cuja saúde e sobrevivência dependem de informações que as próprias companhias controlam.
 
-## [Verdades ocultas](Eter-Oculto.md)
+## [[Eter-Oculto|Verdades ocultas]]

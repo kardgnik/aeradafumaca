@@ -2,7 +2,7 @@
 
 #Organizações #Política
 
-[Voltar para Juncoalto](Juncoalto)
+[[Juncoalto|Voltar para Juncoalto]]
 
 O Conselho das Casas de Maré governa [[Juncoalto]] e representa suas famílias, navegadores, oficinas e curandeiros. Apesar do nome, as Casas de Maré não formam uma nobreza hereditária. Em Juncoalto, uma casa é qualquer comunidade capaz de manter pessoas, embarcações e ofícios unidos através das cheias. Algumas nasceram de grandes famílias, outras de oficinas compartilhadas, tripulações de resgate ou grupos de vizinhos que passaram a dividir a mesma plataforma.
 
@@ -39,7 +39,7 @@ Os concluintes da [[Primeira Água]] frequentemente servem ao Conselho como mens
 
 ## Relações externas
 
-O Conselho envia negociadores à [Feira das Quatro Chuvas](Feira-das-Quatro-Chuvas), mantém observadores em [Sete Comportas](Sete-Comportas) e troca informações com outras comunidades dos [Baixios de Mouralume](Baixios-de-Mouralume).
+O Conselho envia negociadores à [[Feira-das-Quatro-Chuvas|Feira das Quatro Chuvas]], mantém observadores em [[Sete-Comportas|Sete Comportas]] e troca informações com outras comunidades dos [[Baixios-de-Mouralume|Baixios de Mouralume]].
 
 Sua relação mais difícil é com [[Brumaferro]]. Projetos industriais prometem canais mais seguros, motores mais rápidos e proteção contra as cheias, mas costumam ser planejados por pessoas que nunca precisaram ler a água para voltar para casa. Dentro do próprio Conselho existe uma divisão crescente entre aqueles que desejam adotar máquinas movidas a [[Éter]] e aqueles que temem tornar Juncoalto dependente das mesmas companhias capazes de alterar o curso dos rios.
 

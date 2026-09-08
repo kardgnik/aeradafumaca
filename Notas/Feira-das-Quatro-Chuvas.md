@@ -3,7 +3,7 @@
 #Eventos
 #Tradições
 
-A Feira das Quatro Chuvas acontece em [Ponte-Cinza](Ponte-Cinza.md) quatro vezes por ano. Cada edição acompanha uma mudança reconhecida pelos agricultores da região, não uma data estabelecida pelo calendário oficial.
+A Feira das Quatro Chuvas acontece em [[Ponte-Cinza]] quatro vezes por ano. Cada edição acompanha uma mudança reconhecida pelos agricultores da região, não uma data estabelecida pelo calendário oficial.
 
 Os moradores afirmam que o ano rural não possui quatro estações, mas quatro chuvas. Cada uma altera a terra, o trabalho e aquilo que precisa ser negociado. A feira tornou-se o principal ponto de encontro entre fazendeiros, barqueiros, artesãos, comerciantes, trabalhadores sazonais e representantes das companhias.
 
@@ -17,7 +17,7 @@ Famílias comparam grãos preservados durante anos e trocam variedades capazes d
 
 A segunda ocorre quando rios e canais alcançam seus níveis mais elevados. Barcos substituem parte das carroças e o comércio concentra-se em madeira, tecidos impermeáveis, remédios, alimentos conservados e reparos.
 
-Barqueiros dos [Baixios de Mouralume](Baixios-de-Mouralume.md) tornam-se figuras centrais. Contratos de transporte e resgate são negociados antes que determinadas estradas desapareçam sob a água.
+Barqueiros dos [[Baixios-de-Mouralume|Baixios de Mouralume]] tornam-se figuras centrais. Contratos de transporte e resgate são negociados antes que determinadas estradas desapareçam sob a água.
 
 ## Chuva da Foice
 

@@ -2,7 +2,7 @@
 
 #Spoiler
 
-Elian Mercer supervisionava o setor que inclui o [Nó de Distribuição 7B](No-7B.md), uma instalação antiga incorporada à rede moderna de Brumaferro.
+Elian Mercer supervisionava o setor que inclui o [[No-7B|Nó de Distribuição 7B]], uma instalação antiga incorporada à rede moderna de Brumaferro.
 
 A equipe enviada à estação desativada encontrou um terceiro nível lacrado, mecanismos anteriores à cidade e linhas que continham Éter apesar de não receberem energia da rede oficial.
 

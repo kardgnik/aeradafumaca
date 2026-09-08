@@ -39,4 +39,4 @@ Elas também concentram poder. Uma cidade cuja estação é suspensa pode perder
 
 Em [[Brumaferro]], a rede é acompanhada por supervisores como [[Elian Mercer]]. Estações desativadas permanecem lacradas e continuam sujeitas a inspeções, mesmo quando oficialmente desconectadas.
 
-## [Verdades ocultas](Estacoes-de-Transposicao-Oculto.md)
+## [[Estacoes-de-Transposicao-Oculto|Verdades ocultas]]
