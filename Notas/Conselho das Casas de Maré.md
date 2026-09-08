@@ -25,7 +25,7 @@ Riqueza pode comprar barcos, ferramentas e influência, mas não garante um asse
 
 O Conselho se reúne na Mesa das Estacas, uma plataforma circular erguida na parte central da vila. Seu piso foi construído com tábuas retiradas de casas destruídas por diferentes cheias. Nenhuma delas combina perfeitamente com as demais, algo que os moradores consideram apropriado.
 
-Questões cotidianas são decididas por maioria. Alterações nas rotas de navegação, deslocamentos de plataformas e medidas que possam colocar uma parte da vila em risco exigem a aprovação de pelo menos um representante de cada grupo de assentos. Durante emergências, qualquer conselheiro pode ordenar evacuações imediatas, mas deve explicar publicamente sua decisão depois que as águas baixarem.
+Questões cotidianas são decididas por maioria. Alterações nas rotas de navegação, deslocamentos de plataformas e medidas que possam colocar uma parte da vila em risco exigem a aprovação de pelo menos um representante de cada grupo de assentos. Durante emergências, qualquer conselheiro pode ordenar evacuações imediatas.
 
 Todo morador possui o Direito do Sino. Diante de incêndio, inundação repentina, embarcação desaparecida ou perigo imediato, qualquer pessoa pode tocar três vezes o grande sino da plataforma central e obrigar o Conselho a interromper seus trabalhos.
 
