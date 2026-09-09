@@ -6,7 +6,7 @@
 
 ## A chama que não reconhece o Éter
 
-As chamas consagradas a Ambrienne reagem de maneira anormal perto da antiga infraestrutura de [[Éter]]. Elas diminuem, inclinam-se para baixo e deixam de produzir calor, mesmo quando continuam visíveis. Guardiões da Janela observam o fenômeno há décadas, mas os registros foram tratados como superstição de sacerdotes pouco familiarizados com tecnologia moderna.
+As chamas consagradas a Ambrienne reagem de maneira anormal perto da antiga infraestrutura de [[Éter]]. Elas diminuem e deixam de produzir calor, mesmo quando continuam visíveis. Guardiões da Janela observam o fenômeno há décadas, mas os registros foram tratados como superstição de sacerdotes pouco familiarizados com tecnologia moderna.
 
 O motivo é mais profundo. Ambrienne reconhece o fogo comum como parte dos ciclos deste mundo: algo é consumido, calor é oferecido e a chama termina. O Éter rompe esse sentido de troca. Sua luz é energia arrancada do Sol, transportada por uma rede que não oferece retorno ao lugar de origem.
 

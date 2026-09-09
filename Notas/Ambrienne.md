@@ -28,13 +28,11 @@ Também existe responsabilidade por parte de quem é acolhido. Profanar delibera
 
 O culto não possui uma autoridade única em Vhalaris. Seus sacerdotes são conhecidos como Guardiões da Janela e costumam administrar enfermarias, cozinhas, abrigos e casas de repouso. Muitos jamais dirigem uma cerimônia grandiosa. Sua autoridade é reconhecida pela quantidade de pessoas que sabem acolher e pela confiança de que não abandonarão um enfermo quando os recursos se tornarem escassos.
 
-Pequenos santuários de Ambrienne são comuns em estações ferroviárias, portos e bairros operários. Normalmente consistem em uma janela ou nicho voltado para a rua, com uma chama continua protegida por vidro. Famílias que aguardam alguém deixam ali fitas, chaves, bilhetes ou uma porção da refeição.
-
-Se uma pessoa desaparece, a chama pode permanecer acesa durante anos. Apagá-la cabe à família ou à comunidade que a manteve, nunca a uma companhia, proprietário ou autoridade.
+Pequenos santuários de Ambrienne são comuns em estações ferroviárias, portos e bairros operários. Normalmente consistem em uma janela ou nicho voltado para a rua, com uma chama contínua protegida por vidro. Famílias que aguardam alguém deixam ali fitas, chaves, bilhetes ou uma porção da refeição.
 
 ## Templos, símbolos e práticas
 
-Os templos de Ambrienne são chamados de Casas da Janela. Todos devem possuir uma entrada reconhecível, uma cozinha em funcionamento e um lugar onde alguém possa dormir sem pagar. Templos que acumulam luxo enquanto recusam necessitados são publicamente denunciados por outros membros do culto.
+Os templos de Ambrienne são chamados de Casas da Janela. Todos devem possuir uma entrada reconhecível, uma cozinha em funcionamento e um lugar onde alguém possa dormir sem pagar. Seus templos não acumulam luxo.
 
 Seu símbolo aparece sobre portas, vagões de resgate, enfermarias e alojamentos de estrada. Uma janela pintada de branco indica acolhimento comum. Uma janela de cobre com chama vermelha anuncia que existe ali alguém treinado para tratar ferimentos. Durante epidemias ou acidentes industriais, tecidos com o símbolo são pendurados onde ainda há leitos disponíveis.
 
