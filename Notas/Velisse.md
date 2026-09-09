@@ -14,7 +14,7 @@ Velisse surgiu quando uma aparência foi aplaudida mesmo depois de todos reconhe
 
 Como divindade telúrica, muda conforme os meios pelos quais sociedades observam umas às outras. Já habitou retratos, canções cortesãs e genealogias fabricadas. Hoje aparece em fotografias, jornais, anúncios, salões e campanhas públicas.
 
-O aplauso é vazio porque não precisa corresponder a admiração real. Basta? Basta apenas que pareça numeroso, espontâneo e impossível de contestar.
+O aplauso é vazio porque não precisa corresponder a admiração real. Basta que pareça numeroso, espontâneo e impossível de contestar.
 
 ## Princípios e ensinamentos
 
