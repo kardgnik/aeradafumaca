@@ -20,7 +20,7 @@ A pedra sobre a qual o juramento foi pronunciado está escondida sob um edifíci
 
 Parte do alto sacerdócio de Cevran conhece o Juramento das Profundezas. Seus membros justificam o silêncio afirmando que revelar a verdade sem possuir uma alternativa energética provocaria colapso, fome e guerra.
 
-Outras Testemunhas descobriram fragmentos do acordo e foram afastadas, desacreditadas ou transferidas para regiões distantes. Alguns de seus nomes desapareceram dos registros do próprio templo, sinal de que a corrupção já alcançou instituições dedicadas à responsabilidade pública.
+Outras Testemunhas dos Três Círculos descobriram fragmentos do acordo e foram afastadas, desacreditadas ou transferidas para regiões distantes. Alguns de seus nomes desapareceram dos registros do próprio templo, sinal de que a corrupção já alcançou instituições dedicadas à responsabilidade pública.
 
 Cevran não retirou poderes divinos de todos os sacerdotes envolvidos. A manutenção da magia não representa absolvição. O deus parece obrigá-los a permanecer capazes de testemunhar aquilo que escolheram esconder. Muitos sonham com uma praça cheia e com a própria voz lendo documentos que jamais pretendiam revelar.
 
@@ -36,4 +36,4 @@ Cevran não exige apenas que a verdade seja descoberta. Exige que Vhalaris recon
 
 Agentes de [[Saldren]] adquiriram dívidas, contratos e propriedades suficientes para lucrar com qualquer interrupção súbita da rede. Seguidores de [[Velisse]] preparam versões concorrentes da história, cada uma destinada a proteger uma reputação diferente. Cultos de [[Thren-Kaiv]] aguardam a crise para argumentar que somente um poder absoluto poderá controlar o continente.
 
-Revelar a verdade cumprirá parte da vontade de Cevran, mas poderá fortalecer todos os seus inimigos. Por isso, suas Testemunhas mais lúcidas procuram algo mais difícil do que uma denúncia: uma forma pública de verdade que também permita reparação.
+Revelar a verdade cumprirá parte da vontade de Cevran, mas poderá fortalecer todos os seus inimigos. Por isso, suas Testemunhas dos Três Círculos mais lúcidas procuram algo mais difícil do que uma denúncia: uma forma pública de verdade que também permita reparação.
