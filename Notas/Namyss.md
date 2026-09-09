@@ -6,7 +6,7 @@
 - **Domínios:** Memória, identidade, alma, resistência
 - **Símbolo:** Um medalhão fechado, gravado por dentro com o nome de seu portador
 - **Conexões:** Aliada de [[Ambrienne]] e [[Cevran]]. Mantém cooperação tensa com [[Ormec]] e proximidade com [[Sael-Kor]]. Inimiga de [[Velisse]], [[Thren-Kaiv]] e [[Azhur-Maal]].
-- **Devotos:** Arquivistas, genealogistas, guardiões funerários, sobreviventes, testemunhas, pessoas deslocadas e aqueles que resistem a possessão, apagamento ou perda de memória
+- **Devotos:** Arquivistas, genealogistas, guardiões funerários, sobreviventes, testemunhas, pessoas deslocadas e aqueles que resistem a possessão, apagamento ou perda de memória.
 
 ## Origem e natureza
 
@@ -73,6 +73,14 @@ A presença de Namyss pode devolver uma palavra esquecida, permitir que alguém 
 Seus milagres protegem contra possessão, substituição e apagamento. Uma pessoa pode perder todas as lembranças e ainda conservar uma frase, um gesto ou um nome suficiente para reconstruir o caminho de volta a si mesma.
 
 Medalhões fechados se abrem quando seu portador corre o risco de não ser reconhecido. Em lugares profanados, nomes desaparecem de placas e documentos, mas permanecem visíveis sob luz lunar ou no reflexo da água.
+
+## Pactos dos Deuses
+
+Namyss oferece pactos a pessoas cuja identidade foi ameaçada, dividida ou apagada, assim como àquelas que assumem a responsabilidade de proteger os nomes de outros. Muitos de seus bruxos fizeram o primeiro contato durante uma possessão, depois de sobreviver a uma tentativa de alteração mental ou ao retornar de uma Estação de Transposição sem conseguir provar quem eram.
+
+O pacto é selado por um nome declarado livremente. Não precisa ser o nome de nascimento nem aquele registrado por qualquer autoridade. Namyss grava essa identidade em um objeto, cicatriz, sombra ou palavra que apenas o pactuado consegue reconhecer por inteiro. Em troca, exige que o bruxo jamais entregue o nome verdadeiro de alguém como instrumento de domínio, preserve ao menos uma pessoa ameaçada de apagamento e resista a toda força que trate almas como propriedade.
+
+Seus poderes podem manifestar-se como inscrições visíveis apenas sob determinados ângulos, selos contra possessão, vozes preservadas e uma resistência sobrenatural à alteração da própria essência. O pacto não transforma o bruxo em sacerdote. Alguns Custódios do Nome desconfiam desses agentes independentes, pois Namyss pode confiar a um único pactuado uma identidade ou segredo que recusou aos arquivos de um templo inteiro.
 
 ## Conflitos na Era da Fumaça
 
