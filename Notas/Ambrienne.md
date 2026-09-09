@@ -6,7 +6,7 @@
 - **Domínios:** Lar, hospitalidade, cura, retorno
 - **Símbolo:** Uma janela de cobre com uma pequena chama acesa no centro
 - **Conexões:** Aliada de [[Torven]], [[Lysara]] e [[Namyss]]. Oposta a [[Saldren]] e [[Dravosk]].
-- **Devotos:** Curandeiros, parteiras, cozinheiros, anfitriões, trabalhadores de hospedarias, sobreviventes, viajantes em retorno e pessoas que oferecem abrigo
+- **Devotos:** Curandeiros, parteiras, cozinheiros, anfitriões, trabalhadores de hospedarias, viajantes em retorno e pessoas que oferecem abrigo
 
 ## Origem e natureza
 
@@ -28,7 +28,7 @@ Também existe responsabilidade por parte de quem é acolhido. Profanar delibera
 
 O culto não possui uma autoridade única em Vhalaris. Seus sacerdotes são conhecidos como Guardiões da Janela e costumam administrar enfermarias, cozinhas, abrigos e casas de repouso. Muitos jamais dirigem uma cerimônia grandiosa. Sua autoridade é reconhecida pela quantidade de pessoas que sabem acolher e pela confiança de que não abandonarão um enfermo quando os recursos se tornarem escassos.
 
-Pequenos santuários de Ambrienne são comuns em estações ferroviárias, portos e bairros operários. Normalmente consistem em uma janela ou nicho voltado para a rua, com uma chama protegida por vidro. Famílias que aguardam alguém deixam ali fitas, chaves, bilhetes ou uma porção da refeição.
+Pequenos santuários de Ambrienne são comuns em estações ferroviárias, portos e bairros operários. Normalmente consistem em uma janela ou nicho voltado para a rua, com uma chama continua protegida por vidro. Famílias que aguardam alguém deixam ali fitas, chaves, bilhetes ou uma porção da refeição.
 
 Se uma pessoa desaparece, a chama pode permanecer acesa durante anos. Apagá-la cabe à família ou à comunidade que a manteve, nunca a uma companhia, proprietário ou autoridade.
 
