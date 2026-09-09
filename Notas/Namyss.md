@@ -6,7 +6,7 @@
 - **Domínios:** Memória, identidade, alma, resistência
 - **Símbolo:** Um medalhão fechado, gravado por dentro com o nome de seu portador
 - **Conexões:** Aliada de [[Ambrienne]] e [[Cevran]]. Mantém cooperação tensa com [[Ormec]] e proximidade com [[Sael-Kor]]. Inimiga de [[Velisse]], [[Thren-Kaiv]] e [[Azhur-Maal]].
-- **Devotos:** Arquivistas, genealogistas, guardiões funerários, sobreviventes, testemunhas, pessoas deslocadas e aqueles que resistem a possessão, apagamento ou perda de memória
+- **Devotos:** Arquivistas, genealogistas, guardiões funerários, sobreviventes, testemunhas, pessoas deslocadas e aqueles que resistem a possessão, apagamento ou perda de memória.
 
 ## Origem e natureza
 
