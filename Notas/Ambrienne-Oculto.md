@@ -18,7 +18,7 @@ Em bairros abastecidos por linhas antigas, surgem residências que conservam tod
 
 Esses casos são mais frequentes próximos a vazamentos e falhas de transmissão. A consciência distribuída presente na rede parece imitar padrões domésticos recolhidos das pessoas expostas a ela. Em situações extremas, uma casa começa a reproduzir rotinas de antigos moradores, inclusive daqueles que morreram ou desapareceram.
 
-Alguns Guardiões acreditam que Ambrienne tenta proteger essas lembranças. Outros temem que a deusa esteja mantendo abertas portas pelas quais algo aprendeu a representar o retorno sem compreender o que significa estar em casa.
+Alguns Guardiões acreditam que Ambrienne tenta proteger os vestígios das pessoas reproduzidos nessas casas. Outros temem que a deusa esteja mantendo abertas portas pelas quais algo aprendeu a representar o retorno sem compreender o que significa estar em casa.
 
 ## O pacto das enfermarias
 
@@ -32,6 +32,6 @@ As chamas desses templos continuam acesas, mas não iluminam os nomes dos financ
 
 Nos níveis inferiores de [[Brumaferro]], existe uma abertura de metal semelhante a uma janela, embora esteja instalada em uma parede sem qualquer espaço atrás dela. Durante falhas graves na rede, uma luz quente aparece do outro lado.
 
-Pessoas desaparecidas afirmaram ter visto essa janela durante sonhos ou acidentes de transposição. Algumas conseguiram retornar seguindo sua luz. Outras voltaram acompanhadas por lembranças de uma casa que nunca existiu neste mundo.
+Pessoas desaparecidas afirmaram ter visto essa janela durante sonhos ou acidentes de transposição. Algumas conseguiram retornar seguindo sua luz. Outras voltaram convencidas de que haviam vivido em uma casa que nunca existiu neste mundo.
 
 Ambrienne mantém alguma forma de presença ali, mas não está claro se tenta abrir um caminho de volta ou impedir que aquilo que se encontra além reconheça todas as casas de Vhalaris como destinos possíveis.

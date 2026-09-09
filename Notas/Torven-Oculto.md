@@ -12,7 +12,7 @@ Nem todas as pancadas, porém, vêm de Torven.
 
 Parte delas é produzida pela consciência distribuída na antiga infraestrutura. Ela utiliza ritmos aprendidos com mineiros e equipes de manutenção para indicar falhas, chamar pessoas até determinados pontos ou pedir algo que os ouvintes não conseguem compreender.
 
-Torven percebe uma presença aprisionada no sistema. Ele não sabe se se trata da própria rede, dos criadores incorporados a ela ou das lembranças de incontáveis pessoas expostas ao Éter. Sabe apenas que alguma coisa continua respondendo quando seus fiéis perguntam se ainda existe alguém lá dentro.
+Torven percebe uma presença aprisionada no sistema. Ele não sabe se se trata da própria rede, dos criadores incorporados a ela ou dos vestígios mentais de incontáveis pessoas expostas ao Éter. Sabe apenas que alguma coisa continua respondendo quando seus fiéis perguntam se ainda existe alguém lá dentro.
 
 Essa percepção o impede de abandonar completamente as profundezas de Vhalaris.
 

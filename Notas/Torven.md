@@ -72,7 +72,7 @@ A presença de Torven pode ser anunciada por três pancadas ouvidas através de 
 
 Seus milagres raramente protegem bens. Uma fábrica pode ruir enquanto todos os trabalhadores escapam. Para o culto, isso não representa fracasso, mas uma declaração clara sobre o que a divindade escolheu salvar.
 
-Se Torven foi ofendido, ferramentas parecem pesadas demais, sinais de alerta deixam de encontrar resposta e listas de turno apresentam nomes que ninguém consegue lembrar de ter escrito.
+Se Torven foi ofendido, ferramentas parecem pesadas demais, sinais de alerta deixam de encontrar resposta e listas de turno apresentam nomes que não pertencem a qualquer equipe conhecida.
 
 ## Conflitos na Era da Fumaça
 

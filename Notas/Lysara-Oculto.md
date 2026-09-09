@@ -16,17 +16,19 @@ Lysara não consegue tratar o Éter como veneno comum porque ele não é uma sub
 
 ## As Mãos Luminosas
 
-Algumas Mãos da Chuva absorvem vestígios de Éter durante curas e ritos de purificação. Linhas claras surgem sob sua pele, primeiro nos dedos e depois ao longo dos braços. Os sacerdotes afetados conseguem identificar contaminação pelo toque e realizar curas excepcionais.
+Algumas Mãos da Chuva absorvem vestígios de Éter durante curas e ritos de purificação. Linhas claras surgem sob sua pele, primeiro nos dedos e depois avançam pelos braços como veios luminosos. Em casos prolongados, as marcas alcançam o pescoço, os olhos adquirem um brilho aquoso e gotas se formam sobre a pele mesmo em ambientes secos.
 
-Com o tempo, porém, começam a recordar enfermarias que nunca visitaram, pacientes que não existem e procedimentos pertencentes a uma ciência anterior à civilização atual. Essas lembranças não são revelações de Lysara. São padrões carregados pela rede.
+As sacerdotisas afetadas conseguem identificar contaminação pelo toque e realizar curas excepcionais, mas sua magia também começa a mudar. Algumas passam a extrair impurezas do corpo de um enfermo na forma de água escura. Outras produzem curas que deixam temporariamente no paciente as mesmas linhas claras. Há ainda aquelas cujos poderes se tornam mais fortes durante chuvas e perigosamente instáveis perto de grandes concentrações de Éter.
 
-O alto sacerdócio mantém algumas dessas pessoas em isolamento, tanto para estudá-las quanto para impedir que companhias industriais descubram sua utilidade. Outras desapareceram depois de serem contratadas por refinarias.
+O fenômeno não se limita ao poder divino. Em pessoas comuns, a exposição costuma provocar mutações principalmente físicas: pele translúcida em pequenas áreas, unhas com aparência mineral, olhos adaptados à luz do Éter, alterações respiratórias ou novos tecidos crescendo junto a cicatrizes antigas. Em indivíduos capazes de utilizar magia, a mutação pode encontrar um caminho através do próprio poder. Magias estudadas mudam de execução, dons inatos tornam-se imprevisíveis e manifestações divinas passam a carregar características que não pertenciam originalmente à entidade venerada.
+
+O alto sacerdócio mantém algumas Mãos Luminosas sob observação, tanto para tratá-las quanto para impedir que companhias industriais descubram sua utilidade. Outras foram recrutadas por refinarias interessadas em transformar mutações religiosas em instrumentos de diagnóstico, contenção e pesquisa.
 
 ## A concentração sob Sete Comportas
 
 Medições realizadas secretamente por sacerdotes de Lysara demonstram que sedimentos de Éter estão se acumulando abaixo de [[Sete-Comportas|Sete Comportas]]. A abertura e o fechamento das estruturas distribuem a contaminação de maneira desigual, atingindo principalmente comunidades incapazes de exigir inspeções próprias.
 
-Durante certas chuvas, a água rio abaixo apresenta breves pulsações luminosas no mesmo ritmo da rede de Brumaferro. Plantas medicinais de Mouralume começaram a desenvolver propriedades imprevisíveis. Algumas curam doenças antes incuráveis. Outras armazenam lembranças, vozes ou sensações de quem as toca.
+Durante certas chuvas, a água rio abaixo apresenta breves pulsações luminosas no mesmo ritmo da rede de Brumaferro. Plantas medicinais de Mouralume começaram a desenvolver propriedades imprevisíveis. Algumas curam doenças antes incuráveis. Outras desenvolvem tecidos translúcidos, expelem seiva luminosa, alteram seus efeitos conforme a intensidade da chuva ou provocam pequenas mutações em quem as utiliza por longos períodos.
 
 [[Korvenn]] descobriu parte desse processo. Seus seguidores sabotam filtros e misturam resíduos comuns ao sedimento de Éter para tornar impossível determinar qual contaminação foi acidental e qual foi deliberada.
 
