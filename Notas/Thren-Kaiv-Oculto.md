@@ -34,7 +34,7 @@ Dravosk deseja importar esse sistema. Volgrin o considera uma forma de concluir 
 
 ## Os pactuados como oficiais
 
-Todo bruxo de Thren-Kaiv recebe uma posição na hierarquia imperial, mesmo que nunca seja informado. Seus atos são registrados por agentes do outro mundo e podem ser apresentados no futuro como serviço, insubordinação ou reivindicação de Loft? de comando.
+Todo bruxo de Thren-Kaiv recebe uma posição na hierarquia imperial, mesmo que nunca seja informado. Seus atos são registrados por agentes do outro mundo e podem ser apresentados no futuro como serviço, insubordinação ou fundamento para uma reivindicação de comando.
 
 Pactuados que constroem grupos, propriedades ou instituições aumentam a autoridade da coroa no Plano Material. Seus juramentos formam pequenos pontos jurídicos e mágicos através dos quais o Imperador pretende declarar que já exerce soberania em Vhalaris.
 
