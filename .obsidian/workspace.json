@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Cevran-Oculto.md",
+                "file": "NOTAS/Cevran.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cevran-Oculto"
+              "title": "Cevran"
             }
           }
         ]
@@ -199,6 +199,7 @@
   },
   "active": "693f25683829544a",
   "lastOpenFiles": [
+    "NOTAS/Cevran-Oculto.md",
     "NOTAS/Cevran.md",
     "NOTAS/Deuses Bons.md",
     "NOTAS/Lysara.md",
@@ -213,7 +214,6 @@
     "NOTAS/Vhalaris.md",
     "NOTAS/Namyss-Oculto.md",
     "NOTAS/Eol-Sahar-Oculto.md",
-    "NOTAS/Cevran-Oculto.md",
     "NOTAS/Deuses Neutros.md",
     "NOTAS/Quor-Aven.md",
     "NOTAS/Ormec.md",
