@@ -26,9 +26,9 @@ Juramentos privados possuem valor, mas um juramento público é mais sagrado por
 
 ## Culto e sacerdócio
 
-Os sacerdotes de Cevran são chamados de Testemunhas dos três Círculos. Eles acompanham julgamentos, eleições, investigações, assembleias e acordos que afetam comunidades inteiras. Sua função não é decidir todos os conflitos, mas assegurar que perguntas possam ser feitas e respostas sejam registradas.
+Os sacerdotes de Cevran são chamados de Testemunhas dos Três Círculos. Eles acompanham julgamentos, eleições, investigações, assembleias e acordos que afetam comunidades inteiras. Sua função não é decidir todos os conflitos, mas assegurar que perguntas possam ser feitas e respostas sejam registradas.
 
-Uma Testemunha não deve servir permanentemente à mesma autoridade que fiscaliza. Em algumas regiões, isso é garantido por revezamento. Em outras, tornou-se apenas uma tradição ignorada por instituições poderosas.
+Uma Testemunha dos Três Círculos não deve servir permanentemente à mesma autoridade que fiscaliza. Em algumas regiões, isso é garantido por revezamento. Em outras, tornou-se apenas uma tradição ignorada por instituições poderosas.
 
 O culto mantém Casas de Audiência, espaços onde qualquer pessoa pode registrar uma denúncia, entregar documentos ou pedir que um depoimento seja preservado. As Casas mais respeitadas publicam seus próprios financiadores para que ninguém confunda independência com aparência de neutralidade.
 
@@ -42,7 +42,7 @@ Documentos importantes recebem três marcas: a de quem os escreveu, a de quem os
 
 ## Influência em Vhalaris
 
-Em [[Brumaferro]], Cevran é invocado em conselhos municipais, tribunais, comissões de acidente e disputas trabalhistas. As companhias mantêm seus próprios juristas e capelas, mas as Testemunhas mais respeitadas são aquelas capazes de exigir que relatórios técnicos sejam lidos diante das famílias afetadas.
+Em [[Brumaferro]], Cevran é invocado em conselhos municipais, tribunais, comissões de acidente e disputas trabalhistas. As companhias mantêm seus próprios juristas e capelas, mas as Testemunhas dos Três Círculos mais respeitadas são aquelas capazes de exigir que relatórios técnicos sejam lidos diante das famílias afetadas.
 
 Nos bairros industriais, paredes próximas a fábricas funcionam como Pedras de Rua. Nelas são afixados nomes de feridos, turnos cancelados, salários atrasados e promessas feitas por administradores. Remover esses registros durante a noite é uma prática associada aos inimigos do deus.
 
@@ -56,7 +56,7 @@ Em [[Juncoalto]], o [[Conselho das Casas de Maré]] não pertence formalmente a 
 
 Cevran encontra em [[Torven]] a voz daqueles que conhecem os riscos ignorados por autoridades. Depois de acidentes, Torven procura sobreviventes; Cevran impede que seus testemunhos sejam substituídos por versões convenientes.
 
-Sua aliança com [[Namyss]] protege nomes, lembranças e identidades contra apagamentos oficiais. Uma verdade sem o nome de quem sofreu pode ser reduzida a estatística. Um nome sem testemunho pode ser tratado como invenção.
+Sua aliança com [[Namyss]] protege nomes, testemunhos e identidades contra apagamentos oficiais. Uma verdade sem o nome de quem sofreu pode ser reduzida a estatística. Um nome sem testemunho pode ser tratado como invenção.
 
 [[Ormec]] oferece cálculo, registro e medida. Os dois cultos cooperam em arquivos, perícias e investigações, mas entram em conflito quando a precisão técnica é usada para evitar uma conclusão moral. Cevran pergunta quem decidiu e quem pagará pelo dano, mesmo quando todos os números estão corretos.
 
@@ -66,7 +66,7 @@ Sua aliança com [[Namyss]] protege nomes, lembranças e identidades contra apag
 
 ## Milagres, presságios e manifestações
 
-A presença de Cevran pode fazer palavras apagadas reaparecerem, permitir que uma voz seja ouvida por toda uma praça ou conservar um documento intacto depois de incêndio e inundação. Testemunhas separadas podem recordar simultaneamente um detalhe que todas haviam esquecido.
+A presença de Cevran pode fazer palavras apagadas reaparecerem, permitir que uma voz seja ouvida por toda uma praça ou conservar um documento intacto depois de incêndio e inundação. Testemunhos independentes podem convergir sobre um detalhe que havia sido deliberadamente ocultado.
 
 Ele não obriga pessoas a dizer toda a verdade com facilidade. Seus milagres mais comuns tornam contradições perceptíveis: uma frase ecoa com outra voz, uma assinatura escurece ou a pedra de um juramento racha quando a promessa é deliberadamente falsa.
 
