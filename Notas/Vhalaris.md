@@ -12,7 +12,7 @@ O interior de Vhalaris é dominado por planícies férteis e longos vales fluvia
 
 Nas regiões mais baixas, rios lentos formam vastos pântanos. Eles dificultam a expansão das ferrovias, escondem ruínas e povoados isolados e continuam sendo algumas das áreas nas quais a indústria ainda não impôs completamente seu ritmo. Grandes rios funcionam como estradas naturais para carvão, minério, alimentos e máquinas.
 
-Cordilheiras de menor altitude delimitam parte do interior e concentram minas, cavernas profundas e instalações subterrâneas. O litoral abriga portos ligados aos demais continentes e ao distante Faerûn, separado de Vhalaris por um oceano vasto e perigoso.
+Cordilheiras de menor altitude delimitam parte do interior e concentram minas, cavernas profundas e instalações subterrâneas. O litoral abriga portos ligados aos outros grandes continentes, separados de Vhalaris por oceanos vastos e perigosos.
 
 ## A Era da Fumaça
 
