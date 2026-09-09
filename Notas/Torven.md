@@ -6,7 +6,7 @@
 - **Domínios:** Trabalho, coragem, solidariedade, resgate
 - **Símbolo:** Duas mãos segurando uma corrente rompida
 - **Conexões:** Aliado de [[Ambrienne]], [[Lysara]] e [[Cevran]]. Mantém respeito cauteloso por [[Volgrin]]. Inimigo de [[Dravosk]] e [[Thren-Kaiv]].
-- **Devotos:** Operários, mineiros, bombeiros, ferroviários, estivadores, construtores, socorristas e pessoas que trabalham em equipes expostas ao perigo
+- **Devotos:** Operários, mineiros, bombeiros, ferroviários, estivadores, construtores, socorristas e pessoas que trabalham em equipes expostas ao perigo.
 
 ## Origem e natureza
 
