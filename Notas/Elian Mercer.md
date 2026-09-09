@@ -10,6 +10,7 @@ Anos atrás, [[Caleb Booker]] trabalhou diretamente sob a supervisão de Elian n
 
 Elian permaneceu ligado à família Booker. Seu filho Samuel tornou-se o melhor amigo de [[Malik|Malik Booker]], filho de Caleb.
 
+![[Elian Mercer.png]]
 ## A equipe desaparecida
 
 Uma equipe sob responsabilidade de Elian foi enviada para investigar a antiga estação depois que equipamentos desconectados começaram a apresentar leituras de energia. Samuel fazia parte do grupo.
