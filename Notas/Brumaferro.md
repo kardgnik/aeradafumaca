@@ -8,6 +8,7 @@ A chuva é constante. Chaminés cobrem o céu de fuligem, bondes atravessam aven
 
 Os bairros nobres ocupam as regiões elevadas, distantes da fumaça mais densa e das áreas sujeitas a alagamentos. Operários, mineiros, mecânicos e estivadores vivem mais próximos das fábricas, dos trilhos e dos níveis inferiores da cidade. Sob essas regiões existem túneis, fundações e estruturas muito anteriores à fundação de Brumaferro.
 
+![[Brumaferro.png]]
 ## Economia e infraestrutura
 
 Brumaferro concentra refinarias, oficinas, companhias ferroviárias, laboratórios, estaleiros de dirigíveis e centros de distribuição. Grande parte da infraestrutura de Vhalaris depende direta ou indiretamente da cidade.

@@ -8,6 +8,8 @@ Os Baixios de Mouralume formam uma vasta região pantaneira alimentada por rios 
 
 Mapas convencionais envelhecem rapidamente em Mouralume. Bancos de terra mudam de lugar, árvores caem sobre canais e casas inteiras podem ser desmontadas e reconstruídas em terreno mais alto.
 
+![[Baixios-de-Mouralume.png]]
+
 ## Comunidades dos baixios
 
 Os habitantes viajam em embarcações de fundo raso e constroem casas, depósitos e santuários sobre plataformas elevadas. Crianças aprendem a reconhecer profundidade, correnteza e proximidade de tempestades pela cor e pelo som da água.

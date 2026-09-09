@@ -8,6 +8,8 @@ Ponte-Cinza é uma vila mercantil situada onde uma ferrovia cruza um dos grandes
 
 O povoado funciona como ponto de encontro entre agricultores, barqueiros, comerciantes, mecânicos e trabalhadores sazonais. Grãos, tecidos, ferramentas, animais e correspondências mudam de mãos em seus armazéns antes de seguir para centros maiores.
 
+![[Ponte-Cinza.png]]
+
 ## Vida cotidiana
 
 O sino ferroviário marca a abertura do mercado, a troca dos turnos e a chegada dos trens. Os moradores dizem que Ponte-Cinza não dorme, apenas reduz o ritmo entre o último cargueiro da noite e a primeira composição da manhã.

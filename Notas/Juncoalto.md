@@ -8,6 +8,8 @@ Juncoalto é a maior comunidade permanente dos [[Baixios-de-Mouralume|Baixios de
 
 Não existem ruas no sentido tradicional. Os moradores se orientam por canais, pontes suspensas, sinos e marcos pintados nas estacas. Durante as cheias maiores, partes inteiras da vila são soltas de suas amarras e rebocadas para posições mais seguras.
 
+![[Juncoalto.png]]
+
 ## Organização
 
 As decisões são tomadas pelo [[Conselho das Casas de Maré]], formado por representantes das famílias, oficinas, barqueiros e curandeiros. Prestígio depende menos de riqueza acumulada do que da capacidade de guiar, resgatar, reparar e alimentar a comunidade durante períodos difíceis.

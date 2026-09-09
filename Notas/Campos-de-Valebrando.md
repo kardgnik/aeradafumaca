@@ -8,6 +8,8 @@ Os Campos de Valebrando ocupam uma ampla região das planícies centrais de Vhal
 
 Ferrovias secundárias atravessam os campos e convergem em silos, moinhos e armazéns. Máquinas a vapor participam da preparação da terra e da colheita, mas grande parte do trabalho ainda depende de famílias rurais, trabalhadores sazonais, animais e ferramentas reparadas por gerações.
 
+![[Campos-de-Valebrando 1.png]]
+
 ## Povo e costumes
 
 Os habitantes organizam o ano pelo solo, pelos ventos e pelas chuvas. O calendário oficial importa menos do que a primeira geada, o retorno de determinadas aves e o momento em que as sementes deixam de apodrecer na terra.
