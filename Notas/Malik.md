@@ -6,6 +6,8 @@ Malik Booker nasceu no Bairro das Caldeiras, uma das regiões industriais mais p
 
 Aprendeu cedo que discussões terminavam mais depressa quando alguém caía. Brigava por comida, dinheiro, tédio e, principalmente, por qualquer insulto dirigido à mãe. Com o tempo, descobriu que havia pessoas dispostas a pagar por sua capacidade de continuar de pé.
 
+![[Malik.jpeg]]
+
 ## Família
 
 Miriam Booker criou Malik praticamente sozinha. Trabalha como lavadeira e auxiliar em uma pensão das Caldeiras, possui pouco dinheiro e uma autoridade sobre o filho que nenhum chefe criminoso jamais conseguiu reproduzir. Ela critica sua vida, seus ferimentos e suas escolhas, mas guarda uma fotografia de Malik adolescente como um de seus bens mais preciosos.
