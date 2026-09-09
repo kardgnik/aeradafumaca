@@ -6,7 +6,7 @@
 - **Domínios:** Lar, hospitalidade, cura, retorno
 - **Símbolo:** Uma janela de cobre com uma pequena chama acesa no centro
 - **Conexões:** Aliada de [[Torven]], [[Lysara]] e [[Namyss]]. Oposta a [[Saldren]] e [[Dravosk]].
-- **Devotos:** Curandeiros, parteiras, cozinheiros, anfitriões, trabalhadores de hospedarias, viajantes em retorno e pessoas que oferecem abrigo
+- **Devotos:** Curandeiros, parteiras, cozinheiros, anfitriões, trabalhadores de hospedarias, viajantes em retorno e pessoas que oferecem abrigo.
 
 ## Origem e natureza
 

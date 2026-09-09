@@ -6,7 +6,7 @@
 - **Domínios:** Água, renovação, misericórdia, medicina
 - **Símbolo:** Uma gota clara caindo sobre uma tigela aberta
 - **Conexões:** Aliada de [[Ambrienne]] e [[Torven]]. Mantém convivência antiga com [[Salmora]] e coopera com [[Ormec]]. Inimiga de [[Korvenn]].
-- **Devotos:** Médicos, curandeiros, herboristas, parteiras, lavadeiras, agricultores, responsáveis por cisternas e pessoas que cuidam de doentes
+- **Devotos:** Médicos, curandeiros, herboristas, parteiras, lavadeiras, agricultores, responsáveis por cisternas e pessoas que cuidam de doentes.
 
 ## Origem e natureza
 
