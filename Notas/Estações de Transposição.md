@@ -7,6 +7,7 @@ As Estações de Transposição são instalações capazes de transportar pessoa
 
 Uma estação não pode enviar alguém para qualquer lugar. Cada destino precisa possuir uma estação compatível, ativa e devidamente calibrada. As rotas formam uma rede limitada, concentrada em capitais, centros industriais, portos, fortalezas e entroncamentos comerciais.
 
+![[Estações de Transposição.png]]
 ## Funcionamento público
 
 Cada estação possui uma câmara de transposição cercada por anéis metálicos, isoladores e mecanismos de alinhamento. Antes da partida, passageiros e cargas são registrados, pesados e distribuídos dentro dos limites marcados no piso.
