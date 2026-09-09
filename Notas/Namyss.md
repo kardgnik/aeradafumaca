@@ -40,7 +40,7 @@ Templos de Namyss possuem paredes cobertas por nomes, nunca por retratos idealiz
 
 Seu símbolo é um medalhão aparentemente liso. O nome do portador é gravado na superfície interna, onde não pode ser lido sem abrir ou quebrar a peça. Isso representa a crença de que identidade pode ser compartilhada, mas não deve existir apenas para exibição pública.
 
-O rito funerário mais importante é a Inteireza. Três pessoas dizem quem o morto foi para elas. As descrições podem divergir. A cerimônia não tenta reduzi-lo a uma única versão, pois nenhuma vida cabe por inteiro na lembrança de apenas uma pessoa.
+O rito funerário mais importante é a Vigília das Muitas Vozes. Mais de uma pessoa deve dizer quem o morto foi para ela, e quanto mais vozes participarem, mais completo o rito é considerado. As descrições podem divergir ou até se contradizer. A cerimônia não tenta reduzir o falecido a uma única versão, pois nenhuma vida cabe por inteiro na percepção de uma só pessoa.
 
 ## Influência em Vhalaris
 
