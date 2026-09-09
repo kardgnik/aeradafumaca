@@ -6,7 +6,7 @@
 - **Domínios:** Esperança, refúgio, orientação, travessias planares
 - **Símbolo:** Um farol branco cercado por dois anéis incompletos
 - **Conexões:** Aliado de [[Ambrienne]], [[Tessara]] e [[Sael-Kor]]. Mantém uma relação cautelosa com [[Quor-Aven]]. Inimigo de [[Azhur-Maal]] e [[Thren-Kaiv]].
-- **Devotos:** Navegadores, viajantes, refugiados, cartógrafos, operadores de estações, exploradores planares e pessoas que procuram desaparecidos
+- **Devotos:** Navegadores, viajantes, refugiados, cartógrafos, operadores de estações, exploradores planares e pessoas que procuram desaparecidos.
 
 ## Origem e natureza
 
