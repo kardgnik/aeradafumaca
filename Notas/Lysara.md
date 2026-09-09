@@ -22,7 +22,7 @@ O primeiro ensinamento de Lysara é que água limpa não deve ser recusada. Poç
 
 Misericórdia, em seu culto, não significa ignorar responsabilidade. Significa impedir que sofrimento desnecessário seja usado como punição. Um inimigo ferido pode ser detido depois de tratado. Uma pessoa contaminada pode ser isolada sem ser abandonada.
 
-Seus fiéis aprendem a limpar antes de cobrir, investigar antes de receitar e registrar antes de esquecer. Soluções rápidas que apenas escondem sintomas são vistas com desconfiança.
+Seus fiéis aprendem a limpar antes de cobrir, investigar antes de receitar e registrar antes de esquecer. Soluções rápidas que apenas escondem sintomas são vistas com desconfiança e desleixo.
 
 ## Culto e sacerdócio
 
