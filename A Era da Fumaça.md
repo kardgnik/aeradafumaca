@@ -12,4 +12,17 @@ tags: [cenário, industrial, magia, fumaça, lore]
 
 ## ⚙️ Visão Geral do Cenário
 
+#### LOCALIDADES
+O Chamado Plano Material. Lar dos Mortais, dominado por Cinco continentes e mares selvagens, são eles: 
+
+- [[Vhalaris|Vhalaris, o coração industrial]]
+- [[Caldeiras|Continente das Caldeiras]]
+- [[Keldrann|Keldrann, o Continente Branco]]
+- [[Pelagora|Pelágora, as Mil Ilhas]]
+- [[Vertilis|Vertilis, o Continente Vertical]]
+
+#### PJ's
+- [[Malik]]
+
+#### PANTEÃO
 [[Deuses]]

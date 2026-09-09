@@ -35,9 +35,23 @@
               "icon": "lucide-file",
               "title": "Azhur-Maal"
             }
+          },
+          {
+            "id": "63f298491e305a68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "2a16fc1bab18030e",
@@ -228,32 +242,35 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "2f8ec647e7cd5c42",
+  "active": "63f298491e305a68",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
-    "Notas/Azhur-Maal.md",
-    "A Era da Fumaça.md",
-    "Notas/Volgrin.md",
-    "Notas/Velisse.md",
-    "Notas/Torven.md",
-    "Notas/Thren-Kaiv.md",
-    "Notas/Tessara.md",
-    "Notas/Salmora.md",
-    "Notas/Sael-Kor.md",
-    "Notas/Lysara.md",
-    "Notas/Saldren.md",
-    "Notas/Ormec.md",
-    "Notas/Quor-Aven.md",
-    "Notas/Dravosk.md",
-    "Notas/Namyss.md",
-    "Notas/Korvenn.md",
-    "Notas/Eol-Sahar.md",
-    "Notas/Deuses Bons.md",
-    "Notas/Deuses.md",
-    "Notas/Deuses Neutros.md",
-    "Notas/Deuses Maus.md",
-    "Notas/Cevran.md",
-    "Notas/Ambrienne.md",
+    "Notas/Éter.md",
+    "Notas/Volgrin-Oculto.md",
+    "Notas/Viktor Halden.md",
+    "Notas/Vigilia-das-Candeias.md",
+    "Notas/Vhalaris.md",
+    "Notas/Vhalaris-Oculto.md",
+    "Notas/Vertilis.md",
+    "Notas/Velisse-Oculto.md",
+    "Notas/Torven-Oculto.md",
+    "Notas/Thren-Kaiv-Oculto.md",
+    "Notas/Tessara-Oculto.md",
+    "Notas/Silas Rook.md",
+    "Notas/Sete-Comportas.md",
+    "Notas/Samuel Mercer.md",
+    "Notas/Salmora-Oculto.md",
+    "Notas/Saldren-Oculto.md",
+    "Notas/Sael-Kor-Oculto.md",
+    "Notas/Quor-Aven-Oculto.md",
+    "Notas/Primeira Água.md",
+    "Notas/Dravosk-Oculto.md",
+    "Notas/Conselho das Casas de Maré.md",
+    "Notas/Cevran-Oculto.md",
+    "Notas/Campos-de-Valebrando.md",
+    "Notas/Caleb Booker.md",
+    "Notas/Caldeiras.md",
+    "IMAGENS/banner-verdades-ocultas.png",
     "Notas",
     "IMAGENS/Volgrin, Mestre da Engrenagem Incompleta.jpg",
     "IMAGENS/Velisse, a Dama do Aplauso Vazio.jpg",
@@ -264,8 +281,6 @@
     "IMAGENS/Saldren, o Credor de Sangue.jpg",
     "IMAGENS/Sael-Kor, o Contador dos Sóis.jpg",
     "IMAGENS/Quor-Aven, a Porta que Sonha.jpg",
-    "IMAGENS/Ormec, o Peso Exato.jpg",
-    "IMAGENS",
-    "README.md"
+    "IMAGENS"
   ]
 }
