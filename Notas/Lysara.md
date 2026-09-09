@@ -38,7 +38,7 @@ Os templos são construídos ao redor de água corrente sempre que possível. Em
 
 O rito mais comum é a Lavagem das Mãos Abertas. Antes de tratar alguém, o curandeiro lava as mãos diante do paciente para demonstrar cuidado, ausência de armas e responsabilidade pelo procedimento que realizará.
 
-Medicamentos preparados em seus templos recebem o símbolo da gota apenas depois que outro curandeiro verifica sua composição. Vender misturas falsas sob esse símbolo é uma profanação combatida ativamente pelo culto.
+Medicamentos preparados em seus templos recebem o símbolo da gota apenas depois que outro curandeiro verifica sua composição. Vender misturas falsas sob esse símbolo é uma profanação combatida ativamente pelo culto. Ainda assim, medicamentos marcados com a gota são encontrados com frequência nos mercados clandestinos. Alguns foram desviados de templos e hospitais; outros carregam símbolos falsificados e possuem origem, composição ou conservação incertas. Fora das redes reconhecidas do culto, a marca sozinha não oferece garantia de autenticidade.
 
 ## Influência em Vhalaris
 
