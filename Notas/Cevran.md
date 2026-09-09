@@ -6,7 +6,7 @@
 - **Domínios:** Justiça, responsabilidade, cidadania, verdade
 - **Símbolo:** Uma mão aberta sobre uma pedra marcada por três círculos
 - **Conexões:** Aliado de [[Torven]] e [[Namyss]]. Mantém cooperação exigente com [[Ormec]]. Oposto a [[Saldren]], [[Velisse]] e [[Thren-Kaiv]].
-- **Devotos:** Juízes, investigadores, fiscais, servidores públicos, líderes comunitários, testemunhas, jornalistas e pessoas responsáveis por decisões coletivas
+- **Devotos:** Juízes, investigadores, fiscais, servidores públicos, líderes comunitários, testemunhas, jornalistas e pessoas responsáveis por decisões coletivas.
 
 ## Origem e natureza
 
@@ -14,19 +14,19 @@ Cevran governa a palavra pronunciada diante daqueles que sofrerão suas consequ�
 
 Segundo o mito mais difundido, Cevran despertou quando o primeiro governante foi obrigado a deixar seu palácio, subir sobre uma pedra da praça e explicar uma decisão aos próprios habitantes. Outras tradições dizem que ele nasceu quando uma comunidade se recusou a permitir que o mais fraco fosse punido por um erro cometido por todos.
 
-Como divindade telúrica, Cevran existe nas relações políticas e sociais deste mundo. Sua força cresce onde decisões podem ser questionadas, testemunhos são preservados e autoridade não significa ausência de consequência. Um conselho de aldeia pode honrá-lo mais profundamente do que o tribunal de uma capital.
+Como divindade telúrica, Cevran existe nas relações políticas e sociais deste mundo. Sua força cresce onde decisões podem ser questionadas, testemunhos são preservados e autoridade não significa ausência de consequência. Um conselho de aldeia pode honrá-lo mais profundamente do que o tribunal de uma capital, se este for corrupto.
 
 ## Princípios e ensinamentos
 
 Para Cevran, todo poder cria uma obrigação correspondente. Quanto maior a capacidade de uma pessoa decidir pela vida dos outros, maior deve ser sua exposição a perguntas, registros e julgamento.
 
-Seus fiéis distinguem legalidade de justiça. Cumprir uma ordem não encerra a responsabilidade por seus resultados. Da mesma forma, boas intenções não anulam danos previsíveis. Confessar um erro é apenas o primeiro passo; reparação, mudança e memória precisam vir depois.
+Seus fiéis distinguem legalidade de justiça. Cumprir uma ordem não encerra a responsabilidade por seus resultados. Da mesma forma, boas intenções não anulam danos previsíveis. Confessar um erro é apenas o primeiro passo; reparação, mudança e sentença precisam vir depois.
 
 Juramentos privados possuem valor, mas um juramento público é mais sagrado porque oferece testemunhas capazes de cobrar seu cumprimento. Promessas formuladas de maneira deliberadamente vaga são consideradas uma forma de mentira.
 
 ## Culto e sacerdócio
 
-Os sacerdotes de Cevran são chamados de Testemunhas do Círculo. Eles acompanham julgamentos, eleições, investigações, assembleias e acordos que afetam comunidades inteiras. Sua função não é decidir todos os conflitos, mas assegurar que perguntas possam ser feitas e respostas sejam registradas.
+Os sacerdotes de Cevran são chamados de Testemunhas dos três Círculos. Eles acompanham julgamentos, eleições, investigações, assembleias e acordos que afetam comunidades inteiras. Sua função não é decidir todos os conflitos, mas assegurar que perguntas possam ser feitas e respostas sejam registradas.
 
 Uma Testemunha não deve servir permanentemente à mesma autoridade que fiscaliza. Em algumas regiões, isso é garantido por revezamento. Em outras, tornou-se apenas uma tradição ignorada por instituições poderosas.
 
