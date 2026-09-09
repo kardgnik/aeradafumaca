@@ -50,7 +50,7 @@ Nas plataformas ferroviárias, lanternas brancas orientam composições durante 
 
 Em [[Ponte-Cinza]], o culto atende viajantes durante interrupções da ferrovia e mantém mapas das rotas fluviais alternativas. Em [[Juncoalto]], seus símbolos aparecem ao lado das marcas de navegadores que guiam estrangeiros pelos baixios.
 
-No litoral de Vhalaris, grandes faróis dedicados ao deus observam o oceano que separa o continente de Faerûn. Alguns possuem registros de luzes respondendo do horizonte em noites nas quais nenhum navio deveria estar próximo.
+No litoral de Vhalaris, grandes faróis dedicados ao deus observam os oceanos que separam o continente das outras grandes terras do mundo. Alguns possuem registros de luzes respondendo do horizonte em noites nas quais nenhum navio deveria estar próximo.
 
 ## Relações com outros deuses
 
@@ -71,6 +71,14 @@ A manifestação de Eol-Sahar assume a forma de uma luz branca vista à distânc
 Pessoas perdidas relatam ouvir um sino grave em intervalos regulares. Segui-lo não conduz necessariamente ao destino desejado, mas costuma afastá-las de algo pior.
 
 Quando uma travessia é condenada, duas sombras aparecem atrás de cada viajante, apontando para direções diferentes. Faroleiros consideram esse um dos avisos mais graves do deus.
+
+## Pactos dos Deuses
+
+Eol-Sahar estabelece pactos com pessoas dispostas a servir como referência onde caminhos comuns deixam de funcionar. Seus bruxos podem ser navegadores, refugiados, exploradores ou sobreviventes que, diante de uma travessia impossível, enxergaram uma luz que ninguém mais conseguia perceber. O pacto costuma ser oferecido como uma escolha entre duas direções claramente reveladas, nunca como uma ordem sem alternativa.
+
+O Farol não exige adoração nem reivindica a alma de seus pactuados. Em troca do poder concedido, exige que deixem sinais compreensíveis para quem vier depois, ofereçam orientação a pessoas verdadeiramente perdidas e jamais abram deliberadamente uma passagem sem considerar quem poderá atravessá-la nos dois sentidos. Alguns recebem ainda a obrigação de fechar uma rota específica ou encontrar alguém que desapareceu entre planos.
+
+Os poderes desses bruxos manifestam-se como fachos brancos, marcas de coordenadas, sombras que apontam rotas e deslocamentos breves pelo espaço intermediário. Diferentemente dos Faroleiros, que recebem poder por devoção e serviço religioso, cada bruxo mantém com Eol-Sahar um acordo pessoal. Ele pode discordar do culto, rejeitar seus templos e ainda assim permanecer vinculado à promessa feita diante da luz.
 
 ## Conflitos na Era da Fumaça
 
