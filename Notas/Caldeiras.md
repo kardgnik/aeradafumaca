@@ -54,9 +54,11 @@ Nas regiões costeiras, viajar por mar costuma ser mais rápido, mas não necess
 
 Os povos de Caldeiras foram moldados pela distância, pela escassez e pela necessidade de sobreviver sem auxílio externo.
 
-Fora da capital, água potável, alimento, sombra e conhecimento sobre rotas possuem mais valor do que muitas moedas. Negar água a um viajante é considerado uma das formas mais graves de crueldade, mesmo entre comunidades rivais. Desperdiçá-la é interpretado como insulto, demonstração de loucura ou desprezo por todos que ajudaram a preservá-la.
+Fora da capital, água potável, alimento, sombra e conhecimento sobre rotas possuem mais valor do que muitas moedas. Cisternas são vigiadas, poços são fortificados e a aproximação de estrangeiros costuma ser tratada como ameaça. Saques entre assentamentos, disfarces de caravanas e envenenamento de reservas fazem parte da memória coletiva. Quem chega sem anunciar intenção pode encontrar portões fechados, armas apontadas e perguntas feitas a uma distância segura.
 
-Essa obrigação é associada principalmente a [[Lysara]] e [[Ambrienne]]. Em muitos povoados, a primeira tigela de água deve ser oferecida antes que se pergunte o nome, a origem ou a dívida de quem chegou. A hospitalidade não elimina a desconfiança, mas estabelece que nenhuma acusação deve ser discutida enquanto alguém ainda estiver morrendo de sede.
+A maior parte das comunidades não oferece água livremente. Estrangeiros podem ser obrigados a deixar armas, apresentar mercadorias, aceitar vigilância ou provar que não foram seguidos antes de receber abrigo. Alguns assentamentos preferem expulsar um viajante a correr o risco de revelar quanto ainda existe em suas cisternas.
+
+Os princípios de [[Lysara]] e [[Ambrienne]] sobrevivem em poucas vilas, casas de caravana e santuários que oferecem a primeira tigela antes de perguntar nome, origem ou dívida. Mesmo nesses lugares, impedir uma morte não significa conceder confiança. A água necessária para que alguém consiga partir pode ser oferecida por misericórdia; acesso aos poços, às casas e à comunidade precisa ser conquistado. Em grande parte de Caldeiras, essa hospitalidade é respeitada como virtude, mas também considerada perigosa.
 
 Cada assentamento organiza sua sobrevivência de maneira própria. Algumas comunidades são governadas por conselhos de famílias, outras por chefes de caravana, sacerdotes, capitães portuários ou responsáveis pelos poços. A autoridade costuma pertencer a quem controla aquilo sem o qual a comunidade morreria.
 
