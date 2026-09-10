@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Caldeiras.md",
+                "file": "NOTAS/Porto Escória.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Caldeiras"
+              "title": "Porto Escória"
             }
           }
         ]
@@ -199,8 +199,9 @@
   },
   "active": "693f25683829544a",
   "lastOpenFiles": [
-    "NOTAS/Passagem Rubra.md",
     "NOTAS/Caldeiras.md",
+    "NOTAS/Bandeira Queimada.md",
+    "NOTAS/Passagem Rubra.md",
     "NOTAS/Pedra-Seca.md",
     "IMAGENS/Pedra-Seca, fortaleza sobre a mesa.png",
     "NOTAS/Salar das Costelas.md",
@@ -234,7 +235,6 @@
     "NOTAS/Caldeiras-Oculto.md",
     "NOTAS/Coroa de Estrelas-Oculto.md",
     "NOTAS/Ormec.md",
-    "NOTAS/Éter.md",
     "PJ",
     "IMAGENS",
     "NOTAS"
