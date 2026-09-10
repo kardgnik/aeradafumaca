@@ -40,6 +40,14 @@ O nome da cidade é anterior aos registros atuais. Uma tradição afirma que as 
 
 Observatórios ocupam algumas das torres mais altas. Seus responsáveis medem estrelas, fumaça e a lenta movimentação das plataformas. Para eles, o céu não serve apenas para prever o futuro. Serve para demonstrar quanto a cidade já se deslocou.
 
+## O comércio que não consta
+
+A [[Bandeira Queimada]], maior rede de saqueadores e contrabandistas do continente, alcança a Coroa por trás de negócios aparentemente legítimos. Transportadoras, casas de penhor, oficinas, companhias de descarte e depósitos dos níveis inferiores recebem mercadorias tomadas nas estradas ou desembarcadas clandestinamente nos portos.
+
+Na capital, seus integrantes raramente carregam armas à vista ou usam o nome da organização. Funcionários comprados alteram pesos, selos e horários de inspeção; comerciantes misturam cargas ilícitas a alimentos, minério e peças destinadas à manutenção das plataformas. Quando um objeto roubado chega às vitrines dos níveis superiores, sua origem pode ter sido apagada por uma sequência inteira de intermediários.
+
+As autoridades realizam prisões e apreensões, mas a cidade depende demais do fluxo clandestino para eliminá-lo completamente. Alguns magistrados combatem a Bandeira. Outros a utilizam para adquirir Éter, armamentos, relíquias e informações que não poderiam solicitar pelos canais oficiais.
+
 ## Relação com o restante de Caldeiras
 
 A Coroa depende dos portos, das caravanas e das comunidades exteriores para receber alimento, madeira, minério e água. Em troca, oferece ferramentas, proteção limitada, licenças comerciais e acesso à tecnologia.
