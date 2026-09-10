@@ -12,7 +12,7 @@ Caldeiras possui pouco mais de dois mil quilômetros em sua maior extensão. Emb
 
 O interior é ocupado por mares de dunas, planícies de pedra, cânions avermelhados, salinas e extensões de vidro vulcânico. Existem poucos rios permanentes. A maior parte da água corre sob a terra ou surge brevemente depois de tempestades, antes de desaparecer novamente sob a areia.
 
-No nordeste, uma imensa planície salina reflete o céu durante o dia e se torna branca e fria durante a noite. Formações curvas semelhantes a costelas colossais emergem de uma de suas extremidades. Alguns estudiosos as descrevem como minerais expostos pela erosão. Outros afirmam que nenhuma pedra cresce daquela maneira.
+No nordeste, o [[Salar das Costelas]] forma uma imensa planície branca que reflete o céu durante o dia e se torna fria durante a noite. Formações curvas semelhantes a costelas colossais emergem de uma de suas extremidades. Alguns estudiosos as descrevem como minerais expostos pela erosão. Outros afirmam que nenhuma pedra cresce daquela maneira.
 
 No centro encontra-se o [[Anel Partido]], uma região vulcânica com cerca de quinhentos quilômetros de extensão. Dezenas de montanhas negras cercam um lago de lava contínuo de aproximadamente trezentos quilômetros, formando uma barreira natural ao redor de [[Coroa de Estrelas]].
 
@@ -42,6 +42,8 @@ O nome da capital é mais antigo do que seus atuais registros. Uma tradição af
 
 Não há ferrovias ligando a capital ao restante do continente. Os caminhos de Caldeiras são rotas de caravana, trilhas marcadas por pedras, ossos, torres de fumaça ou antigas colunas de basalto. Muitas desaparecem durante tempestades de areia e precisam ser encontradas novamente a cada viagem.
 
+Boa parte dos assentamentos mais antigos surgiu ao redor de [[Estações de Transposição]] deixadas pela primeira civilização. Nenhuma estação de Caldeiras permanece em funcionamento. Suas ruínas, porém, oferecem fundações resistentes, câmaras protegidas do calor, poços profundos e marcos que podem ser vistos a grande distância. Em algumas vilas, arcos partidos e plataformas soterradas foram incorporados a muralhas, cisternas, mercados e templos.
+
 A [[Rota dos Poços]] conecta comunidades do sul a fontes subterrâneas. O [[Caminho da Cinza]] aproxima caravanas do Anel Partido. A [[Passagem Rubra]] atravessa os cânions do sudeste, embora deslizamentos frequentemente alterem seu percurso.
 
 Marcos de [[Tessara]] aparecem nos pontos onde duas rotas se encontram, quase sempre acompanhados por oferendas deixadas por comerciantes. Onde a trilha se torna incerta, pequenos sinais de [[Eol-Sahar]] indicam a direção de um abrigo, um poço ou algum lugar do qual ainda seja possível regressar.
@@ -70,7 +72,7 @@ A [[Coroa de Estrelas]] domina o centro do continente. Suas plataformas concentr
 
 O [[Anel Partido]] é a cordilheira vulcânica que circunda a capital. Existem poucas passagens seguras através de suas montanhas, algumas transitáveis apenas quando rios de lava diminuem ou pontes de basalto voltam a se formar.
 
-O [[Mar de Sal]] ocupa uma vasta planície branca no nordeste. Durante o dia, a luz refletida pode cegar viajantes. À noite, a temperatura cai rapidamente e o solo estala sob os pés. As [[Costelas Brancas]], enormes formações curvas parcialmente soterradas, podem ser vistas a muitos quilômetros de distância.
+O [[Salar das Costelas]] ocupa uma vasta planície branca no nordeste. Durante o dia, a luz refletida pode cegar viajantes. À noite, a temperatura cai rapidamente e a crosta sobre a areia estala sob os pés. As [[Costelas Brancas]], enormes formações curvas parcialmente soterradas, podem ser vistas a muitos quilômetros de distância.
 
 [[Pedra-Seca]] foi construída sobre um planalto no oeste. Seus habitantes escavaram cisternas no interior da rocha e desenvolveram um sistema para capturar a umidade das noites frias. A vila controla uma das rotas mais seguras entre os portos ocidentais e o interior.
 
