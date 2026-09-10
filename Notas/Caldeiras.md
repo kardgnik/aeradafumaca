@@ -42,7 +42,7 @@ O nome da capital é mais antigo do que seus atuais registros. Uma tradição af
 
 Não há ferrovias ligando a capital ao restante do continente. Os caminhos de Caldeiras são rotas de caravana, trilhas marcadas por pedras, ossos, torres de fumaça ou antigas colunas de basalto. Muitas desaparecem durante tempestades de areia e precisam ser encontradas novamente a cada viagem.
 
-Boa parte dos assentamentos mais antigos surgiu ao redor de [[Estações de Transposição]] deixadas pela primeira civilização. Nenhuma estação de Caldeiras permanece em funcionamento. Suas ruínas, porém, oferecem fundações resistentes, câmaras protegidas do calor, poços profundos e marcos que podem ser vistos a grande distância. Em algumas vilas, arcos partidos e plataformas soterradas foram incorporados a muralhas, cisternas, mercados e templos.
+Boa parte dos assentamentos mais antigos surgiu ao redor de [[Estações de Transposição]]. Nenhuma estação de Caldeiras permanece em funcionamento. Suas ruínas, porém, oferecem fundações resistentes, câmaras protegidas do calor, poços profundos e marcos que podem ser vistos a grande distância. Em algumas vilas, arcos partidos e plataformas soterradas foram incorporados a muralhas, cisternas, mercados e templos.
 
 A [[Rota dos Poços]] conecta comunidades do sul a fontes subterrâneas. O [[Caminho da Cinza]] aproxima caravanas do Anel Partido. A [[Passagem Rubra]] atravessa os cânions do sudeste, embora deslizamentos frequentemente alterem seu percurso.
 
