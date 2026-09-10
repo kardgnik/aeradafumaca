@@ -43,3 +43,5 @@ Observatórios ocupam algumas das torres mais altas. Seus responsáveis medem es
 A Coroa depende dos portos, das caravanas e das comunidades exteriores para receber alimento, madeira, minério e água. Em troca, oferece ferramentas, proteção limitada, licenças comerciais e acesso à tecnologia.
 
 Essa dependência raramente produz igualdade. A capital determina impostos, autorizações e preços sem controlar verdadeiramente o território entre os assentamentos. Fora do Anel Partido, muitos afirmam que a Coroa governa apenas aquilo que consegue alcançar antes que a areia apague seus rastros.
+
+## [[Coroa de Estrelas-Oculto|Verdades ocultas]]
