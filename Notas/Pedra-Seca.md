@@ -8,6 +8,8 @@ Pedra-Seca é uma vila fortificada construída sobre um grande planalto no oeste
 
 O assentamento controla uma das aproximações mais seguras entre os portos ocidentais e o interior. Essa posição oferece riqueza, mas faz com que seus habitantes tratem toda caravana como oportunidade e possível ameaça.
 
+![[Pedra-Seca, fortaleza sobre a mesa.png]]
+
 ## Água da noite
 
 Não existem rios ou nascentes visíveis no planalto. Pedra-Seca sobrevive através de cisternas escavadas na rocha e estruturas que capturam a umidade das noites frias.
