@@ -8,6 +8,8 @@ O Anel Partido é a imensa cadeia vulcânica que ocupa o centro de [[Caldeiras]]
 
 Os vulcões parecem incompletos. Em vez de cones fechados e crateras isoladas, apresentam paredões interrompidos, encostas abertas e interiores voltados para uma mesma bacia. Rios de lava atravessam as rupturas e alimentam o lago central.
 
+![[O Anel Partido em Chamas.png]]
+
 ## Formação
 
 Não existe consenso sobre a origem do Anel. Geólogos afirmam que sucessivos colapsos fizeram câmaras vulcânicas diferentes convergirem. Tradições mais antigas dizem que as montanhas começaram a crescer ao mesmo tempo, mas foram interrompidas antes que pudessem ocultar o fogo sob elas.

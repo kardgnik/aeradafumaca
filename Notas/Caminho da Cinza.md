@@ -8,6 +8,8 @@ O Caminho da Cinza é a principal rota terrestre de aproximação ao [[Anel Part
 
 A cinza vulcânica dá à região uma aparência uniforme. Pedras, animais, carroças e viajantes adquirem a mesma tonalidade poucas horas depois de entrar no caminho.
 
+![[Caminho das Cinza.png]]
+
 ## A rota
 
 O percurso começa nas planícies áridas a oeste do Anel e sobe gradualmente por antigas camadas de lava. Colunas de pedra, sinos e torres baixas indicam pontos onde ainda é possível encontrar abrigo.

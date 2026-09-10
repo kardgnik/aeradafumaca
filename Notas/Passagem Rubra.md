@@ -8,6 +8,8 @@ A Passagem Rubra é um labirinto de cânions no sudeste de [[Caldeiras]]. Suas p
 
 Não existe uma única passagem. O nome designa dezenas de corredores, fendas, rampas naturais e leitos secos que podem formar caminhos diferentes conforme desmoronamentos e enchentes alteram o terreno.
 
+![[Caravana na Passagem Rubra.png]]
+
 ## Travessia
 
 Guias reconhecem rotas por marcas quase invisíveis, correntes de ar e pela posição das sombras nas paredes. Mapas detalhados envelhecem rapidamente.

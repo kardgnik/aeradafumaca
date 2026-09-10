@@ -8,6 +8,8 @@ A Rota dos Poços é o principal conjunto de caminhos do sul de [[Caldeiras]]. E
 
 Não é uma estrada contínua. Cada trecho existe porque conduz ao próximo lugar capaz de manter pessoas e animais vivos. Quando um poço seca, toda a rota precisa mudar.
 
+![[Caravana na Rota dos Poços.png]]
+
 ## Os pontos de água
 
 Marcos de pedra indicam distância, direção e condição aproximada das reservas. Um círculo inteiro significa água confiável. Um círculo cortado indica acesso controlado. Pedra negra sobre o marco avisa que o poço secou ou foi contaminado.
