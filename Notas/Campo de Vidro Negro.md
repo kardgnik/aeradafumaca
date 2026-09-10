@@ -8,6 +8,8 @@ O Campo de Vidro Negro ocupa uma extensa região a oeste do [[Anel Partido]]. Su
 
 Durante o dia, o vidro absorve calor suficiente para queimar couro e madeira. À noite, libera lentamente essa temperatura, mantendo o ar acima do solo quente mesmo quando o restante do deserto esfria.
 
+![[Campo de vidro negro.png]]
+
 ## Formação
 
 A explicação mais aceita afirma que uma antiga erupção atravessou a região com calor suficiente para fundir o deserto. Outros estudiosos apontam que as placas possuem idades diferentes e parecem ter sido formadas em vários eventos.

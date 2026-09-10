@@ -8,6 +8,8 @@ O Último Farol ergue-se sobre um rochedo isolado na costa norte de [[Caldeiras]
 
 Nenhuma cidade, família ou autoridade reivindica sua manutenção.
 
+![[O Ultimo Farol na Tempestade.png]]
+
 ## A torre
 
 O farol foi construído com blocos negros unidos sem argamassa visível. Uma escadaria interna acompanha as paredes até uma câmara superior cercada por lentes antigas.

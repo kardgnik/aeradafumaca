@@ -8,6 +8,8 @@ Sete Poços é uma vila do sul de [[Caldeiras]], construída ao redor de sete ab
 
 A vila é um dos pontos mais importantes da [[Rota dos Poços]]. Suas muralhas baixas, torres e pátios fechados foram construídos para proteger as entradas do reservatório, não para resistir a um grande exército.
 
+![[Sete poços sob vigilancia.png]]
+
 ## As Sete Famílias
 
 Cada família mantém cordas, roldanas, filtros e registros próprios. Publicamente, todas afirmam retirar apenas sua parte. Na prática, ninguém mede com precisão quanto cada abertura recebe ou remove.

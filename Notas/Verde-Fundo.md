@@ -8,6 +8,8 @@ Verde-Fundo é uma comunidade agrícola construída em uma depressão fértil no
 
 A água subterrânea possui forte sabor metálico, mas permite o cultivo de frutas, ervas medicinais, fibras e grãos resistentes ao calor. Grande parte do alimento fresco que circula pela [[Rota dos Poços]] passa por Verde-Fundo.
 
+![[Verde-Fundo, oasis oculto no deserto.png]]
+
 ## A depressão
 
 Paredões baixos protegem a região dos ventos e conduzem chuvas ocasionais para canais escavados. Terraços agrícolas descem até o centro, onde reservatórios cobertos reduzem a perda de água.
