@@ -8,6 +8,8 @@ A Oficina Sete Batidas ocupa o térreo de um prédio estreito do Bairro das Cald
 
 Durante o dia, a oficina recebe válvulas, relógios de pressão, próteses mecânicas, bombas, fechaduras e ferramentas danificadas. Elias aceita pagamentos modestos de trabalhadores locais e frequentemente troca serviços por peças, comida ou favores.
 
+![[Oficina Sete Batidas em Brumaferro.png]]
+
 ## O espaço de treinamento
 
 Nos fundos existe um porão reforçado com vigas retiradas de uma antiga fábrica. Sacos de areia pendem do teto, marcas de impacto cobrem as paredes e um quadrado pintado no chão serve como ringue.

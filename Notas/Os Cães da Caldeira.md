@@ -8,6 +8,8 @@ Os Cães da Caldeira são uma gangue territorial do Bairro das Caldeiras, uma re
 
 A organização é pequena quando comparada aos grandes sindicatos criminosos da cidade, mas exerce domínio profundo sobre algumas ruas. Seus integrantes conhecem passagens de manutenção, horários de troca de turno, depósitos esquecidos e túneis de serviço que não aparecem nos mapas públicos.
 
+![[Reuniao dos Caes da Caldeira.png]]
+
 ## Atividades
 
 Os Cães cobram proteção de tavernas, pequenos comerciantes, casas de jogo, depósitos e trabalhadores independentes. Também realizam transporte clandestino, contrabando de componentes industriais, cobrança de dívidas e organização de lutas ilegais.

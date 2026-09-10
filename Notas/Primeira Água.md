@@ -8,6 +8,8 @@ A Primeira Água é o rito pelo qual os jovens de [[Juncoalto]] demonstram que s
 
 Concluir a Primeira Água não significa apenas alcançar a vida adulta. É receber uma das marcas de competência náutica mais respeitadas de [[Vhalaris]].
 
+![[Primeira Agua nos Baixios de Mouralume.png]]
+
 ## A travessia
 
 Cada participante recebe uma embarcação pequena, provisões simples, ferramentas de reparo e uma rota preparada pelos navegadores mais experientes. O percurso muda todos os anos porque os canais dos [[Baixios-de-Mouralume|Baixios de Mouralume]] também mudam. Decorar um mapa antigo vale muito menos do que compreender a água que existe naquele dia.
