@@ -8,6 +8,8 @@ Coroa de Estrelas é a capital de [[Caldeiras]] e uma das maiores cidades do mun
 
 Conhecida simplesmente como **a Coroa**, a cidade se estende por cerca de cento e quarenta quilômetros. Vista do alto, suas plataformas formam círculos incompletos ligados por pontes, canais metálicos e passagens suspensas. Entre elas, a lava permanece exposta, iluminando a parte inferior das construções e cobrindo o horizonte com calor e fumaça.
 
+![[Coroa de Estrelas, metropole vulcanica.png]]
+
 ## A cidade sobre o lago de fogo
 
 As plataformas mais antigas foram talhadas em formações naturais de basalto. As posteriores dependem de pilares, contrapesos, cabos e estruturas metálicas substituídas continuamente. Nenhuma geração recebeu a cidade pronta. Manter Coroa de Estrelas significa reconstruí-la todos os dias.

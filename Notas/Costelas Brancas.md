@@ -8,6 +8,8 @@ As Costelas Brancas são formações colossais que emergem da extremidade nordes
 
 A distância entre as maiores estruturas permitiria que bairros inteiros fossem construídos sob elas. Nenhuma expedição confirmou onde terminam suas bases.
 
+![[Costelas brancas.png]]
+
 ## Natureza desconhecida
 
 Estudiosos de [[Coroa de Estrelas]] defendem explicações diferentes. Alguns afirmam que são depósitos minerais moldados por pressão e erosão. Outros as tratam como ruínas da primeira civilização. Há ainda quem sustente que são ossos fossilizados, hipótese rejeitada oficialmente pela escala da criatura que exigiria.
