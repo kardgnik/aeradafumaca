@@ -7,6 +7,8 @@ A Feira das Quatro Chuvas acontece em [[Ponte-Cinza]] quatro vezes por ano. Cada
 
 Os moradores afirmam que o ano rural não possui quatro estações, mas quatro chuvas. Cada uma altera a terra, o trabalho e aquilo que precisa ser negociado. A feira tornou-se o principal ponto de encontro entre fazendeiros, barqueiros, artesãos, comerciantes, trabalhadores sazonais e representantes das companhias.
 
+![[Feira das Quatro Chuvas em Ponte-cinza.png]]
+
 ## Chuva da Semente
 
 A primeira feira acompanha as chuvas que amolecem o solo e permitem o plantio. Sementes, ferramentas, animais de tração e peças para máquinas dominam o mercado.

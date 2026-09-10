@@ -7,6 +7,8 @@ A Festa do Último Feixe encerra o período principal de colheita nos [[Campos-d
 
 A festa representa sobrevivência, continuidade e reconhecimento pelo trabalho coletivo. Sua importância é maior em anos difíceis, quando preservar um único feixe significa afirmar que a terra ainda produzirá novamente.
 
+![[Festa do ultimo feixe.png]]
+
 ## Preparação
 
 Nos últimos dias da colheita, uma pequena área do campo é deixada intocada. Nenhuma máquina pode atravessá-la, e as últimas espigas devem ser cortadas à mão por representantes das famílias, trabalhadores sazonais e pessoas responsáveis pelos celeiros comunitários.
