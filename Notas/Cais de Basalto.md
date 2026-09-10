@@ -8,6 +8,8 @@ O Cais de Basalto é um porto do sudeste de [[Caldeiras]], construído entre col
 
 O acesso marítimo é difícil. Recifes, correntes laterais e agulhas de basalto obrigam embarcações a seguir canais conhecidos apenas pelos pilotos locais. Navios sem guia costumam ser observados da costa até encalharem ou decidirem recuar.
 
+![[Cais de basalto, porto clandestino.png]]
+
 ## O porto
 
 O Cais não possui uma enseada ampla. Seus armazéns, oficinas e moradias ocupam terraços escavados nos paredões. Elevadores de corrente transportam carga entre o nível do mar e os níveis superiores.

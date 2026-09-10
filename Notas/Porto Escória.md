@@ -8,6 +8,8 @@ Porto Escória é o principal ponto de entrada legal de mercadorias estrangeiras
 
 A cidade cresce para o mar porque as falésias deixam pouco espaço em terra firme. Armazéns ocupam níveis diferentes, ligados por guindastes, rampas e elevadores de carga.
 
+![[Porto Escoria nas falesias negras.png]]
+
 ## O porto autorizado
 
 Toda embarcação é registrada antes de atracar. Cargas de Éter permanecem em plataformas isoladas até que inspetores da capital confirmem lacres, quantidade e destino.
