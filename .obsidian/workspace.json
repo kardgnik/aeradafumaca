@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Porto Escória.md",
+                "file": "NOTAS/Bandeira Queimada.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Porto Escória"
+              "title": "Bandeira Queimada"
             }
           }
         ]
@@ -199,9 +199,9 @@
   },
   "active": "693f25683829544a",
   "lastOpenFiles": [
+    "NOTAS/Porto Escória.md",
     "NOTAS/Cais de Basalto.md",
     "IMAGENS/Cais de basalto, porto clandestino.png",
-    "NOTAS/Porto Escória.md",
     "IMAGENS/Porto Escoria nas falesias negras.png",
     "NOTAS/Caldeiras.md",
     "NOTAS/Bandeira Queimada.md",
