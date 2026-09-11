@@ -6,6 +6,8 @@ Samuel Mercer é um técnico de aproximadamente vinte e nove anos, especializado
 
 O apelido Fio nasceu de sua capacidade de compreender tubulações, cabos, reguladores e circuitos que pareciam incompreensíveis para outros trabalhadores. Samuel diz que toda máquina conta o que está acontecendo, desde que alguém saiba onde encostar o ouvido.
 
+![[Samuel “Fio” Mercer2.png]]
+
 ## Amizade com Malik
 
 Samuel conheceu Malik por volta dos doze anos. Ao vê-lo perseguido por  garotos mais velhos, tentou ajudar apesar de ser menor e não saber lutar. Quando Malik avisou que seriam três contra dois, Samuel respondeu que ao menos sabia contar.
