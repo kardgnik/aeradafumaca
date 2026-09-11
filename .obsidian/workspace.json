@@ -34,8 +34,7 @@
               "title": "Volgrin, Mestre da Engrenagem Incompleta"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "2a16fc1bab18030e",
@@ -51,24 +50,8 @@
               "icon": "lucide-git-fork",
               "title": "Visualização em gráfico"
             }
-          },
-          {
-            "id": "6759b558fa4e754b",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Notas/Caldeiras.md",
-                "bFile": "Notas/Caldeiras.md",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Caldeiras  (Index)"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,8 +225,10 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "6759b558fa4e754b",
+  "active": "693f25683829544a",
   "lastOpenFiles": [
+    "Notas/Malik.md",
+    "A Era da Fumaça.md",
     "conflict-files-obsidian-git.md",
     "Notas/Costelas Brancas.md",
     "Notas/Coroa de Estrelas.md",
@@ -264,7 +249,6 @@
     "IMAGENS/Salar das Costelas.png",
     "IMAGENS/Reuniao dos Caes da Caldeira.png",
     "IMAGENS/Primeira Agua nos Baixios de Mouralume.png",
-    "A Era da Fumaça.md",
     "Notas/Vhalaris.md",
     "Notas/Estações de Transposição.md",
     "Notas/Vertilis.md",
@@ -274,7 +258,6 @@
     "Notas/Elian Mercer.md",
     "Notas/Samuel Mercer.md",
     "Notas/Malik-Oculto.md",
-    "Notas/Malik.md",
     "Malik.md",
     "Notas/Azhur-Maal.md",
     "Notas/Éter.md",
