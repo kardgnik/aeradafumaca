@@ -8,6 +8,8 @@ A **Bandeira Queimada** é a maior organização de saqueadores e contrabandista
 
 A organização não domina todo esse território pela quantidade de combatentes, mas pela rede que construiu. Saqueadores tomam mercadorias nas rotas; atravessadores alteram marcas e documentos; barqueiros transferem cargas entre embarcações; comerciantes legítimos recolocam os bens em circulação. Quando um objeto chega à Coroa, é comum que já tenha mudado de proprietário, embalagem e história várias vezes.
 
+![[Bandeiras Queimadas.png]]
+
 ## A bandeira
 
 O nome vem dos pedaços de estandartes queimados amarrados às lanças das primeiras caravanas atribuídas ao grupo. Hoje, a Bandeira raramente exibe um símbolo completo. Seus membros reconhecem uma pequena faixa de tecido chamuscado presa sob carroças, costurada dentro de capas ou escondida entre cordas de carga.

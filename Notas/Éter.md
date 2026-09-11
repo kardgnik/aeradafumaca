@@ -6,6 +6,8 @@ O Éter é a fonte de energia que transformou Vhalaris e deu início à Era da F
 
 Para a população, o Éter é um recurso natural raro encontrado no subsolo. Companhias de extração, governos e instituições acadêmicas sustentam que ele se forma sob condições arcanas ainda pouco compreendidas. Essa explicação é ensinada em escolas, repetida em publicações técnicas e protegida por décadas de segredo industrial.
 
+![[Ether.png]]
+
 ## Aparência e comportamento
 
 Em estado bruto, o Éter apresenta-se como uma substância luminosa azul-esverdeada, suspensa entre líquido, vapor e energia arcana. Ele pode aderir às paredes de cavernas, acumular-se em cavidades minerais ou permanecer em movimento dentro de fissuras que os mineiros chamam de veios.

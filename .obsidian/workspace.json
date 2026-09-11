@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Era da Fumaça.md",
+                "file": "NOTAS/No-7B.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A Era da Fumaça"
+              "title": "No-7B"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "7B",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -197,21 +197,28 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "693f25683829544a",
+  "active": "8e86c8089e6004e6",
   "lastOpenFiles": [
+    "IMAGENS/Nó de Distribuição 7B.png",
+    "NOTAS/Elian-Mercer-Oculto.md",
     "NOTAS/Vhalaris.md",
+    "NOTAS/Éter.md",
+    "IMAGENS/Ether.png",
+    "A Era da Fumaça.md",
+    "NOTAS/Coroa de Estrelas.md",
+    "NOTAS/Bandeira Queimada.md",
+    "IMAGENS/Bandeiras Queimadas.png",
+    "NOTAS/Caldeiras.md",
     "NOTAS/Brumaferro.md",
     "NOTAS/Os Cães da Caldeira.md",
     "NOTAS/Jonas Dantas.md",
     "NOTAS/Bruna Costa.md",
     "NOTAS/Abel Morel.md",
     "NOTAS/Silas Rook.md",
-    "A Era da Fumaça.md",
     "NOTAS/Juncoalto.md",
     "NOTAS/Conselho das Casas de Maré.md",
     "IMAGENS/Conselho na Mesa das Estacas.png",
     "NOTAS/Sete-Comportas.md",
-    "NOTAS/Caldeiras.md",
     "NOTAS/Verde-Fundo.md",
     "IMAGENS/Verde-Fundo, oasis oculto no deserto.png",
     "NOTAS/Sete Poços.md",
@@ -222,19 +229,12 @@
     "IMAGENS/Campo de vidro negro.png",
     "NOTAS/Cais de Basalto.md",
     "NOTAS/Porto Escória.md",
-    "NOTAS/Bandeira Queimada.md",
     "IMAGENS/Cais de basalto, porto clandestino.png",
     "IMAGENS/Porto Escoria nas falesias negras.png",
     "NOTAS/Passagem Rubra.md",
     "NOTAS/Pedra-Seca.md",
     "IMAGENS/Pedra-Seca, fortaleza sobre a mesa.png",
     "NOTAS/Salar das Costelas.md",
-    "NOTAS/Anel Partido.md",
-    "NOTAS/Caminho da Cinza.md",
-    "IMAGENS/Caravana na Passagem Rubra.png",
-    "IMAGENS/Caminho das Cinza.png",
-    "NOTAS/Rota dos Poços.md",
-    "NOTAS/Coroa de Estrelas.md",
     "PJ",
     "IMAGENS",
     "NOTAS"
