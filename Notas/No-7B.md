@@ -7,6 +7,8 @@ O Nó de Distribuição 7B é uma instalação da rede de Éter localizada em um
 
 A instalação apresenta falhas recorrentes, consumo incompatível com sua demanda e registros que não correspondem às plantas modernas.
 
+![[Nó de Distribuição 7B.png]]
+
 ## Terceiro nível
 
 Abaixo das áreas conhecidas existe um terceiro nível lacrado. Suas paredes, mecanismos e linhas de transmissão são anteriores à fundação de Brumaferro.

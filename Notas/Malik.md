@@ -6,6 +6,7 @@ Malik Booker nasceu no Bairro das Caldeiras, uma das regiões industriais mais p
 
 Aprendeu cedo que discussões terminavam mais depressa quando alguém caía. Brigava por comida, dinheiro, tédio e, principalmente, por qualquer insulto dirigido à mãe. Com o tempo, descobriu que havia pessoas dispostas a pagar por sua capacidade de continuar de pé.
 
+![[Malik.png]]
 ## Família
 
 Miriam Booker criou Malik praticamente sozinha. Trabalha como lavadeira e auxiliar em uma pensão das Caldeiras, possui pouco dinheiro e uma autoridade sobre o filho que nenhum chefe criminoso jamais conseguiu reproduzir. Ela critica sua vida, seus ferimentos e suas escolhas, mas guarda uma fotografia de Malik adolescente como um de seus bens mais preciosos.
@@ -13,6 +14,8 @@ Miriam Booker criou Malik praticamente sozinha. Trabalha como lavadeira e auxili
 Seu pai, [[Caleb Booker]], era operador de manutenção e trabalhava diretamente sob a supervisão de [[Elian Mercer]]. Morreu quando Malik tinha aproximadamente oito anos, durante um acidente numa das [[Estações de Transposição]]. A versão oficial atribuiu a explosão de um regulador a erro humano. Miriam nunca acreditou nessa explicação.
 
 Malik não é contrário ao [[Éter]], mas tampouco confia no discurso de que toda luz representa progresso. Para ele, a mesma energia que ilumina Brumaferro também matou seu pai.
+
+![[Miriam Booker na lavanderia de Brumaferro.png]]
 
 ## Os Cães da Caldeira
 

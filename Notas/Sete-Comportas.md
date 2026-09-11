@@ -8,6 +8,8 @@ Sete Comportas é uma gigantesca obra hidráulica construída na passagem entre 
 
 Torres de controle, alojamentos, oficinas e depósitos formaram um pequeno assentamento ao redor da estrutura. Engenheiros trabalham ao lado de barqueiros e observadores enviados pelas comunidades pantaneiras.
 
+![[Sete-Comportas.png]]
+
 ## Operação
 
 Cada comporta possui um sino próprio. A sequência dos toques informa quais canais serão abertos, quanto o nível da água deve mudar e quando as embarcações podem avançar.

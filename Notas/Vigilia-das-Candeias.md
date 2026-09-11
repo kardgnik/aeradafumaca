@@ -7,6 +7,8 @@ A Vigília das Candeias é celebrada na [[Mata-de-Carvalume|Mata de Carvalume]] 
 
 As candeias utilizam pequenas porções da resina de Carvalume. Sua chama é baixa, clara e resistente à chuva, podendo permanecer acesa durante toda a caminhada sem consumir grande quantidade de material.
 
+![[Vigilia das Candeias em Carvalume.png]]
+
 ## O apagamento
 
 Ao anoitecer, fogões, oficinas e lampiões das comunidades são apagados. Durante alguns instantes, nenhuma chama humana deve permanecer acesa na mata.

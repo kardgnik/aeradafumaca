@@ -8,6 +8,8 @@ Abel Morel, conhecido como Trinco, coordena cobranças, interrogatórios e puni�
 
 Seu apelido surgiu de sua obsessão por portas fechadas. Abel aprendeu a abrir depósitos, armazéns e residências pelos fundos, guardando como troféu o trinco de cada entrada considerada impossível.
 
+![[Abel “Trinco” Morel.png]]
+
 ## A ruptura
 
 Malik gostava de lutar. Abel gostava de causar dor. A diferença tornou-se impossível de ignorar quando Trinco passou a torturar pessoas para conseguir informações e cobrar dívidas.

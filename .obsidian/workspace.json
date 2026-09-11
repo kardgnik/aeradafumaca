@@ -51,8 +51,24 @@
               "icon": "lucide-git-fork",
               "title": "Visualização em gráfico"
             }
+          },
+          {
+            "id": "6759b558fa4e754b",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Notas/Caldeiras.md",
+                "bFile": "Notas/Caldeiras.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Caldeiras  (Index)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,13 +242,28 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "a17a450bfb9a895b",
+  "active": "6759b558fa4e754b",
   "lastOpenFiles": [
-    "IMAGENS/Volgrin, Mestre da Engrenagem Incompleta.jpg",
-    "IMAGENS/Tessara, Senhora das Linhas Cruzadas.jpg",
-    "IMAGENS/Quor-Aven, a Porta que Sonha.jpg",
-    "IMAGENS/Korvenn, o Dente da Ferrugem.jpg",
-    "IMAGENS/Ambrienne, a Chama na Janela.jpg",
+    "conflict-files-obsidian-git.md",
+    "Notas/Costelas Brancas.md",
+    "Notas/Coroa de Estrelas.md",
+    "Notas/Coroa de Estrelas-Oculto.md",
+    "Notas/Campo de Vidro Negro.md",
+    "Notas/Caminho da Cinza.md",
+    "Notas/Caldeiras-Oculto.md",
+    "Notas/Cais de Basalto.md",
+    "Notas/Bandeira Queimada.md",
+    "Notas/Anel Partido.md",
+    "IMAGENS/Viktor Halden.png",
+    "IMAGENS/Vigilia das Candeias em Carvalume.png",
+    "IMAGENS/Verde-Fundo, oasis oculto no deserto.png",
+    "IMAGENS/Silas “Rei da Caldeira” Rook.png",
+    "IMAGENS/Sete-Comportas.png",
+    "IMAGENS/Sete poços sob vigilancia.png",
+    "IMAGENS/Samuel “Fio” Mercer2.png",
+    "IMAGENS/Salar das Costelas.png",
+    "IMAGENS/Reuniao dos Caes da Caldeira.png",
+    "IMAGENS/Primeira Agua nos Baixios de Mouralume.png",
     "A Era da Fumaça.md",
     "Notas/Vhalaris.md",
     "Notas/Estações de Transposição.md",
@@ -244,27 +275,12 @@
     "Notas/Samuel Mercer.md",
     "Notas/Malik-Oculto.md",
     "Notas/Malik.md",
-    "conflict-files-obsidian-git.md",
     "Malik.md",
     "Notas/Azhur-Maal.md",
     "Notas/Éter.md",
     "Notas/Volgrin-Oculto.md",
     "Notas/Viktor Halden.md",
-    "Notas/Vigilia-das-Candeias.md",
-    "Notas/Vhalaris-Oculto.md",
-    "Notas/Velisse-Oculto.md",
-    "Notas/Torven-Oculto.md",
-    "Notas/Thren-Kaiv-Oculto.md",
-    "Notas/Tessara-Oculto.md",
-    "Notas/Silas Rook.md",
-    "Notas/Sete-Comportas.md",
-    "IMAGENS/banner-verdades-ocultas.png",
     "Notas",
-    "IMAGENS/Velisse, a Dama do Aplauso Vazio.jpg",
-    "IMAGENS/Torven, o Último a Abandonar.jpg",
-    "IMAGENS/Thren-Kaiv, o Imperador sem Mundo.jpg",
-    "IMAGENS/Salmora, Rainha do Horizonte Cinzento.jpg",
-    "IMAGENS/Saldren, o Credor de Sangue.jpg",
     "IMAGENS"
   ]
 }

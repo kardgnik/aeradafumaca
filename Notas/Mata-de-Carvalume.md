@@ -8,6 +8,8 @@ A Mata de Carvalume ocupa uma faixa antiga entre as planícies agrícolas e as r
 
 Comunidades locais utilizam madeira caída, resina, frutos, fungos e plantas medicinais sem derrubar grandes áreas de uma só vez. Trilhas são abertas e abandonadas conforme as estações, permitindo que partes da mata se recuperem.
 
+![[Mata-de-Carvalume.png]]
+
 ## Povo e tradição
 
 Os habitantes de Carvalume não tratam a floresta como território intocado. Ela é cultivada lentamente por meio de podas, queimadas controladas, dispersão de sementes e proteção de árvores antigas.

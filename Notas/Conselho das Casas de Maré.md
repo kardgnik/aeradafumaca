@@ -8,6 +8,8 @@ O Conselho das Casas de Maré governa [[Juncoalto]] e representa suas famílias,
 
 Uma nova Casa somente pode ser reconhecida depois de atravessar um ciclo completo de cheia e estiagem sem abandonar aqueles que dependem dela. Também deve manter ao menos uma embarcação de socorro, reservar mantimentos para emergências e aceitar a obrigação de acolher moradores desalojados.
 
+![[Conselho na Mesa das Estacas.png]]
+
 ## Os doze assentos
 
 O Conselho possui doze assentos, conhecidos como Assentos de Maré:
