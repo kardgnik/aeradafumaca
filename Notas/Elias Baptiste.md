@@ -8,6 +8,8 @@ Elias Baptiste é um ex-lutador clandestino de aproximadamente sessenta e três 
 
 Recebeu o apelido Sete porque, segundo a lenda dos porões de luta, sete golpes eram tudo de que precisava para derrubar qualquer adversário. Elias nunca confirma a história. Quando perguntado, costuma responder que alguém incapaz de vencer em sete deveria aprender a evitar o oitavo.
 
+![[Elias Sete Baptise.png]]
+
 ## Professor
 
 Elias conheceu [[Malik]] quando o jovem tinha dezesseis anos. Durante semanas, limitou-se a observar suas lutas. Depois declarou que Malik sabia bater, mas não sabia lutar.

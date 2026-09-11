@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Vhalaris.md",
+                "file": "NOTAS/Elias Baptiste.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vhalaris"
+              "title": "Elias Baptiste"
             }
           }
         ]
@@ -197,8 +197,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "693f25683829544a",
+  "active": "8e86c8089e6004e6",
   "lastOpenFiles": [
+    "IMAGENS/Elias Sete Baptise.png",
+    "NOTAS/Oficina Sete Batidas.md",
+    "NOTAS/Brumaferro.md",
+    "NOTAS/Vhalaris.md",
     "NOTAS/Caleb Booker.md",
     "NOTAS/Malik.md",
     "IMAGENS/Caleb Booker, mecânico da estação Brumaferro.png",
@@ -208,7 +212,6 @@
     "IMAGENS/Malik.jpeg",
     "NOTAS/Samuel Mercer.md",
     "IMAGENS/Samuel “Fio” Mercer2.png",
-    "NOTAS/Vhalaris.md",
     "IMAGENS/Jonas “Pavio” Dantas.png",
     "NOTAS/Os Cães da Caldeira.md",
     "NOTAS/Jonas Dantas.md",
@@ -219,7 +222,6 @@
     "NOTAS/Éter.md",
     "NOTAS/Silas Rook.md",
     "IMAGENS/Silas “Rei da Caldeira” Rook.png",
-    "NOTAS/Brumaferro.md",
     "NOTAS/No-7B.md",
     "IMAGENS/Nó de Distribuição 7B.png",
     "NOTAS/Elian-Mercer-Oculto.md",
@@ -233,7 +235,6 @@
     "NOTAS/Sete Poços.md",
     "NOTAS/Último Farol.md",
     "NOTAS/Campo de Vidro Negro.md",
-    "NOTAS/Cais de Basalto.md",
     "PJ",
     "IMAGENS",
     "NOTAS"
