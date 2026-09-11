@@ -26,14 +26,12 @@
             "id": "cb6172e45ecd9dc4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "A Era da Fumaça.md",
-                "mode": "source",
-                "source": false
+                "file": "IMAGENS/Volgrin, Mestre da Engrenagem Incompleta.jpg"
               },
-              "icon": "lucide-file",
-              "title": "A Era da Fumaça"
+              "icon": "lucide-image",
+              "title": "Volgrin, Mestre da Engrenagem Incompleta"
             }
           }
         ],
@@ -228,10 +226,24 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "8e86c8089e6004e6",
+  "active": "a17a450bfb9a895b",
   "lastOpenFiles": [
-    "Notas/Malik.md",
+    "IMAGENS/Volgrin, Mestre da Engrenagem Incompleta.jpg",
+    "IMAGENS/Tessara, Senhora das Linhas Cruzadas.jpg",
+    "IMAGENS/Quor-Aven, a Porta que Sonha.jpg",
+    "IMAGENS/Korvenn, o Dente da Ferrugem.jpg",
+    "IMAGENS/Ambrienne, a Chama na Janela.jpg",
     "A Era da Fumaça.md",
+    "Notas/Vhalaris.md",
+    "Notas/Estações de Transposição.md",
+    "Notas/Vertilis.md",
+    "Notas/Pelagora.md",
+    "Notas/Keldrann.md",
+    "Notas/Caldeiras.md",
+    "Notas/Elian Mercer.md",
+    "Notas/Samuel Mercer.md",
+    "Notas/Malik-Oculto.md",
+    "Notas/Malik.md",
     "conflict-files-obsidian-git.md",
     "Malik.md",
     "Notas/Azhur-Maal.md",
@@ -239,34 +251,20 @@
     "Notas/Volgrin-Oculto.md",
     "Notas/Viktor Halden.md",
     "Notas/Vigilia-das-Candeias.md",
-    "Notas/Vhalaris.md",
     "Notas/Vhalaris-Oculto.md",
-    "Notas/Vertilis.md",
     "Notas/Velisse-Oculto.md",
     "Notas/Torven-Oculto.md",
     "Notas/Thren-Kaiv-Oculto.md",
     "Notas/Tessara-Oculto.md",
     "Notas/Silas Rook.md",
     "Notas/Sete-Comportas.md",
-    "Notas/Samuel Mercer.md",
-    "Notas/Salmora-Oculto.md",
-    "Notas/Saldren-Oculto.md",
-    "Notas/Sael-Kor-Oculto.md",
-    "Notas/Quor-Aven-Oculto.md",
-    "Notas/Primeira Água.md",
-    "Notas/Dravosk-Oculto.md",
-    "Notas/Conselho das Casas de Maré.md",
     "IMAGENS/banner-verdades-ocultas.png",
     "Notas",
-    "IMAGENS/Volgrin, Mestre da Engrenagem Incompleta.jpg",
     "IMAGENS/Velisse, a Dama do Aplauso Vazio.jpg",
     "IMAGENS/Torven, o Último a Abandonar.jpg",
     "IMAGENS/Thren-Kaiv, o Imperador sem Mundo.jpg",
-    "IMAGENS/Tessara, Senhora das Linhas Cruzadas.jpg",
     "IMAGENS/Salmora, Rainha do Horizonte Cinzento.jpg",
     "IMAGENS/Saldren, o Credor de Sangue.jpg",
-    "IMAGENS/Sael-Kor, o Contador dos Sóis.jpg",
-    "IMAGENS/Quor-Aven, a Porta que Sonha.jpg",
     "IMAGENS"
   ]
 }
