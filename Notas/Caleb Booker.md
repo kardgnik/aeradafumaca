@@ -6,6 +6,8 @@ Caleb Booker foi operador de manutenção especializado em reguladores, válvula
 
 Trabalhava diretamente sob a supervisão de [[Elian Mercer]], que o considerava um técnico cuidadoso e experiente com mecanismos antigos.
 
+![[Caleb Booker, mecânico da estação Brumaferro.png]]
+
 ## O acidente
 
 Caleb morreu quando Malik tinha aproximadamente oito anos. Durante uma manutenção, um regulador recebeu pressão depois que o sistema havia sido isolado. A explosão matou Caleb e danificou parte da câmara técnica.

@@ -15,6 +15,8 @@ Seu pai, [[Caleb Booker]], era operador de manutenção e trabalhava diretamente
 
 Malik não é contrário ao [[Éter]], mas tampouco confia no discurso de que toda luz representa progresso. Para ele, a mesma energia que ilumina Brumaferro também matou seu pai.
 
+![[Miriam Booker na lavanderia de Brumaferro.png]]
+
 ## Os Cães da Caldeira
 
 Ainda adolescente, Malik entrou para [[Os Cães da Caldeira]], uma gangue territorial dos bairros industriais. Começou fazendo entregas, cobrando dívidas e intimidando comerciantes. Depois passou a lutar em becos, porões e depósitos abandonados, algumas vezes por apostas e outras apenas para estabelecer quem mandava naquele trecho da cidade.
