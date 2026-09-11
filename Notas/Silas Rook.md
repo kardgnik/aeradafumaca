@@ -8,6 +8,8 @@ Silas Rook é o fundador e líder dos [[Os Cães da Caldeira|Cães da Caldeira]]
 
 O título Rei da Caldeira começou como provocação de rivais, mas Silas o adotou. Ele compreendeu cedo que um apelido tem poder quando inimigos são obrigados a pronunciá-lo.
 
+![[Silas “Rei da Caldeira” Rook.png]]
+
 ## Origem
 
 Silas começou como registrador de cargas e turnos numa antiga casa de bombas de [[Brumaferro]]. Seu trabalho permitiu que aprendesse quem recebia, quem roubava, quais fiscais aceitavam pagamento e quais acidentes eram apagados dos livros.

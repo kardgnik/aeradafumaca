@@ -11,14 +11,12 @@
             "id": "693f25683829544a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "NOTAS/Os Cães da Caldeira.md",
-                "mode": "source",
-                "source": false
+                "file": "IMAGENS/Jonas “Pavio” Dantas.png"
               },
-              "icon": "lucide-file",
-              "title": "Os Cães da Caldeira"
+              "icon": "lucide-image",
+              "title": "Jonas “Pavio” Dantas"
             }
           }
         ]
@@ -197,25 +195,29 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "693f25683829544a",
+  "active": "8e86c8089e6004e6",
   "lastOpenFiles": [
+    "NOTAS/Os Cães da Caldeira.md",
+    "NOTAS/Jonas Dantas.md",
+    "IMAGENS/Jonas “Pavio” Dantas.png",
+    "NOTAS/Bruna Costa.md",
+    "IMAGENS/Bruna “Ferrugem” Costa.png",
+    "NOTAS/Abel Morel.md",
+    "IMAGENS/Abel “Trinco” Morel.png",
+    "NOTAS/Éter.md",
+    "NOTAS/Silas Rook.md",
+    "IMAGENS/Silas “Rei da Caldeira” Rook.png",
     "NOTAS/Brumaferro.md",
     "NOTAS/Vhalaris.md",
     "A Era da Fumaça.md",
     "NOTAS/No-7B.md",
     "IMAGENS/Nó de Distribuição 7B.png",
     "NOTAS/Elian-Mercer-Oculto.md",
-    "NOTAS/Éter.md",
     "IMAGENS/Ether.png",
     "NOTAS/Coroa de Estrelas.md",
     "NOTAS/Bandeira Queimada.md",
     "IMAGENS/Bandeiras Queimadas.png",
     "NOTAS/Caldeiras.md",
-    "NOTAS/Os Cães da Caldeira.md",
-    "NOTAS/Jonas Dantas.md",
-    "NOTAS/Bruna Costa.md",
-    "NOTAS/Abel Morel.md",
-    "NOTAS/Silas Rook.md",
     "NOTAS/Juncoalto.md",
     "NOTAS/Conselho das Casas de Maré.md",
     "IMAGENS/Conselho na Mesa das Estacas.png",
@@ -225,16 +227,11 @@
     "NOTAS/Sete Poços.md",
     "IMAGENS/Sete poços sob vigilancia.png",
     "NOTAS/Último Farol.md",
-    "IMAGENS/O Ultimo Farol na Tempestade.png",
     "NOTAS/Campo de Vidro Negro.md",
-    "IMAGENS/Campo de vidro negro.png",
     "NOTAS/Cais de Basalto.md",
     "NOTAS/Porto Escória.md",
-    "IMAGENS/Cais de basalto, porto clandestino.png",
-    "IMAGENS/Porto Escoria nas falesias negras.png",
     "NOTAS/Passagem Rubra.md",
     "NOTAS/Pedra-Seca.md",
-    "NOTAS/Salar das Costelas.md",
     "PJ",
     "IMAGENS",
     "NOTAS"

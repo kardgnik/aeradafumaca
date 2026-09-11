@@ -8,6 +8,8 @@ Jonas Dantas, conhecido como Pavio, era o integrante mais jovem dos [[Os Cães d
 
 Malik passou a protegê-lo, afastando-o de cobranças mais violentas e ensinando-lhe como sobreviver nas ruas das Caldeiras. Jonas aprendeu a observar saídas, reconhecer uma emboscada e nunca ficar entre Mão Pesada e alguém que insultasse sua mãe.
 
+![[Jonas “Pavio” Dantas.png]]
+
 ## Depois da saída
 
 Jonas permaneceu na gangue quando Malik partiu. Hoje, já na casa dos vinte anos, ocupa uma posição intermediária e supervisiona mensageiros, vigias e integrantes mais jovens.

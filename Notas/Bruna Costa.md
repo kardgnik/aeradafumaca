@@ -8,6 +8,8 @@ Bruna Costa, conhecida como Ferrugem, é a especialista em armas improvisadas e 
 
 O apelido nasceu da cor avermelhada que cobre suas luvas, ferramentas e parte de suas roupas. Bruna afirma que ferrugem é apenas metal lembrando que também sabe morrer.
 
+![[Bruna “Ferrugem” Costa.png]]
+
 ## Relação com Malik
 
 Bruna e [[Malik]] desenvolveram uma amizade quase fraternal. Ela consertava o que ele quebrava, escondia armas antes das batidas da Guarda e era uma das poucas pessoas capazes de rir depois de uma discussão com ele.
