@@ -6,6 +6,8 @@ Viktor Halden é um agente de segurança industrial ligado às grandes refinaria
 
 Viktor veste luvas mesmo em ambientes fechados e evita participar pessoalmente de confrontos. Ele acredita que autoridade verdadeira consiste em decidir quem será ferido sem precisar sujar as próprias mãos.
 
+![[Viktor Halden.png]]
+
 ## Métodos
 
 Seus subordinados recebem ordens fragmentadas, de modo que poucos compreendam o objetivo completo de uma operação. Ferimentos são registrados como resistência, mortes tornam-se acidentes e cargas desaparecidas reaparecem nos documentos com números diferentes.
