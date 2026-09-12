@@ -17,11 +17,11 @@ ENQUANTO HOUVER LUZ
 O Chamado Plano Material. Lar dos Mortais, dominado por Cinco continentes e mares selvagens, são eles: 
 
 
-- [[Vhalaris|Vhalaris, o coração industrial]]
+- [[Vhalaris|Vhalaris, o coração industrial]] ☀
 O coração industrial do mundo e berço da revolução do Éter.
-- [[Caldeiras|Continente das Caldeiras]]
+- [[Caldeiras|Continente das Caldeiras]] ♨
 Uma extensão abrasadora de cidades fabris, crateras e fornalhas monumentais.
-- [[Keldrann|Keldrann, o Continente Branco]]
+- [[Keldrann|Keldrann, o Continente Branco]] ❄
 Terras brancas onde o frio preserva ruínas anteriores à Era da Fumaça.
 - [[Pelagora|Pelágora, as Mil Ilhas]]
 Mil ilhas ligadas por comércio, navegação e segredos submersos.
