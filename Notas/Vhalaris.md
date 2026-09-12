@@ -6,6 +6,8 @@ Vhalaris é o coração industrial do mundo conhecido. Suas grandes planícies, 
 
 Não é necessariamente o maior dos cinco continentes, mas é o mais influente em tecnologia, comércio e produção industrial. Para muitos estrangeiros, Vhalaris e a própria Era da Fumaça tornaram-se ideias inseparáveis.
 
+![[MapaValaris.png]]
+
 ## Geografia
 
 O interior de Vhalaris é dominado por planícies férteis e longos vales fluviais. Essas terras sustentam grande parte da agricultura do continente e permitiram a construção das primeiras linhas ferroviárias de longa distância. Ao redor delas sobrevivem florestas antigas, algumas preservadas por comunidades locais e outras cercadas por madeireiras, minas e cidades em expansão.

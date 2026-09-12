@@ -6,6 +6,8 @@ Caldeiras é um vasto continente insular de desertos, planaltos ressecados, cân
 
 No centro do continente, dezenas de vulcões incompletos formam uma cadeia circular. Suas encostas terminam em paredões abruptos, como se a metade superior das montanhas jamais tivesse surgido, e seus interiores convergem para um único lago de lava. Sobre plataformas erguidas acima desse fogo encontra-se [[Coroa de Estrelas]], a maior cidade de Caldeiras e uma das maiores metrópoles conhecidas.
 
+![[MapaCaldeiras.png]]
+
 ## Geografia
 
 Caldeiras possui pouco mais de dois mil quilômetros em sua maior extensão. Embora seja cercado pelo oceano, grande parte do litoral é formada por falésias, escarpas vulcânicas e enseadas estreitas. Águas profundas chegam diretamente aos paredões em várias regiões, obrigando portos a avançarem sobre o mar por meio de pilares e plataformas.
