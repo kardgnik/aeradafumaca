@@ -30,6 +30,8 @@ Um continente construído em alturas impossíveis, onde subir também significa 
 #### Personagens da campanha
 
 - [[Malik]]
+- [[Magnus Lefay]]
+- [[Arnoldes]]
 
 #### PANTEÃO
 Deuses e crenças
