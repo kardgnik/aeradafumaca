@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Deuses.md",
+                "file": "NOTAS/Deuses Maus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deuses"
+              "title": "Deuses Maus"
             }
           }
         ]
@@ -199,8 +199,13 @@
   },
   "active": "693f25683829544a",
   "lastOpenFiles": [
-    "NOTAS/Deuses Neutros.md",
+    "NOTAS/Thren-Kaiv.md",
+    "NOTAS/Deuses Maus.md",
+    "NOTAS/Azhur-Maal.md",
     "NOTAS/Deuses.md",
+    "NOTAS/Deuses Neutros.md",
+    "NOTAS/Quor-Aven.md",
+    "NOTAS/Sael-Kor.md",
     "NOTAS/Deuses Bons.md",
     "NOTAS/Cevran.md",
     "NOTAS/Ambrienne.md",
@@ -230,11 +235,6 @@
     "NOTAS/Caleb Booker.md",
     "IMAGENS/Caleb Booker, mecânico da estação Brumaferro.png",
     "IMAGENS/Miriam Booker na lavanderia de Brumaferro.png",
-    "NOTAS/Samuel Mercer.md",
-    "NOTAS/Os Cães da Caldeira.md",
-    "NOTAS/Jonas Dantas.md",
-    "NOTAS/Bruna Costa.md",
-    "NOTAS/Abel Morel.md",
     "PJ",
     "IMAGENS",
     "NOTAS"
