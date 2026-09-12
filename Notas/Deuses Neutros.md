@@ -12,3 +12,4 @@
 
 - **[[Quor-Aven]]** - Limiares, transposição, percepção, possibilidades
 
+![[Panteao Neutro.png]]

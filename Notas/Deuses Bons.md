@@ -12,3 +12,4 @@
 
 - **[[Namyss]]** - Memória, identidade, alma, resistência
 
+![[Panteao Bom.png]]

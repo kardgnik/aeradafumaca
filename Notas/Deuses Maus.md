@@ -12,3 +12,4 @@
 
 - **[[Thren-Kaiv]]** - Conquista, exílio, obediência, supremacia
 
+![[Panteao Mau.png]]
