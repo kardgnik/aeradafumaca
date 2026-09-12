@@ -32,6 +32,7 @@ Um continente construído em alturas impossíveis, onde subir também significa 
 - [[Malik]]
 - [[Magnus Lefay]]
 - [[Arnoldes]]
+- [[João Pedro]]
 
 ####  DEUSES E CRENÇAS
 
