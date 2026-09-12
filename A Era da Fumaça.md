@@ -27,14 +27,13 @@ Terras brancas onde o frio preserva ruínas anteriores à Era da Fumaça.
 Mil ilhas ligadas por comércio, navegação e segredos submersos.
 - [[Vertilis|Vertilis, o Continente Vertical]]
 Um continente construído em alturas impossíveis, onde subir também significa governar.
-#### Personagens da campanha
+#### PERSONAGENS DA CAMPANHA
 
 - [[Malik]]
 - [[Magnus Lefay]]
 - [[Arnoldes]]
 
-#### PANTEÃO
-Deuses e crenças
+####  DEUSES E CRENÇAS
 
 [[Deuses]]
 
