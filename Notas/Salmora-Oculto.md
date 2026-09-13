@@ -2,8 +2,6 @@
 
 #Spoiler
 
-[[Salmora|Voltar para Salmora]]
-
 ## O mar recebe aquilo que Vhalaris descarta
 
 Rios carregam resíduos de Éter até o oceano. A concentração ainda é pequena em comparação à imensidão marítima, mas não desaparece. Correntes acumulam energia em fossas, recifes e regiões onde antigas estruturas atravessam o fundo do mar.

@@ -2,8 +2,6 @@
 
 #Spoiler
 
-[[Sael-Kor|Voltar para Sael-Kor]]
-
 ## Este não é o primeiro Sol contado
 
 Sael-Kor já observou outras estrelas serem drenadas por sistemas semelhantes à infraestrutura de [[Éter]]. Algumas sobreviveram depois que a extração foi interrompida. Outras perderam estabilidade, transformaram mundos próximos ou se apagaram antes do fim de seus ciclos naturais.

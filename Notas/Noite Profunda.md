@@ -2,8 +2,6 @@
 
 #Lugares
 
-[[Luz Baixa|Voltar para Luz Baixa]]
-
 Noite Profunda é a maior mina de carvão de Keldrann. Suas galerias atravessam diferentes camadas da cordilheira e descem muito abaixo do nível alcançado pelos mapas públicos. Elevadores movidos a vapor transportam equipes, ferramentas e vagões por poços que parecem não terminar.
 
 O carvão extraído alimenta locomotivas, fornalhas, estufas e navios dentro e fora do continente. Interromper sua produção por poucos dias seria suficiente para alterar horários ferroviários e iniciar racionamentos em cidades distantes.

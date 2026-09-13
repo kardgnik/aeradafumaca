@@ -2,8 +2,6 @@
 
 #Lugares
 
-[[Caldeiras|Voltar para Caldeiras]]
-
 Coroa de Estrelas é a capital de [[Caldeiras]] e uma das maiores cidades do mundo conhecido. Erguida sobre o lago de lava no centro do [[Anel Partido]], ocupa ilhas de basalto, plataformas artificiais e estruturas sustentadas por pilares que desaparecem no fogo.
 
 Conhecida simplesmente como **a Coroa**, a cidade se estende por cerca de cento e quarenta quilômetros. Vista do alto, suas plataformas formam círculos incompletos ligados por pontes, canais metálicos e passagens suspensas. Entre elas, a lava permanece exposta, iluminando a parte inferior das construções e cobrindo o horizonte com calor e fumaça.

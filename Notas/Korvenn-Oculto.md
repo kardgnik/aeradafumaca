@@ -2,8 +2,6 @@
 
 #Spoiler
 
-[[Korvenn|Voltar para Korvenn]]
-
 ## A rede pode ser envenenada
 
 Korvenn descobriu que a infraestrutura antiga reage a impurezas introduzidas no fluxo de Éter. Algumas são isoladas. Outras provocam respostas semelhantes a inflamação, febre ou crescimento de tecido ao redor do ponto contaminado.

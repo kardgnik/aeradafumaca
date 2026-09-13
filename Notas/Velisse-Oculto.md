@@ -2,8 +2,6 @@
 
 #Spoiler
 
-[[Velisse|Voltar para Velisse]]
-
 ## A aparência da saúde
 
 Companhias utilizam Curadores do Espelho para esconder sinais visíveis de exposição ao Éter. Maquiagens alquímicas, lentes, iluminação e tratamentos mágicos reduzem temporariamente linhas luminosas, alterações de pele e deformações.

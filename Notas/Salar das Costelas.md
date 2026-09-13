@@ -2,8 +2,6 @@
 
 #Lugares
 
-[[Caldeiras|Voltar para Caldeiras]]
-
 O Salar das Costelas é uma vasta planície branca no nordeste de [[Caldeiras]]. Sua superfície parece feita de sal endurecido sobre areia clara, formando placas que estalam durante a noite e refletem tanta luz durante o dia que viajantes podem perder a visão sem proteção.
 
 O nome vem das [[Costelas Brancas]], formações curvas e colossais que emergem de uma das extremidades da planície. Elas podem ser vistas a muitos quilômetros de distância e servem como referência para caravanas que atravessam a região.

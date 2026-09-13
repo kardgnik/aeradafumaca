@@ -2,8 +2,6 @@
 
 #Spoiler
 
-[[Quor-Aven|Voltar para Quor-Aven]]
-
 ## A rede atravessa o sonho da Porta
 
 A antiga malha de transposição utiliza um intervalo extraplanar que toca a existência de Quor-Aven. Seus construtores não criaram a divindade, mas abriram incontáveis passagens através do lugar onde ela sonha.

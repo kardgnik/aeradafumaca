@@ -2,8 +2,6 @@
 
 #Lugares
 
-[[Caldeiras|Voltar para Caldeiras]]
-
 O Caminho da Cinza é a principal rota terrestre de aproximação ao [[Anel Partido]] e a [[Coroa de Estrelas]]. Apesar do nome, não é uma estrada contínua. Trata-se de uma sucessão de trilhas, abrigos, rampas de basalto e passagens que se deslocam conforme erupções e tempestades cobrem o terreno.
 
 A cinza vulcânica dá à região uma aparência uniforme. Pedras, animais, carroças e viajantes adquirem a mesma tonalidade poucas horas depois de entrar no caminho.

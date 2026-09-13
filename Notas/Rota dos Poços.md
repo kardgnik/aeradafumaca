@@ -2,8 +2,6 @@
 
 #Lugares
 
-[[Caldeiras|Voltar para Caldeiras]]
-
 A Rota dos Poços é o principal conjunto de caminhos do sul de [[Caldeiras]]. Ela conecta comunidades, depressões férteis, cisternas antigas e pontos onde a água subterrânea pode ser alcançada.
 
 Não é uma estrada contínua. Cada trecho existe porque conduz ao próximo lugar capaz de manter pessoas e animais vivos. Quando um poço seca, toda a rota precisa mudar.

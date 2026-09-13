@@ -2,8 +2,6 @@
 
 #Lugares
 
-[[Caldeiras|Voltar para Caldeiras]]
-
 O Último Farol ergue-se sobre um rochedo isolado na costa norte de [[Caldeiras]]. Sua torre escura pode ser vista muito antes da costa principal, e sua luz permanece acesa mesmo quando tempestades escondem estrelas e embarcações.
 
 Nenhuma cidade, família ou autoridade reivindica sua manutenção.

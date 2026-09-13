@@ -2,8 +2,6 @@
 
 #Lugares
 
-[[Keldrann|Voltar para Keldrann]]
-
 O Litoral das Agulhas é uma extensa região costeira coberta por pilares, lâminas e muralhas de gelo. As formações começam no interior e continuam pelo oceano, criando uma cordilheira parcialmente submersa que pode ser vista muito antes da costa.
 
 As agulhas não permanecem imóveis. Marés, correntes e o movimento das geleiras alteram lentamente os corredores entre elas. Rotas consideradas seguras podem fechar em poucos dias, enquanto novas passagens surgem onde mapas registravam apenas gelo contínuo.

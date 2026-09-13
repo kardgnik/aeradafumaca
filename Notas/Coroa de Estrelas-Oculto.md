@@ -2,8 +2,6 @@
 
 #Spoiler
 
-[[Coroa de Estrelas|Voltar para Coroa de Estrelas]]
-
 Coroa de Estrelas não é alimentada principalmente pelo calor da lava.
 
 Sob o lago de fogo existe uma das maiores concentrações conhecidas de [[Éter]]. Ela ocupa câmaras profundas do [[Anel Partido]] e se conecta à rede subterrânea construída pela primeira civilização para extrair e transportar energia do Sol.

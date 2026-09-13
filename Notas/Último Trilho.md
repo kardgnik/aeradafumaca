@@ -2,8 +2,6 @@
 
 #Lugares
 
-[[Keldrann|Voltar para Keldrann]]
-
 Último Trilho é a comunidade permanentemente habitada mais próxima do [[Branco Sem Retorno]]. A vila ocupa o término da ferrovia setentrional, onde depósitos, oficinas e uma pequena Estação antiga foram cercados por casas baixas e muralhas de neve compactada.
 
 A linha não deveria terminar ali. Trilhos abandonados continuam por alguns quilômetros além dos pátios, desaparecendo sob uma geleira que nenhum projeto conseguiu atravessar. Equipes ainda desenterram trechos durante o verão, mas nunca encontram a extremidade original.

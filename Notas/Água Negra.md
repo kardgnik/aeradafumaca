@@ -2,8 +2,6 @@
 
 #Lugares
 
-[[Keldrann|Voltar para Keldrann]]
-
 Água Negra é a principal cidade portuária de Keldrann. Foi construída ao redor de uma baía profunda cuja água escura permanece navegável durante quase todo o ano. Correntes oceânicas trazem águas menos frias para o litoral, enquanto uma antiga [[Estações de Transposição|Estação de Transposição]] parcialmente submersa libera calor sob os cais mais antigos.
 
 Grande parte do carvão, ferro, diamantes e pedras preciosas exportados por Keldrann passa por Água Negra. Navios de [[Vhalaris]] descarregam grãos, carne conservada, ferramentas, peças industriais e pequenas reservas de [[Éter]], retornando com os porões carregados de recursos minerais.

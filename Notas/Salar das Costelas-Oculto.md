@@ -2,8 +2,6 @@
 
 #Spoiler
 
-[[Salar das Costelas|Voltar para o Salar das Costelas]]
-
 O Salar das Costelas não foi formado por sal.
 
 Uma enorme concentração de [[Éter]] acumulou-se sob a região em um ponto de falha da rede construída pela primeira civilização. O material escapa continuamente por fissuras profundas, mas não chega à superfície em sua forma refinada nem produz o brilho azul-esverdeado conhecido em [[Vhalaris]].

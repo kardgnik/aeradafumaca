@@ -2,8 +2,6 @@
 
 #Lugares
 
-[[Caldeiras|Voltar para Caldeiras]]
-
 Porto Escória é o principal ponto de entrada legal de mercadorias estrangeiras em [[Caldeiras]]. Construído sobre pilares de basalto, docas metálicas e plataformas sucessivamente ampliadas, recebe alimentos, madeira, metais, máquinas e o pouco [[Éter]] importado pelo continente.
 
 A cidade cresce para o mar porque as falésias deixam pouco espaço em terra firme. Armazéns ocupam níveis diferentes, ligados por guindastes, rampas e elevadores de carga.

@@ -2,8 +2,6 @@
 
 #Lugares
 
-[[Caldeiras|Voltar para Caldeiras]]
-
 Verde-Fundo é uma comunidade agrícola construída em uma depressão fértil no sul de [[Caldeiras]]. Vista das regiões elevadas, sua vegetação parece uma mancha impossível entre dunas, pedras e cânions.
 
 A água subterrânea possui forte sabor metálico, mas permite o cultivo de frutas, ervas medicinais, fibras e grãos resistentes ao calor. Grande parte do alimento fresco que circula pela [[Rota dos Poços]] passa por Verde-Fundo.

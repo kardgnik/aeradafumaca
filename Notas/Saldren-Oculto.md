@@ -2,8 +2,6 @@
 
 #Spoiler
 
-[[Saldren|Voltar para Saldren]]
-
 ## A propriedade da Era da Fumaça
 
 As principais refinarias, ferrovias, hospitais industriais e companhias de habitação parecem pertencer a instituições diferentes. Contratos preservados por Cobradores Rubros revelam uma rede de participação, garantia e dívida que conduz aos mesmos grupos de credores.

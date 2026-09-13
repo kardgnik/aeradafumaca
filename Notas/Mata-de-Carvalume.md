@@ -2,8 +2,6 @@
 
 #Lugares
 
-[[Vhalaris|Voltar para Vhalaris]]
-
 A Mata de Carvalume ocupa uma faixa antiga entre as planícies agrícolas e as regiões úmidas de Vhalaris. Suas árvores de casca clara crescem sobre raízes largas, e algumas produzem uma resina que mantém chama baixa e estável mesmo sob chuva.
 
 Comunidades locais utilizam madeira caída, resina, frutos, fungos e plantas medicinais sem derrubar grandes áreas de uma só vez. Trilhas são abertas e abandonadas conforme as estações, permitindo que partes da mata se recuperem.

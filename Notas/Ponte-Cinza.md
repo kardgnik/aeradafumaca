@@ -2,8 +2,6 @@
 
 #Lugares
 
-[[Vhalaris|Voltar para Vhalaris]]
-
 Ponte-Cinza é uma vila mercantil situada onde uma ferrovia cruza um dos grandes rios que atravessam os Campos de Valebrando. Seu nome vem da antiga ponte de pedra, permanentemente manchada pela fuligem das locomotivas.
 
 O povoado funciona como ponto de encontro entre agricultores, barqueiros, comerciantes, mecânicos e trabalhadores sazonais. Grãos, tecidos, ferramentas, animais e correspondências mudam de mãos em seus armazéns antes de seguir para centros maiores.

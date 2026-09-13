@@ -2,8 +2,6 @@
 
 #Lugares
 
-[[Caldeiras|Voltar para Caldeiras]]
-
 O Campo de Vidro Negro ocupa uma extensa região a oeste do [[Anel Partido]]. Sua superfície é formada por areia fundida, obsidiana e placas escuras que refletem o céu como espelhos deformados.
 
 Durante o dia, o vidro absorve calor suficiente para queimar couro e madeira. À noite, libera lentamente essa temperatura, mantendo o ar acima do solo quente mesmo quando o restante do deserto esfria.

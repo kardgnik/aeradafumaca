@@ -2,8 +2,6 @@
 
 #Lugares
 
-[[Caldeiras|Voltar para Caldeiras]]
-
 Pedra-Seca é uma vila fortificada construída sobre um grande planalto no oeste de [[Caldeiras]]. Suas paredes acompanham a borda natural da rocha, e quase toda a comunidade permanece invisível para quem observa do deserto.
 
 O assentamento controla uma das aproximações mais seguras entre os portos ocidentais e o interior. Essa posição oferece riqueza, mas faz com que seus habitantes tratem toda caravana como oportunidade e possível ameaça.

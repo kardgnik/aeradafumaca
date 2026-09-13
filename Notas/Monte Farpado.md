@@ -2,8 +2,6 @@
 
 #Lugares
 
-[[Keldrann|Voltar para Keldrann]]
-
 Monte Farpado é a maior cidade de Keldrann e o principal entroncamento de sua malha ferroviária. Foi construída sobre uma elevação de rocha negra ao redor da maior [[Estações de Transposição|Estação de Transposição]] conhecida no continente, uma estrutura circular que emerge do gelo como a extremidade de uma máquina muito maior.
 
 Sete linhas ferroviárias alcançam a cidade por vales e passagens mantidas abertas durante quase todo o ano. Carvão, ferro, diamantes e pedras preciosas chegam das regiões mineiras, são pesados, armazenados e redistribuídos para [[Água Negra]] e outros portos. No sentido contrário chegam grãos, carne salgada, ferramentas e pequenas reservas de [[Éter]] importadas de [[Vhalaris]].

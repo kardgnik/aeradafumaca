@@ -2,8 +2,6 @@
 
 #Spoiler
 
-[[Thren-Kaiv|Voltar para Thren-Kaiv]]
-
 ## O soberano dos sobreviventes
 
 Thren-Kaiv não construiu a infraestrutura antiga e não governava a civilização quando ela habitava Vhalaris. Ele surgiu entre seus sobreviventes depois do exílio.

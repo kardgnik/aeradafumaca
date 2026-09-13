@@ -2,8 +2,6 @@
 
 #Spoiler
 
-[[Volgrin|Voltar para Volgrin]]
-
 ## A invenção construída sobre ruínas
 
 Grande parte da tecnologia de Éter apresentada como invenção moderna foi reconstruída a partir de componentes, diagramas e funções encontradas na infraestrutura antiga. Companhias apagam essa origem para preservar patentes e sustentar a narrativa de progresso vhalariano.

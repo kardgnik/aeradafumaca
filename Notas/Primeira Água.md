@@ -2,8 +2,6 @@
 
 #Tradições #Navegação
 
-[[Juncoalto|Voltar para Juncoalto]]
-
 A Primeira Água é o rito pelo qual os jovens de [[Juncoalto]] demonstram que são capazes de navegar sem depender da orientação constante dos mais velhos. Ela não acontece em uma idade fixa. Cada jovem é apresentado quando sua Casa considera que já consegue ler correntes, cuidar de uma embarcação e reconhecer os próprios limites.
 
 Concluir a Primeira Água não significa apenas alcançar a vida adulta. É receber uma das marcas de competência náutica mais respeitadas de [[Vhalaris]].

@@ -2,8 +2,6 @@
 
 #Spoiler
 
-[[Vhalaris|Voltar para Vhalaris]]
-
 O Éter não é um combustível mineral. Ele é energia extraída do Sol por uma infraestrutura criada por uma civilização anterior à atual. Parte dessa rede permanece enterrada sob Vhalaris e continua ativa, mesmo onde não existe ligação conhecida com as linhas modernas.
 
 As jazidas profundas são pontos de acesso, acúmulo ou vazamento dessa energia, não sua origem. A indústria contemporânea aprendeu a recolher e utilizar o que encontra, mas ainda não compreende a escala nem a finalidade completa do sistema que mantém em funcionamento.

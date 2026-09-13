@@ -2,8 +2,6 @@
 
 #Spoiler
 
-[[Azhur-Maal|Voltar para Azhur-Maal]]
-
 ## A fome segue estrelas feridas
 
 Azhur-Maal não criou a infraestrutura de [[Éter]]. Ele encontrou seus rastros em sistemas nos quais estrelas foram drenadas antes do fim natural.

@@ -2,8 +2,6 @@
 
 #Spoiler
 
-[[Lysara|Voltar para Lysara]]
-
 ## A chuva não destrói o Éter
 
 Templos de Lysara afirmam publicamente que seus filtros e bênçãos conseguem purificar pequenas contaminações de [[Éter]]. Isso é apenas parcialmente verdadeiro.
