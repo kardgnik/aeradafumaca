@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -240,10 +240,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "6e446f0e8b6c2a6e",
+  "active": "9ca8641bfc811350",
   "lastOpenFiles": [
-    "NOTAS/Sete Facetas.md",
     "NOTAS/Campo de Vidro Negro.md",
+    "NOTAS/Sete Facetas.md",
     "NOTAS/Keldrann.md",
     "NOTAS/Tempestades Brancas.md",
     "NOTAS/Branco Sem Retorno.md",
