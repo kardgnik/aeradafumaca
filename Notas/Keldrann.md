@@ -24,7 +24,6 @@ Além das geleiras centrais existe uma região à qual nenhuma ferrovia chega. E
 As [[Tempestades Brancas]] estão entre os maiores perigos naturais de Keldrann. Elas podem cobrir cidades, interromper ferrovias e apagar caminhos inteiros sob o gelo. Durante as mais intensas, céu, solo e horizonte desaparecem numa única extensão branca, tornando impossível distinguir distância, direção ou movimento.
 
 Linhas ferroviárias mantêm abrigos, depósitos de carvão e equipes especializadas para enfrentar sua passagem. Ainda assim, existem tempestades fortes o bastante para imobilizar locomotivas, soterrar trilhos e isolar assentamentos durante dias. Quando isso acontece, o frio é apenas o primeiro perigo. Logo começam o racionamento, a falta de combustível e a incerteza sobre quando o próximo carregamento conseguirá chegar.
->>>>>>> origin/main
 
 ## As ferrovias de Keldrann
 
