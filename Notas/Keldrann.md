@@ -2,7 +2,7 @@
 
 #Lugares
 
-Keldrann é um vasto continente insular coberto por cordilheiras, geleiras e extensões de terra onde o degelo jamais chega por completo. Embora seja conhecido como o Continente Branco, sua paisagem não é formada apenas por neve. Montanhas negras atravessam o gelo, minas abertas ferem os vales e longas linhas ferroviárias deixam rastros de fuligem entre cidades que dependem delas para continuar existindo.
+Keldrann é uma terra de cordilheiras, geleiras e extensões onde o degelo jamais chega por completo. Embora seja conhecido como o Continente Branco, sua paisagem não é formada apenas por neve. Montanhas negras atravessam o gelo, minas abertas ferem os vales e longas linhas ferroviárias deixam rastros de fuligem entre cidades que dependem delas para continuar existindo.
 
 O continente possui algumas das maiores reservas conhecidas de carvão, ferro, diamantes e pedras preciosas. Essa abundância, porém, jamais tornou Keldrann próspero. O solo cultivável é escasso, as colheitas são pequenas e uma única interrupção nas rotas comerciais pode transformar um inverno difícil em fome generalizada.
 
@@ -16,7 +16,17 @@ Em uma das extremidades do continente encontra-se uma vasta região de agulhas d
 
 Contornar essas agulhas constitui a rota marítima mais rápida entre Keldrann e [[Pelagora|Pelágora]]. Também é uma das mais perigosas. Navios pequenos, contrabandistas e piratas utilizam seus canais para despistar autoridades, pois embarcações militares maiores raramente conseguem persegui-los sem arriscar o casco entre as lâminas.
 
+<<<<<<< HEAD
 Além das geleiras centrais existe uma região à qual nenhuma ferrovia chega. Expedições tentaram atravessá-la por montanhas, túneis e trenós, mas nenhuma jamais retornou. Mapas encerram suas linhas antes da fronteira e registros oficiais tratam o território como intransponível. As comunidades mais próximas, entretanto, preservam inúmeras histórias sobre luzes sob o gelo, trilhos encontrados onde jamais houve uma locomotiva e vozes ouvidas durante [[Tempestades Brancas]].
+=======
+Além das geleiras centrais existe uma região à qual nenhuma ferrovia chega. Expedições tentaram atravessá-la por montanhas, túneis e trenós, mas nenhuma retornou. Mapas encerram suas linhas antes da fronteira e registros oficiais tratam o território como intransponível. As comunidades mais próximas, entretanto, preservam inúmeras histórias sobre luzes sob o gelo, trilhos encontrados onde jamais houve uma locomotiva e vozes ouvidas durante [[Tempestades Brancas|tempestades brancas]].
+
+## Tempestades Brancas
+
+As [[Tempestades Brancas]] estão entre os maiores perigos naturais de Keldrann. Elas podem cobrir cidades, interromper ferrovias e apagar caminhos inteiros sob o gelo. Durante as mais intensas, céu, solo e horizonte desaparecem numa única extensão branca, tornando impossível distinguir distância, direção ou movimento.
+
+Linhas ferroviárias mantêm abrigos, depósitos de carvão e equipes especializadas para enfrentar sua passagem. Ainda assim, existem tempestades fortes o bastante para imobilizar locomotivas, soterrar trilhos e isolar assentamentos durante dias. Quando isso acontece, o frio é apenas o primeiro perigo. Logo começam o racionamento, a falta de combustível e a incerteza sobre quando o próximo carregamento conseguirá chegar.
+>>>>>>> origin/main
 
 ## As ferrovias de Keldrann
 
