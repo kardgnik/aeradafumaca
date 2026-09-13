@@ -16,9 +16,7 @@ Em uma das extremidades do continente encontra-se uma vasta região de agulhas d
 
 Contornar essas agulhas constitui a rota marítima mais rápida entre Keldrann e [[Pelagora|Pelágora]]. Também é uma das mais perigosas. Navios pequenos, contrabandistas e piratas utilizam seus canais para despistar autoridades, pois embarcações militares maiores raramente conseguem persegui-los sem arriscar o casco entre as lâminas.
 
-<<<<<<< HEAD
-Além das geleiras centrais existe uma região à qual nenhuma ferrovia chega. Expedições tentaram atravessá-la por montanhas, túneis e trenós, mas nenhuma jamais retornou. Mapas encerram suas linhas antes da fronteira e registros oficiais tratam o território como intransponível. As comunidades mais próximas, entretanto, preservam inúmeras histórias sobre luzes sob o gelo, trilhos encontrados onde jamais houve uma locomotiva e vozes ouvidas durante [[Tempestades Brancas]].
-=======
+
 Além das geleiras centrais existe uma região à qual nenhuma ferrovia chega. Expedições tentaram atravessá-la por montanhas, túneis e trenós, mas nenhuma retornou. Mapas encerram suas linhas antes da fronteira e registros oficiais tratam o território como intransponível. As comunidades mais próximas, entretanto, preservam inúmeras histórias sobre luzes sob o gelo, trilhos encontrados onde jamais houve uma locomotiva e vozes ouvidas durante [[Tempestades Brancas|tempestades brancas]].
 
 ## Tempestades Brancas
