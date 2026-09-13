@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Keldrann.md",
+                "file": "NOTAS/Tempestades Brancas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Keldrann"
+              "title": "Tempestades Brancas"
             }
           }
         ],
@@ -214,9 +214,9 @@
   },
   "active": "0216d62bd17b5fa9",
   "lastOpenFiles": [
-    "NOTAS/Vhalaris.md",
     "NOTAS/Keldrann.md",
     "NOTAS/Vigília.md",
+    "NOTAS/Vhalaris.md",
     "NOTAS/Vigília-Oculto.md",
     "NOTAS/Tempestades Brancas-Oculto.md",
     "NOTAS/Keldrann-Oculto.md",
