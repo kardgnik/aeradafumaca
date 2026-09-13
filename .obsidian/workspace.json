@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Litoral das Agulhas.md",
+                "file": "NOTAS/Kharvyr.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Litoral das Agulhas"
+              "title": "Kharvyr"
             }
           }
         ],
@@ -226,11 +226,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "2f8ec647e7cd5c42",
+  "active": "0216d62bd17b5fa9",
   "lastOpenFiles": [
+    "NOTAS/Keldrann.md",
+    "NOTAS/Litoral das Agulhas.md",
     "NOTAS/Kharvyr.md",
     "NOTAS/Kharvyr-Oculto.md",
-    "NOTAS/Keldrann.md",
     "A Era da Fumaça.md",
     "NOTAS/Água Negra.md",
     "NOTAS/Campo de Vidro Negro.md",
@@ -253,7 +254,6 @@
     "NOTAS/Pedraluz.md",
     "NOTAS/Noite Profunda.md",
     "NOTAS/Neve Rubra.md",
-    "NOTAS/Luz Baixa.md",
     "IMAGENS/Panteao Mau.png",
     "IMAGENS/Panteao Neutro.png",
     "IMAGENS/Panteao Bom.png",
