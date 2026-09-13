@@ -4,7 +4,7 @@
 
 Neve Rubra é uma cidade de fundições, oficinas e pátios ferroviários erguida ao redor da [[Ferrugem Rubra]], a principal mina de ferro de Keldrann. Poeira mineral levada pelo vento colore a neve, os telhados e os córregos de degelo, tornando a região visível muito antes das primeiras construções.
 
-Parte do minério segue bruto para [[Vhalaris]], mas grande quantidade é transformada localmente em trilhos, rodas, ferramentas, vigas e peças de locomotiva. Essa capacidade tornou Neve Rubra menos dependente de componentes estrangeiros do que outras cidades do continente.
+Parte do minério segue bruto para [[Vhalaris]], mas grande quantidade é transformada localmente em trilhos, rodas, ferramentas, vigas e peças de locomotiva. Outro fluxo constante cruza o mar rumo a [[Caldeiras]], especialmente para [[Coroa de Estrelas]], onde o ferro de Neve Rubra é empregado na construção e na substituição contínua de vigas, placas, cabos e suportes das plataformas erguidas sobre o lago de fogo. Essa capacidade tornou Neve Rubra menos dependente de componentes estrangeiros do que outras cidades do continente, ao mesmo tempo que fez de sua produção uma necessidade estrutural para cidades muito distantes.
 
 ![[Neve Rubra sob o Sol Negro.png]]
 
