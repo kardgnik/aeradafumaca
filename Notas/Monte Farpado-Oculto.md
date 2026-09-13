@@ -29,3 +29,5 @@ Os mecanismos utilizados pelo Ofício das Linhas encontram-se apenas nas primeir
 Operadores começaram a encontrar indicações de uma linha que não aparece em nenhum mapa ferroviário ou registro de transposição. Todos os cálculos apontam para o [[Branco Sem Retorno|interior inacessível de Keldrann]].
 
 Coriolano acredita estar retirando calor de ruínas abandonadas. A Estação parece registrar o processo de outra maneira: está preparando uma partida.
+
+Parte do Éter desviado também percorre câmaras privadas sob o palácio e sustenta as alterações que mantêm [[Coriolano da Rocha]] vivo. A relação entre sua longevidade, a Estação e [[Thren-Kaiv]] permanece registrada em [[Coriolano da Rocha-Oculto|suas verdades ocultas]].
