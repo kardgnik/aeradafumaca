@@ -47,6 +47,6 @@ Durante Tempestades Brancas, viajantes relatam ouvir apitos de locomotivas vindo
 
 Os ferroviários ensinam que nenhuma luz vista além dos marcos deve ser seguida e que um apito respondido pela tempestade deve permanecer sem nova resposta. A recomendação é tratada publicamente como precaução contra desorientação, embora poucos trabalhadores consigam explicar por que os mesmos avisos aparecem em linhas separadas por centenas de quilômetros.
 
-Nas comunidades próximas da região inacessível, acredita-se que algumas tempestades não atravessam Keldrann ao acaso. Elas estariam regressando a algum lugar no interior do continente, carregando consigo tudo aquilo que conseguiram ocultar pelo caminho.
+Nas comunidades próximas de [[Branco Sem Retorno]], acredita-se que algumas tempestades não atravessam Keldrann ao acaso. Elas estariam regressando a algum lugar no interior do continente, carregando consigo tudo aquilo que conseguiram ocultar pelo caminho.
 
 ## [[Tempestades Brancas-Oculto|Verdades ocultas]]
