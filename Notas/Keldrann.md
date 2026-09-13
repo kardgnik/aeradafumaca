@@ -8,7 +8,7 @@ O continente possui algumas das maiores reservas conhecidas de carvão, ferro, d
 
 ## Geografia
 
-Keldrann possui um formato amplo e relativamente compacto, cercado por águas profundas. Grande parte de sua costa permanece navegável durante boa parte do ano, especialmente nas regiões onde correntes marítimas impedem que o gelo se feche por completo. Portos naturais e cidades costeiras recebem alimentos, ferramentas e pequenas quantidades de [[Éter]] trazidas de outros continentes.
+Keldrann possui um formato amplo e relativamente compacto, cercado por águas profundas. Grande parte de sua costa permanece navegável durante boa parte do ano, especialmente nas regiões onde correntes marítimas impedem que o gelo se feche por completo. Portos naturais e cidades costeiras recebem alimentos, ferramentas e pequenas quantidades de [[Éter]] trazidas de Vhalaris.
 
 O interior é dominado por cadeias montanhosas, planaltos congelados e geleiras que avançam lentamente sobre vales antigos. Existem regiões marginalmente habitáveis, onde rocha exposta, atividade subterrânea ou reservas de Éter preservadas nas ruínas tornam possível manter pequenas áreas livres do gelo. Fora dessas zonas, sobreviver exige combustível, abrigo preparado e acesso constante às ferrovias.
 
