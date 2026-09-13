@@ -10,6 +10,6 @@ Contornar o litoral oferece o caminho marítimo mais rápido entre Keldrann e [[
 
 Não existe ferrovia atravessando a região. Todas as tentativas de abrir estradas, instalar trilhos ou estabelecer minas nas Agulhas Antigas foram interrompidas pelos [[Kharvyr]], o povo isolado que habita suas fendas. Eles não utilizam carvão, ferrovia ou tecnologia estrangeira, mas suas comunidades parecem aquecidas, alimentadas e capazes de repelir expedições muito mais bem equipadas.
 
-Os Kharvyr consideram estrangeiro qualquer pessoa nascida além das Agulhas, mesmo que tenha vindo de outra região de Keldrann. Permitem que alguns náufragos recebam abrigo e sejam conduzidos de volta ao mar, mas respondem a exploradores, mineradores e soldados com armas de osso e gelo capazes de perfurar placas metálicas.
+Os Kharvyr consideram estrangeiro qualquer pessoa nascida além das Agulhas, mesmo que tenha vindo de outra região de Keldrann. Permitem que alguns náufragos recebam abrigo e sejam conduzidos de volta ao mar, mas respondem a exploradores, mineradores e soldados com armas de osso e [[Gelo-Veio]] capazes de perfurar placas metálicas. Objetos capturados, presenteados ou roubados desse povo alcançam valores extraordinários nos mercados de itens mágicos.
 
 Postos costeiros mantêm fogueiras, sinos e pequenas capelas de [[Eol-Sahar]], mas muitos desaparecem durante [[Tempestades Brancas]]. Quando suas luzes voltam a aparecer, marinheiros nem sempre concordam que estejam no mesmo lugar.

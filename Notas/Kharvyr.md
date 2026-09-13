@@ -16,7 +16,7 @@ As famílias vivem em grupos pequenos distribuídos por várias agulhas. Decisõ
 
 ## Ferramentas sem ferro
 
-As ferramentas Kharvyr parecem simples. São feitas de osso, pedra escura, couro, fibras animais e um gelo leitoso que não derrete quando levado para perto do fogo. Suas lâminas mantêm o corte durante anos, arpões atravessam cascos reforçados e pequenas pedras claras aquecem abrigos sem chama ou fumaça.
+As ferramentas Kharvyr parecem simples. São feitas de osso, pedra escura, couro, fibras animais e [[Gelo-Veio]], um material leitoso que não derrete quando levado para perto do fogo. Suas lâminas mantêm o corte durante anos, arpões atravessam cascos reforçados e pequenas pedras claras aquecem abrigos sem chama ou fumaça.
 
 Estrangeiros atribuem essas propriedades a encantamentos, monstros marinhos ou minerais desconhecidos. Expedições de Vhalaris tentaram comprar, roubar e reproduzir os objetos. Nenhuma conseguiu demonstrar como são fabricados, e ferramentas retiradas das Agulhas costumam ter altíssimo valor em mercados de itens mágicos.
 
@@ -26,10 +26,10 @@ Os Kharvyr não atacam toda pessoa que alcança sua costa. Náufragos desarmados
 
 Exploradores, soldados, mineradores e qualquer grupo que tente marcar território encontram uma resposta diferente. Sinos profundos ressoam dentro do gelo, passagens desaparecem sob névoa branca e projéteis lançados de pontos invisíveis perfuram metal antes de atingirem a madeira. Sobreviventes são devolvidos sem armas e com uma única advertência: a costa não está vazia.
 
-## Nomes no gelo
+## O Retorno ao Veio
 
-Os mortos Kharvyr não são enterrados. Seus nomes são gravados nas camadas mais antigas das agulhas fixas, sempre no ponto mais próximo da rocha continental. Os Kharvyr afirmam que aquilo que permanece unido à terra não pode ser levado pelo movimento do mar.
+Os mortos Kharvyr são cremados em câmaras profundas aquecidas por pedras sem chama. Quando restam apenas ossos frágeis e cinzas, tudo é triturado, misturado à água morna das cavernas e derramado em fendas que alcançam as raízes das Agulhas Antigas.
 
-Custódios de [[Namyss]] reconhecem nesse costume uma forma antiga de preservação do nome, mas os Kharvyr rejeitam qualquer tentativa de declarar que o rito pertence a uma divindade estrangeira. Para eles, os deuses podem reconhecer um costume sem adquirir autoridade sobre o povo que o preservou.
+Para os Kharvyr, a essência de seu povo não deve subir com a fumaça e abandonar a terra que o sustentou. Ela desce com a água, atravessa o gelo e retorna às reservas que aquecem as comunidades. Cada geração vive, portanto, cercada por uma pequena parte daqueles que vieram antes dela.
 
 ## [[Kharvyr-Oculto|Verdades ocultas]]
