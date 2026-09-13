@@ -22,7 +22,7 @@ Os Kharvyr chamam o Éter de Veio da Luz Ferida. Não conhecem todos os cálculo
 
 ## Armas e prosperidade
 
-O gelo leitoso usado pelos Kharvyr é produzido em câmaras onde pequenas quantidades de Éter circulam através de água submetida a pressão. O material não derrete em temperaturas comuns, mantém bordas mais finas do que aço e conduz energia quando submetido aos ritmos corretos.
+O [[Gelo-Veio]] usado pelos Kharvyr é produzido em câmaras onde pequenas quantidades de Éter circulam através de água submetida a pressão. O material não derrete em temperaturas comuns, mantém bordas mais finas do que aço e conduz energia quando submetido aos ritmos corretos.
 
 Lanças de Fenda liberam um impulso no instante do impacto, abrindo placas metálicas sem quebrar a ponta. Arpões de Retorno utilizam o mesmo princípio para contrair suas cordas e arrastar presas enormes. Mantos tecidos com fibras animais e filamentos cristalinos dispersam parte da energia das [[Tempestades Brancas]], permitindo que caçadores atravessem regiões nas quais estrangeiros sofreriam mutações ou morreriam congelados.
 
@@ -32,11 +32,17 @@ Sua tecnologia parece primitiva apenas porque não depende de metal, engrenagens
 
 ## Por que afastam estrangeiros
 
-As primeiras expedições minerais que alcançaram as Agulhas Antigas tentaram perfurar o gelo leitoso e instalar condutos de extração. A reserva respondeu formando uma Tempestade Branca que durou treze dias. Os Kharvyr perderam duas comunidades e encontraram criaturas usando restos dos uniformes estrangeiros.
+As primeiras expedições minerais que alcançaram as Agulhas Antigas tentaram perfurar depósitos de Gelo-Veio e instalar condutos de extração. A reserva respondeu formando uma Tempestade Branca que durou treze dias. Os Kharvyr perderam duas comunidades e encontraram criaturas usando restos dos uniformes estrangeiros.
 
 Desde então, toda tentativa de marcar território é tratada como o início de uma nova perfuração. Os Kharvyr sabem que cidades famintas, companhias mineradoras e governos estrangeiros jamais aceitariam deixar intacta uma reserva daquela dimensão se compreendessem o que existe sob a costa.
 
 Também guardam algo mais perigoso. A instalação soterrada não servia apenas para resfriamento. Ela controla a ancoragem entre as Agulhas e a plataforma continental. Em plena atividade, pode fazer a formação fixa avançar, fechar corredores oceânicos ou romper suas raízes de uma só vez. Qualquer dessas respostas destruiria comunidades Kharvyr e alteraria para sempre a rota entre Keldrann e [[Pelagora|Pelágora]].
+
+## O que realmente retorna
+
+O Retorno ao Veio não aprisiona as almas dos mortos. Décadas de alimentação, trabalho e exposição às câmaras das Agulhas deixam nos corpos Kharvyr pequenas concentrações de Éter. A cremação rompe os tecidos que retêm essa energia, e a mistura das cinzas com a água permite que ela seja absorvida novamente pela malha subterrânea.
+
+Os Kharvyr não conhecem essa distinção nos mesmos termos, mas sua crença preserva uma verdade: uma parcela mensurável da energia usada para sustentar cada vida retorna às reservas depois da morte. Memórias e personalidades não permanecem na rede, embora certos cantos executados durante o ritual provoquem respostas diferentes conforme a pessoa cremada.
 
 ## O chamado de Monte Farpado
 
