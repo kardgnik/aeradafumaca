@@ -21,7 +21,7 @@ O Chamado Plano Material. Lar dos Mortais, dominado por Cinco continentes e mare
 O coração industrial do mundo e berço da revolução do Éter.
 - [[Caldeiras|Continente das Caldeiras]] 
 Uma extensão abrasadora de cidades fabris, crateras e fornalhas monumentais.
-- [[Keldrann|Keldrann, o Continente Branco]] 
+- **Keldrann, o Continente Branco**
 Terras brancas onde o frio preserva ruínas anteriores à Era da Fumaça.
 - [[Pelagora|Pelágora, as Mil Ilhas]]
 Mil ilhas ligadas por comércio, navegação e segredos submersos.
