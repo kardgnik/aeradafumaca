@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -240,12 +240,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9ca8641bfc811350",
+  "active": "0216d62bd17b5fa9",
   "lastOpenFiles": [
-    "Corrente Rubra.md",
-    "NOTAS/Caldeiras.md",
-    "A Era da Fumaça.md",
+    "NOTAS/Ponte dos Cem Pilares.md",
     "NOTAS/Água Negra.md",
+    "NOTAS/Caldeiras.md",
+    "Corrente Rubra.md",
+    "A Era da Fumaça.md",
     "NOTAS/Keldrann.md",
     "NOTAS/Luz Baixa.md",
     "NOTAS/Branco Sem Retorno.md",
@@ -274,7 +275,6 @@
     "NOTAS/Pelagora.md",
     "NOTAS/Éter.md",
     "NOTAS/Monte Farpado-Oculto.md",
-    "NOTAS/Cevran.md",
     "IMAGENS/Panteao Mau.png",
     "IMAGENS/Panteao Neutro.png",
     "IMAGENS/Panteao Bom.png",
