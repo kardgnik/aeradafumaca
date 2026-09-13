@@ -10,7 +10,7 @@ No centro do continente, dezenas de vulcões incompletos formam uma cadeia circu
 
 ## Geografia
 
-Caldeiras possui pouco mais de dois mil quilômetros em sua maior extensão. Embora seja cercado pelo oceano, grande parte do litoral é formada por falésias, escarpas vulcânicas e enseadas estreitas. Águas profundas chegam diretamente aos paredões em várias regiões, obrigando portos a avançarem sobre o mar por meio de pilares e plataformas.
+Caldeiras possui pouco mais de dois mil quilômetros em sua maior extensão. Embora seja cercado pelo oceano, grande parte do litoral é formada por falésias, escarpas vulcânicas e enseadas estreitas. Águas profundas chegam diretamente aos paredões em várias regiões, obrigando portos a avançarem sobre o mar por meio de pilares e plataformas. Cadeias vulcânicas submarinas aquecem a [[Corrente Rubra]], que parte dessas águas e alcança a baía de [[Água Negra]], em Keldrann.
 
 O interior é ocupado por mares de dunas, planícies de pedra, cânions avermelhados, salinas e extensões de vidro vulcânico. Existem poucos rios permanentes. A maior parte da água corre sob a terra ou surge brevemente depois de tempestades, antes de desaparecer novamente sob a areia.
 
@@ -29,6 +29,8 @@ O Éter utilizado publicamente no continente é importado, caro e rigorosamente 
 Mesmo dentro da capital, ele é tratado como recurso estrangeiro e perigoso. Seu transporte é registrado, sua venda exige autorização e sua posse irregular resulta em confisco, prisão ou recrutamento forçado de quem demonstrou capacidade para fazê-lo funcionar.
 
 Os assentamentos exteriores raramente conseguem comprar essa tecnologia. A maioria depende de animais, velas, fornos, moinhos de vento, mecanismos de contrapeso e máquinas simples movidas pela força humana ou pelo calor natural do continente.
+
+O calor vulcânico também não pode ser transportado para toda parte. Oficinas e comunidades afastadas do Anel Partido queimam carvão importado da [[Noite Profunda]], em Keldrann, especialmente onde madeira e óleo são escassos demais para sustentar fornos durante todo o ano.
 
 Existem exceções. Saqueadores atacam carregamentos vindos de Vhalaris, caravanas desaparecem no deserto e motores de Éter surgem em oficinas clandestinas muito distantes da capital. Nessas comunidades, ninguém pergunta de onde veio uma máquina. Pergunta apenas se ela ainda funciona e quanto tempo falta até que pare.
 
@@ -80,7 +82,7 @@ O [[Salar das Costelas]] ocupa uma vasta planície branca no nordeste. Durante o
 
 [[Pedra-Seca]] foi construída sobre um planalto no oeste. Seus habitantes escavaram cisternas no interior da rocha e desenvolveram um sistema para capturar a umidade das noites frias. A vila controla uma das rotas mais seguras entre os portos ocidentais e o interior.
 
-[[Porto Escória]] é um assentamento industrial erguido sobre pilares de basalto. Recebe metais, alimentos, madeira e pequenas quantidades de Éter vindas de Vhalaris. Grande parte das cargas destinadas à capital passa por suas docas, tornando o porto um dos lugares mais vigiados e contrabandeados de Caldeiras.
+[[Porto Escória]] é um assentamento industrial erguido sobre pilares de basalto. Recebe metais, alimentos, madeira e pequenas quantidades de Éter vindas de Vhalaris, além de carvão e diamantes industriais trazidos de Keldrann. Grande parte das cargas destinadas à capital passa por suas docas, tornando o porto um dos lugares mais vigiados e contrabandeados de Caldeiras.
 
 [[Sete Poços]] cresceu ao redor de sete aberturas que alcançam um mesmo reservatório subterrâneo. Cada poço pertence tradicionalmente a uma família, embora nenhuma delas admita controlar mais água do que as outras.
 
@@ -88,7 +90,7 @@ O [[Salar das Costelas]] ocupa uma vasta planície branca no nordeste. Durante o
 
 O [[Cais de Basalto]] foi construído entre colunas vulcânicas e paredões avermelhados no sudeste. Seus navios possuem cascos reforçados para atravessar as formações que cercam a costa. É conhecido por receber embarcações que preferem não passar pelos registros de Porto Escória.
 
-O [[Campo de Vidro Negro]] é uma extensão de areia fundida a oeste do Anel Partido. Fragmentos de antigas construções podem ser vistos sob sua superfície, mas quebrar o vidro exige ferramentas especiais e costuma liberar bolsas de calor acumulado.
+O [[Campo de Vidro Negro]] é uma extensão de areia fundida a oeste do Anel Partido. Fragmentos de antigas construções podem ser vistos sob sua superfície, mas quebrar o vidro exige ferramentas revestidas com diamantes de Keldrann e costuma liberar bolsas de calor acumulado. Parte das placas extraídas retorna ao Continente Branco como componentes arquitetônicos e ferroviários.
 
 O [[Último Farol]] permanece aceso sobre um rochedo na costa norte, embora nenhum assentamento próximo reivindique sua manutenção. Marinheiros afirmam que sua luz se apaga sempre que um navio desaparece naquela costa.
 
