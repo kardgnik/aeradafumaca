@@ -12,7 +12,9 @@ Keldrann possui um formato amplo e relativamente compacto, cercado por águas pr
 
 O interior é dominado por cadeias montanhosas, planaltos congelados e geleiras que avançam lentamente sobre vales antigos. Existem regiões marginalmente habitáveis, onde rocha exposta, atividade subterrânea ou reservas de Éter preservadas nas ruínas tornam possível manter pequenas áreas livres do gelo. Fora dessas zonas, sobreviver exige combustível, abrigo preparado e acesso constante às ferrovias.
 
-Em uma das extremidades do continente encontra-se uma vasta região de agulhas de gelo. Lâminas, pilares e muralhas glaciais elevam-se por quilômetros e continuam além da costa, atravessando o mar como uma cordilheira parcialmente submersa. As formações mudam com o movimento do gelo, esmagam embarcações e criam corredores estreitos que podem desaparecer entre uma viagem e outra.
+Em uma das extremidades do continente encontra-se uma vasta região de agulhas de gelo. As formações mais antigas nascem da própria costa, unidas às falésias e às montanhas negras de Keldrann por espessas raízes glaciais. São estruturas imóveis, altas como fortalezas e atravessadas por fendas que avançam profundamente para o interior. A partir delas, campos mais jovens continuam pelo oceano como uma cordilheira parcialmente submersa. Essas agulhas marítimas mudam com o movimento do gelo, esmagam embarcações e criam corredores estreitos que podem desaparecer entre uma viagem e outra.
+
+Nas Agulhas Antigas vivem os [[Kharvyr]], um povo que não utiliza carvão, ferrovias ou máquinas importadas. Suas comunidades permanecem isoladas nas formações ligadas ao continente e consideram estrangeiro qualquer pessoa nascida além delas, inclusive outros habitantes de Keldrann. Apesar do isolamento e da ausência de comércio regular, parecem sofrer menos com fome e frio do que muitos assentamentos ligados aos trilhos.
 
 Contornar essas agulhas constitui a rota marítima mais rápida entre Keldrann e [[Pelagora|Pelágora]]. Também é uma das mais perigosas. Navios pequenos, contrabandistas e piratas utilizam seus canais para despistar autoridades, pois embarcações militares maiores raramente conseguem persegui-los sem arriscar o casco entre as lâminas.
 
@@ -74,7 +76,7 @@ As cidades cresceram muito além daquilo que suas terras conseguem alimentar. Me
 
 [[Água Negra]] é a cidade portuária mais importante do continente. Seu porto ocupa uma baía profunda mantida parcialmente livre do gelo por correntes oceânicas e pelo calor de uma Estação submersa. A maior parte do carvão e dos minérios enviados para [[Vhalaris]] passa por suas docas, assim como os alimentos e equipamentos que chegam em troca.
 
-O [[Litoral das Agulhas]] ocupa uma das extremidades de Keldrann. Suas formações de gelo avançam pelo mar, criando corredores estreitos e mutáveis. Contorná-las oferece a rota mais rápida até [[Pelagora|Pelágora]], razão pela qual embarcações pequenas, contrabandistas e piratas aceitam perigos que afastam navios militares.
+O [[Litoral das Agulhas]] ocupa uma das extremidades de Keldrann. As Agulhas Antigas permanecem fundidas ao continente, enquanto formações mais jovens avançam pelo mar e criam corredores estreitos e mutáveis. Contorná-las oferece a rota mais rápida até [[Pelagora|Pelágora]], razão pela qual embarcações pequenas, contrabandistas e piratas aceitam perigos que afastam navios militares. Os [[Kharvyr]] habitam a parte fixa da formação e impedem que estradas, minas ou ferrovias atravessem suas fronteiras.
 
 [[Luz Baixa]] cresceu ao redor dos elevadores e pátios ferroviários da [[Noite Profunda]], a maior mina de carvão de Keldrann. A cidade permanece sob uma camada quase constante de fuligem, enquanto galerias escavadas durante gerações descem por quilômetros sob a cordilheira.
 
