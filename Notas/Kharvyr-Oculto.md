@@ -22,7 +22,7 @@ Os Kharvyr chamam o Éter de Veio da Luz Ferida. Não conhecem todos os cálculo
 
 ## Armas e prosperidade
 
-O [[Gelo-Veio]] usado pelos Kharvyr é produzido em câmaras onde pequenas quantidades de Éter circulam através de água submetida a pressão. O material não derrete em temperaturas comuns, mantém bordas mais finas do que aço e conduz energia quando submetido aos ritmos corretos.
+O [[Nivério]] usado pelos Kharvyr é produzido em câmaras onde pequenas quantidades de Éter circulam através de água submetida a pressão. O material não derrete em temperaturas comuns, mantém bordas mais finas do que aço e conduz energia quando submetido aos ritmos corretos.
 
 Lanças de Fenda liberam um impulso no instante do impacto, abrindo placas metálicas sem quebrar a ponta. Arpões de Retorno utilizam o mesmo princípio para contrair suas cordas e arrastar presas enormes. Mantos tecidos com fibras animais e filamentos cristalinos dispersam parte da energia das [[Tempestades Brancas]], permitindo que caçadores atravessem regiões nas quais estrangeiros sofreriam mutações ou morreriam congelados.
 
@@ -32,7 +32,7 @@ Sua tecnologia parece primitiva apenas porque não depende de metal, engrenagens
 
 ## Por que afastam estrangeiros
 
-As primeiras expedições minerais que alcançaram as Agulhas Antigas tentaram perfurar depósitos de Gelo-Veio e instalar condutos de extração. A reserva respondeu formando uma Tempestade Branca que durou treze dias. Os Kharvyr perderam duas comunidades e encontraram criaturas usando restos dos uniformes estrangeiros.
+As primeiras expedições minerais que alcançaram as Agulhas Antigas tentaram perfurar depósitos de Nivério e instalar condutos de extração. A reserva respondeu formando uma Tempestade Branca que durou treze dias. Os Kharvyr perderam duas comunidades e encontraram criaturas usando restos dos uniformes estrangeiros.
 
 Desde então, toda tentativa de marcar território é tratada como o início de uma nova perfuração. Os Kharvyr sabem que cidades famintas, companhias mineradoras e governos estrangeiros jamais aceitariam deixar intacta uma reserva daquela dimensão se compreendessem o que existe sob a costa.
 
