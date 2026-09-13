@@ -22,6 +22,8 @@ Cada ativação confirma posição, capacidade e condições do destino. Os sobr
 
 Agentes de Thren-Kaiv já atravessaram em pequena escala. Alguns ocupam corpos preparados, outros chegam como projeções ou pactos. Eles observam governos, forças militares e dependência industrial.
 
+O mais antigo desses vínculos conhecidos permanece em Keldrann. Há mais de cento e vinte anos, Thren-Kaiv concedeu a [[Coriolano da Rocha]] a Investidura da Porta Branca. O Primaz acredita ter firmado uma aliança entre soberanos, mas os registros imperiais o tratam como regente subordinado e reconhecem [[Monte Farpado]] como território preservado para o retorno.
+
 ## A padronização dos corpos
 
 A civilização imperial utiliza Éter para produzir adaptações controladas. Soldados recebem órgãos capazes de suportar transposição, ossos reforçados e sentidos ajustados às armas e veículos que operam.
