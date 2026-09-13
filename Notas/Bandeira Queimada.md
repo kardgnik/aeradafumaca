@@ -34,6 +34,14 @@ Em [[Porto Escória]] e no [[Cais de Basalto]], a organização movimenta Éter 
 
 A Bandeira suborna fiscais, estivadores e pilotos, mas também presta serviços que autoridades locais não conseguem oferecer. Recupera cargas roubadas por grupos menores, escolta embarcações em trechos perigosos e pune quem saqueia sem autorização em áreas que considera suas.
 
+## A Linha Fria
+
+A Bandeira mantém agentes em [[Água Negra]], principal porto de Keldrann, e chama a ligação clandestina entre as duas cidades de Linha Fria. Esses intermediários compram diamantes sem registro, subornam tripulações e financiam incursões em busca de artefatos de [[Nivério]] retirados do território Kharvyr.
+
+Peças de Nivério são escondidas dentro de blocos de gelo comum e embarcadas junto a cargas refrigeradas. Durante a viagem, parecem apenas parte do sistema de conservação. Nos depósitos quentes de [[Porto Escória]], o gelo exterior derrete e revela armas, placas ou ferramentas que recebem nova procedência antes de seguir para [[Coroa de Estrelas]].
+
+A Bandeira raramente participa diretamente das incursões contra os Kharvyr. Prefere financiar caçadores, comprar objetos de sobreviventes e abandonar qualquer grupo capturado antes que sua ligação com Caldeiras possa ser provada.
+
 ## A Bandeira na Coroa
 
 Em [[Coroa de Estrelas]], a Bandeira evita a aparência de um exército. Opera por transportadoras, depósitos, casas de penhor, tavernas, oficinas e companhias de descarte. Mercadorias ilícitas entram misturadas a alimentos, minério, filtros de ar e peças destinadas à manutenção das plataformas.
