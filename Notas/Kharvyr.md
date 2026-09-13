@@ -16,7 +16,7 @@ As famílias vivem em grupos pequenos distribuídos por várias agulhas. Decisõ
 
 ## Ferramentas sem ferro
 
-As ferramentas Kharvyr parecem simples. São feitas de osso, pedra escura, couro, fibras animais e [[Gelo-Veio]], um material leitoso que não derrete quando levado para perto do fogo. Suas lâminas mantêm o corte durante anos, arpões atravessam cascos reforçados e pequenas pedras claras aquecem abrigos sem chama ou fumaça.
+As ferramentas Kharvyr parecem simples. São feitas de osso, pedra escura, couro, fibras animais e [[Nivério]], um material leitoso que não derrete quando levado para perto do fogo. Suas lâminas mantêm o corte durante anos, arpões atravessam cascos reforçados e pequenas pedras claras aquecem abrigos sem chama ou fumaça.
 
 Estrangeiros atribuem essas propriedades a encantamentos, monstros marinhos ou minerais desconhecidos. Expedições de Vhalaris tentaram comprar, roubar e reproduzir os objetos. Nenhuma conseguiu demonstrar como são fabricados, e ferramentas retiradas das Agulhas costumam ter altíssimo valor em mercados de itens mágicos.
 
