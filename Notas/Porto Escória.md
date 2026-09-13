@@ -2,7 +2,7 @@
 
 #Lugares
 
-Porto Escória é o principal ponto de entrada legal de mercadorias estrangeiras em [[Caldeiras]]. Construído sobre pilares de basalto, docas metálicas e plataformas sucessivamente ampliadas, recebe alimentos, madeira, metais, máquinas e o pouco [[Éter]] importado pelo continente.
+Porto Escória é o principal ponto de entrada legal de mercadorias estrangeiras em [[Caldeiras]]. Construído sobre pilares de basalto, docas metálicas e plataformas sucessivamente ampliadas, recebe alimentos, madeira, metais, máquinas e o pouco [[Éter]] importado pelo continente. Cargueiros vindos de [[Água Negra]] também desembarcam carvão e diamantes industriais extraídos em Keldrann.
 
 A cidade cresce para o mar porque as falésias deixam pouco espaço em terra firme. Armazéns ocupam níveis diferentes, ligados por guindastes, rampas e elevadores de carga.
 
@@ -24,6 +24,12 @@ Bairros pobres ocupam plataformas inferiores, próximas da água e dos depósito
 
 Visitantes são aceitos enquanto possuem documentos, dinheiro ou trabalho. Quem não consegue demonstrar nenhum dos três pode ser impedido de desembarcar.
 
+## A rota de Água Negra
+
+A rota entre Porto Escória e [[Água Negra]] acompanha a [[Corrente Rubra]], cujas águas profundas permanecem aquecidas pela atividade vulcânica submarina ao redor de Caldeiras. Navios partem carregados de vidro negro, basalto trabalhado e cerâmicas resistentes a grandes variações de temperatura. Retornam com ferro, carvão e diamantes de [[Sete Facetas]].
+
+Os diamantes são essenciais para as serras e ferramentas usadas no [[Campo de Vidro Negro]]. Sem reposição constante, os Cortadores conseguem recolher fragmentos superficiais, mas não abrir as grandes placas destinadas às oficinas da Coroa. Parte do vidro transformado retorna a Keldrann na forma de componentes arquitetônicos e ferroviários.
+
 ## Éter e contrabando
 
 Quase todo o Éter destinado a [[Coroa de Estrelas]] passa por Porto Escória. Comboios armados conduzem os carregamentos ao interior, acompanhados por registros apresentados em cada posto.
@@ -37,6 +43,8 @@ O [[Cais de Basalto]] é publicamente descrito como a origem de todo contrabando
 A [[Bandeira Queimada]] mantém em Porto Escória seu maior ponto de contato com mercadorias estrangeiras. Diferentemente dos contrabandistas menores, a organização possui cúmplices em várias etapas do registro. Estivadores separam cargas antes da pesagem, fiscais reconhecem lacres falsos, escribas substituem proprietários e pilotos conduzem embarcações até plataformas que oficialmente não receberam navio algum.
 
 Os armazéns utilizados pela Bandeira não pertencem publicamente a ela. São depósitos legítimos, oficinas, companhias de transporte e estabelecimentos que mudam de proprietário sempre que atraem atenção excessiva. Uma carga pode desembarcar ilegalmente, receber documentos novos em Porto Escória e chegar à [[Coroa de Estrelas]] como importação regular.
+
+Entre as cargas mais valiosas está o [[Nivério]] retirado do território Kharvyr. Peças chegam escondidas dentro de blocos de gelo comum transportados em porões refrigerados. Quando o revestimento derrete sob o calor de Caldeiras, o artefato permanece intacto e recebe documentos que o descrevem como vidro técnico ou ferramenta de mineração.
 
 A relação entre a organização e as autoridades não é simples. Alguns inspetores são pagos; outros são ameaçados; outros permitem certas operações em troca de informações sobre saqueadores independentes. Grandes apreensões acontecem com frequência suficiente para preservar a aparência de controle, mas raramente atingem os carregamentos mais importantes.
 

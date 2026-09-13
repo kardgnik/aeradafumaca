@@ -9,3 +9,5 @@ Os Kharvyr combinam o material com osso, couro, fibras animais e pedra escura. C
 Expedições de [[Vhalaris]] tentaram comprar, roubar e reproduzir esses objetos. Nenhuma demonstrou como o material é criado, e amostras arrancadas diretamente das Agulhas se comportam como gelo comum. Apenas peças trabalhadas pelos Kharvyr preservam suas propriedades, tornando um Escudo de Nivério, uma Lâmina de Nivério ou mesmo um fragmento autêntico extremamente valiosos nos mercados de itens mágicos.
 
 Quase todas as peças fora do [[Litoral das Agulhas]] chegaram ao mercado por meio de naufrágios, pilhagem ou violência. Comerciantes evitam discutir procedência, e os Kharvyr consideram cada objeto levado sem permissão parte de seu povo que ainda precisa ser devolvida.
+
+A [[Bandeira Queimada]] mantém a principal rota clandestina entre [[Água Negra]] e os mercados de [[Coroa de Estrelas]]. Seus agentes escondem peças de Nivério dentro de blocos de gelo comum transportados em porões refrigerados. Ao chegarem a [[Caldeiras]], o revestimento derrete e deixa intacto o material que não deveria estar na carga.
