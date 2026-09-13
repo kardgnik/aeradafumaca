@@ -30,9 +30,9 @@ Os mecânicos que mantêm essas máquinas aproximam-se de [[Volgrin]], mas muito
 
 ## Cidades e caminhos
 
-[[Vigília]] é a maior cidade de Keldrann e o principal entroncamento de sua malha ferroviária. Foi construída ao redor da maior Estação de Transposição conhecida no continente, uma estrutura monumental cujos níveis inferiores permanecem inacessíveis. O calor liberado sob a cidade mantém estufas, reservatórios e parte de seus bairros, enquanto linhas férreas partem em direção às minas, aos portos e aos assentamentos menores.
+[[Monte Farpado]] é a maior cidade de Keldrann e o principal entroncamento de sua malha ferroviária. Foi construída ao redor da maior Estação de Transposição conhecida no continente, uma estrutura monumental cujos níveis inferiores permanecem inacessíveis. O calor liberado sob a cidade mantém estufas, reservatórios e parte de seus bairros, enquanto linhas férreas partem em direção às minas, aos portos e aos assentamentos menores.
 
-Fora de Vigília, Keldrann é formado por cidades mineiras, portos protegidos, comunidades ferroviárias e povoados erguidos ao redor de Estações antigas. Os trilhos acompanham vales e passagens montanhosas, evitando geleiras instáveis e extensões nas quais nenhuma equipe consegue manter a linha aberta. Existem lugares que aparecem nos mapas apenas porque uma composição ainda para ali. Quando o trem deixa de chegar, o nome pode desaparecer na edição seguinte.
+Fora de Monte Farpado, Keldrann é formado por cidades mineiras, portos protegidos, comunidades ferroviárias e povoados erguidos ao redor de Estações antigas. Os trilhos acompanham vales e passagens montanhosas, evitando geleiras instáveis e extensões nas quais nenhuma equipe consegue manter a linha aberta. Existem lugares que aparecem nos mapas apenas porque uma composição ainda para ali. Quando o trem deixa de chegar, o nome pode desaparecer na edição seguinte.
 
 Casas de Passagem dedicadas a [[Tessara]] funcionam nos grandes entroncamentos, reunindo viajantes, notícias e oportunidades de transporte. Nos trechos onde tempestades e gelo apagam toda referência, lanternas brancas de [[Eol-Sahar]] marcam abrigos, bifurcações e caminhos pelos quais ainda é possível retornar.
 
@@ -67,6 +67,24 @@ Faroleiros de [[Eol-Sahar]] mantêm registros de pessoas que entram nas ruínas 
 Reservas de Éter preservadas em seus sistemas liberam calor suficiente para impedir o congelamento completo do solo ao redor. Nesses pequenos cinturões aquecidos surgem estufas, hortas protegidas e plantações capazes de sobreviver durante todo o ano. Esse calor torna possível sustentar uma comunidade, mas não uma grande população.
 
 As cidades cresceram muito além daquilo que suas terras conseguem alimentar. Mesmo assentamentos erguidos ao redor das Estações dependem de trens e navios carregados de grãos. Quando uma reserva perde intensidade, uma estufa falha ou uma composição não chega, a fome deixa de ser ameaça distante e passa a determinar quem receberá alimento primeiro.
+
+## Regiões, vilas e marcos do interior
+
+[[Monte Farpado]] ergue-se sobre uma elevação atravessada por galerias antigas e linhas ferroviárias. É a maior cidade de Keldrann, seu principal centro de distribuição e o lugar onde cargas, passageiros e decisões sobre abastecimento se cruzam. Sete ferrovias partem de seus terminais em direção aos portos, às regiões mineiras e aos assentamentos do interior.
+
+[[Água Negra]] é a cidade portuária mais importante do continente. Seu porto ocupa uma baía profunda mantida parcialmente livre do gelo por correntes oceânicas e pelo calor de uma Estação submersa. A maior parte do carvão e dos minérios enviados para [[Vhalaris]] passa por suas docas, assim como os alimentos e equipamentos que chegam em troca.
+
+O [[Litoral das Agulhas]] ocupa uma das extremidades de Keldrann. Suas formações de gelo avançam pelo mar, criando corredores estreitos e mutáveis. Contorná-las oferece a rota mais rápida até [[Pelagora|Pelágora]], razão pela qual embarcações pequenas, contrabandistas e piratas aceitam perigos que afastam navios militares.
+
+[[Luz Baixa]] cresceu ao redor dos elevadores e pátios ferroviários da [[Noite Profunda]], a maior mina de carvão de Keldrann. A cidade permanece sob uma camada quase constante de fuligem, enquanto galerias escavadas durante gerações descem por quilômetros sob a cordilheira.
+
+[[Pedraluz]] cerca a entrada da [[Sete Facetas]], a maior mina de diamantes do continente. Fortunas atravessam seus armazéns em cofres lacrados, embora a maioria das famílias dependa de alimentos enviados por trem e jamais tenha possuído uma das pedras retiradas sob suas próprias casas.
+
+[[Neve Rubra]] foi construída ao redor da [[Ferrugem Rubra]], a principal mina de ferro de Keldrann. Poeira mineral colore a neve, os telhados e os cursos de degelo. O ferro extraído ali retorna ao continente na forma de trilhos, pontes, ferramentas e locomotivas, além de abastecer as indústrias de Vhalaris.
+
+A [[Ponte dos Cem Pilares]] sustenta a principal linha entre Monte Farpado e Água Negra sobre uma geleira fraturada. Seus pilares precisam ser ajustados continuamente porque o gelo se move sob a estrutura. Fechar a ponte interrompe o caminho mais rápido entre o interior e o maior porto do continente.
+
+[[Último Trilho]] é a comunidade permanentemente habitada mais próxima do [[Branco Sem Retorno]]. A ferrovia termina diante de seus depósitos, e nenhum projeto de expansão conseguiu ultrapassar as geleiras seguintes. Expedições partem da vila em direção ao interior inexplorado. Nenhuma retornou.
 
 ## Minérios, comércio e fome
 
