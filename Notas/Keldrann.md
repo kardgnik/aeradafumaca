@@ -8,7 +8,7 @@ O continente possui algumas das maiores reservas conhecidas de carvão, ferro, d
 
 ## Geografia
 
-Keldrann possui um formato amplo e relativamente compacto, cercado por águas profundas. Grande parte de sua costa permanece navegável durante boa parte do ano, especialmente nas regiões onde correntes marítimas impedem que o gelo se feche por completo. Portos naturais e cidades costeiras recebem alimentos, ferramentas e pequenas quantidades de [[Éter]] trazidas de Vhalaris.
+Keldrann possui um formato amplo e relativamente compacto, cercado por águas profundas. Grande parte de sua costa permanece navegável durante boa parte do ano, especialmente nas regiões onde correntes marítimas impedem que o gelo se feche por completo. Portos naturais e cidades costeiras recebem alimentos, ferramentas e pequenas quantidades de [[Éter]] trazidas de [[Vhalaris]].
 
 O interior é dominado por cadeias montanhosas, planaltos congelados e geleiras que avançam lentamente sobre vales antigos. Existem regiões marginalmente habitáveis, onde rocha exposta, atividade subterrânea ou reservas de Éter preservadas nas ruínas tornam possível manter pequenas áreas livres do gelo. Fora dessas zonas, sobreviver exige combustível, abrigo preparado e acesso constante às ferrovias.
 
@@ -16,7 +16,7 @@ Em uma das extremidades do continente encontra-se uma vasta região de agulhas d
 
 Contornar essas agulhas constitui a rota marítima mais rápida entre Keldrann e [[Pelagora|Pelágora]]. Também é uma das mais perigosas. Navios pequenos, contrabandistas e piratas utilizam seus canais para despistar autoridades, pois embarcações militares maiores raramente conseguem persegui-los sem arriscar o casco entre as lâminas.
 
-Além das geleiras centrais existe uma região à qual nenhuma ferrovia chega. Expedições tentaram atravessá-la por montanhas, túneis e trenós, mas nenhuma retornou. Mapas encerram suas linhas antes da fronteira e registros oficiais tratam o território como intransponível. As comunidades mais próximas, entretanto, preservam inúmeras histórias sobre luzes sob o gelo, trilhos encontrados onde jamais houve uma locomotiva e vozes ouvidas durante tempestades brancas.
+Além das geleiras centrais existe uma região à qual nenhuma ferrovia chega. Expedições tentaram atravessá-la por montanhas, túneis e trenós, mas nenhuma jamais retornou. Mapas encerram suas linhas antes da fronteira e registros oficiais tratam o território como intransponível. As comunidades mais próximas, entretanto, preservam inúmeras histórias sobre luzes sob o gelo, trilhos encontrados onde jamais houve uma locomotiva e vozes ouvidas durante [[Tempestades Brancas]].
 
 ## As ferrovias de Keldrann
 
@@ -34,7 +34,7 @@ A maior parte das cidades e assentamentos de Keldrann foi construída ao redor d
 
 Os habitantes não sabem operar plenamente essa tecnologia. Portas permanecem seladas, mecanismos respondem a comandos incompreensíveis e câmaras inteiras são evitadas depois de acidentes que nenhuma oficina conseguiu explicar. Ainda assim, as Estações continuam sendo os lugares mais valiosos do continente.
 
-Reservas de Éter preservadas em seus sistemas liberam calor suficiente para impedir o congelamento completo do solo ao redor. Nesses pequenos cinturões aquecidos surgem estufas, hortas protegidas e plantações capazes de sobreviver durante parte do ano. Esse calor torna possível sustentar uma comunidade, mas não uma grande população.
+Reservas de Éter preservadas em seus sistemas liberam calor suficiente para impedir o congelamento completo do solo ao redor. Nesses pequenos cinturões aquecidos surgem estufas, hortas protegidas e plantações capazes de sobreviver durante todo ano. Esse calor torna possível sustentar uma comunidade, mas não uma grande população.
 
 As cidades cresceram muito além daquilo que suas terras conseguem alimentar. Mesmo assentamentos erguidos ao redor das Estações dependem de trens e navios carregados de grãos. Quando uma reserva perde intensidade, uma estufa falha ou uma composição não chega, a fome deixa de ser ameaça distante e passa a determinar quem receberá alimento primeiro.
 
@@ -44,6 +44,6 @@ Keldrann alimenta boa parte das fornalhas de [[Vhalaris]]. Carvão, ferro, diama
 
 Essa relação tornou Keldrann indispensável e dependente ao mesmo tempo. Vhalaris necessita de seus recursos, mas controla grande parte das máquinas, refinarias e rotas comerciais capazes de determinar quanto esses recursos valem. Em anos favoráveis, os carregamentos estrangeiros mantêm mercados abastecidos. Em anos ruins, cidades inteiras veem vagões de carvão partir enquanto armazéns de comida permanecem quase vazios.
 
-A riqueza mineral pode ser vista nos elevadores de carga, nas minas e nos cofres comerciais, mas raramente na mesa dos trabalhadores. Diamantes suficientes para comprar bairros inteiros atravessam comunidades nas quais pão, raízes e carne seca são contados antes de cada inverno.
+A riqueza mineral pode ser vista nos elevadores de carga, nas minas e nos cofres comerciais, mas raramente na mesa dos trabalhadores. Diamantes suficientes para comprar bairros inteiros atravessam comunidades nas quais pão, raízes e carne seca são contados.
 
 Keldrann é rico em tudo aquilo que os outros continentes desejam e pobre naquilo de que sua própria população necessita para sobreviver.
