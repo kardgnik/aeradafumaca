@@ -2,8 +2,6 @@
 
 #Lugares
 
-[[Vhalaris|Voltar para Vhalaris]]
-
 Os Campos de Valebrando ocupam uma ampla região das planícies centrais de Vhalaris. Suas fazendas produzem trigo, centeio, linho, tubérculos e forragem para cidades que jamais conseguiriam se alimentar apenas com suas áreas próximas.
 
 Ferrovias secundárias atravessam os campos e convergem em silos, moinhos e armazéns. Máquinas a vapor participam da preparação da terra e da colheita, mas grande parte do trabalho ainda depende de famílias rurais, trabalhadores sazonais, animais e ferramentas reparadas por gerações.

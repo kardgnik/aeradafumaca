@@ -2,8 +2,6 @@
 
 #NPC
 
-[[Monte Farpado|Voltar para Monte Farpado]]
-
 Coriolano da Rocha é o Primaz de [[Monte Farpado]] e o único soberano da maior cidade de Keldrann. Goliath de idade avançada, governa sem conselho legislativo, assembleia popular ou casa nobre capaz de contrariar seus decretos. Toda autoridade civil, ferroviária e militar exercida na cidade existe por delegação direta de seu cargo.
 
 Coriolano apresenta-se como um governante austero, disciplinado e paternal. Conhece os nomes dos chefes de linha, visita bairros atingidos por tempestades e comparece pessoalmente à chegada de grandes comboios de alimento. Raramente demonstra afeto, mas cultiva a imagem de alguém disposto a carregar decisões que nenhum conselho teria coragem de tomar.

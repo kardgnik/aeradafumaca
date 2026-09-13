@@ -2,8 +2,6 @@
 
 #Organizações #Política
 
-[[Juncoalto|Voltar para Juncoalto]]
-
 O Conselho das Casas de Maré governa [[Juncoalto]] e representa suas famílias, navegadores, oficinas e curandeiros. Apesar do nome, as Casas de Maré não formam uma nobreza hereditária. Em Juncoalto, uma casa é qualquer comunidade capaz de manter pessoas, embarcações e ofícios unidos através das cheias. Algumas nasceram de grandes famílias, outras de oficinas compartilhadas, tripulações de resgate ou grupos de vizinhos que passaram a dividir a mesma plataforma.
 
 Uma nova Casa somente pode ser reconhecida depois de atravessar um ciclo completo de cheia e estiagem sem abandonar aqueles que dependem dela. Também deve manter ao menos uma embarcação de socorro, reservar mantimentos para emergências e aceitar a obrigação de acolher moradores desalojados.

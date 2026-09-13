@@ -2,8 +2,6 @@
 
 #Organizações
 
-[[Caldeiras|Voltar para Caldeiras]]
-
 A **Bandeira Queimada** é a maior organização de saqueadores e contrabandistas de [[Caldeiras]]. Seus homens e intermediários atuam nos portos, nas estradas, nos assentamentos isolados e até nos níveis inferiores de [[Coroa de Estrelas]]. Para alguns, é uma confederação criminosa. Para outros, é o único poder capaz de transportar qualquer coisa pelo continente sem depender das licenças da capital.
 
 A organização não domina todo esse território pela quantidade de combatentes, mas pela rede que construiu. Saqueadores tomam mercadorias nas rotas; atravessadores alteram marcas e documentos; barqueiros transferem cargas entre embarcações; comerciantes legítimos recolocam os bens em circulação. Quando um objeto chega à Coroa, é comum que já tenha mudado de proprietário, embalagem e história várias vezes.

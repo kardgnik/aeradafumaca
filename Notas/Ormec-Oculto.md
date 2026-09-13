@@ -2,8 +2,6 @@
 
 #Spoiler
 
-[[Ormec|Voltar para Ormec]]
-
 ## As medidas já demonstram a verdade
 
 Os registros de produção de Éter variam segundo atividade solar, mesmo quando minas, equipes e refinarias permanecem constantes. Observatórios também detectaram uma redução gradual de energia, acompanhada por alterações mínimas na temperatura e nos ciclos atmosféricos.

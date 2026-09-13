@@ -2,8 +2,6 @@
 
 #Spoiler
 
-[[Tessara|Voltar para Tessara]]
-
 ## As rotas formam um desenho
 
 Ferrovias, cabos de Éter, canais comerciais e trajetos de transposição parecem ter crescido segundo necessidades econômicas independentes. Quando observados em escala continental, porém, reproduzem partes do desenho da antiga infraestrutura.

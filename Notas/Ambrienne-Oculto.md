@@ -2,8 +2,6 @@
 
 #Spoiler
 
-[[Ambrienne|Voltar para Ambrienne]]
-
 ## A chama que não reconhece o Éter
 
 As chamas consagradas a Ambrienne reagem de maneira anormal perto da antiga infraestrutura de [[Éter]]. Elas diminuem e deixam de produzir calor, mesmo quando continuam visíveis. Guardiões da Janela observam o fenômeno há décadas, mas os registros foram tratados como superstição de sacerdotes pouco familiarizados com tecnologia moderna.

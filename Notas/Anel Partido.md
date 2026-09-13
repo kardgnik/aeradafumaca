@@ -2,8 +2,6 @@
 
 #Lugares
 
-[[Caldeiras|Voltar para Caldeiras]]
-
 O Anel Partido é a imensa cadeia vulcânica que ocupa o centro de [[Caldeiras]]. Com aproximadamente quinhentos quilômetros de extensão, forma uma coroa irregular de montanhas negras ao redor do lago de lava sobre o qual foi construída [[Coroa de Estrelas]].
 
 Os vulcões parecem incompletos. Em vez de cones fechados e crateras isoladas, apresentam paredões interrompidos, encostas abertas e interiores voltados para uma mesma bacia. Rios de lava atravessam as rupturas e alimentam o lago central.

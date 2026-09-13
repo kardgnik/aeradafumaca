@@ -2,8 +2,6 @@
 
 #Spoiler
 
-[[Torven|Voltar para Torven]]
-
 ## Alguém ainda está lá embaixo
 
 Desde as primeiras escavações de Éter, devotos de Torven relatam três pancadas vindas de galerias vazias, tubulações seladas e máquinas desligadas. O culto interpretou os sinais como avisos do deus e salvou inúmeras vidas seguindo-os.

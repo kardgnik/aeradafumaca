@@ -2,8 +2,6 @@
 
 #Lugares
 
-[[Vhalaris|Voltar para Vhalaris]]
-
 Juncoalto é a maior comunidade permanente dos [[Baixios-de-Mouralume|Baixios de Mouralume]]. A vila foi construída sobre centenas de palafitas, plataformas interligadas e embarcações mantidas como extensões das próprias casas.
 
 Não existem ruas no sentido tradicional. Os moradores se orientam por canais, pontes suspensas, sinos e marcos pintados nas estacas. Durante as cheias maiores, partes inteiras da vila são soltas de suas amarras e rebocadas para posições mais seguras.

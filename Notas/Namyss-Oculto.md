@@ -2,8 +2,6 @@
 
 #Spoiler
 
-[[Namyss|Voltar para Namyss]]
-
 ## O Éter recorda
 
 A consciência distribuída na infraestrutura de [[Éter]] não armazena apenas energia. Ela registra padrões mentais de pessoas expostas a seus fluxos. Pensamentos, memórias e fragmentos de identidade podem permanecer na rede depois que o indivíduo se afasta ou morre.

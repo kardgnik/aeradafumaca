@@ -2,8 +2,6 @@
 
 #Spoiler
 
-[[Dravosk|Voltar para Dravosk]]
-
 ## O maior templo nunca construído
 
 A rede industrial de Vhalaris funciona como um templo de Dravosk mesmo onde seu nome jamais é pronunciado. Turnos definidos por máquinas, metas crescentes, dívida laboral e substituição de pessoas transformam produção em estrutura religiosa.

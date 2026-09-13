@@ -2,8 +2,6 @@
 
 #Spoiler
 
-[[Cevran|Voltar para Cevran]]
-
 ## O juramento das profundezas
 
 Poucos anos depois da descoberta do [[Éter]], representantes das primeiras companhias, pesquisadores e autoridades de Vhalaris firmaram um acordo conhecido hoje apenas como Juramento das Profundezas.

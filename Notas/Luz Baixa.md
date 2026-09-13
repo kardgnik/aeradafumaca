@@ -2,8 +2,6 @@
 
 #Lugares
 
-[[Keldrann|Voltar para Keldrann]]
-
 Luz Baixa é uma cidade mineira construída na entrada de um vale estreito, entre a antiga Estação que aquece seus bairros e os elevadores da [[Noite Profunda]], a maior mina de carvão de Keldrann.
 
 O nome vem das lanternas mantidas próximas ao chão para continuarem visíveis sob a fumaça e a neve. Fuligem cobre telhados, ruas e estufas, transformando o vale numa faixa escura que pode ser reconhecida a muitos quilômetros de distância.

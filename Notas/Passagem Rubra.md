@@ -2,8 +2,6 @@
 
 #Lugares
 
-[[Caldeiras|Voltar para Caldeiras]]
-
 A Passagem Rubra é um labirinto de cânions no sudeste de [[Caldeiras]]. Suas paredes mudam de cor ao longo do dia, passando do laranja claro ao vermelho profundo, e ocultam uma das rotas mais rápidas entre o interior e o [[Cais de Basalto]].
 
 Não existe uma única passagem. O nome designa dezenas de corredores, fendas, rampas naturais e leitos secos que podem formar caminhos diferentes conforme desmoronamentos e enchentes alteram o terreno.

@@ -2,8 +2,6 @@
 
 #Spoiler
 
-[[Coriolano da Rocha|Voltar para Coriolano da Rocha]]
-
 ## A primeira Tempestade Branca
 
 Coriolano não herdou a Primazia. Ele a criou.

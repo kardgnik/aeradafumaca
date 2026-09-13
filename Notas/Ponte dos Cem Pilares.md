@@ -2,8 +2,6 @@
 
 #Lugares
 
-[[Keldrann|Voltar para Keldrann]]
-
 A Ponte dos Cem Pilares conduz a principal ferrovia entre [[Monte Farpado]] e [[Água Negra]] sobre uma geleira profundamente fraturada. Apesar do nome, o número de pilares varia. Alguns foram esmagados pelo movimento do gelo, outros acrescentados em pontos onde a estrutura começou a ceder.
 
 Equipes vivem em postos distribuídos ao longo da travessia. Medem deslocamentos, substituem rebites, removem gelo e mantêm fogueiras de sinalização. Quando uma seção se move além do limite seguro, toda a ponte é fechada até que os trilhos possam ser alinhados novamente.

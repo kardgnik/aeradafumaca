@@ -2,8 +2,6 @@
 
 #Lugares
 
-[[Salar das Costelas|Voltar para o Salar das Costelas]]
-
 As Costelas Brancas são formações colossais que emergem da extremidade nordeste do [[Salar das Costelas]]. Dezenas de arcos curvos atravessam a crosta e se erguem muito acima de qualquer construção próxima.
 
 A distância entre as maiores estruturas permitiria que bairros inteiros fossem construídos sob elas. Nenhuma expedição confirmou onde terminam suas bases.

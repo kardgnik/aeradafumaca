@@ -2,8 +2,6 @@
 
 #Spoiler
 
-[[Eol-Sahar|Voltar para Eol-Sahar]]
-
 ## O farol já conhecia a rede
 
 Eol-Sahar conheceu a civilização que construiu a antiga infraestrutura de [[Éter]]. Antes de drenarem estrelas, seus membros atravessavam planos e mundos orientados por faróis dedicados a ele. A luz do deus permitia que viajantes preservassem origem e destino mesmo fora do Plano Material.

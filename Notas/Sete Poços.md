@@ -2,8 +2,6 @@
 
 #Lugares
 
-[[Caldeiras|Voltar para Caldeiras]]
-
 Sete Poços é uma vila do sul de [[Caldeiras]], construída ao redor de sete aberturas que alcançam um mesmo reservatório subterrâneo. Cada poço pertence tradicionalmente a uma família, embora todas dependam da mesma água.
 
 A vila é um dos pontos mais importantes da [[Rota dos Poços]]. Suas muralhas baixas, torres e pátios fechados foram construídos para proteger as entradas do reservatório, não para resistir a um grande exército.

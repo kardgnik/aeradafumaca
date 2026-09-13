@@ -2,8 +2,6 @@
 
 #Spoiler
 
-[[Caldeiras|Voltar para Caldeiras]]
-
 A rede subterrânea da primeira civilização atravessa Caldeiras da mesma forma que percorre [[Vhalaris]]. Suas linhas continuam conduzindo [[Éter]] sob desertos, cânions e montanhas, mesmo sem qualquer ligação reconhecida com a tecnologia atual.
 
 As [[Estações de Transposição]] abandonadas foram construídas sobre pontos dessa rede. Nenhuma delas funciona na superfície, mas inatividade não significa desconexão. Estruturas enterradas sob as ruínas continuam recebendo energia, transmitindo sinais e respondendo umas às outras.

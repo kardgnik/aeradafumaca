@@ -2,8 +2,6 @@
 
 #Lugares
 
-[[Caldeiras|Voltar para Caldeiras]]
-
 O Cais de Basalto é um porto do sudeste de [[Caldeiras]], construído entre colunas vulcânicas e paredões avermelhados. Plataformas estreitas avançam sobre águas profundas, sustentadas por pilares cravados diretamente na rocha.
 
 O acesso marítimo é difícil. Recifes, correntes laterais e agulhas de basalto obrigam embarcações a seguir canais conhecidos apenas pelos pilotos locais. Navios sem guia costumam ser observados da costa até encalharem ou decidirem recuar.
