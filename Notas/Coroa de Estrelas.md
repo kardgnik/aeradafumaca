@@ -12,6 +12,8 @@ Conhecida simplesmente como **a Coroa**, a cidade se estende por cerca de cento 
 
 As plataformas mais antigas foram talhadas em formações naturais de basalto. As posteriores dependem de pilares, contrapesos, cabos e estruturas metálicas substituídas continuamente. Nenhuma geração recebeu a cidade pronta. Manter Coroa de Estrelas significa reconstruí-la todos os dias.
 
+Grande parte do ferro empregado nessa reconstrução vem de [[Neve Rubra]], em [[Keldrann]]. Vigas, placas, cabos e suportes produzidos com o minério da [[Ferrugem Rubra]] chegam à capital por carregamentos regulares e são consumidos em quantidade tão elevada que atrasos no comércio com o Continente Branco podem paralisar obras, prolongar interdições e ameaçar plataformas inteiras. A Coroa domina técnicas capazes de sustentar uma cidade sobre a lava, mas depende do ferro keldranniano para mantê-las funcionando.
+
 Os distritos superiores concentram palácios, instituições técnicas, reservatórios, jardins protegidos e moradias capazes de filtrar parte da fumaça. Os inferiores abrigam fundições, oficinas, depósitos e habitações operárias. Quanto mais baixo o distrito, maior o calor e menor a distância entre seus pisos e a lava.
 
 Pontes podem ser fechadas para isolar incêndios, revoltas ou falhas estruturais. Em alguns bairros, o responsável pelas travessias exerce mais autoridade imediata do que qualquer magistrado distante.
