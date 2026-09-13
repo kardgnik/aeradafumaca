@@ -8,7 +8,7 @@ O continente possui algumas das maiores reservas conhecidas de carvão, ferro, d
 
 ## Geografia
 
-Keldrann possui um formato amplo e relativamente compacto, cercado por águas profundas. Grande parte de sua costa permanece navegável durante boa parte do ano, especialmente nas regiões onde correntes marítimas impedem que o gelo se feche por completo. Portos naturais e cidades costeiras recebem alimentos, ferramentas e pequenas quantidades de [[Éter]] trazidas de [[Vhalaris]].
+Keldrann possui um formato amplo e relativamente compacto, cercado por águas profundas. Grande parte de sua costa permanece navegável durante boa parte do ano, especialmente nas regiões onde correntes marítimas impedem que o gelo se feche por completo. A [[Corrente Rubra]], aquecida nas águas vulcânicas de [[Caldeiras]], alcança parte do litoral e contribui para manter navegável a baía de [[Água Negra]]. Portos naturais e cidades costeiras recebem alimentos, ferramentas e pequenas quantidades de [[Éter]] trazidas de [[Vhalaris]].
 
 O interior é dominado por cadeias montanhosas, planaltos congelados e geleiras que avançam lentamente sobre vales antigos. Existem regiões marginalmente habitáveis, onde rocha exposta, atividade subterrânea ou reservas de Éter preservadas nas ruínas tornam possível manter pequenas áreas livres do gelo. Fora dessas zonas, sobreviver exige combustível, abrigo preparado e acesso constante às ferrovias.
 
@@ -22,7 +22,7 @@ Além das geleiras centrais existe uma região à qual nenhuma ferrovia chega. E
 
 ## A Era da Fumaça
 
-Em Keldrann, a Era da Fumaça não começou com o domínio do [[Éter]], mas com a expansão das ferrovias e da mineração. O continente já possuía carvão em abundância, porém foi a procura crescente de [[Vhalaris]] por combustível, ferro, diamantes e pedras preciosas que transformou minas isoladas em centros de extração permanente.
+Em Keldrann, a Era da Fumaça não começou com o domínio do [[Éter]], mas com a expansão das ferrovias e da mineração. O continente já possuía carvão em abundância, porém foi a procura crescente de [[Vhalaris]] por combustível, ferro, diamantes e pedras preciosas, somada à demanda de Caldeiras por carvão e diamantes industriais, que transformou minas isoladas em centros de extração permanente.
 
 Linhas ferroviárias avançaram sobre vales congelados, ligaram minas às cidades e permitiram que comunidades distantes recebessem alimento durante o inverno. A mesma rede que reduziu o isolamento também aumentou a dependência. Assentamentos cresceram além da capacidade de suas estufas, minas passaram a produzir para contratos estrangeiros e regiões inteiras tornaram-se incapazes de sobreviver quando uma ferrovia deixa de funcionar.
 
@@ -74,23 +74,25 @@ As cidades cresceram muito além daquilo que suas terras conseguem alimentar. Me
 
 [[Monte Farpado]] ergue-se sobre uma elevação atravessada por galerias antigas e linhas ferroviárias. É a maior cidade de Keldrann, seu principal centro de distribuição e o lugar onde cargas, passageiros e decisões sobre abastecimento se cruzam. Sete ferrovias partem de seus terminais em direção aos portos, às regiões mineiras e aos assentamentos do interior.
 
-[[Água Negra]] é a cidade portuária mais importante do continente. Seu porto ocupa uma baía profunda mantida parcialmente livre do gelo por correntes oceânicas e pelo calor de uma Estação submersa. A maior parte do carvão e dos minérios enviados para [[Vhalaris]] passa por suas docas, assim como os alimentos e equipamentos que chegam em troca.
+[[Água Negra]] é a cidade portuária mais importante do continente. Seu porto ocupa uma baía profunda mantida parcialmente livre do gelo pela Corrente Rubra e pelo calor de uma Estação submersa. A maior parte do carvão e dos minérios enviados para [[Vhalaris]] e [[Porto Escória]] passa por suas docas, assim como os alimentos, equipamentos e materiais trabalhados que chegam em troca.
 
 O [[Litoral das Agulhas]] ocupa uma das extremidades de Keldrann. As Agulhas Antigas permanecem fundidas ao continente, enquanto formações mais jovens avançam pelo mar e criam corredores estreitos e mutáveis. Contorná-las oferece a rota mais rápida até [[Pelagora|Pelágora]], razão pela qual embarcações pequenas, contrabandistas e piratas aceitam perigos que afastam navios militares. Os [[Kharvyr]] habitam a parte fixa da formação e impedem que estradas, minas ou ferrovias atravessem suas fronteiras. Armas e proteções de [[Nivério]] retiradas de seu território estão entre os itens mágicos mais cobiçados do continente.
 
 [[Luz Baixa]] cresceu ao redor dos elevadores e pátios ferroviários da [[Noite Profunda]], a maior mina de carvão de Keldrann. A cidade permanece sob uma camada quase constante de fuligem, enquanto galerias escavadas durante gerações descem por quilômetros sob a cordilheira.
 
-[[Pedraluz]] cerca a entrada da [[Sete Facetas]], a maior mina de diamantes do continente. Fortunas atravessam seus armazéns em cofres lacrados, embora a maioria das famílias dependa de alimentos enviados por trem e jamais tenha possuído uma das pedras retiradas sob suas próprias casas.
+[[Pedraluz]] cerca a entrada da [[Sete Facetas]], a maior mina de diamantes do continente. Fortunas atravessam seus armazéns em cofres lacrados, enquanto pedras fraturadas seguem para as ferramentas usadas no Campo de Vidro Negro. A maioria das famílias depende de alimentos enviados por trem e jamais possuiu um dos diamantes retirados sob suas próprias casas.
 
 [[Neve Rubra]] foi construída ao redor da [[Ferrugem Rubra]], a principal mina de ferro de Keldrann. Poeira mineral colore a neve, os telhados e os cursos de degelo. O ferro extraído ali retorna ao continente na forma de trilhos, pontes, ferramentas e locomotivas, além de abastecer as indústrias de Vhalaris.
 
-A [[Ponte dos Cem Pilares]] sustenta a principal linha entre Monte Farpado e Água Negra sobre uma geleira fraturada. Seus pilares precisam ser ajustados continuamente porque o gelo se move sob a estrutura. Fechar a ponte interrompe o caminho mais rápido entre o interior e o maior porto do continente.
+A [[Ponte dos Cem Pilares]] sustenta a principal linha entre Monte Farpado e Água Negra sobre uma geleira fraturada. Seus cem apoios originais foram produzidos com vidro negro de Caldeiras, embora apenas sessenta e três ainda permaneçam. Fechar a ponte interrompe o caminho mais rápido entre o interior e o maior porto do continente.
 
 [[Último Trilho]] é a comunidade permanentemente habitada mais próxima do [[Branco Sem Retorno]]. A ferrovia termina diante de seus depósitos, e nenhum projeto de expansão conseguiu ultrapassar as geleiras seguintes. Expedições partem da vila em direção ao interior inexplorado. Nenhuma retornou.
 
 ## Minérios, comércio e fome
 
 Keldrann alimenta boa parte das fornalhas de [[Vhalaris]]. Carvão, ferro, diamantes, pedras preciosas e outros minérios deixam o continente em cargueiros e longas composições ferroviárias. Em troca, chegam alimentos, equipamentos industriais e pequenas quantidades de Éter.
+
+O comércio com [[Caldeiras]] é menor, mas depende de uma troca que nenhum dos dois continentes consegue realizar sozinho. Diamantes industriais de Sete Facetas permitem cortar as placas do Campo de Vidro Negro. As fornalhas de Coroa de Estrelas estabilizam esse material e o devolvem a Keldrann na forma de pilares, revestimentos e componentes resistentes a temperaturas extremas. Regiões caldeirenses afastadas dos vulcões também dependem do carvão de Noite Profunda.
 
 Essa relação tornou Keldrann indispensável e dependente ao mesmo tempo. Vhalaris necessita de seus recursos, mas controla grande parte das máquinas, refinarias e rotas comerciais capazes de determinar quanto esses recursos valem. Em anos favoráveis, os carregamentos estrangeiros mantêm mercados abastecidos. Em anos ruins, cidades inteiras veem vagões de carvão partir enquanto armazéns de comida permanecem quase vazios.
 
