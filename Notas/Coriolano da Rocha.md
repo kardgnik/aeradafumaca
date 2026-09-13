@@ -6,6 +6,8 @@ Coriolano da Rocha é o Primaz de [[Monte Farpado]] e o único soberano da maior
 
 Coriolano apresenta-se como um governante austero, disciplinado e paternal. Conhece os nomes dos chefes de linha, visita bairros atingidos por tempestades e comparece pessoalmente à chegada de grandes comboios de alimento. Raramente demonstra afeto, mas cultiva a imagem de alguém disposto a carregar decisões que nenhum conselho teria coragem de tomar.
 
+![[O Primaz de Monte Farpado.png]]
+
 ## O Primaz sem inverno
 
 Coriolano já governava Monte Farpado antes de o Éter receber esse nome, antes das primeiras refinarias de Vhalaris e antes de locomotivas cruzarem Keldrann. Documentos preservados pelas Casas de Audiência registram decretos assinados por ele há mais de cento e vinte anos. A caligrafia, o selo e os relatos de sua aparência permanecem praticamente inalterados.

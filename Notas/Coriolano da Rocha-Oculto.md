@@ -12,6 +12,8 @@ Quando retornou, a tempestade cessou. O calor voltou às fundações, os primeir
 
 Ele nunca contou que, durante aqueles nove dias, a Estação estabeleceu uma ligação incompleta com o mundo dos sobreviventes da civilização antiga. Do outro lado estava [[Thren-Kaiv]], ainda consolidando o império construído após o exílio.
 
+![[Investidura na Porta Branca.png]]
+
 ## A Investidura da Porta Branca
 
 Thren-Kaiv ofereceu calor, longevidade e conhecimento suficiente para estabilizar a Estação. Em troca, Coriolano deveria erguer uma autoridade indivisível sobre a estrutura, suas rotas e todos os que dependessem delas. O goliath aceitou porque acreditava negociar como representante de um povo condenado, não como devoto.

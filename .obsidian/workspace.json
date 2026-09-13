@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Monte Farpado.md",
+                "file": "NOTAS/Keldrann.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Monte Farpado"
+              "title": "Keldrann"
             }
           },
           {
@@ -242,6 +242,12 @@
   },
   "active": "0216d62bd17b5fa9",
   "lastOpenFiles": [
+    "NOTAS/Monte Farpado.md",
+    "NOTAS/Coriolano da Rocha.md",
+    "NOTAS/Coriolano da Rocha-Oculto.md",
+    "IMAGENS/Investidura na Porta Branca.png",
+    "IMAGENS/O Primaz de Monte Farpado.png",
+    "IMAGENS/Monte Farpado sob o sol negro.png",
     "NOTAS/Keldrann.md",
     "NOTAS/Tempestades Brancas.md",
     "NOTAS/Tempestades Brancas-Oculto.md",
@@ -259,13 +265,10 @@
     "NOTAS/Água Negra.md",
     "NOTAS/Campo de Vidro Negro.md",
     "NOTAS/Caldeiras.md",
-    "NOTAS/Monte Farpado.md",
     "NOTAS/Vhalaris.md",
     "NOTAS/Pelagora.md",
     "NOTAS/Éter.md",
     "NOTAS/Monte Farpado-Oculto.md",
-    "NOTAS/Coriolano da Rocha.md",
-    "NOTAS/Coriolano da Rocha-Oculto.md",
     "NOTAS/Cevran.md",
     "NOTAS/Branco Sem Retorno.md",
     "NOTAS/Coroa de Estrelas.md",
@@ -274,9 +277,6 @@
     "IMAGENS/Panteao Bom.png",
     "Panteao Bom 1.png",
     "IMAGENS/Panteao.png",
-    "IMAGENS/Magnus Ledray.png",
-    "IMAGENS/Magnus Ledray e Seu Burrinho.png",
-    "Magnus Ledray e o vagão de Brumaferro.png",
     "PJ",
     "IMAGENS",
     "NOTAS"
