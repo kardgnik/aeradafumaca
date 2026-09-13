@@ -6,6 +6,8 @@ O Litoral das Agulhas é uma extensa região costeira coberta por pilares, lâmi
 
 Além da costa começa o campo oceânico. Suas formações são mais jovens, encontram-se separadas do continente e não permanecem imóveis. Marés, correntes e o movimento das geleiras alteram lentamente os corredores entre elas. Rotas consideradas seguras podem fechar em poucos dias, enquanto novas passagens surgem onde mapas registravam apenas gelo contínuo.
 
+![[Litoral das Agulhas sob o Sol Negro.png]]
+
 Contornar o litoral oferece o caminho marítimo mais rápido entre Keldrann e [[Pelagora|Pelágora]]. Embarcações pequenas, contrabandistas e piratas utilizam os corredores para escapar de navios militares maiores. Naufrágios ficam presos entre as formações durante anos, alguns suspensos acima da água pelo próprio gelo.
 
 Não existe ferrovia atravessando a região. Todas as tentativas de abrir estradas, instalar trilhos ou estabelecer minas nas Agulhas Antigas foram interrompidas pelos [[Kharvyr]], o povo isolado que habita suas fendas. Eles não utilizam carvão, ferrovia ou tecnologia estrangeira, mas suas comunidades parecem aquecidas, alimentadas e capazes de repelir expedições muito mais bem equipadas.

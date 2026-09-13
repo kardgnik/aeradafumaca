@@ -6,6 +6,8 @@
 
 Grande parte do carvão, ferro, diamantes e pedras preciosas exportados por Keldrann passa por Água Negra. Navios de [[Vhalaris]] descarregam grãos, carne conservada, ferramentas, peças industriais e pequenas reservas de [[Éter]], retornando com os porões carregados de recursos minerais.
 
+![[Água Negra sob o sol negro.png]]
+
 ## A cidade dos cais escuros
 
 Armazéns, guindastes e linhas ferroviárias ocupam quase toda a margem da baía. A neve raramente permanece branca por muito tempo. Fuligem, óleo e poeira de minério formam uma crosta escura sobre telhados, plataformas e blocos de gelo presos entre os pilares.
