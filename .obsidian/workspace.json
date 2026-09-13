@@ -98,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vik",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 322.3000183105469
   },
   "right": {
     "id": "5ba1bfa9dc09bea3",
