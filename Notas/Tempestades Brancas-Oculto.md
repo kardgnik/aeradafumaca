@@ -4,6 +4,8 @@
 
 As Tempestades Brancas não são apenas consequências climáticas do calor produzido pelo [[Éter]]. Durante sua formação, partículas de gelo carregam energia retirada das reservas e a espalham por toda a frente da tempestade. Respirar esse ar, permanecer exposto à neve ou atravessar uma região atingida permite que o Éter alcance corpos e manifestações mágicas sem passar por qualquer processo de refinamento.
 
+![[Mutação sob a Tempestade Branca.png]]
+
 ## Mutações
 
 A exposição inicial costuma ampliar características que a pessoa já possuía. Alguém fisicamente forte pode regressar com musculatura mais densa, resistência incomum ou força muito superior à anterior. Conjuradores percebem maior facilidade para manipular magia, sustentar efeitos e alcançar reservas de poder que antes não conseguiam tocar. Sentidos, velocidade, memória ou capacidade de cura também podem ser ampliados quando já eram parte importante da pessoa exposta.

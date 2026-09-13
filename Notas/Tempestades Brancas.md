@@ -9,6 +9,8 @@ Elas recebem esse nome não apenas pela neve, mas pelo modo como apagam o mundo.
 
 O vento carrega cristais finos o bastante para atravessar frestas, congelar mecanismos e ferir pele exposta. Respirar sem proteção causa dor e desorientação. Em áreas abertas, a neve se acumula com velocidade suficiente para cobrir trilhos, portas e pequenos edifícios antes que seus ocupantes consigam abandoná-los.
 
+![[Locomotiva contra a Tempestade Branca.png]]
+
 ## Sinais da aproximação
 
 Habitantes experientes reconhecem mudanças que antecedem uma Tempestade Branca. O vento pode cessar por completo, sons distantes tornam-se estranhamente nítidos e a fuligem das locomotivas deixa de se dispersar. Animais procuram paredes, túneis e depressões do terreno. Pouco depois, uma linha clara surge no horizonte e avança como se estivesse apagando a paisagem.
