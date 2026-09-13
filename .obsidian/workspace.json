@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Coriolano da Rocha-Oculto.md",
+                "file": "NOTAS/Keldrann.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Coriolano da Rocha-Oculto"
+              "title": "Keldrann"
             }
           }
         ],
@@ -214,12 +214,12 @@
   },
   "active": "0216d62bd17b5fa9",
   "lastOpenFiles": [
-    "NOTAS/Coriolano da Rocha.md",
-    "NOTAS/Cevran.md",
-    "NOTAS/Monte Farpado-Oculto.md",
-    "NOTAS/Branco Sem Retorno.md",
     "NOTAS/Monte Farpado.md",
+    "NOTAS/Monte Farpado-Oculto.md",
+    "NOTAS/Coriolano da Rocha.md",
     "NOTAS/Coriolano da Rocha-Oculto.md",
+    "NOTAS/Cevran.md",
+    "NOTAS/Branco Sem Retorno.md",
     "NOTAS/Coroa de Estrelas.md",
     "NOTAS/Keldrann.md",
     "NOTAS/Tempestades Brancas.md",
