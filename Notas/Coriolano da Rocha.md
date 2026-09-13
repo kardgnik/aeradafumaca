@@ -8,6 +8,16 @@ Coriolano da Rocha é o Primaz de [[Monte Farpado]] e o único soberano da maior
 
 Coriolano apresenta-se como um governante austero, disciplinado e paternal. Conhece os nomes dos chefes de linha, visita bairros atingidos por tempestades e comparece pessoalmente à chegada de grandes comboios de alimento. Raramente demonstra afeto, mas cultiva a imagem de alguém disposto a carregar decisões que nenhum conselho teria coragem de tomar.
 
+## O Primaz sem inverno
+
+Coriolano já governava Monte Farpado antes de o Éter receber esse nome, antes das primeiras refinarias de Vhalaris e antes de locomotivas cruzarem Keldrann. Documentos preservados pelas Casas de Audiência registram decretos assinados por ele há mais de cento e vinte anos. A caligrafia, o selo e os relatos de sua aparência permanecem praticamente inalterados.
+
+Não existe uma explicação oficial para sua longevidade. Alguns afirmam que Coriolano é apenas o nome adotado por uma sucessão secreta de governantes. Outros acreditam que os goliaths das antigas linhagens de Keldrann envelhecem de maneira diferente. O Primaz nunca confirmou qualquer versão e tornou crime abrir seus arquivos médicos ou investigar sua genealogia sem autorização.
+
+Ele aparece sempre com o corpo inteiramente coberto por roupas pesadas, gola alta e luvas, mesmo no interior aquecido de seu palácio. Antigas funcionárias de sua residência alegaram ter visto veias brancas e azuladas atravessando seus braços, peito e pescoço como rachaduras luminosas sob a pele. Os relatos foram tratados como difamação, embora todos descrevessem marcas semelhantes.
+
+A explicação mais aceita entre os habitantes é que Coriolano sobreviveu a uma [[Tempestades Brancas|Tempestade Branca]] nos primeiros anos de seu governo. Para alguns, a tempestade o amaldiçoou. Para outros, escolheu o único homem capaz de manter Monte Farpado viva.
+
 ## A Primazia
 
 O título de Primaz é vitalício. Coriolano nomeia ministros, magistrados, comandantes e administradores, podendo removê-los sem votação. O Ofício das Linhas reúne os técnicos responsáveis por ferrovias, estoques e aquecimento, mas não possui autoridade para contrariar uma ordem direta.
@@ -25,3 +35,5 @@ Companheiros de [[Torven]] respeitam os recursos destinados a resgates, mas enfr
 ## Motivação
 
 Coriolano acredita que Monte Farpado precisa permanecer forte para impedir o colapso de Keldrann. Seu objetivo não é ser amado, mas tornar a cidade impossível de substituir. Quanto mais ferrovias, estoques e decisões dependerem de Monte Farpado, menor será a possibilidade de outro poder desafiar sua soberania.
+
+## [[Coriolano da Rocha-Oculto|Verdades ocultas]]
