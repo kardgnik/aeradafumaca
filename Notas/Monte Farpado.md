@@ -6,8 +6,6 @@ Monte Farpado é a maior cidade de Keldrann e o principal entroncamento de sua m
 
 Sete linhas ferroviárias alcançam a cidade por vales e passagens mantidas abertas durante quase todo o ano. Carvão, ferro, diamantes e pedras preciosas chegam das regiões mineiras, são pesados, armazenados e redistribuídos para [[Água Negra]] e outros portos. No sentido contrário chegam grãos, carne salgada, ferramentas e pequenas reservas de [[Éter]] importadas de [[Vhalaris]].
 
-![[Monte Farpado sob o sol negro.png]]
-
 ## A cidade ao redor da Estação
 
 Monte Farpado cresceu em círculos irregulares ao redor da ruína. Os bairros mais antigos ocupam galerias, plataformas e fundações cuja finalidade original permanece desconhecida. Construções posteriores avançaram pelas encostas, ligadas por passagens cobertas, pontes metálicas e ruas íngremes nas quais a neve se mistura continuamente à fuligem.
@@ -23,6 +21,8 @@ A Estação Central de Monte Farpado não é a ruína antiga, mas o enorme termi
 As cargas são inspecionadas por Aferidores de [[Ormec]]. Casas de Passagem dedicadas a [[Tessara]] ocupam as galerias do terminal e funcionam como mercados, alojamentos, pontos de contratação e lugares onde viajantes descobrem quais linhas ainda estão abertas.
 
 Monte Farpado também abriga algumas das maiores oficinas de Keldrann. Artífices de [[Volgrin]], muitos vindos de [[Coroa de Estrelas]], adaptam locomotivas para o frio, constroem lâminas capazes de abrir trilhos soterrados e desmontam equipamentos estrangeiros na tentativa de produzir peças que não dependam de Vhalaris.
+
+O intercâmbio começou quando engenheiros de Caldeiras foram contratados para estudar caldeiras, válvulas e tubulações submetidas ao frio extremo. Eles trouxeram técnicas de controle de pressão, cerâmicas térmicas e vidro vulcânico estabilizado. Em troca, oficinas de Monte Farpado ensinaram a construir mecanismos capazes de continuar funcionando durante variações bruscas de temperatura, conhecimento hoje utilizado nas plataformas inferiores da Coroa.
 
 ## Governo e abastecimento
 
