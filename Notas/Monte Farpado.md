@@ -20,9 +20,9 @@ Quanto mais próximo da Estação, mais caro é morar. Os distritos internos pos
 
 A Estação Central de Monte Farpado não é a ruína antiga, mas o enorme terminal ferroviário construído diante dela. Plataformas sobrepostas recebem composições de passageiros, vagões de minério e trens de abastecimento. Oficinas permanecem ativas durante todos os turnos, pois uma locomotiva parada em Monte Farpado pode significar uma cidade sem alimento em outra parte do continente.
 
-As cargas são inspecionadas por Aferidores de [[Ormec]]. Pesos adulterados, pedras substituídas e registros de alimento incompletos podem interromper um comboio inteiro. Casas de Passagem dedicadas a [[Tessara]] ocupam as galerias do terminal e funcionam como mercados, alojamentos, pontos de contratação e lugares onde viajantes descobrem quais linhas ainda estão abertas.
+As cargas são inspecionadas por Aferidores de [[Ormec]]. Casas de Passagem dedicadas a [[Tessara]] ocupam as galerias do terminal e funcionam como mercados, alojamentos, pontos de contratação e lugares onde viajantes descobrem quais linhas ainda estão abertas.
 
-Monte Farpado também abriga algumas das maiores oficinas de Keldrann. Artífices de [[Volgrin]] adaptam locomotivas para o frio, constroem lâminas capazes de abrir trilhos soterrados e desmontam equipamentos estrangeiros na tentativa de produzir peças que não dependam de Vhalaris.
+Monte Farpado também abriga algumas das maiores oficinas de Keldrann. Artífices de [[Volgrin]], muitos vindos de [[Coroa de Estrelas]], adaptam locomotivas para o frio, constroem lâminas capazes de abrir trilhos soterrados e desmontam equipamentos estrangeiros na tentativa de produzir peças que não dependam de Vhalaris.
 
 ## Governo e abastecimento
 
