@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Tempestades Brancas.md",
+                "file": "NOTAS/Tempestades Brancas-Oculto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tempestades Brancas"
+              "title": "Tempestades Brancas-Oculto"
             }
           }
         ],
@@ -214,8 +214,8 @@
   },
   "active": "0216d62bd17b5fa9",
   "lastOpenFiles": [
-    "NOTAS/Branco Sem Retorno.md",
     "NOTAS/Tempestades Brancas.md",
+    "NOTAS/Branco Sem Retorno.md",
     "NOTAS/Último Trilho.md",
     "NOTAS/Água Negra.md",
     "NOTAS/Sete Facetas.md",
