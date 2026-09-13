@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Keldrann.md",
+                "file": "NOTAS/Neve Rubra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Keldrann"
+              "title": "Neve Rubra"
             }
           }
         ],
@@ -240,11 +240,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9ca8641bfc811350",
+  "active": "8e86c8089e6004e6",
   "lastOpenFiles": [
+    "IMAGENS/Neve Rubra sob o Sol Negro.png",
+    "NOTAS/Keldrann.md",
     "NOTAS/Campo de Vidro Negro.md",
     "NOTAS/Sete Facetas.md",
-    "NOTAS/Keldrann.md",
     "NOTAS/Tempestades Brancas.md",
     "NOTAS/Branco Sem Retorno.md",
     "NOTAS/Último Trilho.md",
@@ -274,7 +275,6 @@
     "NOTAS/Kharvyr.md",
     "NOTAS/Kharvyr-Oculto.md",
     "NOTAS/Thren-Kaiv.md",
-    "NOTAS/Gelo-Veio.md",
     "IMAGENS/Panteao Mau.png",
     "IMAGENS/Panteao Neutro.png",
     "IMAGENS/Panteao Bom.png",
