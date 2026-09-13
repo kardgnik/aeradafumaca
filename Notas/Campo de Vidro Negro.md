@@ -20,9 +20,15 @@ Tempestades fazem fragmentos menores rolarem sobre a superfície. O som pode ser
 
 Paredes, torres e objetos aparecem presos sob as partes transparentes da superfície. Não se sabe se pertenciam a um assentamento destruído ou se o vidro se formou sobre estruturas já abandonadas.
 
-Equipes de escavação utilizam ferramentas resfriadas e serras criadas por oficinas ligadas a [[Volgrin]]. O trabalho é lento. Uma abertura mal planejada pode liberar gases, calor ou pressão acumulados por séculos.
+Equipes de escavação utilizam ferramentas resfriadas e serras criadas por oficinas ligadas a [[Volgrin]]. Seus dentes são revestidos com diamantes industriais trazidos de [[Sete Facetas]], em Keldrann. O trabalho é lento. Uma abertura mal planejada pode liberar gases, calor ou pressão acumulados por séculos.
 
 Peças retiradas do Campo alcançam valores elevados em [[Coroa de Estrelas]], especialmente quando apresentam materiais associados à primeira civilização.
+
+## Diamantes e vidro
+
+As placas mais espessas do Campo não podem ser cortadas com ferramentas produzidas apenas em Caldeiras. Os diamantes fraturados e opacos de Keldrann, pouco valorizados como joias, mantêm corte suficiente para atravessar o vidro quando montados em serras resfriadas. Cada operação desgasta ou destrói dezenas de pedras, criando uma procura constante por novos carregamentos.
+
+Em troca, as oficinas de Coroa de Estrelas recozem, estabilizam e moldam o vidro para uso em regiões onde basalto ou metal não resistiriam. A maior encomenda registrada foram os cem monólitos enviados para a construção da [[Ponte dos Cem Pilares]]. Nenhuma expedição posterior conseguiu extrair peças daquelas dimensões.
 
 ## Travessia
 
