@@ -21,11 +21,11 @@ O Chamado Plano Material. Lar dos Mortais, dominado por Cinco continentes e mare
 O coração industrial do mundo e berço da revolução do Éter.
 - [[Caldeiras|Continente das Caldeiras]] 
 Uma extensão abrasadora de cidades fabris, crateras e fornalhas monumentais.
-- **Keldrann, o Continente Branco**
+- [[Keldrann|Keldrann, o Continente Branco]]
 Terras brancas onde o frio preserva ruínas anteriores à Era da Fumaça.
-- [[Pelagora|Pelágora, as Mil Ilhas]]
+- **Pelágora, as Mil Ilhas**
 Mil ilhas ligadas por comércio, navegação e segredos submersos.
-- [[Vertilis|Vertilis, o Continente Vertical]]
+- **Vertilis, o Continente Vertical**
 Um continente construído em alturas impossíveis, onde subir também significa governar.
 #### PERSONAGENS DA CAMPANHA
 
