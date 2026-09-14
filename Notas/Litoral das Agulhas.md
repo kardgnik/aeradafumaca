@@ -10,7 +10,7 @@ Além da costa começa o campo oceânico. Suas formações são mais jovens, enc
 
 Contornar o litoral oferece o caminho marítimo mais rápido entre Keldrann e [[Pelagora|Pelágora]]. Embarcações pequenas, contrabandistas e piratas utilizam os corredores para escapar de navios militares maiores. Naufrágios ficam presos entre as formações durante anos, alguns suspensos acima da água pelo próprio gelo.
 
-Não existe ferrovia atravessando a região. Todas as tentativas de abrir estradas, instalar trilhos ou estabelecer minas nas Agulhas Antigas foram interrompidas pelos [[Kharvyr]], o povo isolado que habita suas fendas. Eles não utilizam carvão, ferrovia ou tecnologia estrangeira, mas suas comunidades parecem aquecidas, alimentadas e capazes de repelir expedições muito mais bem equipadas.
+Não existe ferrovia atravessando a região. Todas as tentativas de abrir estradas, instalar trilhos ou estabelecer minas nas Agulhas Antigas foram interrompidas pelos [[Kharvyr]], um povo isolado composto principalmente por Goliaths. Eles não utilizam carvão, ferrovia ou tecnologia estrangeira, mas suas comunidades parecem aquecidas, alimentadas e capazes de repelir expedições muito mais bem equipadas. Marinheiros que os avistam entre as formações costumam falar primeiro de sua estatura e somente depois das armas que carregavam.
 
 Os Kharvyr consideram estrangeiro qualquer pessoa nascida além das Agulhas, mesmo que tenha vindo de outra região de Keldrann. Permitem que alguns náufragos recebam abrigo e sejam conduzidos de volta ao mar, mas respondem a exploradores, mineradores e soldados com armas de osso e [[Nivério]] capazes de perfurar placas metálicas. Objetos capturados, presenteados ou roubados desse povo alcançam valores extraordinários nos mercados de itens mágicos.
 
