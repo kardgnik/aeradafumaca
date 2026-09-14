@@ -39,6 +39,8 @@ Elias ensinou distância, equilíbrio, leitura corporal, economia de movimento, 
 
 Elias tornou-se professor, conselheiro e outra figura paterna em sua vida.
 
+![[Malik A ciência da pancada.jpeg]]
+
 ## Samuel Mercer
 
 [[Samuel Mercer]] é o melhor amigo de Malik e filho de [[Elian Mercer]], antigo supervisor de [[Caleb Booker]]. Os dois se conheceram por volta dos doze anos, quando Samuel tentou ajudar Malik contra dois garotos mais velhos, apesar de ser menor e não saber lutar.
