@@ -2,7 +2,7 @@
 
 #NPC
 
-Viktor Halden é um agente de segurança industrial ligado às grandes refinarias de [[Brumaferro]]. Começou como guarda de instalações e ascendeu administrando equipes terceirizadas, contenção de protestos, recuperação de cargas e investigações que as companhias preferem manter longe da Guarda.
+Viktor Halden é um inspetor de segurança industrial do [[Consórcio Carbono-Éter]], operando sob a divisão da Casa Haldenstern nas instalações da [[Refinaria de Brumaferro]]. Começou como guarda de portão e ascendeu administrando equipes terceirizadas, contenção de protestos operários, recuperação de cargas e investigações que as companhias preferem manter longe da Guarda.
 
 Viktor veste luvas mesmo em ambientes fechados e evita participar pessoalmente de confrontos. Ele acredita que autoridade verdadeira consiste em decidir quem será ferido sem precisar sujar as próprias mãos.
 
@@ -26,4 +26,4 @@ Desde então, acompanha discretamente os trabalhos de Malik e espera uma oportun
 
 Viktor participa da proteção de projetos destinados a expandir refinarias sobre o Bairro das Caldeiras. Isso o coloca em conflito com [[Silas Rook]] e com moradores que se recusam a abandonar suas casas.
 
-Ele também esteve envolvido na recuperação de componentes retirados de antigas [[Estações de Transposição]], embora os relatórios dessas operações permaneçam restritos.
+Ele também comanda a contenção dos fugitivos do Turno de Expurgo da [[Refinaria de Brumaferro-Oculto|Refinaria]] e esteve envolvido na recuperação de componentes retirados de antigas [[Estações de Transposição]], embora os relatórios dessas operações permaneçam estritamente sigilosos.

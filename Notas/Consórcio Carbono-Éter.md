@@ -13,15 +13,15 @@ Sua sede ocupa um complexo de torres neoclássicas e edifícios administrativos 
 A autoridade executiva do Consórcio não pertence a um único indivíduo, mas a um conselho permanente dominado por três grandes dinastias industriais de Vhalaris:
 
 ### Casa Valmont-Shor (A Destilação e as Finanças)
-* **Liderança:** [[Lord Cassian Valmont-Shor]], auxiliado por sua herdeira e administradora-chefe, [[Lady Vivienne Valmont-Shor]].
+* **Liderança:** **Lord Cassian Valmont-Shor**, auxiliado por sua herdeira e administradora-chefe, **Lady Vivienne Valmont-Shor**.
 * **Domínio:** Antiga linhagem bancária que financiou a construção das primeiras perfurações subterrâneas. Controlam as imensas torres verticais da [[Refinaria de Brumaferro]], o processo de condensação química do vapor etérico e a emissão de títulos de crédito ligados ao Éter.
 
 ### Casa Cendra-Vane (A Siderurgia Pesada e Forjas)
-* **Liderança:** [[Baronesa Beatrix Cendra-Vane]], tendo como engenheiro-chefe seu filho mais velho, [[Mestre Arthur Cendra-Vane]].
+* **Liderança:** **Baronesa Beatrix Cendra-Vane**, tendo como engenheiro-chefe seu filho mais velho, **Mestre Arthur Cendra-Vane**.
 * **Domínio:** Monopolistas das forjas de ligas especiais, tubulações de alta pressão, blindagens industriais e caldeiras reforçadas. Nenhuma tubulação de transporte de Éter corre pelo continente sem a estampa de aço da Cendra-Vane.
 
 ### Casa Haldenstern (A Malha Ferroviária e Logística)
-* **Liderança:** [[Marechal-Engenheiro Gregory Haldenstern]], com apoio diplomático de [[Astrid Haldenstern]].
+* **Liderança:** **Marechal-Engenheiro Gregory Haldenstern**, com apoio diplomático de **Astrid Haldenstern**.
 * **Domínio:** Proprietários das frotas de locomotivas blindadas, linhas férreas transcontinentais e comboios de transporte pesado que conectam Vhalaris a [[Keldrann]] e aos portos que abastecem [[Caldeiras]]. A família também fornece o comando da **Segurança Patrimonial do Consórcio**, força armada privada chefiada em campo por inspetores como [[Viktor Halden]].
 
 ## Corporações Associadas e Entidades do Setor
