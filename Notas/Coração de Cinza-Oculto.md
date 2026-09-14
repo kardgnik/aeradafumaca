@@ -12,6 +12,8 @@ O projeto é financiado por uma sociedade de funcionários de companhias energé
 
 A base atual utiliza tubulações desativadas próximas ao [[Bairro das Caldeiras]]. O fluxo residual sob a cidade permite continuar experiências sem registrar consumo na rede oficial.
 
+![[Laboratório oculto do Coração de Cinza.png]]
+
 ## O teste da Passagem Rubra
 
 O massacre da caravana de medicamentos deveria ser apenas uma operação de aquisição de componentes. O próximo comboio será o primeiro teste completo. Um Coração será escondido na carga e ativado dentro de um corredor estreito da [[Passagem Rubra]]. A descarga deverá destruir veículos, testemunhas e marcas de manipulação, permitindo que o ocorrido seja atribuído a explosivos, enchente ou carga instável.

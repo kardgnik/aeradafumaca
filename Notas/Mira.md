@@ -6,6 +6,8 @@ Mira foi uma jovem remendadora de [[Forja-Baixa]] e aprendiz de [[Arnoldes]]. Cr
 
 Era paciente com trabalhos pequenos e imprudente diante de qualquer máquina desconhecida. Mantinha parafusos e arruelas organizados em recipientes de cerâmica, hábito que Arnoldes ridicularizava enquanto retirava deles exatamente a peça de que precisava.
 
+![[Mira repara a bomba da cisterna.png]]
+
 ## A caravana
 
 Mira deixou Forja-Baixa acompanhando uma caravana de medicamentos, filtros de ar e suprimentos. Parte da carga destinava-se às comunidades próximas da [[Passagem Rubra]]. Ela viajava como responsável por bombas, rodas e mecanismos de vedação.
