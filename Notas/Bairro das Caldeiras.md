@@ -24,7 +24,7 @@ A presença do poder público é irregular. Inspetores chegam depois de acidente
 
 A [[Oficina Sete Batidas]], de [[Elias Baptiste]], é conhecida tanto pelos reparos quanto pelo espaço de treinamento mantido nos fundos. Sua neutralidade é respeitada por operários, lutadores, guardas e integrantes dos Cães.
 
-A [[Oficina Dente de Latão]] funciona sem licença clara e aceita mecanismos de procedência duvidosa. Seu mecânico, [[Arnoldes]], chegou recentemente de Caldeiras acompanhado pelo construto [[Masato]]. Ao lado ficam a [[Casa de Penhores O Último Cobre]] e a [[Lavanderia Vapor Branco]], com a [[Pensão do Terceiro Turno]] ocupando os andares superiores.
+A [[Oficina Dente de Latão]] funciona sem licença clara e aceita mecanismos de procedência duvidosa. Seu mecânico, [[Arnoldes]], chegou recentemente de Caldeiras acompanhado pelo construto [[Masato]]. Ao lado ficam a [[Casa de Penhores O Último Cobre]] e a [[Lavanderia Vapor Branco]], com a [[Pensão do Terceiro Turno]] ocupando os andares superiores. O mesmo trecho termina no portão do [[Pátio do Eixo Cansado]], onde viajantes guardam carroças, animais e pequenas cargas.
 
 ## Pessoas do bairro
 

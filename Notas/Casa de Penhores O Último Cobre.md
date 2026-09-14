@@ -5,7 +5,7 @@
 [[Brumaferro]]
 [[Bairro das Caldeiras]]
 
-A Casa de Penhores O Último Cobre ocupa o imóvel vizinho à [[Oficina Dente de Latão]], no mesmo trecho da rua que abriga a [[Lavanderia Vapor Branco]] e a [[Pensão do Terceiro Turno]]. Sua fachada possui grades espessas, duas vitrines pequenas e uma moeda de cobre pregada acima da porta.
+A Casa de Penhores O Último Cobre ocupa o imóvel vizinho à [[Oficina Dente de Latão]], tendo do outro lado o portão largo do [[Pátio do Eixo Cansado]]. No mesmo trecho da rua ficam a [[Lavanderia Vapor Branco]] e a [[Pensão do Terceiro Turno]]. Sua fachada possui grades espessas, duas vitrines pequenas e uma moeda de cobre pregada acima da porta.
 
 Moradores dizem que o nome descreve tanto aquilo que alguém recebe quanto aquilo que alguém entrega. Ferramentas, relógios, alianças, armas, instrumentos, peças mecânicas e lembranças de família passam pelo balcão todos os dias. Alguns objetos retornam aos donos depois do pagamento da dívida. Muitos nunca retornam.
 
@@ -37,5 +37,7 @@ A parede entre os dois estabelecimentos é antiga e fina. Celina escuta máquina
 ## Proteção e vigilância
 
 [[Os Cães da Caldeira]] cobram uma contribuição regular para manter ladrões distantes da loja. Celina paga sem discutir, mas registra cada moeda. Também mantém sinos presos às grades, uma besta sob o balcão e dois cofres visíveis. O cofre realmente importante fica sob o piso do pequeno escritório.
+
+Carroças, móveis e cargas grandes demais para permanecer na loja são guardados no vizinho [[Pátio do Eixo Cansado]], mediante um acordo entre Celina e [[Pátio do Eixo Cansado|Bento Salgueiro]].
 
 O Último Cobre é um lugar apropriado para vender objetos encontrados, obter empréstimos, avaliar equipamentos e procurar mercadorias difíceis de justificar. Também é um dos melhores pontos do bairro para descobrir quem perdeu algo valioso e quem está disposto a pagar para recuperá-lo.

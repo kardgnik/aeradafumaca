@@ -27,6 +27,8 @@ Miriam Booker trabalha como lavadeira no térreo e auxilia na limpeza dos quarto
 | Banho com água aquecida | 5 PC |
 | Armário com chave | 5 PP por semana |
 
+A cozinha e os banhos também atendem viajantes instalados no [[Pátio do Eixo Cansado]], que podem pagar por esses serviços sem alugar um quarto. Essa clientela costuma chegar coberta de lama, cheirando a estrada e acompanhada por notícias de fora de Brumaferro.
+
 Os quartos pequenos possuem cama, bacia, cabideiro, uma cadeira e uma janela estreita. O aquecimento depende de tubulações antigas que estalam durante a madrugada e nem sempre obedecem às válvulas instaladas nos corredores.
 
 ## Hóspedes conhecidos
