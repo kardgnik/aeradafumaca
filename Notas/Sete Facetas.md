@@ -6,6 +6,8 @@ Sete Facetas é a maior mina de diamantes de Keldrann. Seus sete poços principa
 
 Os poços recebem nomes de acordo com a qualidade das pedras que historicamente produziram. A divisão parece precisa nos registros comerciais, mas os túneis se cruzam tantas vezes que ninguém consegue provar de qual setor veio um diamante sem confiar nos lacres colocados ainda no subterrâneo.
 
+![[Sete Facetas sob o sol negro.png]]
+
 ## Diamantes de corte
 
 Nem toda pedra retirada de Sete Facetas é destinada a joias. Diamantes opacos, fraturados ou pequenos demais para lapidação são separados em [[Pedraluz]], montados em serras e exportados por [[Água Negra]]. O maior comprador é o [[Campo de Vidro Negro]], em [[Caldeiras]], onde cada placa aberta consome dezenas dessas pedras.
