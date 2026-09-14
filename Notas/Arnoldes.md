@@ -40,9 +40,11 @@ Arnoldes começou a sabotar discretamente operações menores. Alterava mecanism
 
 O livro contém rotas, marcas falsas, dívidas, acordos e nomes que ligam capitães de estrada, mestres de cais, comerciantes legítimos e funcionários da Coroa. Também registra referências ao [[Coração de Cinza]], um projeto clandestino dedicado à fabricação de motores pequenos, discretos e poderosos o bastante para alimentar cargas, cofres, armas e armadilhas fora das rotas controladas por Coroa de Estrelas.
 
-Arnoldes fugiu de Caldeiras e chegou a [[Brumaferro]], onde se esconde no [[Bairro das Caldeiras]]. Atualmente trabalha na [[Oficina Dente de Latão]], um estabelecimento informal instalado entre uma lavanderia industrial, uma casa de penhores e uma tubulação de Éter oficialmente desativada.
+Arnoldes fugiu de Caldeiras e chegou a [[Brumaferro]], onde se esconde no [[Bairro das Caldeiras]]. Atualmente trabalha na [[Oficina Dente de Latão]], um estabelecimento informal instalado entre a [[Lavanderia Vapor Branco]], a [[Casa de Penhores O Último Cobre]] e uma tubulação de Éter oficialmente desativada.
 
 ## Situação atual
+
+Arnoldes aluga um quarto na [[Pensão do Terceiro Turno]], nos andares superiores da lavanderia vizinha à oficina. [[Malik]] vive no mesmo corredor. Os dois se reconhecem pelos horários, pelos encontros na escada e pelo movimento cotidiano da [[Lavanderia Vapor Branco]], mas ainda não possuem intimidade suficiente para se considerarem amigos.
 
 Arnoldes não pretende apenas sobreviver à perseguição. Ele quer destruir o Coração de Cinza antes que a Bandeira realize seu primeiro grande teste, planejado para parecer mais um acidente ou massacre na Passagem Rubra.
 

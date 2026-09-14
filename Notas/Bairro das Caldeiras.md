@@ -24,10 +24,10 @@ A presença do poder público é irregular. Inspetores chegam depois de acidente
 
 A [[Oficina Sete Batidas]], de [[Elias Baptiste]], é conhecida tanto pelos reparos quanto pelo espaço de treinamento mantido nos fundos. Sua neutralidade é respeitada por operários, lutadores, guardas e integrantes dos Cães.
 
-A [[Oficina Dente de Latão]] funciona sem licença clara e aceita mecanismos de procedência duvidosa. Seu mecânico, [[Arnoldes]], chegou recentemente de Caldeiras acompanhado pelo construto [[Masato]].
+A [[Oficina Dente de Latão]] funciona sem licença clara e aceita mecanismos de procedência duvidosa. Seu mecânico, [[Arnoldes]], chegou recentemente de Caldeiras acompanhado pelo construto [[Masato]]. Ao lado ficam a [[Casa de Penhores O Último Cobre]] e a [[Lavanderia Vapor Branco]], com a [[Pensão do Terceiro Turno]] ocupando os andares superiores.
 
 ## Pessoas do bairro
 
-[[Malik|Malik Booker]] nasceu e cresceu nas Caldeiras. Sua mãe, Miriam Booker, ainda trabalha como lavadeira e auxiliar numa pensão local. Para moradores antigos, Malik continua sendo o garoto que aprendeu a lutar na Sete Batidas, mesmo depois de se tornar conhecido como Mão Pesada.
+[[Malik|Malik Booker]] nasceu e cresceu nas Caldeiras. Sua mãe, Miriam Booker, trabalha na [[Lavanderia Vapor Branco]] e auxilia na [[Pensão do Terceiro Turno]], onde Malik e [[Arnoldes]] atualmente alugam quartos no mesmo corredor. Para moradores antigos, Malik continua sendo o garoto que aprendeu a lutar na Sete Batidas, mesmo depois de se tornar conhecido como Mão Pesada.
 
 O bairro guarda memória longa. Uma pessoa pode mudar de nome, roupa ou profissão, mas sempre haverá alguém capaz de lembrar em qual rua ela aprendeu a correr.

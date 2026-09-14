@@ -9,7 +9,7 @@ Aprendeu cedo que discussões terminavam mais depressa quando alguém caía. Bri
 ![[Malik.png]]
 ## Família
 
-Miriam Booker criou Malik praticamente sozinha. Trabalha como lavadeira e auxiliar em uma pensão das Caldeiras, possui pouco dinheiro e uma autoridade sobre o filho que nenhum chefe criminoso jamais conseguiu reproduzir. Ela critica sua vida, seus ferimentos e suas escolhas, mas guarda uma fotografia de Malik adolescente como um de seus bens mais preciosos.
+Miriam Booker criou Malik praticamente sozinha. Trabalha como lavadeira na [[Lavanderia Vapor Branco]] e como auxiliar na [[Pensão do Terceiro Turno]], instalada nos andares superiores do mesmo prédio. Possui pouco dinheiro e uma autoridade sobre o filho que nenhum chefe criminoso jamais conseguiu reproduzir. Ela critica sua vida, seus ferimentos e suas escolhas, mas guarda uma fotografia de Malik adolescente como um de seus bens mais preciosos.
 
 Seu pai, [[Caleb Booker]], era operador de manutenção e trabalhava diretamente sob a supervisão de [[Elian Mercer]]. Morreu quando Malik tinha aproximadamente oito anos, durante um acidente numa das [[Estações de Transposição]]. A versão oficial atribuiu a explosão de um regulador a erro humano. Miriam nunca acreditou nessa explicação.
 
@@ -62,6 +62,8 @@ Malik conseguiu encurralá-lo uma vez. Viktor jamais esqueceu.
 ## Situação atual
 
 Malik vive de lutas, proteção, cobranças e trabalhos que prefere não explicar. Seus desejos costumavam ser modestos: comida, uma cama sem percevejos e um casaco que não tivesse pertencido a três pessoas antes dele.
+
+Atualmente, Malik aluga um quarto pequeno na [[Pensão do Terceiro Turno]], onde sua mãe trabalha. No mesmo corredor vive [[Arnoldes]], mecânico da vizinha [[Oficina Dente de Latão]]. Eles se veem com frequência na escada, durante as refeições e junto aos tanques da lavanderia, embora essa convivência ainda não os tenha tornado amigos.
 
 O desaparecimento de Samuel mudou isso. Malik pretende encontrá-lo ou descobrir quem é responsável por sua morte. Ele não procura salvar Brumaferro e não se considera herói. Ainda assim, passou a vida inteira tornando-se o sujeito que permanece quando todos os outros vão embora.
 
