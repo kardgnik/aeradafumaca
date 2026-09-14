@@ -48,6 +48,8 @@ Arnoldes não pretende apenas sobreviver à perseguição. Ele quer destruir o C
 
 Ele sabe que alguém em Brumaferro financia o projeto. Sabe também que o livro roubado pode comprometer pessoas poderosas em dois continentes. O que ainda não sabe é por que seus perseguidores receberam ordens para capturá-lo vivo e recuperar Masato sem destruir o construto.
 
+![[Arnoldes e o fragmento da bandeira queimada.png]]
+
 ## Contatos
 
 - [[Masato]], companheiro mecânico e parceiro de fuga.
