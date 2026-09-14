@@ -2,7 +2,7 @@
 
 #Itens
 
-Nivério é o nome dado ao material branco e leitoso encontrado nos artefatos dos [[Kharvyr]]. Apesar da aparência translúcida, não derrete diante do fogo comum, não se torna quebradiço fora das Agulhas e pode manter uma borda mais fina do que aço forjado.
+Nivério é o nome dado ao material branco e leitoso encontrado nos artefatos dos [[Kharvyr]]. Apesar da aparência translúcida, não derrete diante do fogo comum, e pode manter uma borda mais fina do que aço forjado.
 
 Os Kharvyr combinam o material com osso, couro, fibras animais e pedra escura. Com ele produzem lâminas, pontas de lança, arpões, escudos, placas de proteção e componentes capazes de aquecer abrigos sem fogo ou fumaça. Alguns objetos parecem reagir a determinados ritmos, movimentos ou à proximidade de [[Éter]], embora seus compradores raramente compreendam quais condições ativam cada propriedade.
 
