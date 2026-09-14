@@ -6,6 +6,8 @@ O Bairro das Caldeiras ocupa uma faixa antiga da região industrial de [[Brumafe
 
 O nome não se refere ao continente de [[Caldeiras]], embora muitos imigrantes tenham se estabelecido ali. Vem das casas de pressão que aqueciam os primeiros complexos industriais da região. Algumas ainda funcionam. Outras foram fechadas sem que suas tubulações deixassem de vibrar.
 
+![[Bairro das Caldeiras sob o Sol Negro.png]]
+
 ## Ruas e níveis
 
 Passarelas metálicas cruzam canais de drenagem e linhas de serviço. O vapor reduz a visibilidade, a chuva carrega fuligem dos telhados e o chão treme quando compressores antigos entram em operação. Casas foram construídas sobre oficinas, depósitos tornaram-se pensões e corredores de manutenção servem como atalhos entre quarteirões.

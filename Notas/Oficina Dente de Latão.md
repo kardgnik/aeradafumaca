@@ -8,6 +8,8 @@ A Oficina Dente de Latão ocupa um espaço estreito no [[Bairro das Caldeiras]],
 
 O estabelecimento recebe bombas, fechaduras, válvulas, pequenos motores, ferramentas e peças que oficinas autorizadas recusam por falta de documentação. Pagamentos podem ser feitos em moeda, componentes, carvão ou favores. Perguntas sobre procedência custam mais caro do que o reparo.
 
+![[Oficina Dente de Latão.png]]
+
 ## Arnoldes
 
 [[Arnoldes]] trabalha na Dente de Latão desde que chegou a Brumaferro. No bairro, apresenta-se como um mecânico de Caldeiras acostumado a fazer máquinas sobreviverem sem peças corretas. Sua habilidade com fechaduras e compartimentos ocultos atraiu clientes que reconhecem um ofício diferente por trás dos reparos comuns.

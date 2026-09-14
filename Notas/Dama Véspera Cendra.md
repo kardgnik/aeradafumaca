@@ -6,6 +6,8 @@ Dama Véspera Cendra é a Porta-Cinza da [[Bandeira Queimada]] responsável por 
 
 Poucas pessoas afirmam ter visto seu rosto inteiro. Véspera recebe capitães e especialistas em aposentos iluminados por trás, utiliza véus resistentes à poeira e muda o lado pelo qual entra em uma sala. Sua voz é baixa, precisa e desprovida da teatralidade comum entre chefes criminosos.
 
+![[Dama Véspera Cendra sob o Sol Negro.png]]
+
 ## A Porta-Cinza
 
 Véspera não lidera ataques pessoalmente. Ela decide quais caravanas serão observadas, quais capitães receberão uma rota, quais mercadorias devem sobreviver e quais testemunhas podem ser abandonadas. Para ela, violência é uma despesa operacional. O melhor ataque é aquele que continua parecendo acidente depois que todos os envolvidos foram pagos.
