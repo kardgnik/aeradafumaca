@@ -39,7 +39,7 @@ Essa escolha o mantém perto do núcleo do Terceiro Turno sem torná-lo morador 
 
 ## Relação com O Último Cobre
 
-[[Celina Ornelas]] utiliza o pátio para guardar móveis, carroças e cargas grandes demais para passar pela porta da casa de penhores. Bento recebe uma pequena comissão e não pergunta se o proprietário original pretende voltar.
+Celina Ornelas utiliza o pátio para guardar móveis, carroças e cargas grandes demais para passar pela porta da casa de penhores. Bento recebe uma pequena comissão e não pergunta se o proprietário original pretende voltar.
 
 Em troca, Celina observa o portão da rua durante parte do dia. Os dois mantêm uma sineta ligada por um fio que atravessa a parede: um toque pede ajuda; dois avisam a chegada de uma entrega; três significam que alguém deveria chamar os [[Os Cães da Caldeira|Cães da Caldeira]] ou desaparecer antes que eles cheguem.
 
