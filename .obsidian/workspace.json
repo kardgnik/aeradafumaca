@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Último Trilho.md",
+                "file": "NOTAS/Keldrann.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Último Trilho"
+              "title": "Keldrann"
             }
           }
         ],
@@ -240,8 +240,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "8e86c8089e6004e6",
+  "active": "9ca8641bfc811350",
   "lastOpenFiles": [
+    "NOTAS/Último Trilho.md",
+    "NOTAS/Branco Sem Retorno.md",
+    "IMAGENS/Branco sem retorno.png",
     "IMAGENS/Último Trilho sob o Sol Negro.png",
     "NOTAS/Keldrann.md",
     "NOTAS/Ferrugem Rubra.md",
@@ -261,8 +264,6 @@
     "NOTAS/Campo de Vidro Negro.md",
     "IMAGENS/Neve Rubra sob o Sol Negro.png",
     "NOTAS/Tempestades Brancas.md",
-    "NOTAS/Branco Sem Retorno.md",
-    "NOTAS/Último Trilho.md",
     "NOTAS/Estações de Transposição.md",
     "NOTAS/Estacoes-de-Transposicao-Oculto.md",
     "NOTAS/Pelagora.md",
@@ -276,8 +277,6 @@
     "NOTAS/Monte Farpado.md",
     "NOTAS/Coriolano da Rocha.md",
     "NOTAS/Coriolano da Rocha-Oculto.md",
-    "IMAGENS/Investidura na Porta Branca.png",
-    "IMAGENS/O Primaz de Monte Farpado.png",
     "PJ",
     "IMAGENS",
     "NOTAS"
