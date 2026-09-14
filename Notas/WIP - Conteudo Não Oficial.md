@@ -32,16 +32,39 @@ Como as mutações causadas pelo Éter não são de conhecimento público — se
 O controle sobre o Éter não é disperso; ele está concentrado nas mãos de poucas entidades que operam com autoridade quase estatal:
 
 1. **O Consórcio Carbono-Éter de Vhalaris (O Consórcio):** Uma corporação imperial dominada por dinastias aristocráticas que detém o monopólio legal da extração, transporte e refino. Mantém forças armadas privadas (lideradas por comandantes rígidos como [[Viktor Halden]]), com poder de polícia para revistar comboios, fechar oficinas e confiscar qualquer bateria sem o selo de chumbo.
-   * **Casa Valmont-Shor (Os Senhores dos Tubos):** Antiga aristocracia bancária que financiou as primeiras perfurações há 120 anos. Controlam as grandes torres de destilação de Brumaferro. Vivem em mansões suspensas onde o ar é filtrado e perfumado, enquanto financiam os Curadores do Espelho para extirpar discretamente as marcas luminosas de seus herdeiros.
-   * **Casa Cendra-Vane:** Família tradicional da siderurgia que migrou para o Éter. São os maiores fabricantes de tubulações de alta pressão, tanques e armaduras móveis. Possuem ramificações obscuras que dialogam com intermediários do deserto (suspeita-se de laços velados com a [[Dama Véspera Cendra]] em Caldeiras).
-   * **Casa Haldenstern (Os Barões dos Trilhos):** Monopolistas da malha ferroviária e dos comboios blindados que cruzam Vhalaris e Keldrann. Notórios por sua disciplina militar implacável e pela política de descarte sumário de trabalhadores adoecidos para evitar pagamento de indenizações às famílias.
+
+### As Três Casas Dinásticas do Consórcio
+
+#### A. Casa Valmont-Shor (Os Senhores dos Tubos & das Torres de Destilação)
+* **Patriarca:** **Lord Cassian Valmont-Shor (71 anos)**. Aristocrata de hábitos cirúrgicos e sangue frio. Vive no ápice da *Torre do Zênite*, isolado do ar da cidade por três estágios de filtragem de carvão ativo e camélias hidropônicas. Possui uma tosse seca crônica que alega ser de charutos caros, mas suas retinas já refletem o brilho azulado do Estágio 1 de contaminação.
+* **Herdeira e Administradora:** **Lady Vivienne Valmont-Shor (34 anos)**. Química arcanotécnica e economista implacável. Gerencia os contratos diários de refino, as cotas de distribuição e financia os Curadores do Espelho para manter a imagem pública de seu pai impecável.
+* **O Ponto Fraco:** **Julian Valmont-Shor (23 anos)**. Filho caçula boêmio e impulsivo. Viciado em apostas nos ringues clandestinos do Bairro das Caldeiras; acumula dívidas astronômicas com agiotas ligados a [[Silas Rook]] e vaza informações confidenciais de embarque para pagar juros.
+
+#### B. Casa Cendra-Vane (Os Forjadores da Alta Pressão & Blindagens)
+* **Matriarca:** **Baronesa Beatrix Cendra-Vane (62 anos)**. Conhecida como "A Dama de Chumbo". Viúva que assumiu a siderurgia com punho de ferro após o marido morrer num estouro de cadinho. Despreza a afetação cosmética dos Valmont-Shor; veste sobretudo pesado de fornalha e caminha com uma bengala de aço temperado com lâmina oculta.
+* **Engenheiro-Chefe:** **Mestre Arthur Cendra-Vane (41 anos)**. Filho mais velho de Beatrix. Engenheiro de campo que passa mais tempo com graxa nas mãos do que em banquetes aristocráticos. Projetou as ligas de boro-ferro que impedem as locomotivas de explodirem sob pressão de Éter refinado.
+* **A Conexão Oculta com Caldeiras:** Irmã mais nova de Beatrix, deserdada e dada como "morta" nos registros imperiais há 20 anos por desvio sistemático de maquinário: [[Dama Véspera Cendra]], hoje líder da [[Bandeira Queimada]] no deserto. Beatrix professa ódio público, mas correspondências cifradas ainda cruzam rotas mercantes.
+
+#### C. Casa Haldenstern (Os Barões dos Trilhos & Força Blindada)
+* **Grão-Comandante:** **Marechal-Engenheiro Gregory Haldenstern (58 anos)**. Veterano militar que converteu a segurança ferroviária num exército privado mecanizado. Trata atrasos de cronograma como traição e operários enfermos como maquinário depreciado sem valor contábil.
+* **A Diplomata das Rotas:** **Astrid Haldenstern (27 anos)**. Sobrinha de Gregory, refinada, poliglota e analista de rotas continentais. É a enviada da família encarregada de negociar compras de minério bruto e carvão em Keldrann diretamente com o Primaz [[Coriolano da Rocha]].
+* **O Braço Operacional:** **[[Viktor Halden]]** (sobrinho de Gregory e capitão de campo). Inspetor rígido que comanda batidas policiais, revistas de trens e a caça impiedosa a fugitivos do Turno de Expurgo.
+
+### Teia de Conflitos e Alianças Entre as Casas
+
+* **A Guerra dos Manômetros (Valmont-Shor vs. Cendra-Vane):** Disputa jurídica e de espionagem industrial que dura 15 anos. Quando tubulações de Éter explodem, os Valmont-Shor culpam a "porosidade molecular e soldas de baixa qualidade" das chapas da Cendra-Vane. A Baronesa Beatrix responde provando que os operadores de Vivienne operam as caldeiras acima da pressão permitida para superfaturar o refino nas bolsas de valores.
+* **O Pedágio do Aço (Haldenstern vs. Valmont-Shor):** Os Haldenstern monopolizam as locomotivas de alta capacidade e cobram tarifas extorsivas para escoar as células dos Valmont-Shor até os portos. Há três anos, Lord Cassian tentou financiar um ramal ferroviário próprio e independente; tropas mascaradas da segurança Haldenstern dinamitaram os trilhos alegando "ataque preventivo contra terrorismo operário".
+* **O Pacto Científico Secreto (Vivienne Valmont-Shor & Arthur Cendra-Vane):** Colegas de turma na juventude na Academia Politécnica, Vivienne e Arthur mantêm um canal de comunicação estritamente clandestino. Ambos identificaram uma verdade apavorante através de medições laboratoriais independentes: **o Éter está perdendo densidade térmica a cada ciclo solar**, provando que a fonte está se esgotando e que os relatórios do Consórcio são falsificados pela diretoria. Eles se encontram disfarçados em tavernas neutras de [[Ponte-Cinza]] para trocar telemetrias confidenciais.
+* **A Doutrina do Martelo e Bigorna (Aliança Antigreve):** Apesar de todas as intrigas e sabotagens recíprocas, quando o Sindicato dos Fogistas declara greve ou [[Os Cães da Caldeira]] ameaçam bloquear os distritos fabris, as três famílias fecham fileiras imediatamente: a Cendra-Vane fornece os veículos blindados, os Haldenstern descem as tropas de choque com armas de choque e os Valmont-Shor cortam o fornecimento de energia do bairro rebelde até que a ordem seja restaurada.
+
+### Outras Entidades do Setor
 2. **A Irmandade dos Reguladores:** Casta de tecnocratas e arcanistas juramentados. Guardam as equações secretas da estabilização do Éter e os procedimentos de alinhamento das [[Estações de Transposição]]. Nenhuma locomotiva de alta pressão ou câmara de transposição opera sem a assinatura e o selo de chumbo de um Regulador.
 3. **Os Curadores do Espelho:** Ordem médica e alquímica de elite ligada à corte e ao culto de [[Velisse]]. Seu monopólio reside na "cura cosmética": fabricam maquiagens cáusticas, enxertos de pele e filtros de luz para que os nobres contaminados dissimulem veias brilhantes e calos cristalinos diante da alta sociedade.
 4. **O Sindicato Clandestino dos Fogistas do Fundo:** Rede subterrânea de operários, mineiros e maquinistas. Operam nas galerias de esgoto e sob o [[Bairro das Caldeiras]], com laços com [[Torven]] e a gangue [[Os Cães da Caldeira]] de [[Silas Rook]]. Desviam células viciadas para alimentar a medicina popular e oficinas clandestinas.
 
 ---
 
-## ⚡ 3. Mecânicas de Jogo: Baterias e Células de Éter (D&D 5.5e)
+## ⚡ 3. Mecânicas de Jogo: Baterias e Células de Éter 
 
 As células de Éter são cilindros reforçados de vidro temperado e latão polido que armazenam a energia condensada.
 
@@ -166,6 +189,24 @@ Depois que todos os Resquícios forem consumidos, a consciência humana adormece
 * **O Risco da Variação:** Se um passageiro esconde um lingote de ferro sob a roupa, se sofre uma hemorragia durante o alinhamento ou se salta para fora do círculo demarcado de giz e chumbo no piso no instante do clarão:
   * A equação entra em colapso.
   * A câmara receptora recolhe apenas a massa que bate com o cálculo inicial. O excedente (seja uma perna, uma mala ou metade de uma carga) permanece flutuando no *Intervalo* para sempre, ou a rota é ejetada em coordenadas cegas da malha profunda.
+
+#### O Protocolo de Verificação de Invariância de Massa Inercial-Topológica (O Teorema da Balança)
+Para que os anéis de Éter disparem, o console dos Reguladores executa uma rotina fechada de computação redundante sobre a massa estática $M_0$ (em kg) aferida na câmara de pesagem. O cálculo cruza mecânica relativística, teoria quântica de campos, análise complexa e mecânica dos meios contínuos para provar que o vetor de estado do passageiro preserva invariância topológica completa antes de ser ejetado para o *Intervalo*:
+
+$$M^* = \left( \int_{\mathcal{V}} \rho(\mathbf{x}, t)\, d^3\mathbf{x} \right) \cdot \left[ \frac{1}{2\pi i} \oint_{\Gamma} \frac{dz}{z - 1} \right] \cdot \left( \int_{-\infty}^{\infty} \frac{1}{\sigma \sqrt{2\pi}} e^{-\frac{(k - k_0)^2}{2\sigma^2}} dk \right) + \frac{1}{c^2} \left[ \sqrt{-\eta_{\mu\nu} P^\mu P^\nu} - M_0 c \right] \cdot \left( \det(e^{\mathbf{K}}) \, e^{-\operatorname{Tr}(\mathbf{K})} \right) + \int_{t_1}^{t_2} \left[ \frac{\partial \rho}{\partial t} + \nabla \cdot (\rho \mathbf{u}) \right] dt + \frac{\hbar}{i c^2} \left( \langle \psi | \left[ \hat{x}, \hat{p}_x \right] | \psi \rangle - i\hbar \right) + \frac{\lambda_{\text{éter}}}{c} \int_{\mathcal{V}} \nabla \cdot (\nabla \times \mathbf{A})\, d^3\mathbf{x}$$
+
+**Demonstração Analítica da Redundância:**
+1. **Integração Volumétrica Clássica:** $\int_{\mathcal{V}} \rho(\mathbf{x}, t)\, d^3\mathbf{x} = M_0$.
+2. **Fórmula Integral de Cauchy:** $\frac{1}{2\pi i} \oint_{\Gamma} \frac{dz}{z - 1} = \operatorname{Res}(f, 1) = 1$, para contorno fechado contendo o polo unitário.
+3. **Distribuição Normal de Probabilidade:** $\int_{-\infty}^{\infty} \frac{1}{\sigma \sqrt{2\pi}} e^{-\frac{(k - k_0)^2}{2\sigma^2}} dk = 1$ (espaço de momentos de de Broglie normalizado).
+   * *Produto do termo primário:* $M_0 \cdot 1 \cdot 1 = M_0$.
+4. **Norma do Quatro-Momento Relativístico (Minkowski):** $P^\mu = (E/c, \mathbf{p}) \implies -\eta_{\mu\nu} P^\mu P^\nu = (E/c)^2 - \|\mathbf{p}\|^2 = (M_0 c)^2$.
+   * Logo: $\sqrt{-\eta_{\mu\nu} P^\mu P^\nu} - M_0 c = M_0 c - M_0 c = 0$.
+   * Multiplicado pela identidade de Jacobi $\det(e^{\mathbf{K}}) e^{-\operatorname{Tr}(\mathbf{K})} = e^{\operatorname{Tr}(\mathbf{K})} e^{-\operatorname{Tr}(\mathbf{K})} = 1$, resultando identicamente em $0$.
+5. **Equação da Continuidade:** Em um volume selado adiabático, $\frac{\partial \rho}{\partial t} + \nabla \cdot (\rho \mathbf{u}) = 0$. Integral temporal de zero é nula ($= 0$).
+6. **Comutador Canônico de Heisenberg:** $[\hat{x}, \hat{p}_x] = i\hbar \hat{I} \implies \langle \psi | [\hat{x}, \hat{p}_x] | \psi \rangle = i\hbar \implies i\hbar - i\hbar = 0$.
+7. **Identidade Vetorial de Gauss:** $\nabla \cdot (\nabla \times \mathbf{A}) \equiv 0$ em todo $\mathcal{V}$.
+* **Conclusão:** $M^* = M_0 \cdot (1) \cdot (1) + 0 + 0 + 0 + 0 \equiv M_0$.
 
 ### A Malha Pré-Humana e as Coordenadas Fantasmas
 As estações modernas utilizam reguladores simplificados que só conseguem acessar entre 10 e 14 rotas fixas entre grandes metrópoles e portos industriais. Mas os painéis enterrados sob as fundações contêm registros de uma malha cósmica incomparavelmente maior:
