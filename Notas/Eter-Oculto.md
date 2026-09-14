@@ -143,10 +143,10 @@ Quando o personagem entra em metamorfose final irreversível, ele não se torna 
 Durante a cena de despedida ou o combate final em que seu corpo sucumbe, o jogador pode gastar seus Resquícios para intervir na narrativa:
 
 1. **O Último Escudo Consciente (1 Resquício):** A criatura em transformação coloca seu corpo de placas e gelo entre um aliado e um ataque letal, absorvendo o impacto total no lugar do companheiro.
-2. **A Voz Racha a Carcaça (1 Resquício):** Rompendo momentaneamente os filamentos que silenciam sua garganta, o personagem profere uma última frase nítida: revela a localização de um documento roubado, pede perdão a um companheiro ou entrega seu item de apego pessoal (o relógio de Malik, a chave de Arnoldes).
-3. **O Alvo do Rancor Humano (1 Resquício):** Em vez de atacar aleatoriamente, a criatura concentra toda a fúria e o horror de sua nova forma contra o verdadeiro algoz da campanha (o inspetor do Consórcio, o caçador da Bandeira Queimada), ignorando os companheiros antes de fugir para os subterrâneos ou para a nevasca.
+2. **A Voz Racha a Carcaça (1 Resquício):** Rompendo momentaneamente os filamentos que silenciam sua garganta, o personagem profere uma última frase nítida: revela a localização de um documento roubado, pede perdão a um companheiro ou entrega seu item de apego pessoal.
+3. **O Alvo do Rancor Humano (1 Resquício):** Em vez de atacar aleatoriamente, a criatura concentra toda a fúria e o horror de sua nova forma contra o verdadeiro algoz da campanha.
 
-Depois que todos os Resquícios forem consumidos, a consciência humana adormece para sempre. A criatura que resta vagará pelas ruínas ou pelos canais de Brumaferro, ainda vestindo as roupas rasgadas, as botas de trabalho ou os amuletos que carregava em vida — um fantasma de carne e Éter que a campanha poderá reencontrar no futuro.
+Depois que todos os Resquícios forem consumidos, a consciência humana adormece para sempre. A criatura que resta vagará pelas ruínas ou pelos canais de Brumaferro, ainda vestindo as roupas rasgadas, as botas de trabalho ou os amuletos que carregava em vida.
 
 ## Exemplos de Equipamentos e Itens Movidos a Éter (D&D 5.5e)
 
