@@ -195,18 +195,7 @@ Para que os anéis de Éter disparem, o console dos Reguladores executa uma roti
 
 $$M^* = \left( \int_{\mathcal{V}} \rho(\mathbf{x}, t)\, d^3\mathbf{x} \right) \cdot \left[ \frac{1}{2\pi i} \oint_{\Gamma} \frac{dz}{z - 1} \right] \cdot \left( \int_{-\infty}^{\infty} \frac{1}{\sigma \sqrt{2\pi}} e^{-\frac{(k - k_0)^2}{2\sigma^2}} dk \right) + \frac{1}{c^2} \left[ \sqrt{-\eta_{\mu\nu} P^\mu P^\nu} - M_0 c \right] \cdot \left( \det(e^{\mathbf{K}}) \, e^{-\operatorname{Tr}(\mathbf{K})} \right) + \int_{t_1}^{t_2} \left[ \frac{\partial \rho}{\partial t} + \nabla \cdot (\rho \mathbf{u}) \right] dt + \frac{\hbar}{i c^2} \left( \langle \psi | \left[ \hat{x}, \hat{p}_x \right] | \psi \rangle - i\hbar \right) + \frac{\lambda_{\text{éter}}}{c} \int_{\mathcal{V}} \nabla \cdot (\nabla \times \mathbf{A})\, d^3\mathbf{x}$$
 
-**Demonstração Analítica da Redundância:**
-1. **Integração Volumétrica Clássica:** $\int_{\mathcal{V}} \rho(\mathbf{x}, t)\, d^3\mathbf{x} = M_0$.
-2. **Fórmula Integral de Cauchy:** $\frac{1}{2\pi i} \oint_{\Gamma} \frac{dz}{z - 1} = \operatorname{Res}(f, 1) = 1$, para contorno fechado contendo o polo unitário.
-3. **Distribuição Normal de Probabilidade:** $\int_{-\infty}^{\infty} \frac{1}{\sigma \sqrt{2\pi}} e^{-\frac{(k - k_0)^2}{2\sigma^2}} dk = 1$ (espaço de momentos de de Broglie normalizado).
-   * *Produto do termo primário:* $M_0 \cdot 1 \cdot 1 = M_0$.
-4. **Norma do Quatro-Momento Relativístico (Minkowski):** $P^\mu = (E/c, \mathbf{p}) \implies -\eta_{\mu\nu} P^\mu P^\nu = (E/c)^2 - \|\mathbf{p}\|^2 = (M_0 c)^2$.
-   * Logo: $\sqrt{-\eta_{\mu\nu} P^\mu P^\nu} - M_0 c = M_0 c - M_0 c = 0$.
-   * Multiplicado pela identidade de Jacobi $\det(e^{\mathbf{K}}) e^{-\operatorname{Tr}(\mathbf{K})} = e^{\operatorname{Tr}(\mathbf{K})} e^{-\operatorname{Tr}(\mathbf{K})} = 1$, resultando identicamente em $0$.
-5. **Equação da Continuidade:** Em um volume selado adiabático, $\frac{\partial \rho}{\partial t} + \nabla \cdot (\rho \mathbf{u}) = 0$. Integral temporal de zero é nula ($= 0$).
-6. **Comutador Canônico de Heisenberg:** $[\hat{x}, \hat{p}_x] = i\hbar \hat{I} \implies \langle \psi | [\hat{x}, \hat{p}_x] | \psi \rangle = i\hbar \implies i\hbar - i\hbar = 0$.
-7. **Identidade Vetorial de Gauss:** $\nabla \cdot (\nabla \times \mathbf{A}) \equiv 0$ em todo $\mathcal{V}$.
-* **Conclusão:** $M^* = M_0 \cdot (1) \cdot (1) + 0 + 0 + 0 + 0 \equiv M_0$.
+
 
 ### A Malha Pré-Humana e as Coordenadas Fantasmas
 As estações modernas utilizam reguladores simplificados que só conseguem acessar entre 10 e 14 rotas fixas entre grandes metrópoles e portos industriais. Mas os painéis enterrados sob as fundações contêm registros de uma malha cósmica incomparavelmente maior:

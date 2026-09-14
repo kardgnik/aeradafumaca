@@ -6,7 +6,6 @@
       {
         "id": "c7f8d86b8dddb9e2",
         "type": "tabs",
-        "dimension": 50.074962518740634,
         "children": [
           {
             "id": "693f25683829544a",
@@ -20,23 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "WIP - Conteudo Não Oficial"
-            }
-          }
-        ]
-      },
-      {
-        "id": "fd73de0192dea7d4",
-        "type": "tabs",
-        "dimension": 49.925037481259366,
-        "children": [
-          {
-            "id": "6375277d69486d58",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
             }
           }
         ]
@@ -213,7 +195,7 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "6375277d69486d58",
+  "active": "693f25683829544a",
   "lastOpenFiles": [
     "Notas/WIP - Conteudo Não Oficial.md",
     "Notas/Eter-Oculto.md",
