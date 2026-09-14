@@ -9,6 +9,8 @@ A Pensão do Terceiro Turno ocupa os dois andares superiores do mesmo edifício 
 
 O nome surgiu porque a porta nunca fecha. Operários chegam antes do amanhecer, ferroviários dormem durante o dia e trabalhadores do turno noturno tomam café quando o restante da cidade ainda está acordando. Em qualquer horário existe alguém subindo com botas molhadas, descendo para trabalhar ou tentando dormir apesar das máquinas da lavanderia.
 
+![[Cozinha e corredor da pensão operária.png]]
+
 ## Administração
 
 A pensão é administrada por **Dalva Serrano**, uma mulher de fala baixa e memória precisa, capaz de reconhecer quais hóspedes estão atrasados pelo som de seus passos na escada. Dalva também responde pela Lavanderia Vapor Branco e emprega moradores do bairro na lavagem das roupas, na cozinha e na arrumação dos quartos.

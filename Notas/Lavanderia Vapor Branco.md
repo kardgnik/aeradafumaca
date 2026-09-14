@@ -9,6 +9,8 @@ A Lavanderia Vapor Branco ocupa o térreo de um edifício estreito no [[Bairro d
 
 Grandes tanques de metal, caldeiras, prensas e varais suspensos ocupam a maior parte do salão. A lavanderia atende moradores, pensões menores, restaurantes, oficinas e equipes inteiras de trabalhadores. Uniformes chegam cobertos de carvão, óleo, sangue, reagentes e resíduos que os patrões preferem chamar apenas de sujeira.
 
+![[Lavanderia Vapor Branco em Brumaferro.png]]
+
 ## Administração e trabalhadores
 
 **Dalva Serrano** administra a lavanderia e a pensão acima dela. Mantém contas rigorosas, conhece os horários das fábricas próximas e sabe quais companhias tentam esconder um acidente pela quantidade de uniformes trazidos durante a madrugada.

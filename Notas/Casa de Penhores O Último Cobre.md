@@ -9,6 +9,8 @@ A Casa de Penhores O Último Cobre ocupa o imóvel vizinho à [[Oficina Dente de
 
 Moradores dizem que o nome descreve tanto aquilo que alguém recebe quanto aquilo que alguém entrega. Ferramentas, relógios, alianças, armas, instrumentos, peças mecânicas e lembranças de família passam pelo balcão todos os dias. Alguns objetos retornam aos donos depois do pagamento da dívida. Muitos nunca retornam.
 
+![[Penhores entre chuva e ferro.png]]
+
 ## Celina Ornelas
 
 A proprietária, **Celina Ornelas**, trabalhou durante anos avaliando cargas danificadas para uma companhia ferroviária. Ela reconhece ligas, marcas de fabricante, números de série raspados e sinais de que um objeto permaneceu perto demais de uma descarga de [[Éter]].
