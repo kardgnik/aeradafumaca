@@ -6,6 +6,8 @@ Arnoldes Brasa-Funda nasceu em [[Forja-Baixa]], um assentamento subterrâneo do 
 
 O clã Brasa-Funda nunca ocupou uma posição elevada na comunidade. Eram conhecidos como remendadores, responsáveis por bombas, portões, prensas, fechaduras, engrenagens e qualquer mecanismo que famílias mais importantes preferissem não tocar. Arnoldes aprendeu cedo que uma peça não precisava ser nova para funcionar. Precisava apenas encaixar, suportar pressão e não falhar antes de o cliente ir embora.
 
+![[Arnoldes em Forja-Baixa.png]]
+
 ## A Bandeira Queimada
 
 A proximidade de Forja-Baixa com a [[Passagem Rubra]] e o [[Cais de Basalto]] colocou a vila no caminho da [[Bandeira Queimada]]. Seus agentes levavam às oficinas equipamentos roubados, componentes estrangeiros e máquinas cuja procedência não podia ser explicada diante de uma autoridade.
