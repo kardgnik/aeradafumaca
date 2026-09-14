@@ -2,13 +2,15 @@
 
 #Povos
 
-Os Kharvyr são o povo que habita as Agulhas Antigas do [[Litoral das Agulhas]]. Suas comunidades ocupam cavernas, fendas aquecidas e plataformas escavadas nas formações que permanecem unidas ao continente. Não mantêm ferrovias, não queimam carvão e recusam ferramentas, armas ou máquinas trazidas de outras regiões.
+Os Kharvyr são o povo que habita as Agulhas Antigas do [[Litoral das Agulhas]]. Sua população é composta principalmente por Goliaths, embora famílias de outras ancestralidades também façam parte de suas comunidades. Suas moradias ocupam cavernas, fendas aquecidas e plataformas escavadas nas formações que permanecem unidas ao continente. Não mantêm ferrovias, não queimam carvão e recusam ferramentas, armas ou máquinas trazidas de outras regiões.
+
+A maioria dos adultos apresenta pele cinzenta, azul-acinzentada ou marcada por padrões escuros semelhantes a veios de pedra. Sua grande estatura é particularmente perceptível quando caçam sobre o gelo ou recebem náufragos de outras regiões. Ainda assim, Kharvyr não é o nome de uma ancestralidade. Pertencer ao povo depende de nascer ou ser criado nas Agulhas, aprender seus caminhos e assumir responsabilidade pelas comunidades que as habitam.
 
 Para os Kharvyr, sua terra começa onde o gelo se prende à rocha negra. As agulhas móveis do oceano formam apenas a fronteira exterior, uma região de caça e passagem cujos corredores precisam ser reaprendidos a cada estação. Pessoas nascidas além das formações fixas são chamadas de estrangeiras, mesmo quando pertencem a famílias que vivem em Keldrann há gerações.
 
 ## As comunidades das fendas
 
-Os assentamentos Kharvyr não são visíveis do mar ou das passagens continentais. Entradas estreitas conduzem a câmaras protegidas do vento, ligadas por túneis, pontes de couro e degraus talhados no gelo. Pequenas correntes de água aquecida atravessam algumas cavernas, onde crescem fungos, raízes claras e algas cultivadas em tanques rasos.
+Os assentamentos Kharvyr não são visíveis do mar ou das passagens continentais. Entradas que parecem estreitas à distância conduzem a corredores altos, câmaras protegidas do vento e plataformas dimensionadas para habitantes de grande estatura. Túneis, pontes de couro reforçado e degraus longos talhados no gelo conectam diferentes níveis. Pequenas correntes de água aquecida atravessam algumas cavernas, onde crescem fungos, raízes claras e algas cultivadas em tanques rasos.
 
 Peixes, focas, aves marinhas e grandes animais oceânicos fornecem carne, gordura, couro, tendões e ossos. Nada é descartado. Reservas são armazenadas em câmaras naturalmente congeladas, enquanto alimentos destinados ao consumo imediato permanecem próximos das fendas aquecidas. A fome existe, mas não governa a vida Kharvyr com a mesma frequência encontrada nas cidades mineiras.
 
@@ -16,7 +18,7 @@ As famílias vivem em grupos pequenos distribuídos por várias agulhas. Decisõ
 
 ## Ferramentas sem ferro
 
-As ferramentas Kharvyr parecem simples. São feitas de osso, pedra escura, couro, fibras animais e [[Nivério]], um material leitoso que não derrete quando levado para perto do fogo. Suas lâminas mantêm o corte durante anos, arpões atravessam cascos reforçados e pequenas pedras claras aquecem abrigos sem chama ou fumaça.
+As ferramentas Kharvyr parecem simples. São feitas de osso, pedra escura, couro, fibras animais e [[Nivério]], um material leitoso que não derrete quando levado para perto do fogo. Suas lâminas mantêm o corte durante anos, arpões atravessam cascos reforçados e pequenas pedras claras aquecem abrigos sem chama ou fumaça. Muitas armas e proteções possuem proporções adequadas a corpos Goliaths e são difíceis de manejar para estrangeiros menores sem adaptações.
 
 Estrangeiros atribuem essas propriedades a encantamentos, monstros marinhos ou minerais desconhecidos. Expedições de Vhalaris tentaram comprar, roubar e reproduzir os objetos. Nenhuma conseguiu demonstrar como são fabricados, e ferramentas retiradas das Agulhas costumam ter altíssimo valor em mercados de itens mágicos.
 
