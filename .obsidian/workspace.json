@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Pátio do Eixo Cansado.md",
+                "file": "NOTAS/Bairro das Caldeiras.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pátio do Eixo Cansado"
+              "title": "Bairro das Caldeiras"
             }
           },
           {
@@ -211,12 +211,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "693f25683829544a",
+  "active": "8e86c8089e6004e6",
   "lastOpenFiles": [
+    "IMAGENS/Bairro das Caldeiras.png",
+    "NOTAS/Pátio do Eixo Cansado.md",
     "NOTAS/Bairro das Caldeiras.md",
     "NOTAS/Brumaferro.md",
     "NOTAS/Vhalaris.md",
-    "NOTAS/Pátio do Eixo Cansado.md",
     "NOTAS/Lavanderia Vapor Branco.md",
     "NOTAS/Oficina Dente de Latão.md",
     "NOTAS/Pensão do Terceiro Turno.md",
@@ -248,7 +249,6 @@
     "NOTAS/Forja-Baixa-Oculto.md",
     "NOTAS/Cais de Basalto.md",
     "NOTAS/Keldrann.md",
-    "NOTAS/Água Negra.md",
     "PJ",
     "IMAGENS",
     "NOTAS"
