@@ -6,6 +6,8 @@ Masato é um construto quadrúpede criado por [[Arnoldes]] nas oficinas de [[For
 
 Seu corpo é baixo e pesado, formado por placas de bronze escuro, ferro remendado e peças substituídas tantas vezes que nenhuma oficina poderia reproduzir exatamente sua construção. Possui quatro pernas articuladas, cabeça larga, mandíbula mecânica e uma abertura no peito por onde pulsa uma luz azul-esverdeada de [[Éter]].
 
+![[Masato, construto industrial de Forja-Baixa.png]]
+
 ## Comportamento
 
 Masato move-se como algo entre um cão de trabalho e uma ferramenta que aprendeu a escolher onde deseja estar. Reconhece comandos manuais, sons de ferramentas e mudanças no tom de voz de Arnoldes. Quando está calmo, o brilho em seu peito pulsa devagar. Diante de perigo, as placas do dorso se erguem e a mandíbula trava com força suficiente para deformar metal fino.

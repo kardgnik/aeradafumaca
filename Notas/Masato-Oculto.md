@@ -8,6 +8,8 @@ O componente adapta o fluxo de energia à estrutura que o abriga. Dentro de Masa
 
 Masato não recebeu consciência em um único instante. Cada ativação do estabilizador fortaleceu padrões formados pela convivência com Arnoldes. A decisão de entrar no cofre não foi um comando oculto nem um acidente. Foi a primeira escolha complexa que conseguiu executar sem instrução.
 
+![[O coração de cinza de Masato.png]]
+
 ## O protótipo vivo
 
 Os responsáveis pelo Coração de Cinza acreditavam que o componente havia sido roubado como peça separada. Quando registros internos revelaram que ele estava dentro do construto, as ordens mudaram. Arnoldes deve ser capturado vivo porque é a única pessoa capaz de desmontar Masato sem destruir a integração. Masato deve retornar inteiro porque se tornou o protótipo mais bem-sucedido do projeto.
