@@ -42,6 +42,6 @@ Na extremidade do quarteirão, o [[Pátio do Eixo Cansado]] abriga animais, carr
 
 ## Pessoas do bairro
 
-[[Malik|Malik Booker]] nasceu e cresceu nas Caldeiras. Sua mãe, Miriam Booker, trabalha na [[Lavanderia Vapor Branco]] e auxilia na [[Pensão do Terceiro Turno]], onde Malik e [[Arnoldes]] atualmente alugam quartos no mesmo corredor. Para moradores antigos, Malik continua sendo o garoto que aprendeu a lutar na Sete Batidas, mesmo depois de se tornar conhecido como Mão Pesada.
+[[Malik|Malik Booker]] nasceu e cresceu nas Caldeiras. Sua mãe, Miriam Booker, trabalha na Lavanderia Vapor Branco e auxilia na Pensão do Terceiro Turno, onde Malik e [[Arnoldes]] atualmente alugam quartos no mesmo corredor. Para moradores antigos, Malik continua sendo o garoto que aprendeu a lutar na Sete Batidas, mesmo depois de se tornar conhecido como Mão Pesada.
 
 O bairro guarda memória longa. Uma pessoa pode mudar de nome, roupa ou profissão, mas sempre haverá alguém capaz de lembrar em qual rua ela aprendeu a correr.
