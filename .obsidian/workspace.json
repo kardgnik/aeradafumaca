@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Bairro das Caldeiras.md",
+                "file": "NOTAS/Pátio do Eixo Cansado.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bairro das Caldeiras"
+              "title": "Pátio do Eixo Cansado"
             }
           },
           {
@@ -211,10 +211,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "693f25683829544a",
+  "active": "8e86c8089e6004e6",
   "lastOpenFiles": [
-    "NOTAS/Pensão do Terceiro Turno.md",
+    "IMAGENS/Bento no Pátio.png",
     "NOTAS/Bairro das Caldeiras.md",
+    "NOTAS/Pensão do Terceiro Turno.md",
     "NOTAS/Casa de Penhores O Último Cobre.md",
     "IMAGENS/Penhores entre chuva e ferro.png",
     "NOTAS/Lavanderia Vapor Branco.md",

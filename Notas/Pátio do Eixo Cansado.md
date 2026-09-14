@@ -15,6 +15,8 @@ O pátio é administrado por **Bento Salgueiro**, antigo condutor de cargas que 
 
 Bento fala com animais como se fossem funcionários e com clientes como se fossem animais particularmente difíceis. Não exige documentos de viajantes comuns, mas registra descrições das carroças, horários de entrada e valores pagos num livro guardado dentro de uma caixa de ração vazia.
 
+![[Bento no Pátio.png]]
+
 ## Serviços e preços
 
 | Serviço | Preço |
