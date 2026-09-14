@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Forja-Baixa.md",
+                "file": "NOTAS/Dama Véspera Cendra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Forja-Baixa"
+              "title": "Dama Véspera Cendra"
             }
           }
         ],
@@ -214,10 +214,15 @@
   },
   "active": "9ca8641bfc811350",
   "lastOpenFiles": [
-    "NOTAS/Cais de Basalto.md",
-    "NOTAS/Forja-Baixa.md",
-    "IMAGENS/Forja-Baixa.png",
     "NOTAS/Arnoldes.md",
+    "NOTAS/Dama Véspera Cendra.md",
+    "IMAGENS/Miriam Booker na lavanderia de Brumaferro.png",
+    "IMAGENS/Dama Véspera sob o Sol Negro.png",
+    "NOTAS/Forja-Baixa.md",
+    "NOTAS/Forja-Baixa-Oculto.md",
+    "IMAGENS/A estação desperta sob a Forja-Baixa.png",
+    "NOTAS/Cais de Basalto.md",
+    "IMAGENS/Forja-Baixa.png",
     "A Era da Fumaça.md",
     "NOTAS/Keldrann.md",
     "NOTAS/Água Negra.md",
@@ -226,8 +231,6 @@
     "NOTAS/Mira.md",
     "NOTAS/Masato.md",
     "NOTAS/Masato-Oculto.md",
-    "NOTAS/Forja-Baixa-Oculto.md",
-    "NOTAS/Dama Véspera Cendra.md",
     "NOTAS/Coração de Cinza.md",
     "NOTAS/Coração de Cinza-Oculto.md",
     "NOTAS/Bairro das Caldeiras.md",
@@ -243,13 +246,9 @@
     "IMAGENS/Refúgio Kharvyr.png",
     "IMAGENS/Corrente rubra sob o sol negro.png",
     "NOTAS/Ponte dos Cem Pilares.md",
-    "IMAGENS/Ponte dos Cem Pilares sobre o Glaciar.png",
-    "IMAGENS/Refúgio Kharvyr sob o sol negro.png",
     "NOTAS/Nivério.md",
-    "IMAGENS/Escudo de Nivério sob o sol negro.png",
     "NOTAS/Coriolano da Rocha.md",
     "NOTAS/Último Trilho.md",
-    "NOTAS/Branco Sem Retorno.md",
     "PJ",
     "IMAGENS",
     "NOTAS"

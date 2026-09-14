@@ -6,6 +6,8 @@ A [[Estações de Transposição|Estação de Transposição]] sob [[Forja-Baixa
 
 As pedras quentes utilizadas pela população são revestimentos arrancados desses condutos. Elas absorvem pequenas quantidades de energia e as liberam lentamente. A remoção continuada está expondo linhas que jamais deveriam entrar em contato com água.
 
+![[A estação desperta sob a Forja-Baixa.png]]
+
 ## A cisterna contaminada
 
 O motor reparado por [[Arnoldes]] não criou sozinho a contaminação da cisterna. Sua ativação fez a Estação responder, enviando um pulso através das galerias inferiores. A água adquiriu gosto metálico, pequenas partículas azul-esverdeadas e a capacidade de manter certos organismos vivos sem alimento ou luz.
