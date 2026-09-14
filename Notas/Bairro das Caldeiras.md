@@ -22,9 +22,21 @@ A presença do poder público é irregular. Inspetores chegam depois de acidente
 
 ## Oficinas e locais de interesse
 
-A [[Oficina Sete Batidas]], de [[Elias Baptiste]], é conhecida tanto pelos reparos quanto pelo espaço de treinamento mantido nos fundos. Sua neutralidade é respeitada por operários, lutadores, guardas e integrantes dos Cães. 
+### [[Oficina Sete Batidas]]
 
-A [[Oficina Dente de Latão]] funciona sem licença clara e aceita mecanismos de procedência duvidosa. Seu mecânico, [[Arnoldes]], chegou recentemente de Caldeiras acompanhado pelo construto [[Masato]]. Ao lado ficam a [[Casa de Penhores O Último Cobre]] e a [[Lavanderia Vapor Branco]], com a [[Pensão do Terceiro Turno]] ocupando os andares superiores. O mesmo trecho termina no portão do [[Pátio do Eixo Cansado]], onde viajantes guardam carroças, animais e pequenas cargas.
+A Sete Batidas é conhecida tanto pelos reparos quanto pelo espaço de treinamento mantido por [[Elias Baptiste]] nos fundos. Sua neutralidade é respeitada por operários, lutadores, guardas e integrantes dos Cães, fazendo dela um dos poucos lugares do bairro onde antigas rivalidades costumam permanecer do lado de fora.
+
+### [[Oficina Dente de Latão]]
+
+A Dente de Latão funciona sem licença clara e aceita bombas, fechaduras, válvulas e mecanismos recusados por oficinas autorizadas. Sua fachada estreita é identificada por uma engrenagem de latão com um dos dentes maior que os demais. A procedência de uma peça raramente impede o serviço, mas perguntas demais tornam qualquer reparo mais caro.
+
+### O trecho do Terceiro Turno
+
+A [[Casa de Penhores O Último Cobre]] recebe ferramentas, joias, armas e lembranças de família deixadas em troca de empréstimos pequenos demais para resolver uma vida e caros demais para serem esquecidos.
+
+A [[Lavanderia Vapor Branco]] ocupa o térreo do edifício vizinho, enchendo a rua de calor, umidade e vapor. Nos andares superiores funciona a [[Pensão do Terceiro Turno]], cuja porta nunca fecha porque seus hóspedes obedecem aos horários das fábricas, não aos do dia.
+
+Na extremidade do quarteirão, o [[Pátio do Eixo Cansado]] abriga animais, carroças e cargas em trânsito. Viajantes que dormem nos próprios veículos costumam atravessar a rua para conseguir uma refeição quente, um banho ou notícias dos últimos turnos.
 
 ![[Bairro das Caldeiras.png]]
 
