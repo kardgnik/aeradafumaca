@@ -4,6 +4,8 @@
 
 A Ponte dos Cem Pilares conduz a principal ferrovia entre [[Monte Farpado]] e [[Água Negra]] sobre uma geleira profundamente fraturada. Apesar do nome, o número de pilares varia. Alguns foram esmagados pelo movimento do gelo, outros acrescentados em pontos onde a estrutura começou a ceder.
 
+![[Ponte dos Cem Pilares sobre o Glaciar.png]]
+
 ## Os cem originais
 
 A ponte recebeu esse nome porque sua primeira estrutura foi sustentada por exatamente cem monólitos retirados do [[Campo de Vidro Negro]], em [[Caldeiras]]. As placas foram cortadas com ferramentas revestidas pelos diamantes de [[Sete Facetas]], recozidas nas fornalhas de [[Coroa de Estrelas]] e transportadas por navio até Água Negra antes de seguirem sobre trenós para a geleira.

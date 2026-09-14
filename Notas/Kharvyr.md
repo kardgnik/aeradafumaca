@@ -8,6 +8,8 @@ A maioria dos adultos apresenta pele cinzenta, azul-acinzentada ou marcada por p
 
 Para os Kharvyr, sua terra começa onde o gelo se prende à rocha negra. As agulhas móveis do oceano formam apenas a fronteira exterior, uma região de caça e passagem cujos corredores precisam ser reaprendidos a cada estação. Pessoas nascidas além das formações fixas são chamadas de estrangeiras, mesmo quando pertencem a famílias que vivem em Keldrann há gerações.
 
+![[Refúgio Kharvyr.png]]
+
 ## As comunidades das fendas
 
 Os assentamentos Kharvyr não são visíveis do mar ou das passagens continentais. Entradas que parecem estreitas à distância conduzem a corredores altos, câmaras protegidas do vento e plataformas dimensionadas para habitantes de grande estatura. Túneis, pontes de couro reforçado e degraus longos talhados no gelo conectam diferentes níveis. Pequenas correntes de água aquecida atravessam algumas cavernas, onde crescem fungos, raízes claras e algas cultivadas em tanques rasos.
