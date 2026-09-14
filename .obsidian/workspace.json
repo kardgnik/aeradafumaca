@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Luz Baixa.md",
+                "file": "NOTAS/Último Trilho.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Luz Baixa"
+              "title": "Último Trilho"
             }
           }
         ],
@@ -240,15 +240,20 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9ca8641bfc811350",
+  "active": "8e86c8089e6004e6",
   "lastOpenFiles": [
+    "IMAGENS/Último Trilho sob o Sol Negro.png",
     "NOTAS/Keldrann.md",
+    "NOTAS/Ferrugem Rubra.md",
+    "NOTAS/Neve Rubra.md",
+    "NOTAS/Luz Baixa.md",
+    "NOTAS/Noite Profunda.md",
+    "IMAGENS/Noite Profunda sob o Sol Negro.png",
+    "IMAGENS/Luz Baixa sob o Sol Negro.png",
     "NOTAS/Sete Facetas.md",
     "IMAGENS/Sete Facetas sob o sol negro.png",
     "NOTAS/Pedraluz.md",
     "IMAGENS/Pedraluz sob o sol negro.png",
-    "NOTAS/Neve Rubra.md",
-    "NOTAS/Ferrugem Rubra.md",
     "IMAGENS/Mina Ferrugem Rubra sob o sol negro.png",
     "NOTAS/Coroa de Estrelas.md",
     "NOTAS/Caldeiras.md",
@@ -265,7 +270,6 @@
     "NOTAS/Corrente Rubra.md",
     "Corrente Rubra.md",
     "NOTAS/Ponte dos Cem Pilares.md",
-    "NOTAS/Luz Baixa.md",
     "NOTAS/Litoral das Agulhas.md",
     "IMAGENS/Litoral das Agulhas sob o Sol Negro.png",
     "IMAGENS/Água Negra sob o sol negro.png",
@@ -274,9 +278,6 @@
     "NOTAS/Coriolano da Rocha-Oculto.md",
     "IMAGENS/Investidura na Porta Branca.png",
     "IMAGENS/O Primaz de Monte Farpado.png",
-    "IMAGENS/Monte Farpado sob o sol negro.png",
-    "NOTAS/Tempestades Brancas-Oculto.md",
-    "IMAGENS/Locomotiva contra a Tempestade Branca.png",
     "PJ",
     "IMAGENS",
     "NOTAS"
