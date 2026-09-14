@@ -27,7 +27,7 @@ Grandes tanques de metal, caldeiras, prensas e varais suspensos ocupam a maior p
 | Banho com água aquecida | 5 PC |
 | Aluguel de roupa de trabalho limpa | 1 PP por dia |
 
-A lavanderia não promete remover marcas causadas diretamente por [[Éter]]. Peças que brilham, vibram ou permanecem quentes depois de mergulhadas são isoladas num cesto metálico até que alguém decida o que fazer com elas.
+A lavanderia não promete remover marcas causadas diretamente por [[Éter]]. Peças que brilham ou permanecem quentes depois de mergulhadas são isoladas num cesto metálico até que alguém decida o que fazer com elas.
 
 ## Um lugar de informações
 
