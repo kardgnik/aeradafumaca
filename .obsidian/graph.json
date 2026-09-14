@@ -5,8 +5,149 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#PJs",
+      "color": {
+        "a": 1,
+        "rgb": 16096779
+      }
+    },
+    {
+      "query": "tag:#NPC",
+      "color": {
+        "a": 1,
+        "rgb": 440020
+      }
+    },
+    {
+      "query": "tag:#Lugares",
+      "color": {
+        "a": 1,
+        "rgb": 1096065
+      }
+    },
+    {
+      "query": "tag:#Hospedarias",
+      "color": {
+        "a": 1,
+        "rgb": 13935475
+      }
+    },
+    {
+      "query": "tag:#Estábulos",
+      "color": {
+        "a": 1,
+        "rgb": 10576391
+      }
+    },
+    {
+      "query": "tag:#Navegação",
+      "color": {
+        "a": 1,
+        "rgb": 165063
+      }
+    },
+    {
+      "query": "tag:#Spoiler",
+      "color": {
+        "a": 1,
+        "rgb": 15680580
+      }
+    },
+    {
+      "query": "tag:#Tecnologia",
+      "color": {
+        "a": 1,
+        "rgb": 3718648
+      }
+    },
+    {
+      "query": "tag:#Oficinas",
+      "color": {
+        "a": 1,
+        "rgb": 14251782
+      }
+    },
+    {
+      "query": "tag:#Itens",
+      "color": {
+        "a": 1,
+        "rgb": 8490232
+      }
+    },
+    {
+      "query": "tag:#Telúrica",
+      "color": {
+        "a": 1,
+        "rgb": 16347926
+      }
+    },
+    {
+      "query": "tag:#Extraplanar",
+      "color": {
+        "a": 1,
+        "rgb": 11032055
+      }
+    },
+    {
+      "query": "tag:#Organizações",
+      "color": {
+        "a": 1,
+        "rgb": 3900150
+      }
+    },
+    {
+      "query": "tag:#Política",
+      "color": {
+        "a": 1,
+        "rgb": 9133302
+      }
+    },
+    {
+      "query": "tag:#Crime",
+      "color": {
+        "a": 1,
+        "rgb": 6583435
+      }
+    },
+    {
+      "query": "tag:#Povos",
+      "color": {
+        "a": 1,
+        "rgb": 1357990
+      }
+    },
+    {
+      "query": "tag:#Tradições",
+      "color": {
+        "a": 1,
+        "rgb": 15485081
+      }
+    },
+    {
+      "query": "tag:#Eventos",
+      "color": {
+        "a": 1,
+        "rgb": 16478597
+      }
+    },
+    {
+      "query": "tag:#Comércio",
+      "color": {
+        "a": 1,
+        "rgb": 15381256
+      }
+    },
+    {
+      "query": "tag:#Fenômenos",
+      "color": {
+        "a": 1,
+        "rgb": 9684477
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +158,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.25883865621816243,
+  "scale": 0.3628873693012113,
   "close": true
 }

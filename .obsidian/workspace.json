@@ -6,7 +6,7 @@
       {
         "id": "c7f8d86b8dddb9e2",
         "type": "tabs",
-        "dimension": 55.034722222222214,
+        "dimension": 41.754122938530735,
         "children": [
           {
             "id": "693f25683829544a",
@@ -21,28 +21,16 @@
               "icon": "lucide-file",
               "title": "A Era da Fumaça"
             }
-          },
-          {
-            "id": "cb6172e45ecd9dc4",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "IMAGENS/Volgrin, Mestre da Engrenagem Incompleta.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "Volgrin, Mestre da Engrenagem Incompleta"
-            }
           }
         ]
       },
       {
-        "id": "2a16fc1bab18030e",
+        "id": "fd73de0192dea7d4",
         "type": "tabs",
-        "dimension": 44.965277777777786,
+        "dimension": 58.245877061469265,
         "children": [
           {
-            "id": "a17a450bfb9a895b",
+            "id": "6375277d69486d58",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -108,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "5ba1bfa9dc09bea3",
@@ -210,7 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 423.5
+    "width": 341.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,7 +213,7 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "a17a450bfb9a895b",
+  "active": "6375277d69486d58",
   "lastOpenFiles": [
     "A Era da Fumaça.md",
     "Notas/Ponte dos Cem Pilares.md",
