@@ -34,6 +34,18 @@ A Refinaria de Brumaferro não é apenas uma fábrica; é uma cidadela de ferro 
 - **Os Turnos de Expurgo:** Nas galerias inferiores, onde o calor e a radiação luminescente são letais, os filtros de contenção acumulam crostas vítreas de "resíduo cego". Essa limpeza periódica não é feita por maquinário, mas por operários do "Turno de Expurgo" — em grande parte criminosos condenados, devedores insolventes e trabalhadores em desespero que aceitam o risco por pagamentos imediatos. A taxa de sobrevida de um expurgador após dois anos é estatisticamente quase nula.
 - **Drenagem Residual para o Bairro das Caldeiras:** Os efluentes menos concentrados e as águas de lavagem das torres são despejados secretamente nos antigos canais subterrâneos que correm sob o [[Bairro das Caldeiras]]. É esse vazamento crônico que permite a proliferação de oficinas clandestinas nas redondezas e torna a água local levemente fosforescente.
 
+### O Destino dos Operários do Turno de Expurgo
+
+Como as mutações causadas pelo Éter não são de conhecimento público — sendo mantidas sob sigilo de estado para proteger os lucros industriais e a farsa do recurso fóssil inofensivo —, o Consórcio opera uma máquina impiedosa de silenciamento para lidar com os homens e mulheres que limpam os filtros profundos da refinaria:
+
+1. **O Confinamento Preventivo (Dormitórios da Base):** Operários que assinam contratos para o Expurgo raramente retornam às ruas da cidade. Sob a justificativa pública de "preservação sanitária contra emanações gasosas inflamáveis que impregnam tecidos", eles são alojados em dormitórios subterrâneos construídos nas fundações da própria refinaria. O isolamento impede que o público veja as alterações físicas iniciais.
+2. **A Doença de Fachada: A "Tísica Negra":** Quando o operário começa a manifestar veias azuladas luminescentes, insônia extrema e a Síndrome da Máquina Fantasma (Estágio 1 e 2), os médicos corporativos classificam o quadro como *Tísica Negra das Caldeiras* — apresentada à cidade como uma forma violenta de pneumonia bacteriana de mina. Quando a incapacidade se torna definitiva, a família recebe uma notificação oficial de que o trabalhador foi transferido para um "Sanatório de Ar Puro nas Colinas de Vhalaris". Esse sanatório jamais existiu.
+3. **Os Três Destinos Ocultos:**
+   - **Dissecação e Patentes (O Destino de Saldren):** Operários cujos corpos desenvolvem endurecimento cristalino, ossos reforçados ou sangue condutivo são transferidos para laboratórios discretos mantidos por cirurgiões ligados ao culto de [[Saldren]]. Mantidos sedados, têm tecidos e órgãos extirpados para estudo arcanotécnico e desenvolvimento de novas ligas de blindagem patenteadas pelo Consórcio.
+   - **Mão de Obra Clandestina nas Galerias Lacradas:** Aqueles cuja mutação gerou vigor muscular e imunidade à dor (Estágio 2 e 3) são transferidos como operários sem registro para as obras mais perigosas do subsolo — escavações proibidas como as tubulações que desviam condutos para o [[No-7B|Nó de Distribuição 7B]] e os testes ilegais do [[Coração de Cinza]]. Onde um humano normal morreria por asfixia em minutos, o mutado continua cavando.
+   - **O Expurgo Final e os Caixões de Pedra:** Quando o indivíduo perde completamente a lucidez ou atinge a beira da metamorfose em criatura, a Segurança Industrial (coordenada por forças leais ao Consórcio) executa a eliminação sumária com armas gélidas. Os corpos são destruídos nas fornalhas de alta temperatura da refinaria. A certidão pública registra *"vítima de explosão acidental de caldeira"* e a família recebe um caixão selado por "risco de contaminação biológica", preenchido secretamente com pedras de lastro e cinzas de carvão.
+4. **O Mito Urbano: "Os Vagalumes":** Nem todos morrem nas caldeiras. Alguns operários alterados conseguem escapar pelos canais de lavagem e galerias de efluentes que descem para o [[Bairro das Caldeiras]]. Forçados a evitar a luz do dia, vivem escondidos nas ruínas alagadas do esgoto. No bairro operário, moradores e crianças sussurram sobre os *"Vagalumes"* ou *"Homens-Catraca"* — vultos de veias cintilantes que rondam os canos à noite, batendo compassadamente nas paredes. A polícia descarta os relatos como alucinações de bêbados, mas patrulhas da Segurança Industrial caçam esses fugitivos sem trégua para impedir que qualquer testemunha viva alcance a luz do dia.
+
 ## Guildas e Monopólios Energéticos
 
 O controle sobre o Éter não é disperso; ele está concentrado nas mãos de poucas entidades que operam com autoridade quase estatal:
@@ -46,15 +58,13 @@ O controle sobre o Éter não é disperso; ele está concentrado nas mãos de po
 3. **Os Curadores do Espelho:** Ordem médica e alquímica de elite ligada à corte e ao culto de [[Velisse]]. Seu monopólio reside na "cura cosmética": fabricam maquiagens cáusticas, enxertos de pele e filtros de luz para que os nobres contaminados dissimulem veias brilhantes e calos cristalinos diante da alta sociedade.
 4. **O Sindicato Clandestino dos Fogistas do Fundo:** Rede subterrânea de operários, mineiros e maquinistas. Operam nas galerias de esgoto e sob o [[Bairro das Caldeiras]], com laços com [[Torven]] e a gangue [[Os Cães da Caldeira]] de [[Silas Rook]]. Desviam células viciadas para alimentar a medicina popular e oficinas clandestinas.
 
-## Mecânicas de Jogo: Baterias e Células de Éter (D&D 5.5e)
+## Mecânicas de Jogo: Baterias e Células de Éter
 
 As células de Éter são cilindros reforçados de vidro temperado e latão polido que armazenam a energia condensada.
-
 ### Classificação de Células:
 - **Célula de Bolso / Grau V (Micro-Célula):** 0,5 kg. Capacidade: 5 Cargas. Utilizada em lanternas direcionais, instrumentos cirúrgicos, cronômetros arcanos e disparadores de bolso.
 - **Célula de Campanha / Grau III (Célula Padrão):** 2 kg. Capacidade: 20 Cargas. Padrão militar e comercial para armas de choque, próteses pneumáticas, maçaricos e pequenos motores residenciais.
 - **Núcleo de Força / Grau I (Célula Pesada):** 15 kg (requer duas mãos ou montagem em veículo/maquinário). Capacidade: 100 Cargas. Alimenta locomotivas, dirigíveis, autômatos pesados e caldeiras industriais.
-
 ### Condições das Baterias:
 - **Célula Registrada (Selo Oficial):** Segura. Só vaza se o item sofrer um Acerto Crítico direcionado ou dano estrutural massivo.
 - **Célula Clandestina / "Fria":** Recarregada ilegalmente nos condutos de esgoto. Possui 1d4 cargas a menos que o nominal. Cada 5 cargas consumidas aumentam em 1 o Estresse do motor.
@@ -136,9 +146,7 @@ A contaminação é medida em **Pontos de Exposição Etérica (PEE)**. Um perso
 
 ### 🕊️ Mecânica Especial: O Resquício de Identidade (A Doutrina de Namyss)
 
-Inspirada nos ensinamentos dos Custódios de [[Namyss]], esta regra impede que a transformação final seja apenas uma morte clínica sem peso emocional:
-
-Quando o personagem entra em metamorfose final irreversível, ele não se torna um monstro genérico sob controle do Mestre imediatamente. Ele recebe um número de **Resquícios de Memória** igual ao seu modificador de **Sabedoria ou Carisma** (mínimo de 1).
+Quando o personagem entra em metamorfose final irreversível, ele não se torna um monstro genérico imediatamente. Ele recebe um número de **Resquícios de Memória** igual ao seu modificador de **Sabedoria ou Carisma** (mínimo de 1).
 
 Durante a cena de despedida ou o combate final em que seu corpo sucumbe, o jogador pode gastar seus Resquícios para intervir na narrativa:
 
