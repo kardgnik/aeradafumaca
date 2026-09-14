@@ -38,70 +38,120 @@ A Refinaria de Brumaferro não é apenas uma fábrica; é uma cidadela de ferro 
 
 O controle sobre o Éter não é disperso; ele está concentrado nas mãos de poucas entidades que operam com autoridade quase estatal:
 
-1. **O Consórcio Carbono-Éter de Vhalaris (O Consórcio):** Uma corporação de magnatas, refinadores e banqueiros que detém a concessão imperial sobre todas as jazidas mapeadas e as grandes refinarias de Vhalaris. O Consórcio mantém sua própria força de intervenção e segurança armada privada (liderada por agentes rígidos como [[Viktor Halden]]), com autoridade para revistar trens, confiscar baterias sem selo e executar invasões a oficinas sem licença.
-2. **A Irmandade dos Reguladores:** Uma casta de engenheiros-mestres, agrimensores e tecno-arcanistas juramentados. Eles guardam os segredos matemáticos da estabilização do Éter e os procedimentos de alinhamento das [[Estações de Transposição]]. Nenhuma locomotiva de longo curso ou câmara de transposição opera sem a assinatura e o selo de chumbo de um Regulador.
-3. **Os Curadores do Espelho:** Uma ordem médica e alquímica de elite ligada à alta sociedade e ao culto de [[Velisse]]. Seu monopólio é o da "cura social": fornecem maquiagens alcalinas, enxertos estéticos e terapias caríssimas para que a nobreza e os grandes diretores industriais escondam as veias brilhantes e os estigmas da exposição crônica ao Éter.
-4. **O Sindicato Clandestino dos Fogistas do Fundo:** Uma rede subterrânea de operários, maquinistas e remendadores que operam nas sombras das refinarias. Com ligações ocasionais a [[Torven]] e a gangues urbanas como [[Os Cães da Caldeira]], o sindicato desvia células "viciadas" ou descartadas para abastecer o mercado negro e hospitais populares.
+1. **O Consórcio Carbono-Éter de Vhalaris (O Consórcio):** Uma corporação imperial dominada por dinastias aristocráticas que detém o monopólio legal da extração, transporte e refino. Mantém forças armadas privadas (lideradas por comandantes rígidos como [[Viktor Halden]]), com poder de polícia para revistar comboios, fechar oficinas e confiscar qualquer bateria sem o selo de chumbo.
+   - **Casa Valmont-Shor (Os Senhores dos Tubos):** Antiga aristocracia bancária que financiou as primeiras perfurações há 120 anos. Controlam as grandes torres de destilação de Brumaferro. Vivem em mansões suspensas onde o ar é filtrado e perfumado, enquanto financiam os Curadores do Espelho para extirpar discretamente as marcas luminosas de seus herdeiros.
+   - **Casa Cendra-Vane:** Família tradicional da siderurgia que migrou para o Éter. São os maiores fabricantes de tubulações de alta pressão, tanques e armaduras móveis. Possuem ramificações obscuras que dialogam com intermediários do deserto (suspeita-se de laços velados com a [[Dama Véspera Cendra]] em Caldeiras).
+   - **Casa Haldenstern (Os Barões dos Trilhos):** Monopolistas da malha ferroviária e dos comboios blindados que cruzam Vhalaris e Keldrann. Notórios por sua disciplina militar implacável e pela política de descarte sumário de trabalhadores adoecidos para evitar pagamento de indenizações às famílias.
+2. **A Irmandade dos Reguladores:** Casta de tecnocratas e arcanistas juramentados. Guardam as equações secretas da estabilização do Éter e os procedimentos de alinhamento das [[Estações de Transposição]]. Nenhuma locomotiva de alta pressão ou câmara de transposição opera sem a assinatura e o selo de chumbo de um Regulador.
+3. **Os Curadores do Espelho:** Ordem médica e alquímica de elite ligada à corte e ao culto de [[Velisse]]. Seu monopólio reside na "cura cosmética": fabricam maquiagens cáusticas, enxertos de pele e filtros de luz para que os nobres contaminados dissimulem veias brilhantes e calos cristalinos diante da alta sociedade.
+4. **O Sindicato Clandestino dos Fogistas do Fundo:** Rede subterrânea de operários, mineiros e maquinistas. Operam nas galerias de esgoto e sob o [[Bairro das Caldeiras]], com laços com [[Torven]] e a gangue [[Os Cães da Caldeira]] de [[Silas Rook]]. Desviam células viciadas para alimentar a medicina popular e oficinas clandestinas.
 
-## Mecânicas de Jogo: Baterias e Células de Éter
+## Mecânicas de Jogo: Baterias e Células de Éter (D&D 5.5e)
 
-As células de Éter são os recipientes que contêm a energia estabilizada. São cilindros de vidro reforçado protegidos por grades de latão polido, com indicadores manométricos e válvulas de engate rápido.
+As células de Éter são cilindros reforçados de vidro temperado e latão polido que armazenam a energia condensada.
 
 ### Classificação de Células:
-- **Célula de Bolso / Grau V (Micro-Célula):** Do tamanho de um maço pequeno. Capacidade: 5 Cargas. Utilizada em lanternas direcionais, instrumentos médicos, relógios e disparadores leves de bolso.
-- **Célula de Campanha / Grau III (Célula Padrão):** Do tamanho de uma garrafa térmica pesada (cerca de 2 kg). Capacidade: 20 Cargas. O padrão para armamentos, próteses de pistão, maçaricos industriais e pequenos motores residenciais.
-- **Núcleo de Força / Grau I (Célula Pesada):** Cilindro de cerâmica e bronze do tamanho de um barril (cerca de 15 kg). Capacidade: 100 Cargas. Alimenta motores de veículos, autômatos de carga e sistemas fabris.
+- **Célula de Bolso / Grau V (Micro-Célula):** 0,5 kg. Capacidade: 5 Cargas. Utilizada em lanternas direcionais, instrumentos cirúrgicos, cronômetros arcanos e disparadores de bolso.
+- **Célula de Campanha / Grau III (Célula Padrão):** 2 kg. Capacidade: 20 Cargas. Padrão militar e comercial para armas de choque, próteses pneumáticas, maçaricos e pequenos motores residenciais.
+- **Núcleo de Força / Grau I (Célula Pesada):** 15 kg (requer duas mãos ou montagem em veículo/maquinário). Capacidade: 100 Cargas. Alimenta locomotivas, dirigíveis, autômatos pesados e caldeiras industriais.
 
 ### Condições das Baterias:
-- **Célula Selada / Registrada:** Produção oficial da refinaria. Segura contra vazamentos normais; só falha se sofrer dano físico destrutivo direto.
-- **Célula Clandestina / "Fria":** Recarregada em oficinas clandestinas por indução nos condutos de esgoto ou desvios de linha. Possui 1d4 cargas a menos que o valor nominal e gera 1 ponto de Estresse Mecânico para o motor a cada 5 cargas consumidas.
-- **Célula Instável / "Fervida":** Bateria que sofreu sobrecarga ou cujo líquido perdeu a transparência, tornando-se verde-escuro e espumoso. Se sofrer choque mecânico forte ou for descarregada rapidamente, possui 50% de chance de detonar uma Fulguração Etérica imediata.
+- **Célula Registrada (Selo Oficial):** Segura. Só vaza se o item sofrer um Acerto Crítico direcionado ou dano estrutural massivo.
+- **Célula Clandestina / "Fria":** Recarregada ilegalmente nos condutos de esgoto. Possui 1d4 cargas a menos que o nominal. Cada 5 cargas consumidas aumentam em 1 o Estresse do motor.
+- **Célula Instável / "Fervida":** O líquido torna-se verde-escuro e borbulhante. Se sofrer impacto forte ou descarregar mais de 2 cargas no mesmo turno, role 1d20: em 1-5 ocorre uma Fulguração Etérica imediata.
 
 ## Mecânicas de Jogo: Falhas de Motor e Fulgurações
 
-Máquinas industriais e motores movidos a Éter acumulam **Pontos de Estresse Mecânico** quando forçados além do limite, quando utilizam células clandestinas ou quando operam perto de condutos antigos adormecidos.
+Motores a Éter acumulam **Pontos de Estresse Mecânico** quando operam além da capacidade, usam células clandestinas ou operam próximos a condutos antigos. Ao acumular Estresse igual à Tolerância do motor (3 para itens leves, 5 para motores médios, 10 para veículos) ou quando o operador tira um **1 natural** em um Teste d20 de Operação/Mecânica, role 1d6 na **Tabela de Instabilidade do Éter**:
 
-Quando uma máquina acumula Estresse igual à sua Tolerância (3 para itens manuais, 5 para motores médios, 10 para veículos/fábricas) ou em uma Falha Crítica em testes de Mecânica/Operação, role 1d6 na **Tabela de Instabilidade do Éter**:
-
-| 1d6 | Efeito da Falha | Consequência Mecânica |
+| 1d6 | Efeito da Falha | Consequência Mecânica (D&D 5.5e) |
 | :---: | :--- | :--- |
-| **1** | **Vazamento Térmico Frio** | As juntas do motor sibilam e expelem vapor gélido azulado. Uma área de 3 metros é coberta por névoa densa. Todos na área sofrem dano de frio e devem resistir a queimaduras criogênicas (desvantagem em testes manuais por 1 hora). |
-| **2** | **Batidas de Torven (Ressonância)** | Pistões e válvulas começam a bater no ritmo seco de três pancadas compassadas. O motor perde 50% da sua potência e emite um zumbido acústico que atrai autômatos ou ativa condutos subterrâneos num raio de 100 metros. |
-| **3** | **Congelamento da Válvula** | O Éter líquido cristaliza dentro dos condutos internos. O motor desliga abruptamente. Exige 1d4 rodadas e um teste de Ferramentas/Engenharia sob pressão para desbloquear o fluxo com calor externo. |
-| **4** | **Reversão de Fluxo** | A energia da célula drena para a carcaça externa em vez dos cilindros. O operador ou quem tocar na máquina sofre choque arcano imediato (dano elétrico/frio) e o motor passa a queimar o dobro de cargas. |
-| **5** | **Fulguração Etérica (Pulso Silencioso)** | Uma detonação sem som explode do núcleo. Sem chamas, mas uma onda de choque de luz azulada apaga todas as tochas num raio de 6 metros, cancela a gravidade por alguns segundos (arremessando itens soltos ao teto) e neutraliza magias ativas por 1d4 rodadas. A célula de Éter instalada é desintegrada. |
-| **6** | **Brecha Liminar** | O motor toca uma frequência da rede de transposição. Uma microfenda para o *Intervalo Planar* pisca no compartimento: objetos soltos pequenos desaparecem no vácuo, e uma Remanência (um eco visual espectral ou sussurro mecânico) se apega à máquina, assombrando-a até ser expurgada. |
+| **1** | **Vazamento Térmico Frio** | As juntas do motor sibilam e liberam vapor gélido azulado em uma emanação de 3 metros. Criaturas na área devem passar em Salvaguarda de Constituição CD 13 ou sofrem 2d6 de dano de Frio e ficam com a condição *Debilitado* (Desvantagem em testes de perícia baseados em Força e Destreza) por 1 hora por queimadura criogênica. |
+| **2** | **Batidas de Torven (Ressonância)** | Pistões e engrenagens começam a bater no compasso seco de três pancadas metálicas rítmicas. A velocidade do motor cai pela metade e o ruído sônico atrai autômatos ou desperta mecanismos subterrâneos ancestrais em um raio de 100 metros. |
+| **3** | **Congelamento da Válvula** | O Éter cristaliza instantaneamente nas agulhas de injeção. O motor desliga. Requer uma Ação e um teste bem-sucedido de Ferramentas de Ladrão/Mecânico CD 14 para reaquecer e liberar a válvula. |
+| **4** | **Reversão de Fluxo** | A carga volta para a carcaça metálica. Quem estiver operando ou em contato direto com a máquina sofre 3d6 de dano de Frio/Força imediato e a máquina consome o dobro de cargas pelo restante da cena. |
+| **5** | **Fulguração Etérica (Pulso Silencioso)** | Uma detonação sem fogo irrompe do núcleo. Em um raio de 6 metros: chamas comuns e tochas se apagam instantaneamente; a gravidade é anulada por 1 rodada (arremessando itens e criaturas soltas a 3m de altura); feitiços ativos de 3º círculo ou inferior sofrem efeito de *Dissipar Magia*; a célula de Éter conectada é desintegrada. |
+| **6** | **Brecha Liminar** | O motor entra em ressonância com o *Intervalo Planar* das antigas estações. Uma fenda azul-escura pisca no compartimento: itens leves soltos são sugados e desaparecem no vácuo. Uma **Remanência** (um sussurro mecânico ou sombra estática de alguém que desapareceu em acidentes passados) passa a assombrar o maquinário até ser expurgada por um ritual de *Namyss* ou *Cevran*. |
 
-## Mecânicas de Jogo: Regras de Contaminação e Mutações
+## Mecânicas de Jogo: Regras de Contaminação e Mutações (D&D 5.5e)
 
-A exposição direta ao Éter — inalando vapores em refinarias, sofrendo fulgurações, manipulando células rompidas ou atravessando Tempestades Brancas — impregna o organismo com a energia solar antiga.
+A contaminação é medida em **Pontos de Exposição Etérica (PEE)**. Um personagem ganha 1 PEE sempre que falhar em uma Salvaguarda de Constituição (CD 13 a 16) após inalar vapores densos, sofrer uma Fulguração Etérica, manusear células vazadas sem proteção ou ser engolido por uma Tempestade Branca.
 
-A contaminação é medida em **Pontos de Exposição Etérica** (acumulados através de falhas em salvaguardas de Constituição/Físico após eventos de risco).
+```
+                  ESCALA DE CONTAMINAÇÃO ETÉRICA
+   [ 0 PEE ] ────> [ 1 a 3 PEE ] ────> [ 4 a 6 PEE ] ────> [ 7+ PEE ]
+     Limpo          Estágio 1           Estágio 2           Estágio 3
+                  Falsa Bênção       Máquina Fantasma     Cristalização
+                 (Superestímulo)   (Colapso Biológico)   (Perda da Mente)
+```
 
-### Estágio 1: A Falsa Bênção (1 a 3 Pontos)
-*O Éter infiltra a circulação e o sistema nervoso, superalimentando a biologia existente.*
-- **Efeitos Positivos:** Bônus temporário em testes físicos ou percepção; conjuradores sentem a magia responder com menor esforço e alcance estendido; combatentes sentem menos fadiga e necessitam de menos horas de repouso.
-- **Sinais Clínicos:** As veias das mãos e do pescoço assumem uma tonalidade azul-cobalto visível na penumbra. O indivíduo escuta um zumbido rítmico leve nas têmporas quando fica em silêncio prolongado.
+---
 
-### Estágio 2: A Síndrome da Máquina Fantasma (4 a 6 Pontos)
-*A biologia começa a se submeter aos padrões funcionais da infraestrutura ancestral.*
-- **Penalidades Físicas:** Insônia crônica severa. Descansos longos só recuperam vigor se auxiliados por sedativos pesados ou elixires caros dos Curadores do Espelho. Articulações estalam com som de catraca seca; dor aguda nos ossos quando a temperatura cai.
-- **A Máquina Fantasma:** O personagem ouve três pancadas compassadas em canos vazios e paredes, além do eco de vozes sussurrando contagens numéricas. Em situações de tensão, há desvantagem em testes de Percepção auditiva e concentração.
-- **Mutações Iniciais (Role ou Escolha 1):**
-  1. *Articulações Duplas:* Dedos desenvolvem uma junta adicional fina (+bônus em testes de abrir fechaduras/reparos delicados, mas gera repulsa estética).
-  2. *Olhar Prismático:* Pupilas com reflexos azul-esverdeados; adquire visão no escuro, mas sofre sensibilidade e dor sob luz solar forte ou holofotes industriais.
-  3. *Reação Eletroestática:* Pequenas faíscas azuis estalam nas pontas dos dedos ao tocar em ferro ou chumbo; ferramentas leves vibram espontaneamente em suas mãos.
-  4. *Ressonância de Observação (Herança de Velisse):* Magias e manobras ganham vigor visível quando realizadas diante de testemunhas, mas perdem força e estabilidade quando ninguém está olhando.
+### Estágio 1: A Falsa Bênção (1 a 3 PEE)
+*O Éter infiltra a linfa e o sistema nervoso, atuando como um estimulante arcano violento.*
+* **Sinais Clínicos:** Veias azuladas luminescentes sob as unhas e no pescoço na escuridão. O indivíduo escuta um zumbido harmônico sutil em momentos de silêncio.
+* **Efeito Comum:** Reduz em 2 horas o tempo necessário para completar um Descanso Longo. Vantagem no primeiro Teste d20 realizado após rolar Iniciativa.
+* **Benefício de Arquétipo:** O personagem recebe a Bênção correspondente à sua classe principal (veja tabela de classes abaixo).
 
-### Estágio 3: A Cristalização / Remanência Viva (7+ Pontos)
-*O corpo ultrapassa o limite biológico e passa a ser reconhecido pela rede como um componente mecânico.*
-- **Transformação Severa:** Áreas da pele e musculatura endurecem em placas de quitina translúcida ou filamentos metálicos que conduzem corrente. O sangue torna-se escuro, espesso e fosforescente.
-- **Instabilidade Vital:** Ferimentos graves não sangram normalmente: vertem luz e vapor frio. Instrumentos de medição etérica e cães de rastreio de refinaria detectam o personagem como um motor ativo.
-- **Destino Trágico:** Sem intervenção alquímica ou espiritual extrema, o indivíduo perde a individualidade: colapsa como uma criatura da tempestade ou se desvanece como uma remanência presa para sempre no intervalo dos condutos subterrâneos.
+---
 
-## Exemplos de Equipamentos e Itens Movidos a Éter
+### Estágio 2: A Síndrome da Máquina Fantasma (4 a 6 PEE)
+*A biologia começa a rejeitar as funções naturais e a ressonar com a rede pré-humana.*
+* **Penalidade Fisiológica:** Insônia crônica excruciante. O personagem só consegue recuperar dados de vida e espaços de magia em Descansos Longos se for medicado com sedativos pesados ou elixires dos Curadores do Espelho; caso contrário, acorda com 1 nível de Exaustão.
+* **A Alucinação Acústica:** O personagem ouve as "Três Pancadas" ecoando em paredes e tubos vazios, acompanhadas de contagens numéricas sussurradas. Desvantagem em testes de Percepção baseados em audição e em Salvaguardas de Constituição para manter Concentração mágica.
+* **Degeneração por Classe:** O personagem manifesta a falha biológica correspondente à sua classe (veja abaixo).
 
-- **Lampião de Válvula Cendra:** Lampião estanque de latão que queima vapor de Éter de uma microcélula. Não consome oxigênio, não apaga sob tempestade ou submerso e projeta um cone azulado que fura bancos de fumaça pesada por até 12 horas.
-- **Pistola de Choque "Dente de Latão":** Disparador curto com dois eletrodos de cobre alimentados por Célula de Campanha. Dispara um arco voltaico gélido que causa dano de choque/frio sem barulho de pólvora, apenas um estalo e cheiro de ozônio.
-- **Injetor de Pistão Pneumático (Prótese ou Manopla):** Mecanismo de braço com êmbolo pressurizado a Éter. Permite desferir golpes capazes de estraçalhar portas de ferro ou dobrar vigas industriais (consome 1 carga por golpe devastador).
-- **Máscara Filtrante de Carvão e Chumbo:** Respirador pesado com duas válvulas circulares de chumbo e filtros impregnados de óleo. Concede vantagem em testes de resistência contra inalação de vapores de Éter e fuligem ácida das caldeiras.
+---
+
+### Tabelas de Degeneração por Grupo de Classes (D&D 5.5e)
+
+#### 1. Grupo Físico / Marcial (Bárbaro, Guerreiro, Monge)
+* **Falsa Bênção (Estágio 1):** Músculos tornam-se hiperdensos. Adiciona +1d4 de dano de Força a todos os ataques corpo a corpo com armas que usem o atributo Força.
+* **Degeneração (Estágio 2) — Fratura por Tração:** A força muscular supera a resistência óssea. Sempre que o personagem tirar um **1 natural** ou desferir um **Acerto Crítico** em um ataque corpo a corpo, os músculos tracionam os tendões com violência extrema: o personagem sofre dano contundente igual ao seu próprio modificador de Força e seu deslocamento diminui em 3 metros até o próximo Descanso Longo.
+* **Colapso (Estágio 3) — Ossos de Vidro:** A musculatura petrifica e os ossos tornam-se porosos. O personagem tem Desvantagem permanente em todas as Salvaguardas de Destreza e não pode usar a Ação Disparada.
+
+#### 2. Grupo Conjurador Arcano (Mago, Bruxo, Feiticeiro, Bardo)
+* **Falsa Bênção (Estágio 1):** O Éter serve como catalisador. O alcance de todas as magias que causam dano ou impõem condições é aumentado em 9 metros. Uma vez por dia, ao conjurar uma magia de 1º ou 2º círculo, role 1d6; em um 5-6, o espaço de magia não é gasto.
+* **Degeneração (Estágio 2) — Vazamento Espontâneo:** A magia perde o isolamento da vontade consciente. Ao sofrer dano ou falhar em qualquer Salvaguarda enquanto estiver em combate, deve passar em uma Salvaguarda de Inteligência/Carisma CD 14. Em caso de falha, a menor magia que tiver preparada ou conhecida dispara involuntariamente contra a criatura viva visível mais próxima (amigo ou inimigo).
+* **Colapso (Estágio 3) — Condução Aberta:** O corpo é uma ferida aberta na trama mágica. Toda vez que conjurar uma magia de 1º círculo ou superior, o conjurador sofre 1d6 de dano de Frio por círculo de magia conjurado e emite uma labareda azul visível a centenas de metros.
+
+#### 3. Grupo Conjurador Divino (Clérigo, Paladino, Druida)
+* **Falsa Bênção (Estágio 1):** Os canais espirituais são abertos pelo Éter. Quando curar com uma magia ou Canalizar Divindade, role novamente qualquer dado de cura que tirar 1 ou 2. O devoto sente o calor de sua divindade de forma palpável e calorosa no peito.
+* **Degeneração (Estágio 2) — O Falso Êxtase (Sussurros da Rede):** A mente confunde a consciência coletiva da antiga rede solar com a voz do seu deus. Ao usar Canalizar Divindade ou conjurar magia divina, deve passar em uma Salvaguarda de Sabedoria CD 14 ou ficará sob a condição *Abalado/Confuso* por 1 rodada, ouvindo milhares de vozes de mineiros e operários mortos clamando por socorro.
+* **Colapso (Estágio 3) — Queimadura do Símbolo:** O corpo rejeita a energia do Plano Material. Segurar seu símbolo sagrado causa dor física ardente (1d4 de dano radiante/necrótico por rodada em contato com a pele). A conexão com a divindade soa como estática congelada.
+
+#### 4. Grupo Especialista / Perícia (Ladino, Guardião, Artífice)
+* **Falsa Bênção (Estágio 1):** Mãos hipersensíveis e acuidade visual sobrenatural. Ganha Visão no Escuro de 18 metros (tonalidade azulada) e Vantagem em testes de Destreza (Prestidigitação) e Ferramentas de Ladrão/Artífice.
+* **Degeneração (Estágio 2) — Hipersensibilidade Agônica:** Os sentidos ampliados não toleram o ambiente industrial. Se exposto a luz solar intensa sem óculos escurecidos, ou a ruídos ensurdecedores (tiros de canhão, apitos de vapor a curta distância), o personagem ganha a condição *Desorientado* (Desvantagem em ataques à distância e em testes de Percepção) por 1 minuto.
+* **Colapso (Estágio 3) — Fusão Biomecânica:** Filamentos escuros de ligas metálicas e matéria orgânica brotam dos poros das palmas das mãos e dos pulsos. Qualquer ferramenta ou arma de metal empunhada por mais de 10 minutos começa a aderir fisicamente à carne; soltá-la à força exige uma Ação e causa 1d6 de dano cortante.
+
+---
+
+### Estágio 3: A Cristalização e a Metamorfose (7+ PEE)
+*O organismo é reclassificado pela rede como uma peça mecânica danificada.*
+* A pele racha em placas translúcidas e veias espessas de plasma azulado. O personagem passa a ser detectado por instrumentos de agrimensura e cães farejadores de refinaria como se fosse uma máquina ligada.
+* Se os PEE chegarem a 10, ou se o personagem cair a 0 PV enquanto estiver no Estágio 3 e falhar em três Salvaguardas contra a Morte, ocorre a **Metamorfose da Tempestade**: o corpo se deforma em uma criatura quadrúpede ou bípede encouraçada de gelo e metal, e a mente mortal se desfaz.
+
+---
+
+### 🕊️ Mecânica Especial: O Resquício de Identidade (A Doutrina de Namyss)
+
+Inspirada nos ensinamentos dos Custódios de [[Namyss]], esta regra impede que a transformação final seja apenas uma morte clínica sem peso emocional:
+
+Quando o personagem entra em metamorfose final irreversível, ele não se torna um monstro genérico sob controle do Mestre imediatamente. Ele recebe um número de **Resquícios de Memória** igual ao seu modificador de **Sabedoria ou Carisma** (mínimo de 1).
+
+Durante a cena de despedida ou o combate final em que seu corpo sucumbe, o jogador pode gastar seus Resquícios para intervir na narrativa:
+
+1. **O Último Escudo Consciente (1 Resquício):** A criatura em transformação coloca seu corpo de placas e gelo entre um aliado e um ataque letal, absorvendo o impacto total no lugar do companheiro.
+2. **A Voz Racha a Carcaça (1 Resquício):** Rompendo momentaneamente os filamentos que silenciam sua garganta, o personagem profere uma última frase nítida: revela a localização de um documento roubado, pede perdão a um companheiro ou entrega seu item de apego pessoal (o relógio de Malik, a chave de Arnoldes).
+3. **O Alvo do Rancor Humano (1 Resquício):** Em vez de atacar aleatoriamente, a criatura concentra toda a fúria e o horror de sua nova forma contra o verdadeiro algoz da campanha (o inspetor do Consórcio, o caçador da Bandeira Queimada), ignorando os companheiros antes de fugir para os subterrâneos ou para a nevasca.
+
+Depois que todos os Resquícios forem consumidos, a consciência humana adormece para sempre. A criatura que resta vagará pelas ruínas ou pelos canais de Brumaferro, ainda vestindo as roupas rasgadas, as botas de trabalho ou os amuletos que carregava em vida — um fantasma de carne e Éter que a campanha poderá reencontrar no futuro.
+
+## Exemplos de Equipamentos e Itens Movidos a Éter (D&D 5.5e)
+
+- **Lampião de Válvula Cendra:** *Item Comum (foco de iluminação).* Lampião hermético de latão reforçado alimentado por uma Célula de Bolso (Grau V). Não consome oxigênio, opera debaixo d'água e projeta um cone de 18 metros de luz brilhante azul-esverdeada e mais 18 metros de luz penumbrosa. Sua luz ignora penalidades visuais de fumaça não-mágica e névoas industriais. Duração: 12 horas por carga da célula.
+- **Pistola de Choque "Dente de Latão":** *Arma Simples à Distância (Incomum).* Propriedades: Munição (alcance 18/54 m), Leve, Recarga (gasta 1 Carga da Célula de Campanha acoplada). Dano: 1d8 de dano de Frio/Força. Ao acertar um ataque contra um alvo vestindo armadura metálica pesada ou composto primariamente de engrenagens/metal, o ataque tem Vantagem. Disparo silencioso: emite apenas um estalo estático e cheiro de ozônio.
+- **Injetor de Pistão Pneumático (Prótese ou Manopla de Mina):** *Item Marcial Maravilhoso (Raro, requer sintonização com combatente).* Uma braçadeira de ferro forjado e pistões acoplada a uma Célula de Campanha. Uma vez por turno, ao desferir um ataque desarmado ou com arma corpo a corpo de Força, o usuário pode gastar 1 Carga para ativar o êmbolo: o ataque causa +2d8 de dano de Força adicional e o alvo (se for Grande ou menor) deve passar em uma Salvaguarda de Força CD 14 ou será empurrado 3 metros para trás e derrubado no chão.
+- **Máscara Filtrante de Carvão e Chumbo:** *Equipamento de Proteção Operária (Comum).* Respirador facial de couro endurecido com dupla válvula de retenção e chumbo laminado. Concede Vantagem em todas as Salvaguardas de Constituição contra inalação de vapores de Éter, fumaça tóxica, fuligem das caldeiras e gases venenosos.
+- **Gazuas de Pulso Ressonante:** *Ferramenta de Especialista (Incomum).* Conjunto de pinças e gazuas conectadas a uma microcélula que vibram em harmonia com fechaduras mecânicas. Concede +2 de bônus em testes de Destreza (Ferramentas de Ladrão) para desarmar armadilhas industriais e destrancar portas lacradas pelo Consórcio.
