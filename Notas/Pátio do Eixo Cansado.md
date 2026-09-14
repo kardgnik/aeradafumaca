@@ -31,17 +31,11 @@ O pagamento permite que o proprietário durma dentro da carroça, mas não inclu
 
 Reparos mecânicos mais delicados são encaminhados à [[Oficina Dente de Latão]]. Ferragens, arreios e ferramentas deixados como pagamento frequentemente terminam na [[Casa de Penhores O Último Cobre]].
 
-## Magnus Lefay
-
-[[Magnus Lefay]] mantém sua carroça num dos espaços cobertos do pátio. O interior foi adaptado para viagem e possui uma cama onde ele dorme, de modo que Magnus não aluga um quarto na pensão. Seu burrinho ocupa a baia correspondente e é tratado como hóspede permanente por Bento, que se importa muito mais com a regularidade da alimentação do animal do que com os horários de Magnus.
-
-Essa escolha o mantém perto do núcleo do Terceiro Turno sem torná-lo morador da pensão. Magnus cruza com seus hóspedes durante refeições, banhos e serviços de lavanderia, enquanto [[Malik]] e [[Arnoldes]] reconhecem sua carroça e o movimento cotidiano do burrinho no pátio.
-
 ## Relação com O Último Cobre
 
 Celina Ornelas utiliza o pátio para guardar móveis, carroças e cargas grandes demais para passar pela porta da casa de penhores. Bento recebe uma pequena comissão e não pergunta se o proprietário original pretende voltar.
 
-Em troca, Celina observa o portão da rua durante parte do dia. Os dois mantêm uma sineta ligada por um fio que atravessa a parede: um toque pede ajuda; dois avisam a chegada de uma entrega; três significam que alguém deveria chamar os [[Os Cães da Caldeira|Cães da Caldeira]] ou desaparecer antes que eles cheguem.
+Em troca, Celina observa o portão da rua durante parte do dia. Os dois mantêm uma sineta ligada por um fio que atravessa a parede: um toque pede ajuda; dois avisam a chegada de uma entrega; três significam que alguém deveria chamar os [[Os Cães da Caldeira|Cães da Caldeira]].
 
 ## Segurança
 
