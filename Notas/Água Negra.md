@@ -8,6 +8,8 @@ Grande parte do carvão, ferro, diamantes e pedras preciosas exportados por Keld
 
 Uma segunda rota regular liga Água Negra a [[Porto Escória]]. Carvão, ferro e diamantes industriais seguem para Caldeiras; basalto trabalhado, cerâmicas térmicas e peças retiradas do [[Campo de Vidro Negro]] fazem o caminho de volta.
 
+![[Corrente rubra entre gelo e navios de Água Negra.png]]
+
 ## A cidade dos cais escuros
 
 Armazéns, guindastes e linhas ferroviárias ocupam quase toda a margem da baía. A neve raramente permanece branca por muito tempo. Fuligem, óleo e poeira de minério formam uma crosta escura sobre telhados, plataformas e blocos de gelo presos entre os pilares.
