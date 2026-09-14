@@ -6,6 +6,8 @@ Forja-Baixa é um assentamento subterrâneo do sudeste de [[Caldeiras]], situado
 
 O nome não descreve uma única forja. Refere-se ao nível mais profundo em que os primeiros habitantes conseguiram manter fogo, água e oficinas sem serem atingidos pelo calor do dia ou pelas tempestades de areia. A vila cresceu para baixo, incorporando corredores antigos, câmaras técnicas e poços que ninguém sabe datar.
 
+![[Forja-Baixa.png]]
+
 ## Pedra quente e água
 
 Forja-Baixa sobrevive graças a cisternas escavadas junto às fundações da Estação. Pedras retiradas das galerias mais antigas permanecem aquecidas por longos períodos e são colocadas sob reservatórios, estufas pequenas e casas de banho comunitárias.
