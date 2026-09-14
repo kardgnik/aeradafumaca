@@ -22,6 +22,8 @@ Esse isolamento permite que um braço seja destruído sem comprometer os demais.
 
 Rumores falam de uma reunião chamada **Mesa das Cinzas**, formada pelos Porta-Cinzas mais antigos. Não existe prova de que ela realmente ocorra.
 
+No sudeste de Caldeiras, a posição é ocupada por [[Dama Véspera Cendra]]. Sua autoridade alcança a [[Passagem Rubra]], o [[Cais de Basalto]] e oficinas clandestinas de assentamentos como [[Forja-Baixa]]. Poucos subordinados afirmam ter visto seu rosto por inteiro.
+
 ## Estradas e saque
 
 Nas rotas terrestres, a Bandeira observa caravanas antes de atacá-las. Seus informantes registram tamanho, escolta, carga, destino e quantidade de água. O ataque costuma acontecer onde o terreno impede fuga rápida, especialmente na [[Passagem Rubra]].
@@ -53,3 +55,15 @@ Funcionários comprados alteram pesos, selos e horários de inspeção. Alguns m
 A Bandeira Queimada não se apresenta como protetora dos pobres. Cobra caro, toma o que deseja e abandona aliados quando isso preserva a rede. Ainda assim, muitos assentamentos negociam com seus agentes porque a organização alcança lugares ignorados pela Coroa e aceita transportar pessoas, remédios e peças que comerciantes legalizados consideram pouco lucrativos.
 
 Essa utilidade não a torna menos violenta. Significa apenas que, em Caldeiras, necessidade e crime frequentemente percorrem a mesma estrada.
+
+## Artífices clandestinos
+
+Entre os serviços mais valorizados pela Bandeira estão os de mecânicos capazes de alterar uma carga sem torná-la irreconhecível. Fundos falsos, lacres substituíveis, motores ocultos e compartimentos que se abrem apenas depois de uma inspeção permitem que uma mesma carroça atravesse diferentes autoridades transportando mercadorias distintas.
+
+[[Arnoldes|Arnoldes Trava Falsa]] trabalhou durante anos nesse tipo de equipamento antes de desaparecer com registros da organização. Desde então, agentes procuram o mecânico e seu construto, [[Masato]], em portos e rotas capazes de alcançar [[Brumaferro]].
+
+## O Coração de Cinza
+
+O [[Coração de Cinza]] é um projeto clandestino dedicado à criação de motores de [[Éter]] pequenos o suficiente para serem ocultos em cargas, cofres, armas e veículos comuns. A Bandeira pretende utilizá-los fora das rotas licenciadas da Coroa e sem depender das grandes instalações que tornam o consumo de Éter fácil de rastrear.
+
+Poucos capitães conhecem o nome do projeto. Componentes são distribuídos entre oficinas diferentes, e cada artífice recebe apenas a parte necessária para concluir seu serviço.

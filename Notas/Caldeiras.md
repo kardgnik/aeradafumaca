@@ -50,6 +50,8 @@ Boa parte dos assentamentos mais antigos surgiu ao redor de [[Estações de Tran
 
 A [[Rota dos Poços]] conecta comunidades do sul a fontes subterrâneas. O [[Caminho da Cinza]] aproxima caravanas do Anel Partido. A [[Passagem Rubra]] atravessa os cânions do sudeste, embora deslizamentos frequentemente alterem seu percurso.
 
+Próxima dessas rotas, [[Forja-Baixa]] ocupa os níveis subterrâneos de uma antiga Estação de Transposição. Suas oficinas mantêm bombas, cisternas, carroças e mecanismos construídos com peças reaproveitadas. A vila tornou-se um ponto importante para viajantes que precisam de reparos antes de alcançar o litoral, embora a proximidade com a Passagem Rubra também a exponha à influência da [[Bandeira Queimada]].
+
 Marcos de [[Tessara]] aparecem nos pontos onde duas rotas se encontram, quase sempre acompanhados por oferendas deixadas por comerciantes. Onde a trilha se torna incerta, pequenos sinais de [[Eol-Sahar]] indicam a direção de um abrigo, um poço ou algum lugar do qual ainda seja possível regressar.
 
 Nas regiões costeiras, viajar por mar costuma ser mais rápido, mas não necessariamente mais seguro. Recifes vulcânicos, correntes violentas e a escassez de portos naturais reservam a navegação a tripulações experientes.
@@ -87,6 +89,8 @@ O [[Salar das Costelas]] ocupa uma vasta planície branca no nordeste. Durante o
 [[Sete Poços]] cresceu ao redor de sete aberturas que alcançam um mesmo reservatório subterrâneo. Cada poço pertence tradicionalmente a uma família, embora nenhuma delas admita controlar mais água do que as outras.
 
 [[Verde-Fundo]] ocupa uma depressão fértil no sul. Sua água possui sabor metálico, mas permite o cultivo de frutas, ervas medicinais e grãos resistentes ao calor. Visto de longe, o verde de suas plantações parece impossível em meio ao deserto.
+
+[[Forja-Baixa]] cresceu sob uma Estação de Transposição considerada morta, entre a [[Passagem Rubra]] e o litoral sudeste. A comunidade é conhecida por cisternas aquecidas, oficinas de remendadores e pela capacidade de manter máquinas funcionando muito depois de suas peças originais desaparecerem.
 
 O [[Cais de Basalto]] foi construído entre colunas vulcânicas e paredões avermelhados no sudeste. Seus navios possuem cascos reforçados para atravessar as formações que cercam a costa. É conhecido por receber embarcações que preferem não passar pelos registros de Porto Escória.
 

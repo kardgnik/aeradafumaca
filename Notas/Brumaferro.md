@@ -15,12 +15,14 @@ Brumaferro concentra refinarias, oficinas, companhias ferroviárias, laboratóri
 
 A rede de Éter é supervisionada por equipes técnicas responsáveis pelas tubulações e pelos cabos que distribuem energia, além das estações e dos reguladores que controlam seu fluxo. Entre seus supervisores está [[Elian Mercer]], ligado ao desaparecimento de uma equipe enviada a uma estação desativada.
 
-## Bairro das Caldeiras
+## [[Bairro das Caldeiras]]
 
-O Bairro das Caldeiras ocupa uma faixa antiga da região industrial, onde casas operárias foram construídas entre fábricas, tubulações e instalações que já funcionavam antes da expansão dos bairros elevados. Ali nasceu [[Malik|Malik Booker]].
+O [[Bairro das Caldeiras]] ocupa uma faixa antiga da região industrial, onde casas operárias foram construídas entre fábricas, tubulações e instalações que já funcionavam antes da expansão dos bairros elevados. Ali nasceu [[Malik|Malik Booker]].
 
 A presença do poder público é irregular. A gangue conhecida como [[Os Cães da Caldeira]] controla parte das ruas, oferece proteção, cobra comerciantes e disputa território com agentes ligados às refinarias.
 
 Entre as oficinas do bairro está a [[Oficina Sete Batidas]], estabelecimento mecânico de [[Elias Baptiste]] e local de treinamento para lutadores.
+
+Mais recentemente, a [[Oficina Dente de Latão]] começou a receber bombas, fechaduras e pequenos motores recusados por estabelecimentos licenciados. Seu mecânico, [[Arnoldes]], veio de [[Caldeiras]] acompanhado por um construto quadrúpede chamado [[Masato]]. Para a maioria dos moradores, são apenas mais dois estrangeiros tentando desaparecer entre a fumaça e as máquinas do bairro.
 
 ## [[Brumaferro-Oculto|Verdades ocultas]]

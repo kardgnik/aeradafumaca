@@ -20,6 +20,10 @@ Santuários de [[Salmora]] ocupam as extremidades das plataformas. Marinheiros n
 
 O Cais de Basalto recebe embarcações que preferem não passar pelos registros de [[Porto Escória]]. Mercadorias roubadas, peças de [[Éter]], armas, mapas e passageiros sem documentos circulam por seus depósitos.
 
+Uma carga conhecida nos registros locais como **remessa dos filtros** tornou-se exemplo de como esse comércio apaga procedências. Medicamentos, filtros de ar e componentes retirados de uma caravana desaparecida na [[Passagem Rubra]] chegaram ao Cais em volumes separados, atravessaram diferentes armazéns e receberam marcas de embarcações que nunca haviam transportado aqueles caixotes. Parte das peças reapareceu legalizada em [[Coroa de Estrelas]].
+
+O livro codificado roubado por [[Arnoldes]] contém números de depósitos, dívidas e nomes de mestres de cais associados à operação. Desde seu desaparecimento, alguns armazéns trocaram responsáveis e queimaram registros sem explicar a urgência.
+
 Isso não torna o porto livre. Famílias de pilotos, proprietários de elevadores e chefes de armazém controlam cada acesso. Estrangeiros pagam para desembarcar, para guardar mercadorias e, algumas vezes, para continuar respirando depois de fazer a pergunta errada.
 
 A palavra empenhada diante de um marco de [[Tessara]] possui valor comercial, mas somente enquanto todas as partes ainda precisam da rota. O Cais respeita acordos; não confunde acordo com amizade.

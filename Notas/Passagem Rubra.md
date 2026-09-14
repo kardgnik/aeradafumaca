@@ -36,6 +36,14 @@ A organização não ataca todas as cargas. Comerciantes podem comprar salvo-con
 
 Parte do que é tomado nos cânions segue para o [[Cais de Basalto]]. O restante desaparece em depósitos escavados nas paredes e pode ressurgir meses depois nos mercados da capital com novos selos, proprietários e documentos.
 
+## A caravana dos filtros
+
+Uma das histórias mais repetidas nas comunidades próximas envolve uma caravana de medicamentos, filtros de ar e peças mecânicas que desapareceu depois de entrar na Passagem. Os registros afirmam que uma enchente alcançou o comboio antes que ele pudesse abandonar um leito seco.
+
+Moradores contestam essa versão. Caixotes da mesma remessa foram reconhecidos semanas depois no [[Cais de Basalto]], e componentes supostamente destruídos reapareceram legalizados em [[Coroa de Estrelas]]. Entre os mortos estava [[Mira]], uma jovem remendadora de [[Forja-Baixa]].
+
+[[Arnoldes]], antigo mestre de Mira, afirma que um capitão da [[Bandeira Queimada]] conduziu deliberadamente a caravana até um cânion sem saída, retirou o que possuía valor e deixou viajantes e animais diante da água. A organização nega ter participado do ocorrido.
+
 ## Os Muros Vermelhos
 
 Certas paredes possuem portas, nichos e escadarias escavadas em alturas hoje inacessíveis. Não se sabe se o chão do cânion era mais elevado ou se seus construtores atravessavam o espaço de outra maneira.

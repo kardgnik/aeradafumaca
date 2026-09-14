@@ -46,6 +46,8 @@ A [[Bandeira Queimada]], maior rede de saqueadores e contrabandistas do continen
 
 Na capital, seus integrantes raramente carregam armas à vista ou usam o nome da organização. Funcionários comprados alteram pesos, selos e horários de inspeção; comerciantes misturam cargas ilícitas a alimentos, minério e peças destinadas à manutenção das plataformas. Quando um objeto roubado chega às vitrines dos níveis superiores, sua origem pode ter sido apagada por uma sequência inteira de intermediários.
 
+Os componentes de uma caravana de medicamentos e filtros desaparecida na [[Passagem Rubra]] são um dos poucos casos em que essa sequência deixou rastros reconhecíveis. Depois de passarem pelo [[Cais de Basalto]], peças de [[Éter]] da carga reapareceram com documentação regular em oficinas e depósitos da capital. O livro codificado levado por [[Arnoldes]] registra selos, pagamentos e funcionários ligados a essa legalização.
+
 As autoridades realizam prisões e apreensões, mas a cidade depende demais do fluxo clandestino para eliminá-lo completamente. Alguns magistrados combatem a Bandeira. Outros a utilizam para adquirir Éter, armamentos, relíquias e informações que não poderiam solicitar pelos canais oficiais.
 
 ## Relação com o restante de Caldeiras
