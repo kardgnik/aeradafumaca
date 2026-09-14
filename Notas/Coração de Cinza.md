@@ -6,6 +6,8 @@ O Coração de Cinza é um projeto clandestino da [[Bandeira Queimada]] destinad
 
 O nome é utilizado tanto para o projeto quanto para seus núcleos experimentais. Cada unidade é encerrada em camadas de metal escurecido e material isolante, deixando apenas uma luminosidade fraca semelhante a uma brasa coberta de cinza.
 
+![[Coração de Cinza - motor etéreo clandestino.png]]
+
 ## Aplicações
 
 Os motores foram planejados para alimentar compartimentos ocultos, cofres, armas, armadilhas, cargas clandestinas e veículos capazes de operar fora das rotas controladas pela Coroa. Seu tamanho permite escondê-los entre peças comuns ou instalá-los em máquinas movidas a carvão e vapor.
