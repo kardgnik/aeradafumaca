@@ -13,7 +13,7 @@ O nome surgiu porque a porta nunca fecha. Operários chegam antes do amanhecer, 
 
 A pensão é administrada por **Dalva Serrano**, uma mulher de fala baixa e memória precisa, capaz de reconhecer quais hóspedes estão atrasados pelo som de seus passos na escada. Dalva também responde pela Lavanderia Vapor Branco e emprega moradores do bairro na lavagem das roupas, na cozinha e na arrumação dos quartos.
 
-[[Malik|Miriam Booker]] trabalha como lavadeira no térreo e auxilia na limpeza dos quartos, na troca das roupas de cama e no preparo da primeira refeição do dia. Quase ninguém consegue discutir com Dalva por muito tempo. Ninguém consegue discutir com Miriam.
+Miriam Booker trabalha como lavadeira no térreo e auxilia na limpeza dos quartos, na troca das roupas de cama e no preparo da primeira refeição do dia. Quase ninguém consegue discutir com Dalva por muito tempo. Ninguém consegue discutir com Miriam.
 
 ## Acomodações e preços
 
