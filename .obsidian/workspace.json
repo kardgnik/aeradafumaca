@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Refinaria de Brumaferro.md",
+                "file": "NOTAS/Refinaria de Brumaferro-Oculto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Refinaria de Brumaferro"
+              "title": "Refinaria de Brumaferro-Oculto"
             }
           },
           {
@@ -213,10 +213,11 @@
   },
   "active": "693f25683829544a",
   "lastOpenFiles": [
-    "NOTAS/Brumaferro.md",
-    "NOTAS/Refinaria de Brumaferro.md",
-    "IMAGENS/Refinaria de Brumaferro.png",
+    "NOTAS/Saldren.md",
     "NOTAS/Refinaria de Brumaferro-Oculto.md",
+    "NOTAS/Refinaria de Brumaferro.md",
+    "NOTAS/Brumaferro.md",
+    "IMAGENS/Refinaria de Brumaferro.png",
     "NOTAS/Consórcio Carbono-Éter.md",
     "NOTAS/Consórcio Carbono-Éter-Oculto.md",
     "IMAGENS/Verdades Ocultas do Consórcio Carbono-Éter.png",
