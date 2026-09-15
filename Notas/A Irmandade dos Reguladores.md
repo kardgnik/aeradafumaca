@@ -8,6 +8,8 @@ Trabalhando em estreita cooperação com o [[Consórcio Carbono-Éter]], os Regu
 
 Seus membros vestem sobretudos austeros de couro encerado, óculos de lentes prismáticas e portam pesados estojos com diapasões de latão, réguas de cálculo e cronômetros de precisão. 
 
+![[A Irmandade dos Reguladores.png]]
+
 ## Atribuições e Rotina
 
 * **Calibração de Transposição:** Supervisionam os disparos das [[Estações de Transposição]], monitorando os anéis de indução e os consoles diferenciais para impedir oscilações de fluxo.
