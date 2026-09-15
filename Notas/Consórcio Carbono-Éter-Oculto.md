@@ -4,6 +4,8 @@
 
 A imagem de solidez e cooperação aristocrática projetada pelo [[Consórcio Carbono-Éter]] disfarça uma guerra interna feroz, decadência física e um segredo terrível sobre o futuro da indústria.
 
+![[Verdades Ocultas do Consórcio Carbono-Éter.png]]
+
 ## As Podridões e Segredos de Cada Casa
 
 ### Casa Valmont-Shor

@@ -8,6 +8,8 @@ Com forte presença nas galerias inferiores de [[Brumaferro]] e nos becos do [[B
 
 Embora o Consórcio tente proibir greves e tratar reuniões operárias como conspiração sediciosa, a paralisação de um único dia do sindicato é capaz de apagar as fornalhas da [[Refinaria de Brumaferro]] e paralisar as locomotivas da cidade.
 
+![[Sindicato dos Fogistas.png]]
+
 ## Lutas e Reivindicações
 
 * **Limites de Jornada:** Denúncia dos turnos exaustivos de 16 horas contínuas em ambientes de calor extremo e fuligem concentrada.

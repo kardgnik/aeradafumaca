@@ -6,7 +6,7 @@ A **Refinaria de Brumaferro** é o coração pulsante da indústria de [[Vhalari
 
 Seu brilho luminoso é visível a dezenas de quilômetros através da fuligem e da garoa constante, servindo como farol e símbolo do progresso ininterrupto da Era da Fumaça.
 
-![[Brumaferro.png]]
+![[Refinaria de Brumaferro.png]]
 
 ## Instalações e Operação
 

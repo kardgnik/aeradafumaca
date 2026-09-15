@@ -8,6 +8,8 @@ Por trás das negociações formais e dos manifestos impressos em oficinas cland
 
 * **O Culto Operário:** Muitos fogistas são devotos fervorosos de [[Torven]], o deus do ferro e da forja. Eles compreendem o ritmo seco das "Três Pancadas" que ecoa nas caldeiras não apenas como uma falha mecânica, mas como um aviso solene da divindade contra a ganância cega dos donos das fábricas.
 * **Sabotagem Rítmica:** Mecânicos experientes do sindicato conhecem os pontos exatos de fadiga do aço forjado pela [[Consórcio Carbono-Éter#Casa Cendra-Vane|Casa Cendra-Vane]]. Em momentos de repressão extrema, eles induzem ressonância nas tubulações para travar compressores inteiros sem deixar rastro visível de adulteração.
+  
+  ![[Verdades Ocultas do Sindicato dos Fogistas.png]]
 
 ## O Submundo e os "Vagalumes"
 
