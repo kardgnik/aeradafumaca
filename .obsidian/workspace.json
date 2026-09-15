@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Era da Fumaça.md",
+                "file": "NOTAS/Pátio do Eixo Cansado.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A Era da Fumaça"
+              "title": "Pátio do Eixo Cansado"
+            }
+          },
+          {
+            "id": "9ca8641bfc811350",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NOTAS/Pátio do Eixo Cansado.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pátio do Eixo Cansado"
             }
           }
         ]
@@ -41,7 +55,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -78,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 322.3000183105469
   },
   "right": {
     "id": "5ba1bfa9dc09bea3",
@@ -180,60 +196,61 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false
+      "bases:Criar nova base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "693f25683829544a",
+  "active": "8e86c8089e6004e6",
   "lastOpenFiles": [
-    "Notas/Sindicato dos Fogistas-Oculto.md",
-    "Notas/Sindicato dos Fogistas.md",
-    "Notas/Os Curadores do Espelho-Oculto.md",
-    "Notas/Os Curadores do Espelho.md",
-    "Notas/A Irmandade dos Reguladores-Oculto.md",
-    "Notas/A Irmandade dos Reguladores.md",
-    "A Era da Fumaça.md",
-    "Notas/Refinaria de Brumaferro-Oculto.md",
-    "Notas/Refinaria de Brumaferro.md",
-    "Notas/Consórcio Carbono-Éter-Oculto.md",
-    "Notas/Consórcio Carbono-Éter.md",
-    "Notas/WIP - Conteudo Não Oficial.md",
-    "Notas/Eter-Oculto.md",
-    "Notas/Estacoes-de-Transposicao-Oculto.md",
-    "Notas/Estações de Transposição.md",
-    "Notas/Vhalaris.md",
-    "README.md",
-    "Notas/Keldrann.md",
-    "Notas/Tempestades Brancas.md",
-    "Notas/Tempestades Brancas-Oculto.md",
-    "Notas/Namyss.md",
-    "Notas/Viktor Halden.md",
-    "Tempestades Brancas.md",
-    "Notas/Deuses.md",
-    "Notas/Deuses Bons.md",
-    "Notas/Lysara.md",
-    "IMAGENS/Último Trilho sob o Sol Negro.png",
-    "IMAGENS/Sete Facetas sob o sol negro.png",
-    "IMAGENS/Refúgio Kharvyr.png",
-    "IMAGENS/Ponte dos Cem Pilares sobre o Glaciar.png",
+    "NOTAS/WIP - Conteudo Não Oficial.md",
+    "NOTAS/Sindicato dos Fogistas.md",
+    "NOTAS/Sindicato dos Fogistas-Oculto.md",
+    "NOTAS/Refinaria de Brumaferro.md",
+    "NOTAS/Refinaria de Brumaferro-Oculto.md",
+    "NOTAS/Os Curadores do Espelho.md",
+    "NOTAS/Os Curadores do Espelho-Oculto.md",
+    "NOTAS/Consórcio Carbono-Éter.md",
+    "NOTAS/Consórcio Carbono-Éter-Oculto.md",
+    "NOTAS/A Irmandade dos Reguladores.md",
+    "NOTAS/A Irmandade dos Reguladores-Oculto.md",
+    "IMAGENS/Bento no Pátio.png",
+    "NOTAS/Bairro das Caldeiras.md",
+    "NOTAS/Pensão do Terceiro Turno.md",
+    "NOTAS/Casa de Penhores O Último Cobre.md",
     "IMAGENS/Penhores entre chuva e ferro.png",
-    "IMAGENS/Pedraluz sob o sol negro.png",
-    "IMAGENS/Panteao.png",
-    "IMAGENS/Panteao Neutro.png",
-    "IMAGENS/Panteao Mau.png",
-    "IMAGENS/Panteao Bom.png",
-    "Notas",
-    "IMAGENS"
+    "NOTAS/Lavanderia Vapor Branco.md",
+    "IMAGENS/Lavanderia Vapor Branco em Brumaferro.png",
+    "IMAGENS/Cozinha e corredor da pensão operária.png",
+    "IMAGENS/Bairro das Caldeiras.png",
+    "NOTAS/Pátio do Eixo Cansado.md",
+    "NOTAS/Brumaferro.md",
+    "NOTAS/Vhalaris.md",
+    "NOTAS/Oficina Dente de Latão.md",
+    "A Era da Fumaça.md",
+    "NOTAS/João Pedro.md",
+    "NOTAS/Arnoldes.md",
+    "IMAGENS/Arnoldes e o fragmento da bandeira queimada.png",
+    "IMAGENS/Arnoldes em Forja-Baixa.png",
+    "NOTAS/Malik.md",
+    "IMAGENS/Malik A ciência da pancada.jpeg",
+    "NOTAS/Masato.md",
+    "NOTAS/Masato-Oculto.md",
+    "IMAGENS/Masato, construto industrial de Forja-Baixa.png",
+    "IMAGENS/O coração de cinza de Masato.png",
+    "NOTAS/Coração de Cinza.md",
+    "PJ",
+    "IMAGENS",
+    "NOTAS"
   ]
 }
