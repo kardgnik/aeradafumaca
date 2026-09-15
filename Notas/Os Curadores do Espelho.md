@@ -6,6 +6,8 @@ Os Curadores do Espelho são uma prestigiosa confraria de médicos, boticários 
 
 Suas clínicas são luxuosas e protegidas por rigoroso sigilo profissional. Os Curadores são famosos por tratamentos dermatológicos milagrosos, cirurgias reparadoras sem cicatrizes, elixires de longevidade e cosméticos capazes de rejuvenescer a aparência em décadas.
 
+![[Os Curadores do Espelho.png]]
+
 ## Serviços Públicos e Reputação
 
 * **Cosmética Nobre:** Criação de unguentos, tinturas e pós de maquiagem que resistem à fuligem, à fumaça ácida e à umidade permanente da cidade.

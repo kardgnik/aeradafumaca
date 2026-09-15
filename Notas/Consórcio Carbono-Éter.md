@@ -6,7 +6,7 @@ O **Consórcio Carbono-Éter de Vhalaris** (frequentemente chamado apenas de *O 
 
 Sua sede ocupa um complexo de torres neoclássicas e edifícios administrativos blindados no coração financeiro de [[Brumaferro]], de onde seus diretores controlam desde a cota diária de combustível fornecida às ferrovias até as licenças de operação das [[Estações de Transposição]].
 
-![[Conselho na Mesa das Estacas.png]]
+![[Consórcio Carbono-Éter.png]]
 
 ## Estrutura e Governança: As Três Casas Dinásticas
 

@@ -4,6 +4,8 @@
 
 A nobreza dos salões elevados e os barões da indústria proclamam que o [[Éter]] é uma dádiva segura do progresso. No entanto, muitos desses mesmos aristocratas estão silenciosamente contaminados:
 
+![[Verdades Ocultas dos Curadores do Espelho.png]]
+
 ## O Monopólio da Dissimulação
 
 * **Maquiagens Cáusticas e Filtros Ópticos:** O verdadeiro sustentáculo financeiro dos Curadores do Espelho é ocultar os sintomas clínicos da contaminação etérica em figuras de alto poder. Fabricam unguentos de base metálica que neutralizam temporariamente o brilho azulado sob as unhas e veias do pescoço (Estágio 1 de contaminação), além de colírios opacos para disfarçar a luminescência das retinas de [[Lord Cassian Valmont-Shor]].
