@@ -9,6 +9,8 @@ A monumentalidade da [[Refinaria de Brumaferro]] esconde fundações pré-humana
 A refinaria não foi construída naquele local por conveniência logística fluvial. Ela foi erguida diretamente sobre uma das maiores estações de captação da malha ancestral pré-humana.
 * Três das quatro principais linhas de admissão de Éter bruto não são poços escavados por mineiros modernos: são condutos metálicos colossais que já estavam no subsolo quando a cidade foi fundada.
 * Os engenheiros da [[Casa Valmont-Shor]] desconhecem o trajeto completo dessas tubulações e apenas controlam as válvulas de topo.
+  
+  ![[Catedral Industrial das Profundezas.png]]
 
 ## Drenagem Tóxica para o Bairro das Caldeiras
 
