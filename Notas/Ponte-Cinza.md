@@ -16,8 +16,10 @@ A vila mantém celeiros comunitários em terreno elevado. Durante enchentes ou f
 
 A [[Feira-das-Quatro-Chuvas|Feira das Quatro Chuvas]] acontece no início de cada estação agrícola. Além do comércio, famílias trocam sementes, previsões do tempo, contratos de trabalho e notícias trazidas por viajantes.
 
+Em uma elevação acima do mercado e dos armazéns encontra-se o [[Instituto Arcano de Valebrando]], conhecido localmente como **Colégio do Sino**. A escola recebe estudantes de várias regiões de [[Vhalaris]] e mantém uma tradição acadêmica respeitável, alimentada tanto por professores locais quanto por estudiosos que deixam a vida movimentada de [[Brumaferro]] para ensinar em Ponte-Cinza.
+
 ## Importância
 
 Ponte-Cinza não possui a riqueza de Brumaferro, mas controla uma passagem essencial entre rio, estrada e ferrovia. Uma greve, inundação ou sabotagem na ponte pode interromper o abastecimento de diversas cidades.
 
-A presença crescente de agentes das companhias transformou hospedarias em escritórios improvisados e antigas oficinas em depósitos vigiados. Para os moradores, cada melhoria prometida traz consigo uma nova forma de dependência.
+A presença crescente de [[Consórcio Carbono-Éter|agentes das companhias]] transformou hospedarias em escritórios improvisados e antigas oficinas em depósitos vigiados. Para os moradores, cada melhoria prometida traz consigo uma nova forma de dependência.
