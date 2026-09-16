@@ -29,7 +29,7 @@ Nos salões da Academia, entre jovens nobres e estudantes ambiciosos, ganhei a f
 
 ### 08 de Primavera de 1898 — A menina da feira
 
-Uma menina de oito anos apareceu hoje à porta de minha sala, interessada em aprender magia. Seu nome é [[Pamela Leozzi]]. Vem de uma das famílias mais pobres de [[Ponte-Cinza]] e trazia consigo apenas um caderno gasto, uma pena curta demais para ser confortável e perguntas suficientes para ocupar uma tarde inteira.
+Uma menina de oito anos apareceu hoje à porta de minha sala no [[Instituto Arcano de Valebrando|Colégio do Sino]], interessada em aprender magia. Seu nome é [[Pamela Leozzi]]. Vem de uma das famílias mais pobres de [[Ponte-Cinza]] e trazia consigo apenas um caderno gasto, uma pena curta demais para ser confortável e perguntas suficientes para ocupar uma tarde inteira.
 
 Descobri, antes do fim da primeira lição, que ela já sabia ler em três idiomas. Aprendeu ajudando como podia na [[Feira-das-Quatro-Chuvas|Feira das Quatro Chuvas]], onde traduzia placas, bilhetes e negociações entre os feirantes e estrangeiros que atravessavam a vila. Não conhecia os nomes formais das estruturas que identificava, mas percebia padrões com uma rapidez que muitos estudiosos jamais desenvolvem.
 
@@ -37,7 +37,7 @@ Vi em seus olhos a mesma curiosidade que meu mestre encontrou em mim tantos anos
 
 ### 14 de Outono de 1904 — A vida de estudo e ensino
 
-Décadas se passaram entre os muros de pedra e as bibliotecas infestadas de traças. Dediquei minha vida adulta ao ensino de teologia arcana, história antiga e ciências naturais. Meus alunos zombavam silenciosamente de minhas roupas manchadas de tinta e do meu hábito de esquecer de aparar a barba enquanto traduzia pergaminhos.
+Décadas se passaram entre os muros de pedra e as bibliotecas infestadas de traças do [[Instituto Arcano de Valebrando|Colégio do Sino]]. Dediquei minha vida adulta ao ensino de teologia arcana, história antiga e ciências naturais na Cátedra de Estudos Arcanos Clássicos. Meus alunos zombavam silenciosamente de minhas roupas manchadas de tinta e do meu hábito de esquecer de aparar a barba enquanto traduzia pergaminhos.
 
 Pamela, no entanto, adotou o hábito de chegar antes dos demais. Recolhe os papéis que deixo cair, afasta os frascos das bordas das mesas e, quando acredita que não estou olhando, deixa uma xícara de chá ao lado dos livros que pretendo consultar. Se algum aluno ri alto demais, basta que ela levante os olhos para que a sala volte ao silêncio. Diz que apenas protege o material acadêmico dos descuidos de seu professor. Finjo acreditar, assim como ela finge não notar que sempre guardo para sua cadeira os textos mais difíceis.
 
@@ -49,7 +49,7 @@ O mundo lá fora estava mudando rápido demais. A magia teórica que eu lecionav
 
 Durante a [[Feira-das-Quatro-Chuvas|Feira das Quatro Chuvas]], uma mulher chamada Vivienne a observou ajudando dois comerciantes estrangeiros. Bastaram algumas perguntas sobre idiomas, fórmulas e princípios de transmutação para que percebesse aquilo que eu já sabia havia anos. Poucos dias depois, Pamela recebeu o convite e uma bolsa integral para estudar na [[Academia Vhalariana de Ciências Arcanas|Academia da Cúpula]], a maior instituição de magia de [[Vhalaris]].
 
-Não consigo decidir se hoje foi um dos dias mais felizes ou mais tristes de minha vida. Minha aluna mais brilhante seguirá para um lugar onde encontrará livros, laboratórios e mestres que eu jamais poderia oferecer em Ponte-Cinza. Foi para isso que a preparei. Ainda assim, quando voltei à sala e encontrei sua cadeira vazia, desejei egoisticamente ter mais alguma coisa para ensinar.
+Não consigo decidir se hoje foi um dos dias mais felizes ou mais tristes de minha vida. Minha aluna mais brilhante seguirá para um lugar onde encontrará livros, laboratórios e mestres que o [[Instituto Arcano de Valebrando|Colégio do Sino]] jamais poderia oferecer. Foi para isso que a preparei. Ainda assim, quando voltei à sala e encontrei sua cadeira vazia, desejei egoisticamente ter mais alguma coisa para ensinar.
 
 Sinto um orgulho que mal cabe nestas páginas e uma tristeza que não consigo justificar. Talvez todo professor descubra, cedo ou tarde, que ensinar alguém é prepará-lo para partir.
 
@@ -77,7 +77,7 @@ Percebi que ficar trancado em um gabinete escrevendo teses não salvará nada. O
 
 ### 12 de Verão de 1926 — A partida para [[Brumaferro]]
 
-Tranquei a porta do meu antigo gabinete em [[Ponte-Cinza]] e me despedi das ruas onde cresci. Como minhas pernas frágeis não aguentariam carregar o peso dos meus tomos, gastei minhas últimas economias para comprar uma mula de carga pacífica. Ela carrega minhas caixas de livros, meus frascos de reagentes e o velho sino de ferro.
+Tranquei a porta do meu antigo gabinete no [[Instituto Arcano de Valebrando|Colégio do Sino]] e me despedi das ruas de [[Ponte-Cinza]], onde cresci. Como minhas pernas frágeis não aguentariam carregar o peso dos meus tomos, gastei minhas últimas economias para comprar uma mula de carga pacífica. Ela carrega minhas caixas de livros, meus frascos de reagentes e o velho sino de ferro.
 
 Meu objetivo é juntar moedas suficientes ao longo do caminho para comprar uma carroça coberta e transformá-la em meu laboratório e gabinete móvel. Seguindo o rastro de fumaça que vem do horizonte, sigo rumo aos subterrâneos e às refinarias de [[Brumaferro]]. O mundo moderno pode ter abraçado as máquinas, mas este velho mago mostrará que os segredos da verdadeira magia ainda são a única luz capaz de afastar a escuridão.
 
