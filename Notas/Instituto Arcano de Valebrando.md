@@ -2,8 +2,6 @@
 
 #Lugares #Instituições
 
-[[Ponte-Cinza]]
-
 O **Instituto Arcano de Valebrando**, conhecido pelos moradores de [[Ponte-Cinza]] como **Colégio do Sino**, é a principal instituição de ensino mágico dos Campos de Valebrando. Seus edifícios de pedra ocupam uma elevação acima do mercado e dos armazéns ferroviários, próximos o bastante da velha ponte para que o sino da estação seja ouvido em todas as salas.
 
 O Instituto não possui a monumentalidade, os laboratórios ou os recursos da [[Academia Vhalariana de Ciências Arcanas|Academia da Cúpula]], mas está longe de ser uma escola improvisada. O conjunto reúne salas de aula, pequenos laboratórios alquímicos, gabinetes construídos por gerações diferentes e uma biblioteca respeitável, conhecida por conservar tratados que deixaram de interessar às instituições mais modernas.
