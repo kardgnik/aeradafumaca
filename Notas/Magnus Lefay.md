@@ -35,21 +35,23 @@ Descobri, antes do fim da primeira lição, que ela já sabia ler em três idiom
 
 Vi em seus olhos a mesma curiosidade que meu mestre encontrou em mim tantos anos atrás. Talvez por isso não tenha conseguido mandá-la embora. Arrumei uma cadeira, encontrei para ela uma pena melhor e prometi ensinar o que soubesse. Pela primeira vez, compreendi por que aquele velho arcanista desperdiçou tanto tempo comigo.
 
-### 21 de Outono de 1903 — A partida de minha melhor aprendiz
+### 14 de Outono de 1904 — A vida de estudo e ensino
 
-[[Pamela Leozzi|Pamela]] partiu hoje para [[Brumaferro]]. Tem apenas treze anos.
+Décadas se passaram entre os muros de pedra e as bibliotecas infestadas de traças. Dediquei minha vida adulta ao ensino de teologia arcana, história antiga e ciências naturais. Meus alunos zombavam silenciosamente de minhas roupas manchadas de tinta e do meu hábito de esquecer de aparar a barba enquanto traduzia pergaminhos.
+
+Pamela, no entanto, adotou o hábito de chegar antes dos demais. Recolhe os papéis que deixo cair, afasta os frascos das bordas das mesas e, quando acredita que não estou olhando, deixa uma xícara de chá ao lado dos livros que pretendo consultar. Se algum aluno ri alto demais, basta que ela levante os olhos para que a sala volte ao silêncio. Diz que apenas protege o material acadêmico dos descuidos de seu professor. Finjo acreditar, assim como ela finge não notar que sempre guardo para sua cadeira os textos mais difíceis.
+
+O mundo lá fora estava mudando rápido demais. A magia teórica que eu lecionava começou a ser vista como uma relíquia do passado, substituída por motores, engrenagens e pela promessa de um futuro movido pela tecnologia.
+
+### 21 de Outono de 1906 — A partida de minha melhor aprendiz
+
+[[Pamela Leozzi|Pamela]] partiu hoje para [[Brumaferro]]. Tem apenas dezesseis anos.
 
 Durante a [[Feira-das-Quatro-Chuvas|Feira das Quatro Chuvas]], uma mulher chamada Vivienne a observou ajudando dois comerciantes estrangeiros. Bastaram algumas perguntas sobre idiomas, fórmulas e princípios de transmutação para que percebesse aquilo que eu já sabia havia anos. Poucos dias depois, Pamela recebeu o convite e uma bolsa integral para estudar na [[Academia Vhalariana de Ciências Arcanas|Academia da Cúpula]], a maior instituição de magia de [[Vhalaris]].
 
 Não consigo decidir se hoje foi um dos dias mais felizes ou mais tristes de minha vida. Minha aluna mais brilhante seguirá para um lugar onde encontrará livros, laboratórios e mestres que eu jamais poderia oferecer em Ponte-Cinza. Foi para isso que a preparei. Ainda assim, quando voltei à sala e encontrei sua cadeira vazia, desejei egoisticamente ter mais alguma coisa para ensinar.
 
 Sinto um orgulho que mal cabe nestas páginas e uma tristeza que não consigo justificar. Talvez todo professor descubra, cedo ou tarde, que ensinar alguém é prepará-lo para partir.
-
-### 14 de Outono de 1904 — A vida de estudo e ensino
-
-Décadas se passaram entre os muros de pedra e as bibliotecas infestadas de traças. Dediquei minha vida adulta ao ensino de teologia arcana, história antiga e ciências naturais. Meus alunos zombavam silenciosamente de minhas roupas manchadas de tinta e do meu hábito de esquecer de aparar a barba enquanto traduzia pergaminhos.
-
-O mundo lá fora estava mudando rápido demais. A magia teórica que eu lecionava começou a ser vista como uma relíquia do passado, substituída por motores, engrenagens e pela promessa de um futuro movido pela tecnologia.
 
 ### 28 de Inverno de 1912 — Experiência alquímica e manipulação de Éter
 
