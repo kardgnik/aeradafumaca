@@ -80,3 +80,18 @@ Percebi que ficar trancado em um gabinete escrevendo teses não salvará nada. O
 Tranquei a porta do meu antigo gabinete em [[Ponte-Cinza]] e me despedi das ruas onde cresci. Como minhas pernas frágeis não aguentariam carregar o peso dos meus tomos, gastei minhas últimas economias para comprar uma mula de carga pacífica. Ela carrega minhas caixas de livros, meus frascos de reagentes e o velho sino de ferro.
 
 Meu objetivo é juntar moedas suficientes ao longo do caminho para comprar uma carroça coberta e transformá-la em meu laboratório e gabinete móvel. Seguindo o rastro de fumaça que vem do horizonte, sigo rumo aos subterrâneos e às refinarias de [[Brumaferro]]. O mundo moderno pode ter abraçado as máquinas, mas este velho mago mostrará que os segredos da verdadeira magia ainda são a única luz capaz de afastar a escuridão.
+
+### 29 de Verão de 1926 — Uma carroça no [[Pátio do Eixo Cansado]]
+
+[[Brumaferro]] finalmente nos recebeu, embora não da maneira grandiosa que eu talvez tenha imaginado durante a viagem. As hospedarias próximas às torres cobravam por uma noite mais do que eu poderia gastar em uma semana. O [[Bairro das Caldeiras|bairro das Caldeiras]] foi o que nos acolheu ou, ao menos, o único que cabia em minha verba.
+
+Celina Ornelas, da [[Casa de Penhores O Último Cobre]], possuía uma caixa deixada como garantia por um comerciante que nunca voltou para buscá-la. Dentro havia manifestos ferroviários escritos em três idiomas, rótulos alquímicos quase apagados e dois cadernos de fórmulas que ninguém conseguia classificar. Passei quatro dias traduzindo, separando e identificando o conteúdo. Também descobri que um dos frascos guardados junto aos papéis continha um sal reativo que jamais deveria permanecer tão perto de uma célula de Éter. Celina considerou a descoberta parte do serviço. Eu a considerei parte da preservação do quarteirão.
+
+O pagamento, somado às poucas moedas que ainda me restavam, foi suficiente para adquirir uma velha carroça de entregas abandonada havia meses no fundo do pátio. Está muito longe do gabinete móvel que imaginei. Mal cabem nela minhas caixas de livros, os reagentes e um colchão estreito colocado diretamente sobre as tábuas. Preciso dormir com os joelhos encolhidos, e a madeira parece conhecer exatamente onde minhas costas doem mais.
+
+Por enquanto, estamos no [[Pátio do Eixo Cansado]]. [[Pátio do Eixo Cansado#Bento Salgueiro|Bento]] cuida bem do meu burrinho. Já examinou seus cascos duas vezes, providenciou palha seca e declarou que o animal possui mais juízo do que o dono. Não encontrei argumentos para discordar.
+
+Da carroça, consigo ouvi-lo mastigar durante a noite. Há certo conforto em saber que, entre todas as máquinas desta cidade, uma criatura viva dorme perto de mim e ainda confia que sei para onde estamos indo.
+
+Ainda não é um laboratório, não é um gabinete e mal pode ser chamado de casa. Mas possui duas rodas, um teto e espaço para meus livros. Por ora, isso basta.
+
