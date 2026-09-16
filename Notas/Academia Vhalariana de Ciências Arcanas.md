@@ -34,7 +34,7 @@ Nem todos os alunos seguem a formação tradicional de mago. A Academia mantém 
 
 Laboratórios de artefatos acompanham objetos mágicos capazes de desenvolver novas propriedades ao longo do tempo. Salas de contenção estudam manifestações conhecidas como Magias Vivas, efeitos que persistem, deslocam-se e reagem como criaturas depois que seus conjuradores já desapareceram.
 
-O ingresso exige provas de leitura, raciocínio, observação e controle mágico. Candidatos incapazes de conjurar ainda podem ser admitidos como pesquisadores, copistas ou alquimistas, desde que demonstrem domínio teórico excepcional. As mensalidades são elevadas, mas bolsas são concedidas a estudantes de outras cidades cuja aptidão seja considerada valiosa demais para ser desperdiçada.
+O ingresso exige provas de leitura, raciocínio, observação e controle mágico. Candidatos incapazes de conjurar ainda podem ser admitidos como pesquisadores, copistas ou alquimistas, desde que demonstrem domínio teórico excepcional. As mensalidades são elevadas, mas bolsas são concedidas a estudantes cuja aptidão seja considerada valiosa demais para ser desperdiçada.
 
 Essa política trouxe à Academia jovens brilhantes de lugares distantes, embora muitos descubram rapidamente que talento abre os portões sem garantir aceitação entre herdeiros de famílias influentes.
 
