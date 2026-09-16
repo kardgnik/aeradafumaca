@@ -81,6 +81,8 @@ Tranquei a porta do meu antigo gabinete no [[Instituto Arcano de Valebrando|Col�
 
 Meu objetivo é juntar moedas suficientes ao longo do caminho para comprar uma carroça coberta e transformá-la em meu laboratório e gabinete móvel. Seguindo o rastro de fumaça que vem do horizonte, sigo rumo aos subterrâneos e às refinarias de [[Brumaferro]]. O mundo moderno pode ter abraçado as máquinas, mas este velho mago mostrará que os segredos da verdadeira magia ainda são a única luz capaz de afastar a escuridão.
 
+![[Lefay.jpeg]]
+
 ### 29 de Verão de 1926 — Uma carroça no [[Pátio do Eixo Cansado]]
 
 [[Brumaferro]] finalmente nos recebeu, embora não da maneira grandiosa que eu talvez tenha imaginado durante a viagem. As hospedarias próximas às torres cobravam por uma noite mais do que eu poderia gastar em uma semana. O [[Bairro das Caldeiras|bairro das Caldeiras]] foi o que nos acolheu ou, ao menos, o único que cabia em minha verba.
