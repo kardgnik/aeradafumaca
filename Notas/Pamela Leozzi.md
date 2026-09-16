@@ -6,7 +6,7 @@
 
 Foi aluna de [[Magnus Lefay]] antes de conquistar uma bolsa integral na Academia. Pamela deixou Ponte-Cinza muitos anos antes da partida de seu antigo professor para [[Brumaferro]] e construiu uma carreira acadêmica marcada pela mesma combinação de disciplina, curiosidade e desconfiança diante de explicações convenientes que ele procurava ensinar.
 
-![[Pamela Leozzi sob o Sol de Vhalaris.png]]
+![[Pamela sob o Sol Negro.png]]
 
 ## Pesquisa
 
