@@ -25,7 +25,7 @@ Ele me entregou seus manuais pessoais e um antigo sino de ferro manchado de fuli
 
 “A magia clássica está sendo esquecida, Magnus”, ele me disse antes de partir de velhice.
 
-Nos salões da Academia, entre jovens nobres e estudantes ambiciosos, ganhei a fama e o apelido irônico de “O Genial Magnus”: um jovem capaz de decifrar tratados complexos em minutos, mas incapaz de segurar um cajado sem parecer desajeitado.
+Nos salões do [[Instituto Arcano de Valebrando]], entre jovens nobres e estudantes ambiciosos, ganhei a fama e o apelido irônico de “O Genial Magnus”: um jovem capaz de decifrar tratados complexos em minutos, mas incapaz de segurar um cajado sem parecer desajeitado.
 
 ### 08 de Primavera de 1898 — A menina da feira
 
