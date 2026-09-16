@@ -6,6 +6,8 @@ O **Instituto Arcano de Valebrando**, conhecido pelos moradores de [[Ponte-Cinza
 
 O Instituto não possui a monumentalidade, os laboratórios ou os recursos da [[Academia Vhalariana de Ciências Arcanas|Academia da Cúpula]], mas está longe de ser uma escola improvisada. O conjunto reúne salas de aula, pequenos laboratórios alquímicos, gabinetes construídos por gerações diferentes e uma biblioteca respeitável, conhecida por conservar tratados que deixaram de interessar às instituições mais modernas.
 
+![[Instituto Arcano de Valebrando.png]]
+
 ## Ensino e estudantes
 
 O Colégio do Sino é procurado por estudantes de diversas regiões de [[Vhalaris]], sobretudo por famílias que não conseguem sustentar o custo de vida em [[Brumaferro]] nem pagar as altas mensalidades da Academia da Cúpula. Parte dos alunos reduz seus custos trabalhando nos arquivos, auxiliando os laboratórios, copiando manuscritos ou prestando serviços mágicos durante a [[Feira-das-Quatro-Chuvas|Feira das Quatro Chuvas]].
