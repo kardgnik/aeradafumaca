@@ -6,6 +6,8 @@ A **Academia Vhalariana de Ciências Arcanas**, conhecida em [[Brumaferro]] simp
 
 A Academia foi fundada há quase três séculos, muito antes da descoberta do [[Éter]], quando Brumaferro ainda era uma cidade de pontes de pedra, oficinas fluviais e bairros construídos junto aos trilhos mais antigos. O crescimento industrial engoliu quase tudo que existia ao seu redor, mas o complexo acadêmico permaneceu. Sua cúpula de cobre escurecido ainda se ergue entre torres, cabos e chaminés, cercada por edifícios de pedra cinzenta protegidos por sucessivas gerações de encantamentos.
 
+![[Academia Vhalariana de Ciências Arcanas.png]]
+
 ## Fundação e propósito
 
 A Academia surgiu da união de arcanistas, alquimistas, astrônomos e naturalistas que desejavam estudar magia fora da tutela direta de templos e cortes. Seus fundadores defendiam que fenômenos arcanos poderiam ser observados, registrados, comparados e ensinados, em vez de tratados apenas como milagres, heranças sanguíneas ou segredos transmitidos entre mestres escolhidos.
