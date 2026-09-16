@@ -1,9 +1,6 @@
 # Magnus Lefay
 
 #PJs
-
-![[Magnus Ledray.png]]
-
 ## O Diário Arcano e Grimório de Magnus Lefay
 
 ### 04 de Primavera de 1872 — Lembranças da infância em [[Ponte-Cinza]]
@@ -11,6 +8,8 @@
 Ainda me lembro do cheiro de poeira e grãos secos nos celeiros comunitários perto do rio. Eu devia ter uns oito anos quando me perdi entre as sacas de trigo enquanto os adultos discutiam a chegada do trem da tarde. Enquanto as outras crianças corriam atrás dos vagões, eu ficava fascinado com a fumaça cinzenta que subia e o som ritmado do sino metálico da ponte.
 
 Foi naquela época que encontrei, jogado em um canto do armazém ferroviário, um pequeno livro de capa de couro rasgada, com anotações em uma língua que eu não conseguia decifrar. Eu não sabia ler os símbolos, mas sentia um formigamento nas pontas dos dedos cada vez que passava a mão sobre aquelas páginas esquecidas.
+
+![[Magnus Ledray.png]]
 
 ### 12 de Verão de 1880 — Memórias da adolescência
 
