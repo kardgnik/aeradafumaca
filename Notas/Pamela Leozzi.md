@@ -6,6 +6,8 @@
 
 Foi aluna de [[Magnus Lefay]] antes de conquistar uma bolsa integral na Academia. Pamela deixou Ponte-Cinza muitos anos antes da partida de seu antigo professor para [[Brumaferro]] e construiu uma carreira acadêmica marcada pela mesma combinação de disciplina, curiosidade e desconfiança diante de explicações convenientes que ele procurava ensinar.
 
+![[Pamela Leozzi sob o Sol de Vhalaris.png]]
+
 ## Pesquisa
 
 Pamela estuda a interação entre [[Éter]], matrizes de conjuração e organismos vivos. Seus trabalhos demonstram que a presença de Éter pode alterar alcance, estabilidade, duração e comportamento de magias tradicionais, mesmo quando a substância não é utilizada diretamente como componente ou fonte de energia.

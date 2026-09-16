@@ -12,6 +12,8 @@ Cada casa preserva acesso a uma parte diferente do complexo antigo. Os Valmont-S
 
 Nenhuma das três admite publicamente que parte de seu poder industrial nasceu de conhecimentos retirados da própria Academia.
 
+![[Câmara ancestral dos três brasões.png]]
+
 ## O Projeto Crisálida
 
 Sob a ala de Transmutação existe um conjunto de laboratórios que não aparece nos mapas públicos. Oficialmente, as salas foram lacradas depois de uma contaminação alquímica. Na realidade, abrigam o **Projeto Crisálida**, programa financiado diretamente pela Casa Valmont-Shor para estudar os sobreviventes mutados do Turno de Expurgo conhecidos como [[Refinaria de Brumaferro-Oculto#A Lenda dos Vagalumes|Vagalumes]].
@@ -19,6 +21,8 @@ Sob a ala de Transmutação existe um conjunto de laboratórios que não aparece
 Alguns sujeitos foram capturados pela segurança do Consórcio nas galerias sob o [[Bairro das Caldeiras]]. Outros chegaram por intermédio dos [[Os Curadores do Espelho|Curadores do Espelho]], registrados como pacientes sem família ou mortos durante tratamento. Documentos de consentimento existem para todos eles, embora muitas assinaturas pertençam a pessoas incapazes de ler, sedadas ou oficialmente falecidas.
 
 O programa tenta descobrir se a contaminação etérica pode ser estabilizada sem eliminar seus benefícios, conduzida para produzir manifestações arcanas previsíveis ou reproduzida deliberadamente em organismos saudáveis. O objetivo final é criar corpos capazes de receber, armazenar e descarregar Éter sem depender de células, tubulações ou mecanismos externos.
+
+![[Projeto Crisálida sob a Academia.png]]
 
 ## Métodos e instalações
 
