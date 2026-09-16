@@ -49,8 +49,7 @@
               "title": "Consórcio Carbono-Éter"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,8 +225,9 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9ca8641bfc811350",
+  "active": "693f25683829544a",
   "lastOpenFiles": [
+    "NOTAS/Pátio do Eixo Cansado.md",
     "NOTAS/Bairro das Caldeiras.md",
     "NOTAS/Brumaferro.md",
     "NOTAS/Vhalaris.md",
@@ -252,7 +252,6 @@
     "NOTAS/Estações de Transposição.md",
     "NOTAS/Refinaria de Brumaferro.md",
     "NOTAS/Elian Mercer.md",
-    "NOTAS/Pátio do Eixo Cansado.md",
     "NOTAS/WIP - Conteudo Não Oficial.md",
     "NOTAS/Éter.md",
     "NOTAS/Malik.md",
