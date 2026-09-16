@@ -6,7 +6,7 @@ Vhalaris é o coração industrial do mundo conhecido. Suas grandes planícies, 
 
 Não é necessariamente o maior dos cinco continentes, mas é o mais influente em tecnologia, comércio e produção industrial. Para muitos estrangeiros, Vhalaris e a própria Era da Fumaça tornaram-se ideias inseparáveis.
 
-![[MapaValaris.png]]
+![[MapaVhalaris.png]]
 
 ## Geografia
 
