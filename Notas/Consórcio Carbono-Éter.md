@@ -12,7 +12,7 @@ Sua sede ocupa um complexo de torres neoclássicas e edifícios administrativos 
 
 A autoridade executiva do Consórcio não pertence a um único indivíduo, mas a um conselho permanente dominado por três grandes dinastias industriais de Vhalaris:
 
-A relação entre essas famílias é muito anterior à exploração do Éter. Seus antepassados estiveram entre os fundadores e principais patronos da [[Academia Vhalariana de Ciências Arcanas]], onde financiaram expedições, oficinas de metalurgia encantada, arquivos de grimórios e pesquisas sobre círculos permanentes de transporte. O Consórcio transformou uma antiga aliança de conhecimento e influência mágica em domínio industrial.
+A relação entre essas famílias é muito anterior à exploração do Éter. Seus antepassados estiveram entre os fundadores e principais patronos da [[Academia Vhalariana de Ciências Arcanas|Academia da Cúpula]], onde financiaram expedições, oficinas de metalurgia encantada, arquivos de grimórios e pesquisas sobre círculos permanentes de transporte. O Consórcio transformou uma antiga aliança de conhecimento e influência mágica em domínio industrial.
 
 ### Casa Valmont-Shor (A Destilação e as Finanças)
 * **Liderança:** **Lord Cassian Valmont-Shor**, auxiliado por sua herdeira e administradora-chefe, **Lady Vivienne Valmont-Shor**.

@@ -36,7 +36,7 @@ Apesar da rivalidade mortal entre seus pais, **Lady Vivienne Valmont-Shor** e **
 
 ## O braço acadêmico
 
-As três casas preservaram privilégios concedidos a seus antepassados na fundação da [[Academia Vhalariana de Ciências Arcanas]]. Por meio de bolsas, cátedras patrocinadas e representantes administrativos, o Consórcio direciona pesquisas antes mesmo que seus resultados sejam publicados.
+As três casas preservaram privilégios concedidos a seus antepassados na fundação da [[Academia Vhalariana de Ciências Arcanas|Academia da Cúpula]]. Por meio de bolsas, cátedras patrocinadas e representantes administrativos, o Consórcio direciona pesquisas antes mesmo que seus resultados sejam publicados.
 
 A operação mais protegida é o **Projeto Crisálida**, financiado diretamente pela Casa Valmont-Shor nos laboratórios subterrâneos da Academia. O programa utiliza [[Refinaria de Brumaferro-Oculto#A Lenda dos Vagalumes|Vagalumes]] capturados para investigar a criação de organismos capazes de conduzir Éter. Os [[Os Curadores do Espelho|Curadores do Espelho]] fornecem cirurgiões e sedativos, enquanto contratos fragmentados com a Cendra-Vane e a Haldenstern garantem equipamentos e transporte sem revelar a maior parte do projeto.
 

@@ -2,7 +2,7 @@
 
 #Spoiler #Organizações
 
-A [[Academia Vhalariana de Ciências Arcanas]] apresenta-se como uma instituição independente dedicada ao conhecimento. Entretanto, os antigos vínculos com as três famílias fundadoras jamais foram completamente rompidos. O financiamento do [[Consórcio Carbono-Éter]] garante acesso privilegiado a laboratórios, pesquisadores e descobertas que nunca chegam às publicações acadêmicas.
+A [[Academia Vhalariana de Ciências Arcanas|Academia da Cúpula]] apresenta-se como uma instituição independente dedicada ao conhecimento. Entretanto, os antigos vínculos com as três famílias fundadoras jamais foram completamente rompidos. O financiamento do [[Consórcio Carbono-Éter]] garante acesso privilegiado a laboratórios, pesquisadores e descobertas que nunca chegam às publicações acadêmicas.
 
 ## Os Três Legados
 

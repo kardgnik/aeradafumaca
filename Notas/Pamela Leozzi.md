@@ -2,7 +2,7 @@
 
 #NPCs
 
-**Pamela Leozzi** é professora e pesquisadora da [[Academia Vhalariana de Ciências Arcanas]], vinculada à Cátedra de Transmutação e Dinâmica Etérica. Nascida em [[Ponte-Cinza]], demonstrou desde jovem uma capacidade incomum para compreender fórmulas, identificar padrões e encontrar erros em textos que estudiosos mais experientes consideravam consolidados.
+**Pamela Leozzi** é professora e pesquisadora da [[Academia Vhalariana de Ciências Arcanas|Academia da Cúpula]], vinculada à Cátedra de Transmutação e Dinâmica Etérica. Nascida em [[Ponte-Cinza]], demonstrou desde jovem uma capacidade incomum para compreender fórmulas, identificar padrões e encontrar erros em textos que estudiosos mais experientes consideravam consolidados.
 
 Foi aluna de [[Magnus Lefay]] antes de conquistar uma bolsa integral na Academia. Pamela deixou Ponte-Cinza muitos anos antes da partida de seu antigo professor para [[Brumaferro]] e construiu uma carreira acadêmica marcada pela mesma combinação de disciplina, curiosidade e desconfiança diante de explicações convenientes que ele procurava ensinar.
 
