@@ -63,9 +63,9 @@ Para conjurar uma barreira invisível capaz de repelir impactos mecânicos ou ra
 
 A barreira se solidificou em um clarão tênue, desviando uma fagulha que teria queimado meus velhos papéis.
 
-### 03 de Primavera de 1920 — A anomalia no sino de [[Ponte-Cinza]]
+### 03 de Primavera de 1920 — A anomalia no sino de Ponte-Cinza
 
-O sino ferroviário de [[Ponte-Cinza]] tocou fora de hora hoje, e os relógios das oficinas atrasaram seis minutos sem qualquer falha mecânica. Ao aproximar o antigo sino de ferro do meu mestre das linhas de telegrafia, ele começou a vibrar sozinho, emitindo um zumbido grave.
+O sino ferroviário de Ponte-Cinza tocou fora de hora hoje, e os relógios das oficinas atrasaram seis minutos sem qualquer falha mecânica. Ao aproximar o antigo sino de ferro do meu mestre das linhas de telegrafia, ele começou a vibrar sozinho, emitindo um zumbido grave.
 
 As oscilações no Éter estão ficando mais frequentes e intensas. Não se trata de problemas em engrenagens ou falta de manutenção. A tecnologia de [[Brumaferro]] está estressando a estrutura arcana de [[Vhalaris]]. Se isso continuar, os celeiros e as pontes da minha terra natal serão os primeiros a sofrer.
 
@@ -75,7 +75,7 @@ Aos sessenta anos, olhar no espelho é ver o tempo impresso na pele. A calvície
 
 Percebi que ficar trancado em um gabinete escrevendo teses não salvará nada. O conhecimento precisa ser levado para o campo.
 
-### 12 de Verão de 1926 — A partida para [[Brumaferro]]
+### 12 de Verão de 1926 — A partida para Brumaferro
 
 Tranquei a porta do meu antigo gabinete no [[Instituto Arcano de Valebrando|Colégio do Sino]] e me despedi das ruas de [[Ponte-Cinza]], onde cresci. Como minhas pernas frágeis não aguentariam carregar o peso dos meus tomos, gastei minhas últimas economias para comprar uma mula de carga pacífica. Ela carrega minhas caixas de livros, meus frascos de reagentes e o velho sino de ferro.
 
