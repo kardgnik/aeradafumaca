@@ -27,6 +27,24 @@ Ele me entregou seus manuais pessoais e um antigo sino de ferro manchado de fuli
 
 Nos salões da Academia, entre jovens nobres e estudantes ambiciosos, ganhei a fama e o apelido irônico de “O Genial Magnus”: um jovem capaz de decifrar tratados complexos em minutos, mas incapaz de segurar um cajado sem parecer desajeitado.
 
+### 08 de Primavera de 1898 — A menina da feira
+
+Uma menina de oito anos apareceu hoje à porta de minha sala, interessada em aprender magia. Seu nome é [[Pamela Leozzi]]. Vem de uma das famílias mais pobres de [[Ponte-Cinza]] e trazia consigo apenas um caderno gasto, uma pena curta demais para ser confortável e perguntas suficientes para ocupar uma tarde inteira.
+
+Descobri, antes do fim da primeira lição, que ela já sabia ler em três idiomas. Aprendeu ajudando como podia na [[Feira-das-Quatro-Chuvas|Feira das Quatro Chuvas]], onde traduzia placas, bilhetes e negociações entre os feirantes e estrangeiros que atravessavam a vila. Não conhecia os nomes formais das estruturas que identificava, mas percebia padrões com uma rapidez que muitos estudiosos jamais desenvolvem.
+
+Vi em seus olhos a mesma curiosidade que meu mestre encontrou em mim tantos anos atrás. Talvez por isso não tenha conseguido mandá-la embora. Arrumei uma cadeira, encontrei para ela uma pena melhor e prometi ensinar o que soubesse. Pela primeira vez, compreendi por que aquele velho arcanista desperdiçou tanto tempo comigo.
+
+### 21 de Outono de 1903 — A partida de minha melhor aprendiz
+
+[[Pamela Leozzi|Pamela]] partiu hoje para [[Brumaferro]]. Tem apenas treze anos.
+
+Durante a [[Feira-das-Quatro-Chuvas|Feira das Quatro Chuvas]], uma mulher chamada Vivienne a observou ajudando dois comerciantes estrangeiros. Bastaram algumas perguntas sobre idiomas, fórmulas e princípios de transmutação para que percebesse aquilo que eu já sabia havia anos. Poucos dias depois, Pamela recebeu o convite e uma bolsa integral para estudar na [[Academia Vhalariana de Ciências Arcanas|Academia da Cúpula]], a maior instituição de magia de [[Vhalaris]].
+
+Não consigo decidir se hoje foi um dos dias mais felizes ou mais tristes de minha vida. Minha aluna mais brilhante seguirá para um lugar onde encontrará livros, laboratórios e mestres que eu jamais poderia oferecer em Ponte-Cinza. Foi para isso que a preparei. Ainda assim, quando voltei à sala e encontrei sua cadeira vazia, desejei egoisticamente ter mais alguma coisa para ensinar.
+
+Sinto um orgulho que mal cabe nestas páginas e uma tristeza que não consigo justificar. Talvez todo professor descubra, cedo ou tarde, que ensinar alguém é prepará-lo para partir.
+
 ### 14 de Outono de 1904 — A vida de estudo e ensino
 
 Décadas se passaram entre os muros de pedra e as bibliotecas infestadas de traças. Dediquei minha vida adulta ao ensino de teologia arcana, história antiga e ciências naturais. Meus alunos zombavam silenciosamente de minhas roupas manchadas de tinta e do meu hábito de esquecer de aparar a barba enquanto traduzia pergaminhos.
