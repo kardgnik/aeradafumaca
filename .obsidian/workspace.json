@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,10 +226,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ddb6daba822cb05f",
+  "active": "9ca8641bfc811350",
   "lastOpenFiles": [
-    "NOTAS/Os Curadores do Espelho.md",
     "NOTAS/Consórcio Carbono-Éter.md",
+    "NOTAS/Os Curadores do Espelho.md",
     "NOTAS/Estações de Transposição.md",
     "NOTAS/Refinaria de Brumaferro.md",
     "NOTAS/Academia Vhalariana de Ciências Arcanas.md",
