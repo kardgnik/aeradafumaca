@@ -34,6 +34,14 @@ Apesar da rivalidade mortal entre seus pais, **Lady Vivienne Valmont-Shor** e **
 * O recurso está esfriando porque o Sol de onde ele é drenado está perdendo intensidade.
 * A diretoria do Consórcio sabe disso e adultera os relatórios oficiais para não provocar pânico nos bancos e na bolsa de valores. Vivienne e Arthur se encontram disfarçados em [[Ponte-Cinza]] para buscar uma saída de engenharia antes que a farsa desmorone.
 
+## O braço acadêmico
+
+As três casas preservaram privilégios concedidos a seus antepassados na fundação da [[Academia Vhalariana de Ciências Arcanas|Academia da Cúpula]]. Por meio de bolsas, cátedras patrocinadas e representantes administrativos, o Consórcio direciona pesquisas antes mesmo que seus resultados sejam publicados.
+
+A operação mais protegida é o **Projeto Crisálida**, financiado diretamente pela Casa Valmont-Shor nos laboratórios subterrâneos da Academia. O programa utiliza [[Refinaria de Brumaferro-Oculto#A Lenda dos Vagalumes|Vagalumes]] capturados para investigar a criação de organismos capazes de conduzir Éter. Os [[Os Curadores do Espelho|Curadores do Espelho]] fornecem cirurgiões e sedativos, enquanto contratos fragmentados com a Cendra-Vane e a Haldenstern garantem equipamentos e transporte sem revelar a maior parte do projeto.
+
+Os detalhes completos permanecem registrados nas [[Academia Vhalariana de Ciências Arcanas-Oculto|Verdades Ocultas da Academia]].
+
 ## A Doutrina do Martelo e Bigorna (Aliança Antigreve)
 
 Se o [[Sindicato dos Fogistas]] declara greve ou [[Os Cães da Caldeira]] bloqueiam o acesso fabril, as rusgas familiares desaparecem instantaneamente:

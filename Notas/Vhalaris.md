@@ -6,7 +6,7 @@ Vhalaris é o coração industrial do mundo conhecido. Suas grandes planícies, 
 
 Não é necessariamente o maior dos cinco continentes, mas é o mais influente em tecnologia, comércio e produção industrial. Para muitos estrangeiros, Vhalaris e a própria Era da Fumaça tornaram-se ideias inseparáveis.
 
-![[MapaValaris.png]]
+![[MapaVhalaris.png]]
 
 ## Geografia
 
@@ -26,7 +26,9 @@ A industrialização trouxe riqueza, mobilidade e uma capacidade de produção s
 
 ## Cidades e caminhos
 
-[[Brumaferro]] é a maior metrópole industrial de Vhalaris e o símbolo mais reconhecido de sua nova era. A cidade cresceu ao redor da maior refinaria de Éter do continente. Suas pontes metálicas, bondes, fábricas, dirigíveis e bairros elevados projetam poder, enquanto seus níveis inferiores escondem estruturas muito mais antigas do que a própria cidade.
+[[Brumaferro]] é a maior metrópole industrial de Vhalaris e o símbolo mais reconhecido de sua nova era. A cidade cresceu ao redor da [[Refinaria de Brumaferro|maior refinaria de Éter]] do continente. Suas pontes metálicas, bondes, fábricas, dirigíveis e bairros elevados projetam poder, enquanto seus níveis inferiores escondem estruturas muito mais antigas do que a própria cidade.
+
+A [[Academia Vhalariana de Ciências Arcanas]], fundada muito antes da descoberta do Éter, permanece em Brumaferro como a maior e mais prestigiada escola de magia do continente. Seu Grande Arquivo preserva parte do conhecimento arcano mais antigo de Vhalaris, enquanto seus professores disputam o futuro da magia com departamentos financiados pela nova indústria.
 
 Fora de Brumaferro, Vhalaris é formado por cidades portuárias, centros ferroviários, comunidades agrícolas, povoados mineiros e assentamentos erguidos ao redor de estações. Distância já não significa isolamento absoluto, mas viajar continua perigoso. Acidentes industriais, falhas nas linhas, sabotagem, criaturas deslocadas pela expansão urbana e regiões onde o Éter se comporta de maneira imprevisível fazem parte da realidade do continente.
 
