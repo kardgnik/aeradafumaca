@@ -60,3 +60,6 @@ Ele sabe que alguém em Brumaferro financia o projeto. Sabe também que o livro 
 - Os remendadores do clã Brasa-Funda, sua família em [[Forja-Baixa]].
 - Trabalhadores e comerciantes próximos à [[Oficina Dente de Latão]], que conhecem Arnoldes apenas como um mecânico reservado vindo de Caldeiras.
 
+[[Teste1.00]]
+
+
