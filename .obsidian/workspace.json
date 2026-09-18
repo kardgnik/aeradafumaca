@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vaga",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,8 +105,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -229,8 +228,9 @@
   },
   "active": "ddb6daba822cb05f",
   "lastOpenFiles": [
-    "NOTAS/Academia Vhalariana de Ciências Arcanas-Oculto.md",
+    "conflict-files-obsidian-git.md",
     "NOTAS/Refinaria de Brumaferro-Oculto.md",
+    "NOTAS/Academia Vhalariana de Ciências Arcanas-Oculto.md",
     "NOTAS/Academia Vhalariana de Ciências Arcanas.md",
     "NOTAS/Instituto Arcano de Valebrando.md",
     "NOTAS/Magnus Lefay.md",
