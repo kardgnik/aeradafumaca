@@ -8,6 +8,6 @@ Ela é a mãe biológica de Helaine e faz parte de um período da vida sobre o q
 
 Para a criação do background, não é necessário explicar o que aconteceu com ela. Helaine pode acreditar que ela morreu, desapareceu, o abandonou ou simplesmente não saber quem ela era.
 
-Caso Helaine possua alguma lembrança da mãe, ela pode ser pequena e incompleta: uma voz, um cheiro, uma canção, uma palavra, um objeto, uma sensação de segurança ou medo. Essas lembranças podem ser definidas pelo jogador sem precisar estabelecer toda a história dela.
+Caso Helaine possua alguma lembrança da mãe, ela pode ser pequena e incompleta: uma voz, um cheiro, uma canção, uma palavra, uma sensação de segurança ou medo.
 
 Esta nota será ampliada depois que o background de Helaine estiver definido.
