@@ -47,7 +47,7 @@ O principal continente da campanha é [[Vhalaris]], e a história começa em [[B
 
 Uma possibilidade é Helaine ter crescido no [[Bairro das Caldeiras]], uma região pobre e industrial de Brumaferro. O bairro possui pensões, lavanderias, oficinas, trabalhadores, criminosos e crianças acostumadas a circular por lugares que adultos de outras partes da cidade evitariam.
 
-Isso também o colocaria perto de dois outros personagens da campanha. [[Malik]] nasceu no bairro e ainda vive ali. [[Arnoldes]] trabalha atualmente na [[Oficina Dente de Latão]] e mora na região.
+Isso também o colocaria perto de três outros personagens da campanha. [[Malik]] nasceu no bairro e ainda vive ali. [[Arnoldes]] trabalha atualmente na [[Oficina Dente de Latão]] e mora na região, e [[Magnus Lefay]] atualemnte vive em uma carroça velha estacionada no [[Pátio do Eixo Cansado]].
 
 Você **não precisa** conhecer nenhum deles antes do começo da campanha. Mas, se quiser uma ligação anterior, pode criar algo simples: Helaine já viu Malik lutar, pediu ajuda em uma oficina, dormiu algumas noites numa pensão próxima, roubou comida de alguém, recebeu comida de alguém ou simplesmente reconhece rostos do bairro.
 
@@ -59,7 +59,7 @@ Também existe em Brumaferro a [[Academia Vhalariana de Ciências Arcanas]], con
 
 Essa origem funciona bem se você imaginar Helaine como uma criança que passou parte da vida viajando, escondendo-se ou sobrevivendo antes de chegar a Brumaferro.
 
-[[Arnoldes]] também nasceu em Caldeiras, em [[Forja-Baixa]], embora isso não obrigue qualquer relação entre os dois.
+[[Arnoldes]] também nasceu em Caldeiras, em [[Forja-Baixa]].
 
 Se escolher essa origem, uma pergunta importante para o background será: **como uma criança acompanhada apenas por Faeryl atravessou de Caldeiras até Vhalaris?** Ele viajou clandestinamente? Foi acolhido por alguém? Trabalhou em troca de passagem? Faeryl obrigou alguém a ajudá-lo? Helaine fugia de alguma coisa ou procurava alguma coisa?
 
@@ -103,8 +103,6 @@ Não precisa responder tudo como um questionário. Essas perguntas existem apena
 ## O que você pode deixar para os mestres
 
 Você não precisa decidir quem criou Faeryl, como ela surgiu, por que está ligada a Helaine, por que sua matéria é negra ou por que consegue se integrar ao corpo dele.
-
-Também não precisa inventar sozinho grandes organizações, laboratórios secretos ou explicações científicas para seus poderes.
 
 Se quiser deixar lacunas como **“não sei o que aconteceu com minha mãe”**, **“Faeryl se recusa a falar sobre isso”**, **“minha primeira lembrança é acordar em determinado lugar”** ou **“alguém nos perseguia, mas eu nunca soube quem”**, melhor ainda. Essas lacunas dão aos mestres espaço para transformar o passado de Helaine em acontecimentos da campanha.
 
