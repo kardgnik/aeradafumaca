@@ -33,6 +33,7 @@ Um continente construído em alturas impossíveis, onde subir também significa 
 - [[Magnus Lefay]]
 - [[Arnoldes]]
 - [[Helaine]]
+- [[Elian Voss]]
 - 
 
 ####  DEUSES E CRENÇAS
