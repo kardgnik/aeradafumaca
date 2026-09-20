@@ -29,6 +29,8 @@ Pense em situações pequenas. Quem ensinou Helaine a falar? Onde ele conseguia 
 
 Faeryl tende a resolver problemas a partir de uma lógica direta de sobrevivência. Se alguém machuca Helaine, por exemplo, eliminar permanentemente a capacidade dessa pessoa de machucá-lo pode parecer uma solução perfeitamente razoável para ela. Helaine não precisa concordar.
 
+![[Faeryl.png]]
+
 ## O mundo em que ele cresceu
 
 A campanha acontece na **Era da Fumaça**, um período em que magia, indústria, carvão, vapor e uma substância chamada [[Éter]] transformaram cidades inteiras.
