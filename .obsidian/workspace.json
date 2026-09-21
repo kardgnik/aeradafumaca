@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Praça das Pontes.md",
+                "file": "A Era da Fumaça.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Praça das Pontes"
+              "title": "A Era da Fumaça"
             }
           }
         ],
@@ -226,13 +226,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "8e86c8089e6004e6",
+  "active": "ddb6daba822cb05f",
   "lastOpenFiles": [
+    "NOTAS/Praça das Pontes.md",
     "IMAGENS/Praça das Pontes.png",
     "NOTAS/Brumaferro.md",
     "NOTAS/Vhalaris.md",
     "A Era da Fumaça.md",
-    "NOTAS/Praça das Pontes.md",
     "NOTAS/Vau das Candeias.md",
     "IMAGENS/Vau das Candeias.png",
     "NOTAS/Frederick Van Krueger.md",
@@ -263,7 +263,6 @@
     "NOTAS/Refinaria de Brumaferro-Oculto.md",
     "conflict-files-obsidian-git.md",
     "IMAGENS/Lefay.jpeg",
-    "IMAGENS/Instituto Arcano de Valebrando.png",
     "PJ",
     "IMAGENS",
     "NOTAS"
