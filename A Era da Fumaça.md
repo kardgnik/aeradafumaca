@@ -34,6 +34,7 @@ Um continente construído em alturas impossíveis, onde subir também significa 
 - [[Arnoldes]]
 - [[Helaine]]
 - [[Darian Cobrevento]]
+- [[Frederick Van Krueger]]
 - 
 
 ####  DEUSES E CRENÇAS
