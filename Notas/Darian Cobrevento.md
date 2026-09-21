@@ -16,6 +16,8 @@ Quando jovem, Nicolau concluiu a [[Primeira Água]] e recebeu a marca dos navega
 
 Enquanto outras crianças brincavam com locomotivas de madeira, Darian construía pequenos barcos mecânicos, tentando reproduzir os navios que o pai descrevia. Aos nove anos, também montou um pássaro usando peças descartadas de uma locomotiva. O mecanismo mal conseguia bater as asas, mas Darian insistia que um dia ele seria capaz de voar.
 
+![[Darian Cobrevento.png]]
+
 ## O naufrágio que ninguém explicou
 
 Quando Darian ainda era criança, Nicolau embarcou numa travessia entre [[Keldrann]] e [[Pelagora|Pelágora]]. O navio seguiria pela passagem marítima que contorna o [[Litoral das Agulhas]], a rota mais rápida entre os dois continentes e uma das mais perigosas.
