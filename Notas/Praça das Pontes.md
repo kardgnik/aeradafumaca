@@ -8,6 +8,8 @@ A praça propriamente dita ocupa uma ampla plataforma sustentada sobre os nívei
 
 Quem sobe do [[Bairro das Caldeiras]] percebe a mudança sem encontrar ainda o luxo das regiões altas. A fuligem continua presente, tubulações ainda cruzam fachadas e o ruído das máquinas jamais desaparece por completo, mas as vitrines são mais cuidadas, as ruas recebem manutenção com maior frequência e os estabelecimentos oferecem um grau de conforto incomum nos níveis inferiores.
 
+![[Praça das Pontes.png]]
+
 ## Comércio
 
 A Praça das Pontes é um dos principais centros comerciais de Brumaferro e atende tanto moradores quanto pessoas apenas de passagem entre diferentes regiões da cidade.
