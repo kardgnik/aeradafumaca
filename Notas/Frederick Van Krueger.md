@@ -6,6 +6,8 @@ Frederick Van Krueger aprendeu cedo que monstros deixam dois tipos de rastro. Um
 
 Ele carrega ambos.
 
+![[Frederick Van Krueger.png]]
+
 ## O menino do Vau das Candeias
 
 Frederick nasceu no [[Vau das Candeias]], uma pequena comunidade agrícola na orla da [[Mata-de-Carvalume|Mata de Carvalume]]. A família Van Krueger cultivava centeio, raízes, algumas árvores frutíferas e mantinha ovelhas em terras úmidas demais para grandes plantações. Não eram ricos, mas a casa tinha telhado firme, comida guardada para as chuvas e vizinhos que sabiam quais portas podiam abrir sem bater.
