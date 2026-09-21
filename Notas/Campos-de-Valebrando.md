@@ -6,6 +6,8 @@ Os Campos de Valebrando ocupam uma ampla região das planícies centrais de Vhal
 
 Ferrovias secundárias atravessam os campos e convergem em silos, moinhos e armazéns. Máquinas a vapor participam da preparação da terra e da colheita, mas grande parte do trabalho ainda depende de famílias rurais, trabalhadores sazonais, animais e ferramentas reparadas por gerações.
 
+A [[Companhia Ferroviária de Valebrando]] opera muitos desses ramais a partir de [[Ponte-Cinza]]. Ao redor de desvios e instalações de manutenção surgiram comunidades como [[Ramal-Baixo]], onde vivem famílias que dependem da ferrovia sem conseguir sustentar os custos da vila mercantil.
+
 ![[Campos-de-Valebrando 1.png]]
 
 ## Povo e costumes

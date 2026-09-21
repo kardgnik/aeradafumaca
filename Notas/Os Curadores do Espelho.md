@@ -12,6 +12,7 @@ Suas clínicas são luxuosas e protegidas por rigoroso sigilo profissional. Os C
 
 * **Cosmética Nobre:** Criação de unguentos, tinturas e pós de maquiagem que resistem à fuligem, à fumaça ácida e à umidade permanente da cidade.
 * **Medicina Privada:** Acompanhamento de saúde de diplomatas estrangeiros e diretores industriais das casas [[Consórcio Carbono-Éter#Casa Valmont-Shor|Valmont-Shor]] e [[Consórcio Carbono-Éter#Casa Cendra-Vane|Cendra-Vane]].
+* **Cirurgia Reconstrutiva:** Enxertos nervosos e arcanos, reconstrução de tecidos e implantação de interfaces para próteses produzidas sob encomenda. Esses procedimentos são extremamente caros e raramente oferecidos a pacientes sem um patrono influente.
 * **Filantropia Seletiva:** Financiamento de sanatórios de ar puro nas colinas distantes para tratar cidadãos abastados com doenças respiratórias.
 
 ## [[Os Curadores do Espelho-Oculto|Verdades ocultas]]

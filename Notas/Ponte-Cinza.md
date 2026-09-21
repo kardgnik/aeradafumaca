@@ -12,6 +12,8 @@ O povoado funciona como ponto de encontro entre agricultores, barqueiros, comerc
 
 O sino ferroviário marca a abertura do mercado, a troca dos turnos e a chegada dos trens. Os moradores dizem que Ponte-Cinza não dorme, apenas reduz o ritmo entre o último cargueiro da noite e a primeira composição da manhã.
 
+A [[Companhia Ferroviária de Valebrando]], conhecida como Ferrovia do Sino, mantém na vila sua principal oficina e o entroncamento das linhas agrícolas. Parte significativa de seus mecânicos, carregadores e condutores vive em [[Ramal-Baixo]] e chega a Ponte-Cinza nos primeiros vagões de cada turno.
+
 A vila mantém celeiros comunitários em terreno elevado. Durante enchentes ou falhas no transporte, esses depósitos sustentam fazendas e comunidades menores que ficariam isoladas.
 
 A [[Feira-das-Quatro-Chuvas|Feira das Quatro Chuvas]] acontece no início de cada estação agrícola. Além do comércio, famílias trocam sementes, previsões do tempo, contratos de trabalho e notícias trazidas por viajantes.
