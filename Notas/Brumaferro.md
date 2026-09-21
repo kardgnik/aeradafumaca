@@ -21,6 +21,8 @@ Nem todo poder de Brumaferro nasceu de suas fábricas. A [[Academia Vhalariana d
 
 Seu complexo de pedra pertence à cidade antiga e contrasta com as torres industriais que cresceram ao redor. A Academia mantém laboratórios, observatórios, salas de ensino, a Galeria dos Copistas e o maior acervo de grimórios e manuscritos arcanos do continente. Embora preserve tradições clássicas, parte de seus departamentos depende atualmente do financiamento de companhias interessadas nas aplicações mágicas do Éter.
 
+![[Brumaferro Camadas.png]]
+
 ## [[Bairro das Caldeiras]]
 
 O [[Bairro das Caldeiras]] ocupa uma faixa antiga da região industrial, onde casas operárias foram construídas entre fábricas, tubulações e instalações que já funcionavam antes da expansão dos bairros elevados. Ali nasceu [[Malik|Malik Booker]].

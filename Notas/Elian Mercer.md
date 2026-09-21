@@ -4,6 +4,8 @@
 
 Elian Mercer é supervisor da rede de [[Éter]] em [[Brumaferro]]. Seu trabalho envolve a manutenção de tubulações, linhas de transmissão, reguladores e estações ligados à infraestrutura energética da cidade.
 
+Entre os técnicos que trabalharam em equipes subordinadas ao seu setor está [[Darian Cobrevento]], autor de um autômato criado para diagnosticar oscilações e falhas na rede de distribuição.
+
 É pai de [[Samuel Mercer]], técnico que seguiu a mesma carreira e tornou-se especialista em redes de distribuição.
 
 Anos atrás, [[Caleb Booker]] trabalhou diretamente sob a supervisão de Elian numa das [[Estações de Transposição]]. Caleb morreu durante uma manutenção, num acidente oficialmente atribuído a erro humano. A instalação foi posteriormente desativada.

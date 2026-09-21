@@ -24,7 +24,7 @@ A relação entre essas famílias é muito anterior à exploração do Éter. Se
 
 ### Casa Haldenstern (A Malha Ferroviária e Logística)
 * **Liderança:** **Marechal-Engenheiro Gregory Haldenstern**, com apoio diplomático de **Astrid Haldenstern**.
-* **Domínio:** Proprietários das frotas de locomotivas blindadas, linhas férreas transcontinentais e comboios de transporte pesado que conectam Vhalaris a [[Keldrann]] e aos portos que abastecem [[Caldeiras]]. A família também fornece o comando da **Segurança Patrimonial do Consórcio**, força armada privada chefiada em campo por inspetores como [[Viktor Halden]].
+* **Domínio:** Proprietários das frotas de locomotivas blindadas, linhas férreas transcontinentais e comboios de transporte pesado que conectam Vhalaris a [[Keldrann]] e aos portos que abastecem [[Caldeiras]]. A família também fornece o comando da **Segurança Patrimonial do Consórcio**, força armada privada chefiada em campo por inspetores como [[Viktor Halden]]. Companhias regionais formalmente independentes, como a [[Companhia Ferroviária de Valebrando]], dependem de concessões, crédito, locomotivas e componentes fornecidos pela malha Haldenstern.
 
 ## Corporações Associadas e Entidades do Setor
 

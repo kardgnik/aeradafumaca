@@ -32,6 +32,9 @@ Um continente construído em alturas impossíveis, onde subir também significa 
 - [[Malik]]
 - [[Magnus Lefay]]
 - [[Arnoldes]]
+- [[Helaine]]
+- [[Darian Cobrevento]]
+- [[Frederick Van Krueger]]
 - 
 
 ####  DEUSES E CRENÇAS
