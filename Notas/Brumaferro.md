@@ -33,4 +33,10 @@ Entre as oficinas do bairro está a [[Oficina Sete Batidas]], estabelecimento me
 
 Mais recentemente, a [[Oficina Dente de Latão]] começou a receber bombas, fechaduras e pequenos motores recusados por estabelecimentos licenciados. Seu mecânico, [[Arnoldes]], veio de [[Caldeiras]] acompanhado por um construto quadrúpede chamado [[Masato]]. Para a maioria dos moradores, são apenas mais dois estrangeiros tentando desaparecer entre a fumaça e as máquinas do bairro.
 
+## [[Praça das Pontes]]
+
+Em um dos níveis intermediários da cidade, acima dos bairros industriais e abaixo das regiões mais abastadas, a [[Praça das Pontes]] funciona como um dos principais centros comerciais e pontos de conexão de Brumaferro. Bondes, passarelas, elevadores de carga e vias construídas em diferentes alturas convergem para o patamar, fazendo dele uma passagem natural entre as camadas da metrópole.
+
+Suas lojas atendem desde necessidades cotidianas até mercadorias mais especializadas, enquanto tavernas e hospedarias oferecem um padrão de conforto superior ao encontrado nos níveis inferiores sem alcançar o luxo das regiões altas. Entre seus estabelecimentos está o [[Entreposto do Rastro Velado]], administrado por [[Damião Rusk]].
+
 ## [[Brumaferro-Oculto|Verdades ocultas]]
