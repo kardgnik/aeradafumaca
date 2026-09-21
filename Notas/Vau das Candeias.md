@@ -6,6 +6,8 @@ O **Vau das Candeias** é uma pequena comunidade agrícola na borda sudeste da [
 
 Não chega a ser uma vila murada. É um conjunto disperso de propriedades, celeiros, pomares, currais e casas erguidas em terreno alto, ligadas por caminhos de terra que desaparecem sob lama em parte do ano. Seus moradores cultivam centeio, raízes e frutas resistentes à umidade, criam ovelhas e trocam mel, lã, couro e plantas medicinais com viajantes que seguem para o interior de Vhalaris.
 
+![[Vau das Candeias.png]]
+
 ## Entre campo e mata
 
 O Vau depende da floresta sem viver inteiramente dentro dela. Madeira caída, fungos, ervas, caça comum e resina complementam aquilo que as fazendas produzem. Em troca, moradores ajudam a manter aceiros, marcos de trilha e pequenos abrigos utilizados por coletores e viajantes.
