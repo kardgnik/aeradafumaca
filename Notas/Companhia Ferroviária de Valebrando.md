@@ -6,6 +6,8 @@ A Companhia Ferroviária de Valebrando opera linhas secundárias que conectam fa
 
 A Companhia transporta grãos, tecidos, ferramentas, animais, correspondências e passageiros. Suas composições raramente possuem o conforto ou a velocidade das grandes linhas, mas são essenciais para comunidades que desapareceriam dos mapas comerciais sem acesso regular aos trilhos.
 
+![[Companhia Ferroviária de Valebrando.png]]
+
 ## Oficinas e trabalhadores
 
 A principal oficina funciona em Ponte-Cinza. Ali, mecânicos mantêm locomotivas antigas, vagões agrícolas e equipamentos que permanecem em serviço muito depois do período recomendado pelos fabricantes. [[Maela Cobrevento]] é uma das chefes de turno e tornou-se conhecida por confrontar administradores que tentam devolver máquinas defeituosas à linha.
