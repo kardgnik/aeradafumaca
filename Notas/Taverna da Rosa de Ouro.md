@@ -4,7 +4,7 @@
 
 [[Praça das Pontes]]
 
-A **Taverna da Rosa de Ouro** é uma grande taverna e hospedaria da Praça das Pontes. Ocupa três andares de um casarão de tijolos escuros, com amplas janelas, varandas voltadas para o movimento da praça e uma rosa de metal dourado sobre a entrada.
+A **Taverna da Rosa de Ouro** é uma grande taverna e hospedaria da Praça das Pontes. Ocupa três andares de um casarão de tijolos escuros, com amplas janelas, varandas voltadas para o movimento da praça e uma rosa de metal dourado sobre a entrada e bar.
 
 O estabelecimento oferece mais conforto que as casas dos bairros industriais sem alcançar o luxo das regiões altas. Comerciantes, técnicos, estudantes, artistas, viajantes e funcionários das companhias dividem o salão, tornando a Rosa de Ouro um lugar onde notícias, rumores e encontros improváveis circulam com a mesma facilidade que comida e bebida.
 
@@ -18,13 +18,13 @@ Rosas entalhadas aparecem nos corrimãos, nas luminárias e nas molduras dos esp
 
 ## Ermelinda dos Corações Perdidos
 
-**Tiefling • Proprietária**
+Ermelinda dos Corações Perdidos é uma Tiefling elegante, vestida sempre em sedas bordadas em tons de vinho e dourado. Usa um colar de safira em formato de coração que brilha suavemente sobre o peito.
 
-Ermelinda dos Corações Perdidos é uma mulher elegante de meia-idade, vestida com sedas bordadas em tons de vinho e dourado. Usa um colar de safira em formato de coração que brilha suavemente sobre o peito.
-
-Extremamente atenciosa, perspicaz e incuravelmente romântica, Ermelinda está sempre pronta a unir corações ou desvendar segredos alheios com um sorriso enigmático. Ela reconhece clientes habituais pelo nome, percebe rapidamente quando uma conversa precisa de privacidade e trata histórias de amor com a seriedade de quem administra contratos importantes.
+Extremamente atenciosa, perspicaz e incuravelmente romântica, Ermelinda está sempre pronta a unir corações ou desvendar segredos alheios. Com um sorriso enigmático, ela reconhece clientes habituais pelo nome, percebe rapidamente quando uma conversa precisa de privacidade e trata histórias de amor com a seriedade de quem administra contratos importantes.
 
 Ermelinda dirige a casa pessoalmente. Circula entre o salão, a cozinha e os quartos, apresenta artistas, acomoda viajantes e intervém antes que discussões estraguem a noite. Quem procura alguém na Praça das Pontes costuma descobrir que ela sabe onde perguntar, embora raramente explique como obteve a informação.
+
+![[Ermelinda dos Corações Perdidos.png]]
 
 ## Hospedagem
 
