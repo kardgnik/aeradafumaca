@@ -47,10 +47,10 @@ A cozinha combina ingredientes trazidos por trem, rio e estrada de diferentes re
 
 ## Bebidas da casa
 
-| Bebida | Descrição e efeito | Preço |
-| --- | --- | ---: |
-| **Cerveja Dourada do Vale** | Lager leve com notas sutis de mel e flores silvestres. Deixa os olhos do consumidor com um brilho dourado discreto por uma hora. | 8 pc |
-| **Hidromel do Poeta Apaixonado** | Hidromel dourado envelhecido em barris de carvalho com pétalas de rosa. Durante trinta minutos, concede vantagem em testes de Carisma (Atuação). | 2 pp |
-| **Vinho Tinto Lágrima de Vênus** | Vinho encorpado, colhido em encostas ensolaradas do sul. Induz uma leve sensação de euforia e nostalgia romântica. | 5 pp |
-| **Aguardente Fogo da Paixão** | Destilado potente de cereais com infusão de pimenta rosa e gengibre. Seu ardor exige uma salvaguarda de Constituição. | 1 po |
-| **Néctar dos Deuses, Safra Rara** | Vinho branco espumante com partículas suspensas de ouro comestível. A pele ganha um brilho dourado inofensivo até o próximo descanso longo. | 5 po |
+| Bebida                            | Descrição e efeito                                                                                                                               | Preço |
+| --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----: |
+| **Cerveja Dourada do Vale**       | Lager leve com notas sutis de mel e flores silvestres. Deixa os olhos do consumidor com um brilho dourado discreto por uma hora.                 |  8 pc |
+| **Hidromel do Poeta Apaixonado**  | Hidromel dourado envelhecido em barris de carvalho com pétalas de rosa. Durante trinta minutos, concede vantagem em testes de Carisma (Atuação). |  2 pp |
+| **Vinho Tinto Lágrima de Vênus**  | Vinho encorpado, colhido em encostas ensolaradas do sul. Induz uma leve sensação de euforia e nostalgia romântica.                               |  5 pp |
+| **Aguardente Fogo da Paixão**     | Destilado potente de cereais com infusão de pimenta rosa e gengibre. Causa dano flamejante psicológico leve na garganta.                         |  1 po |
+| **Néctar dos Deuses, Safra Rara** | Vinho branco espumante com partículas suspensas de ouro comestível. A pele ganha um brilho dourado inofensivo até o próximo descanso longo.      |  5 po |
