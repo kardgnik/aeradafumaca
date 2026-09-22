@@ -26,6 +26,8 @@ Entre os estabelecimentos mais especializados está o [[Entreposto do Rastro Vel
 
 As tavernas da Praça das Pontes atendem uma clientela mais variada do que aquelas dos bairros industriais. Trabalhadores especializados, pequenos comerciantes, viajantes, técnicos, estudantes e funcionários das companhias dividem mesas em estabelecimentos que oferecem refeições mais cuidadas, bebidas de melhor qualidade e, em alguns casos, salas reservadas e música durante a noite.
 
+Entre os maiores estabelecimentos está a [[Taverna da Rosa de Ouro]], uma casa de três andares conhecida pelo salão movimentado, pela hospedagem confortável e pela atenção de sua proprietária, Ermelinda dos Corações Perdidos. Músicos, comerciantes e viajantes frequentam o lugar tanto pela cozinha quanto pela habilidade de Ermelinda em aproximar pessoas e perceber segredos.
+
 Hospedarias também são comuns nas ruas próximas à praça. Seus preços são maiores que os encontrados no [[Bairro das Caldeiras]], mas quartos individuais, água aquecida e algum grau de silêncio fazem delas uma escolha frequente para viajantes que podem pagar por conforto sem procurar o luxo das regiões altas.
 
 ## Transporte
