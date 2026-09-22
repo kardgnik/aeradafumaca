@@ -12,7 +12,7 @@ O estabelecimento oferece mais conforto que as casas dos bairros industriais sem
 
 O salão principal ocupa dois níveis ligados por uma escadaria curva. Mesas menores ficam próximas às janelas, enquanto grupos maiores se acomodam diante de uma lareira de ferro e pedra. Um pequeno palco recebe músicos, poetas e contadores de histórias, e salas reservadas permitem conversas mais discretas.
 
-Rosas entalhadas aparecem nos corrimãos, nas luminárias e nas molduras dos espelhos, sempre em detalhes pequenos. A iluminação combina lâmpadas de [[Éter]] com velas protegidas por vidro avermelhado, espalhando reflexos dourados e cor de vinho pelas paredes.
+Rosas entalhadas aparecem nos corrimãos, nas luminárias e nas molduras dos espelhos, sempre em detalhes pequenos. A iluminação combina lâmpadas de [[Éter]] com velas protegidas por vidro cor de vinho. A luz azul-esverdeada predomina no salão, enquanto pequenos reflexos avermelhados se concentram ao redor das mesas e luminárias.
 
 ## Ermelinda dos Corações Perdidos
 
