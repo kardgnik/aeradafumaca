@@ -20,6 +20,8 @@ A Academia da Cúpula mantém em Rebitadores um prédio destinado ao alojamento 
 
 O edifício é funcional e bem cuidado, sem o conforto reservado aos alunos mais ricos. Seus quartos, refeitório e espaços comuns aproximam estudantes de diferentes origens dos trabalhadores e artesãos que vivem ao redor.
 
+![[Alojamento da Academia em Rebitadores.png]]
+
 ## Transporte
 
 Uma das linhas de bondes parte de Rebitadores, desce por diferentes níveis e subestações até o [[Bairro das Caldeiras]] e depois volta a subir em direção à [[Praça das Pontes]]. A rota transporta trabalhadores, estudantes, ferramentas e pequenas cargas, ligando o bairro tanto às áreas industriais quanto ao principal centro comercial dos patamares intermediários.
