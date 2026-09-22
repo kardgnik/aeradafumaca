@@ -36,14 +36,14 @@ Os quartos ocupam os andares superiores. O preço indicado é cobrado por quarto
 
 A cozinha combina ingredientes trazidos por trem, rio e estrada de diferentes regiões de [[Vhalaris]]. Pratos de caça e cogumelos aparecem conforme a estação e a disponibilidade dos carregamentos.
 
-| Prato | Descrição | Preço |
-| --- | --- | ---: |
-| **Costela de Cervo de Carvalume ao Molho de Amoras** | Carne de caça da [[Mata-de-Carvalume|Mata de Carvalume]], cozida lentamente em vinho tinto, amoras e especiarias doces. | 8 pp |
-| **Torta de Cogumelos e Raízes do Vau** | Massa amanteigada recheada com fungos, raízes e ervas recolhidos ao redor do [[Vau das Candeias]]. | 5 pp |
-| **Ensopado de Caça das Candeias** | Caça da estação preparada com tubérculos dos [[Campos-de-Valebrando|Campos de Valebrando]] e ervas de Carvalume. | 1 po |
-| **Peixe dos Baixios com Ervas de Juncoalto** | Pescado dos [[Baixios-de-Mouralume|Baixios de Mouralume]], assado com ervas e servido com pão escuro. | 9 pp |
-| **Queijos, Mel e Pão de Centeio de Valebrando** | Seleção de queijos, compotas, mel e pão de centeio trazidos das comunidades agrícolas de Valebrando. | 6 pp |
-| **Torta de Frutas do Vau com Mel** | Frutas resistentes à umidade, assadas em massa folhada e cobertas com mel. | 3 pp |
+| Prato                                                | Descrição                                                                                            |                                                                              Preço |      |
+| ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------: | ---- |
+| **Costela de Cervo de Carvalume ao Molho de Amoras** | Carne de caça da [[Mata-de-Carvalume                                                                 | Mata de Carvalume]], cozida lentamente em vinho tinto, amoras e especiarias doces. | 8 pp |
+| **Torta de Cogumelos e Raízes do Vau**               | Massa amanteigada recheada com fungos, raízes e ervas recolhidos ao redor do [[Vau das Candeias]].   |                                                                               5 pp |      |
+| **Ensopado de Caça das Candeias**                    | Caça da estação preparada com tubérculos dos [[Campos-de-Valebrando                                  |                                       Campos de Valebrando]] e ervas de Carvalume. | 1 po |
+| **Peixe dos Baixios com Ervas de Juncoalto**         | Pescado dos [[Baixios-de-Mouralume                                                                   |                 Baixios de Mouralume]], assado com ervas e servido com pão escuro. | 9 pp |
+| **Queijos, Mel e Pão de Centeio de Valebrando**      | Seleção de queijos, compotas, mel e pão de centeio trazidos das comunidades agrícolas de Valebrando. |                                                                               6 pp |      |
+| **Torta de Frutas do Vau com Mel**                   | Frutas resistentes à umidade, assadas em massa folhada e cobertas com mel.                           |                                                                               3 pp |      |
 
 ## Bebidas da casa
 
