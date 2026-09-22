@@ -30,11 +30,7 @@ Ermelinda dirige a casa pessoalmente. Circula entre o salão, a cozinha e os qua
 
 Os quartos ocupam os andares superiores. O preço indicado é cobrado por quarto e inclui uma refeição simples pela manhã.
 
-| Acomodação | Descrição | Preço por noite |
-| --- | --- | ---: |
-| **Quarto duplo** | Quarto compartilhado por até duas pessoas, com duas camas individuais, armário e lavatório. | 4 pp |
-| **Quarto privativo** | Aposento individual com cama de dossel simples, escrivaninha e banho aquecido por encanamento. | 1 po |
-| **Suíte com lareira** | Apartamento privativo com sala pequena, lareira, guarda-roupa e varanda para a Praça das Pontes. | 3 po |
+![[Acomodaçoes Taverna da Rosa de Ouro.png]]
 
 ## Cardápio
 
