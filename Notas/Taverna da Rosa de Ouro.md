@@ -8,11 +8,13 @@ A **Taverna da Rosa de Ouro** é uma grande taverna e hospedaria da Praça das P
 
 O estabelecimento oferece mais conforto que as casas dos bairros industriais sem alcançar o luxo das regiões altas. Comerciantes, técnicos, estudantes, artistas, viajantes e funcionários das companhias dividem o salão, tornando a Rosa de Ouro um lugar onde notícias, rumores e encontros improváveis circulam com a mesma facilidade que comida e bebida.
 
+![[Taverna da Rosa de Ouro.png]]
+
 ## O salão
 
 O salão principal ocupa dois níveis ligados por uma escadaria curva. Mesas menores ficam próximas às janelas, enquanto grupos maiores se acomodam diante de uma lareira de ferro e pedra. Um pequeno palco recebe músicos, poetas e contadores de histórias, e salas reservadas permitem conversas mais discretas.
 
-Rosas entalhadas aparecem nos corrimãos, nas luminárias e nas molduras dos espelhos, sempre em detalhes pequenos. A iluminação combina lâmpadas de [[Éter]] com velas protegidas por vidro cor de vinho. A luz azul-esverdeada predomina no salão, enquanto pequenos reflexos avermelhados se concentram ao redor das mesas e luminárias.
+Rosas entalhadas aparecem nos corrimãos, nas luminárias e nas molduras dos espelhos, sempre em detalhes pequenos. A iluminação combina lâmpadas de Éter com velas protegidas por vidro cor de vinho. A luz quente predomina no salão, enquanto pequenos reflexos avermelhados se concentram ao redor das mesas e luminárias.
 
 ## Ermelinda dos Corações Perdidos
 
