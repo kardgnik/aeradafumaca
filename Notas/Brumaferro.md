@@ -33,6 +33,12 @@ Entre as oficinas do bairro está a [[Oficina Sete Batidas]], estabelecimento me
 
 Mais recentemente, a [[Oficina Dente de Latão]] começou a receber bombas, fechaduras e pequenos motores recusados por estabelecimentos licenciados. Seu mecânico, [[Arnoldes]], veio de [[Caldeiras]] acompanhado por um construto quadrúpede chamado [[Masato]]. Para a maioria dos moradores, são apenas mais dois estrangeiros tentando desaparecer entre a fumaça e as máquinas do bairro.
 
+## [[Rebitadores]]
+
+Em um patamar intermediário levemente elevado em relação ao Bairro das Caldeiras, [[Rebitadores]] reúne moradias, pequenas oficinas e apartamentos construídos entre antigas estruturas industriais. É mais limpo, organizado e bem iluminado que os níveis inferiores, sem ser um bairro rico, e concentra trabalhadores especializados, técnicos, mecânicos, ferroviários, artesãos e estudantes.
+
+A Academia da Cúpula mantém no bairro um alojamento para bolsistas integrais, cujo benefício inclui moradia e alimentação. Uma linha de bondes parte de Rebitadores, desce por níveis e subestações até as Caldeiras e depois sobe em direção à [[Praça das Pontes]].
+
 ## [[Praça das Pontes]]
 
 Em um dos níveis intermediários da cidade, acima dos bairros industriais e abaixo das regiões mais abastadas, a [[Praça das Pontes]] funciona como um dos principais centros comerciais e pontos de conexão de Brumaferro. Bondes, passarelas, elevadores de carga e vias construídas em diferentes alturas convergem para o patamar, fazendo dele uma passagem natural entre as camadas da metrópole.

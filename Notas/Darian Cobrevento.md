@@ -48,6 +48,8 @@ Para alguém criado entre pequenas oficinas, campos agrícolas e histórias de v
 
 Darian conseguiu emprego como aprendiz numa oficina que prestava pequenos serviços de reparo. Sua facilidade para compreender mecanismos chamou a atenção de engenheiros. Ele aprendeu a construir autômatos de manutenção, reparar linhas de transmissão e estabilizar pequenos núcleos de Éter.
 
+Ao longo dos anos, estabeleceu-se em [[Rebitadores]]. Hoje vive sozinho em um pequeno apartamento de quarto e sala, parcialmente convertido em oficina. Ferramentas, peças e projetos ocupam boa parte do espaço, mas o lugar continua sendo sua casa.
+
 ## A Academia e o preço do conhecimento
 
 Aos vinte e dois anos, Darian recebeu uma bolsa técnica patrocinada pelo [[Consórcio Carbono-Éter]] para estudar na [[Academia Vhalariana de Ciências Arcanas|Academia da Cúpula]].
@@ -80,7 +82,17 @@ A estrutura instalada pelos Curadores devolveu movimento a Darian, mas não lhe 
 
 Foram necessários inúmeros experimentos, peças descartadas, mecanismos defeituosos e algumas pequenas explosões. Darian ampliou sua mobilidade, corrigiu limitações, incorporou ferramentas e ajustou os movimentos até que o braço respondesse com precisão surpreendente.
 
-Com o tempo, deu ao membro detalhes, hábitos mecânicos e pequenas reações que refletiam sua própria personalidade. O que começou como uma intervenção realizada enquanto estava inconsciente tornou-se uma de suas maiores criações.
+Durante esses meses, reconstruir o próprio corpo era apenas parte do desafio. As longas horas de repouso, a solidão e as lembranças do acidente tornavam os dias especialmente difíceis para alguém que sempre encontrara conforto no movimento constante de ferramentas e engrenagens.
+
+Foi nesse período que Darian decidiu construir algo diferente de tudo o que havia feito. Não seria uma ferramenta, um autômato de manutenção ou uma máquina projetada para cumprir uma tarefa específica. Seria um companheiro.
+
+Com peças descartadas do laboratório, pequenas engrenagens de relógios antigos e componentes que haviam sobrevivido à explosão, Darian criou **Ferrugem**, uma pequena criatura mecânica de corpo compacto e construção improvisada. Suas articulações produzem estalos metálicos, ele às vezes tropeça nas próprias patas, emite ruídos inesperados e pode ficar encarando uma engrenagem como se tentasse compreender seus segredos.
+
+Ferrugem passou a acompanhá-lo durante a recuperação, buscar ferramentas e permanecer ao seu lado enquanto Darian ajustava a prótese. Darian não sabe se o pequeno autômato possui alguma forma sofisticada de inteligência arcana ou se apenas aprendeu a interpretar seus movimentos e sons. Para ele, descobrir isso não é importante.
+
+Hoje Ferrugem é seu familiar, companheiro inseparável, assistente de confiança e melhor amigo. Algumas das conversas mais importantes que Darian teve desde o acidente foram com ele, embora Ferrugem não fale.
+
+Com o tempo, Darian deu ao membro detalhes, hábitos mecânicos e pequenas reações que refletiam sua própria personalidade. O que começou como uma intervenção realizada enquanto estava inconsciente tornou-se uma de suas maiores criações.
 
 Darian não enxerga o braço como uma lembrança daquilo que perdeu. Para ele, é a prova de que até uma máquina construída por outra pessoa pode ser compreendida, transformada e tornada verdadeiramente sua.
 
