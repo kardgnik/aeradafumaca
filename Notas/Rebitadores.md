@@ -6,6 +6,8 @@
 
 O bairro cresceu entre antigas estruturas industriais adaptadas para moradia. Prédios de tijolos ocupam os espaços entre grandes pilares e instalações desativadas, com pequenas oficinas nos térreos e apartamentos nos andares superiores. Passarelas ligam construções erguidas em alturas diferentes, enquanto tubulações e reforços metálicos permanecem incorporados às fachadas.
 
+![[Rebitadores.png]]
+
 ## Moradores e trabalho
 
 Rebitadores concentra trabalhadores especializados, técnicos, mecânicos, funcionários ferroviários, artesãos e uma classe trabalhadora um pouco mais estável que a dos níveis inferiores. Estudantes também fazem parte da vida cotidiana do bairro, especialmente bolsistas ligados à [[Academia Vhalariana de Ciências Arcanas|Academia da Cúpula]].
