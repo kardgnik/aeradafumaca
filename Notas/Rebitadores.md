@@ -16,9 +16,11 @@ Entre seus moradores está [[Darian Cobrevento]], que vive sozinho em um pequeno
 
 ## Alojamento da Academia
 
-A Academia da Cúpula mantém em Rebitadores um prédio destinado ao alojamento de bolsistas integrais. Para esses estudantes, o benefício acadêmico inclui moradia e alimentação, permitindo que jovens sem recursos permaneçam em Brumaferro durante os estudos.
+A Academia da Cúpula mantém em Rebitadores um prédio destinado ao alojamento de bolsistas integrais. Para esses estudantes, o benefício acadêmico inclui moradia em dormitórios e alimentação no refeitório do próprio edifício, permitindo que jovens sem recursos permaneçam em Brumaferro durante os estudos.
 
-O edifício é funcional e bem cuidado, sem o conforto reservado aos alunos mais ricos. Seus quartos, refeitório e espaços comuns aproximam estudantes de diferentes origens dos trabalhadores e artesãos que vivem ao redor.
+O alojamento é funcional e bem cuidado, sem o conforto reservado aos alunos mais ricos e sem reproduzir a monumentalidade do complexo principal da Academia. Sua construção de tijolos, seus reforços metálicos e seus espaços adaptados o integram à arquitetura do bairro.
+
+Além dos dormitórios e do refeitório, o prédio possui uma boa biblioteca e salas de estudo onde os bolsistas podem realizar leituras, preparar trabalhos e desenvolver projetos. Esses ambientes também funcionam como espaços de convivência acadêmica, aproximando estudantes de diferentes origens e tornando o alojamento parte ativa da vida cotidiana de Rebitadores.
 
 ![[Alojamento da Academia em Rebitadores.png]]
 
