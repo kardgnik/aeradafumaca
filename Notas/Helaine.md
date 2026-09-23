@@ -36,7 +36,7 @@ Helaine aprendeu a não culpar Faeryl por isso. Ela tenta. De verdade. Mas é um
 
 ## O orfanato
 
-Houve um período, breve, mas que Helaine guarda com carinho, em que ele foi acolhido por um orfanato de [[Brumaferro]]. As mulheres de lá eram gentis. Uma delas, [[Irmã Maura]], tinha mãos quentes e um jeito de falar que fazia Helaine se sentir menos sozinho, preenchendo lacunas de seu coração que Faeryl não conseguia alcançar.
+Houve um período, breve, mas que Helaine guarda com carinho, em que ele foi acolhido pelo [[Orfanato das Plumas]], no [[Bairro das Caldeiras]] de [[Brumaferro]]. As mulheres de lá eram gentis. Uma delas, [[Irmã Maura]], tinha mãos quentes e um jeito de falar que fazia Helaine se sentir menos sozinho, preenchendo lacunas de seu coração que Faeryl não conseguia alcançar.
 
 Ela lhe dava pão com mel e dizia que ele tinha olhos bonitos. Helaine gostava de ser cuidado. Gostava de ter uma cama, mesmo que dura. Gostava de ouvir histórias antes de dormir. Por alguns meses, quase acreditou que poderia ficar.
 
@@ -106,4 +106,3 @@ Porque Faeryl ficou.
 
 E, para um órfão, isso é mais do que a maioria das pessoas faz.
 
-## [[Helaine-Oculto|Verdades ocultas]]
