@@ -2,12 +2,10 @@
 
 #NPCs
 
-A mãe de [[Helaine]] ainda não possui nome definido.
+A mãe biológica de [[Helaine]] permanece desconhecida para ele. Helaine não se lembra de seu rosto, de seu nome ou de qualquer lugar que possa identificar como uma casa compartilhada com ela.
 
-Ela é a mãe biológica de Helaine e faz parte de um período da vida sobre o qual ele pode possuir poucas lembranças ou nenhuma lembrança confiável. Sua origem, profissão, personalidade e relação com Helaine antes do desaparecimento ainda serão definidas a partir do background do personagem.
+Sua memória mais antiga é apenas um cheiro: **hortelã**, fresco e quase doce. Ele não sabe se vinha de perfume, chá, hálito ou de alguma coisa que sua própria memória inventou para preencher o vazio. Ainda assim, quando consegue recordá-lo, sente algo apertar dentro do peito.
 
-Para a criação do background, não é necessário explicar o que aconteceu com ela. Helaine pode acreditar que ela morreu, desapareceu, o abandonou ou simplesmente não saber quem ela era.
+Helaine não sabe se sua mãe morreu, desapareceu, o abandonou ou se chegou a conhecê-lo por tempo suficiente para que pudesse se lembrar dela.
 
-Caso Helaine possua alguma lembrança da mãe, ela pode ser pequena e incompleta: uma voz, um cheiro, uma canção, uma palavra, uma sensação de segurança ou medo.
-
-Esta nota será ampliada depois que o background de Helaine estiver definido.
+[[Faeryl]] também não oferece respostas sobre sua identidade ou destino.
