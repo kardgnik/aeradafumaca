@@ -12,17 +12,19 @@ O que sabe sobre sua origem é aquilo que [[Faeryl]] lhe contou: os dois estão 
 
 Perguntar não enche a barriga.
 
+![[Helaine.png]]
+
 ## Faeryl
 
 [[Faeryl]] não é uma espada comum. É uma lâmina senciente feita de um líquido escuro e espesso, semelhante a nanquim, contida dentro de um frasco que Helaine carrega junto ao peito. Quando necessário, o líquido se projeta para fora do recipiente e se solidifica em uma lâmina afiada. Quando não, volta a repousar, silencioso, como tinta parada.
-
-![[Faeryl.png]]
 
 A relação entre os dois é simbiótica em mais de um sentido. Faeryl tem uma missão, algo místico e antigo que nunca explicou por completo, de cuidar de Helaine. Mas há também a outra metade da equação: Faeryl precisa que Helaine esteja vivo. Se ele morrer, ela morre também.
 
 Helaine sabe disso. Sabe que, em parte, é mantido vivo por interesse. Mas também sabe que Faeryl ficou. Sabe que Faeryl se importa. Por mais que ela não entenda muitas das coisas pelas quais ele passa, ela ainda pergunta, ainda tenta, ainda se importa.
 
 Para Helaine, Faeryl é a única coisa que nunca o abandonou. É amiga, cuidadora, mãe perdida e pai ausente. É a voz que o acalma nas noites frias e a voz que o ajuda a roubar quando a fome aperta. É a mão que o guia e a lâmina que o protege. Mesmo quando discordam, e discordam muito, Helaine não consegue imaginar o mundo sem ela.
+
+![[Faeryl.png]]
 
 ### A lógica de Faeryl
 
