@@ -16,7 +16,13 @@ No [[Bairro das Caldeiras]], [[Malik]] começa o dia carregando uma preocupaçã
 
 Samuel não é apenas um amigo. Para Malik, é família.
 
-A rotina é interrompida pela chegada de um funcionário do correio urbano trazendo uma correspondência registrada. O envelope é simples, mas o remetente imediatamente chama sua atenção: [[Elian Mercer]], pai de Samuel.
+Na [[Lavanderia Vapor Branco]], sua mãe, Miriam Booker, já trabalha desde antes de ele acordar. Com as mangas dobradas até os cotovelos, ela separa as peças molhadas e, sem sequer olhar na direção do filho, empurra um cesto cheio de roupas para perto dele.
+
+> **“Já que está de pé, pode pelo menos justificar o espaço que ocupa... Pendura.”**
+
+Malik responde com um obediente “Sim, senhora”, leva o cesto até o terraço e começa a estender as roupas enquanto pensa no desaparecimento de Samuel e nos próximos passos para encontrar o amigo.
+
+A rotina é interrompida por uma batida na porta e pelo chamado de Miriam. Um funcionário do correio urbano aguarda do lado de fora com uma correspondência registrada. O envelope é simples, mas o remetente imediatamente chama sua atenção: [[Elian Mercer]], pai de Samuel.
 
 A mensagem é curta.
 
@@ -100,13 +106,23 @@ O que deveria ser apenas uma interrupção transforma passageiros desconhecidos 
 
 Enquanto parte das pessoas permanece dentro do vagão, Arnoldes e Darian começam a investigar o problema. Ambos entendem máquinas, ainda que tenham experiências diferentes com elas, e rapidamente percebem que aquela pane merece mais atenção do que uma simples falha de funcionamento.
 
-Malik e Frederick também se envolvem.
+Malik e Frederick também se envolvem. A investigação não revela sinais de sabotagem. As marcas queimadas indicam que um surto de energia sobrecarregou a subestação, e reativá-la exige mais do que recolocar uma única peça.
+
+Dentro de um painel antigo, o grupo encontra quatro encaixes e quatro pedras soltas: uma safira, um rubi, um topázio e uma esmeralda. As instruções estão gastas e precisam ser reconstruídas a partir de frases incompletas. Trabalhando juntos, eles concluem que a sequência correta é safira, rubi, topázio e esmeralda.
+
+[[Masato]] coloca cada pedra em seu encaixe. Uma após a outra, elas se acendem, e o som de engrenagens percorre o painel. O mecanismo, porém, trava antes de completar o movimento. Os artífices encontram uma engrenagem deslocada do eixo, quase inacessível, e conseguem puxá-la de volta para o lugar com uma ferramenta fina. As engrenagens voltam a girar e revelam uma alavanca, mas ainda falta dar a partida no condutor de [[Éter]].
+
+O grupo prepara material inflamável e acende um pavio junto ao mecanismo. Assim que a chama pega, a tubulação de Éter estremece. A vibração se espalha pelas linhas acima da plataforma e do bonde, enquanto os pontos do sistema começam a se acender.
+
+Então uma gota azul cai diante de Darian.
+
+O líquido chia contra o metal e deixa uma marca fumegante. Outras gotas surgem nas juntas da tubulação. O vazamento engrossa em quatro pontos diferentes, escorre pelas estruturas e despenca sobre a plataforma, formando quatro massas viscosas e azuladas.
+
+As criaturas nascem das poças diante deles.
 
 A situação dentro do vagão piora à medida que o nervosismo dos passageiros aumenta. Crianças choram, pessoas tentam entender o que está acontecendo e qualquer movimento brusco parece suficiente para provocar uma nova onda de pânico.
 
-Então surgem as criaturas.
-
-Massas disformes e viscosas começam a se mover pelo vagão e pela plataforma. Elas parecem pouco ameaçadoras à primeira vista, lentas e quase primitivas, mas o contato revela rapidamente outra característica: seus corpos são ácidos.
+As massas parecem pouco ameaçadoras à primeira vista, lentas e quase primitivas, mas o contato revela rapidamente outra característica: seus corpos são ácidos.
 
 A luta acontece em meio aos passageiros.
 
