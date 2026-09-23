@@ -14,7 +14,7 @@ Doações de comerciantes, trabalhadores, oficinas e moradores do bairro mantêm
 
 [[Irmã Maura]] é uma das cuidadoras mais antigas do Orfanato das Plumas. É conhecida por contar histórias antes de dormir e, quando há mel suficiente na despensa, preparar pão com mel para as crianças.
 
-Sua forma de cuidar contrasta com a dureza das ruas ao redor. Maura não exige que uma criança explique toda a própria história antes de receber uma refeição ou uma cama.
+Sua forma de cuidar contrasta com a dureza das ruas ao redor. Maura presta atenção às pequenas necessidades que facilmente se perdem em um lugar cheio de crianças: quem teve pesadelos, quem está comendo menos, quem precisa de roupas novas, quem está quieto demais. Não consegue dar a cada uma delas uma família, mas se esforça para que nenhuma se sinta apenas mais uma boca para alimentar.
 
 ## Helaine
 

@@ -2,13 +2,13 @@
 
 #NPCs
 
-[[Orfanato das Plumas]]
-
 Irmã Maura é uma das cuidadoras do [[Orfanato das Plumas]], no [[Bairro das Caldeiras]], em [[Brumaferro]]. Não pertence a uma ordem rica nem possui qualquer autoridade importante na cidade. Seu trabalho consiste, sobretudo, em manter crianças alimentadas, limpas, aquecidas e convencidas de que o mundo ainda pode reservar alguma coisa além das fábricas e das ruas.
 
 Ela é uma mulher de mãos quentes, voz baixa e paciência difícil de esgotar. Costuma preparar pão com mel quando consegue os ingredientes e tem o hábito de contar histórias antes de apagar as luzes do dormitório.
 
 Foi Maura quem mais se aproximou de [[Helaine]] durante os meses em que ele viveu no orfanato. Dizia que o menino tinha olhos bonitos e percebeu cedo que ele precisava de cuidado mesmo quando insistia que estava bem.
+
+![[Irmã Maura.png]]
 
 ## Helaine
 
