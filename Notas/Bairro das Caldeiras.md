@@ -40,6 +40,10 @@ Na extremidade do quarteirão, o [[Pátio do Eixo Cansado]] abriga animais, carr
 
 ![[Bairro das Caldeiras.png]]
 
+### [[Orfanato das Plumas]]
+
+O Orfanato das Plumas acolhe crianças sem família ou sem adultos capazes de sustentá-las. Mantido principalmente por doações do próprio bairro, oferece camas, refeições simples e cuidado em um edifício antigo identificado pelas pequenas plumas de metal penduradas sobre a entrada.
+
 ## Pessoas do bairro
 
 [[Malik|Malik Booker]] nasceu e cresceu nas Caldeiras. Sua mãe, Miriam Booker, trabalha na Lavanderia Vapor Branco e auxilia na Pensão do Terceiro Turno, onde Malik e [[Arnoldes]] atualmente alugam quartos no mesmo corredor. Para moradores antigos, Malik continua sendo o garoto que aprendeu a lutar na Sete Batidas, mesmo depois de se tornar conhecido como Mão Pesada.
