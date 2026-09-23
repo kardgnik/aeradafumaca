@@ -8,7 +8,7 @@ Hortelã.
 
 Fresco, quase doce, mas distante como algo que talvez tenha inventado para preencher o vazio. Helaine não sabe se era perfume, chá ou o hálito de alguém. Só sabe que, quando consegue senti-lo na lembrança, algo dentro dele aperta.
 
-O que sabe sobre sua origem é aquilo que [[Notas/Faeryl|Faeryl]] lhe contou: os dois estão juntos e vinculados desde o nascimento. Mas a espada também não explica tudo, porque talvez nem ela saiba. Há lacunas na história de Helaine que nem o tempo nem Faeryl preenchem, e ele aprendeu a não perguntar.
+O que sabe sobre sua origem é aquilo que [[Faeryl]] lhe contou: os dois estão juntos e vinculados desde o nascimento. Mas a espada também não explica tudo, porque talvez nem ela saiba. Há lacunas na história de Helaine que nem o tempo nem Faeryl preenchem, e ele aprendeu a não perguntar.
 
 Perguntar não enche a barriga.
 
@@ -16,7 +16,7 @@ Perguntar não enche a barriga.
 
 ## Faeryl
 
-[[Notas/Faeryl|Faeryl]] não é uma espada comum. É uma lâmina senciente feita de um líquido escuro e espesso, semelhante a nanquim, contida dentro de um frasco que Helaine carrega junto ao peito. Quando necessário, o líquido se projeta para fora do recipiente e se solidifica em uma lâmina afiada. Quando não, volta a repousar, silencioso, como tinta parada.
+[[Faeryl]] não é uma espada comum. É uma lâmina senciente feita de um líquido escuro e espesso, semelhante a nanquim, contida dentro de um frasco que Helaine carrega junto ao peito. Quando necessário, o líquido se projeta para fora do recipiente e se solidifica em uma lâmina afiada. Quando não, volta a repousar, silencioso, como tinta parada.
 
 A relação entre os dois é simbiótica em mais de um sentido. Faeryl tem uma missão, algo místico e antigo que nunca explicou por completo, de cuidar de Helaine. Mas há também a outra metade da equação: Faeryl precisa que Helaine esteja vivo. Se ele morrer, ela morre também.
 
