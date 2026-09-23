@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Helaine.md",
+                "file": "NOTAS/Helaine-Oculto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Helaine"
+              "title": "Helaine-Oculto"
             }
           }
         ],
@@ -226,10 +226,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ddb6daba822cb05f",
+  "active": "8e86c8089e6004e6",
   "lastOpenFiles": [
-    "NOTAS/Arnoldes.md",
     "NOTAS/Helaine.md",
+    "NOTAS/Helaine-Oculto.md",
+    "NOTAS/Arnoldes.md",
     "NOTAS/Irmã Maura.md",
     "IMAGENS/Helaine.png",
     "Faeryl.md",
@@ -263,7 +264,6 @@
     "README.md",
     "NOTAS/Mãe de Helaine.md",
     "NOTAS/Pátio do Eixo Cansado.md",
-    "NOTAS/Magnus Lefay.md",
     "PJ",
     "IMAGENS",
     "NOTAS"
