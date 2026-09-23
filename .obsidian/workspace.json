@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Arnoldes.md",
+                "file": "NOTAS/Helaine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arnoldes"
+              "title": "Helaine"
             }
           }
         ],
@@ -228,6 +228,7 @@
   },
   "active": "ddb6daba822cb05f",
   "lastOpenFiles": [
+    "NOTAS/Arnoldes.md",
     "NOTAS/Helaine.md",
     "NOTAS/Irmã Maura.md",
     "IMAGENS/Helaine.png",
@@ -263,7 +264,6 @@
     "NOTAS/Mãe de Helaine.md",
     "NOTAS/Pátio do Eixo Cansado.md",
     "NOTAS/Magnus Lefay.md",
-    "NOTAS/Arnoldes.md",
     "PJ",
     "IMAGENS",
     "NOTAS"

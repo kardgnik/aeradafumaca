@@ -66,9 +66,7 @@ Ele não gosta de roubar. Não gosta de se aproveitar da bondade alheia. Mas Fae
 
 Recentemente, Helaine conseguiu alguns trabalhos pequenos. Carregou caixas no mercado e passou a limpar engrenagens na [[Oficina Dente de Latão]], onde [[Arnoldes]] aceita mecanismos e serviços que estabelecimentos mais respeitáveis preferem recusar. Não era muito, mas pagava algumas moedas e, às vezes, comida. Bastava.
 
-Helaine quase se permitiu pensar que poderia dar certo. Que poderia começar a viver de pequenos trabalhos menos escusos.
-
-Mas a fome veio antes da próxima paga, e ele roubou.
+Helaine quase se permitiu pensar que poderia dar certo. Que poderia começar a viver de pequenos trabalhos menos escusos. Mas a fome veio antes da próxima paga, e ele roubou.
 
 Foi pego.
 
