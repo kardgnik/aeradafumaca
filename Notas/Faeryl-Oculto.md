@@ -2,7 +2,7 @@
 
 #Spoiler #NPCs #Itens
 
-[[Faeryl]] não é uma espada senciente criada de maneira convencional. Ela é o resultado de uma linha experimental do [[Academia Vhalariana de Ciências Arcanas-Oculto#O Projeto Crisálida|Projeto Crisálida]] que tentou combinar [[Nivério]], [[Éter]] e matéria orgânica contaminada.
+[[Faeryl]] não é uma espada senciente criada de maneira convencional. Ela é o resultado de uma linha experimental do **Projeto Crisálida**, projeto secreto descrito nas [[Academia Vhalariana de Ciências Arcanas-Oculto|Verdades Ocultas da Academia]], que tentou combinar [[Nivério]], [[Éter]] e matéria orgânica contaminada.
 
 O artefato foi produzido a partir de um experimento fracassado realizado com a [[Mãe de Helaine]]. O objetivo não era criar uma arma para uma criança, mas investigar se o Nivério poderia servir como estrutura estável para um organismo capaz de receber, armazenar e descarregar Éter sem os mecanismos externos usados pela indústria.
 
@@ -48,7 +48,7 @@ O processo ainda está acontecendo.
 
 Os registros do Crisálida não conseguem determinar o que Faeryl é em termos de consciência.
 
-O [[Academia Vhalariana de Ciências Arcanas-Oculto#O Projeto Crisálida|Projeto Crisálida]] já havia demonstrado que resíduos mágicos de sujeitos mortos podiam conservar respostas a nomes, vozes e objetos ligados à pessoa original. Também havia registrado preservação parcial de memória depois de metamorfoses severas.
+O **Projeto Crisálida**, descrito nas [[Academia Vhalariana de Ciências Arcanas-Oculto|Verdades Ocultas da Academia]], já havia demonstrado que resíduos mágicos de sujeitos mortos podiam conservar respostas a nomes, vozes e objetos ligados à pessoa original. Também havia registrado preservação parcial de memória depois de metamorfoses severas.
 
 Faeryl apresenta comportamento muito mais complexo.
 
