@@ -10,6 +10,8 @@ O experimento não preservou a mulher como organismo humano. Também não produz
 
 Produziu Faeryl.
 
+![[Verdades Ocultas de Faeryl.png]]
+
 ## A matriz de Nivério
 
 No interior de Faeryl existe Nivério autêntico produzido pelos [[Kharvyr]]. A peça chegou a Vhalaris por uma cadeia de aquisição que não consta nos registros públicos da Academia e foi submetida a procedimentos que os Kharvyr jamais empregariam.

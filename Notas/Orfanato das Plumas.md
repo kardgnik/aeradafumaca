@@ -2,13 +2,13 @@
 
 #Lugares
 
-[[Bairro das Caldeiras]], [[Brumaferro]]
-
 O Orfanato das Plumas funciona em um edifício antigo do [[Bairro das Caldeiras]], espremido entre moradias operárias e instalações industriais. O nome vem de pequenas plumas de metal penduradas sobre a entrada, feitas ao longo dos anos por crianças e artesãos do bairro. Quando o vapor das tubulações atravessa a rua, elas batem umas nas outras e produzem um tilintar baixo.
 
 O lugar acolhe órfãos, crianças abandonadas e filhos de trabalhadores que morreram ou desapareceram sem deixar parentes capazes de sustentá-los. Não possui recursos para oferecer conforto, mas mantém camas, refeições simples, água quente quando as caldeiras cooperam e adultos responsáveis por impedir que seus moradores precisem dormir nas ruas.
 
 Doações de comerciantes, trabalhadores, oficinas e moradores do bairro mantêm o lugar funcionando. Em períodos difíceis, pão, carvão, roupas usadas e algumas moedas valem mais do que promessas de ajuda institucional.
+
+![[Orfanato das Plumas.png]]
 
 ## Irmã Maura
 
