@@ -42,3 +42,7 @@ Um continente construído em alturas impossíveis, onde subir também significa 
 [[Deuses]]
 
 ![[Panteao.png]]
+
+## Resumo das Sessões
+
+- [[Resumos]]
