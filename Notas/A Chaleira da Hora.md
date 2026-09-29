@@ -28,7 +28,7 @@ Cada pedido chega acompanhado de uma ampulheta escolhida por Camila. Ela afirma 
 
 ## Camila Cartola
 
-**Camila Cartola** é uma Gnoma de cabelos bicolores, castanho-escuros de um lado e prateados do outro, olhos vivos e um sorriso divertido quase permanente. Veste calças largas, botas de couro e um longo casaco assimétrico em tons de vinho e azul-petróleo, coberto por bordados e detalhes de bronze. Seis relógios de bolso pendem de correntes presas ao chapéu, aos ombros, à cintura e aos bolsos. Sua cartola começa justa à cabeça, alarga-se à medida que sobe e termina inclinada para um dos lados, como se estivesse prestes a desabar sem jamais realmente cair.
+**Camila Cartola** é uma Gnoma de cabelos bicolores, ruivo caju com uma franja branca, olhos vivos e um sorriso divertido quase permanente. Veste calças largas, botas de couro e um longo casaco assimétrico em tons de vinho e azul-petróleo, coberto por bordados e detalhes de bronze. Seis relógios de bolso pendem de correntes presas ao chapéu, aos ombros, à cintura e aos bolsos. Sua cartola começa justa à cabeça, alarga-se à medida que sobe e termina inclinada para um dos lados, como se estivesse prestes a desabar sem jamais realmente cair.
 
 Divertida, inquieta e imprevisível, Camila atravessa o salão em passos rápidos, muda clientes de mesa no meio de uma conversa e interrompe pedidos para anunciar que determinada chaleira está “três minutos atrasada para ontem”. Ela fala depressa, coleciona trocadilhos e trata qualquer dúvida como o início de um jogo cuja regra só ela conhece.
 
