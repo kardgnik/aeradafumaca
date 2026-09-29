@@ -8,6 +8,8 @@
 
 O estabelecimento recebe comerciantes, estudantes, viajantes e moradores da praça em busca de uma pausa mais tranquila. O serviço é cuidadoso, embora o ritmo da casa pareça obedecer menos aos relógios do que às decisões de sua atendente.
 
+![[A Chaleira da Hora.png]]
+
 ## O salão
 
 O salão é comprido e elegante, com mesas redondas de madeira escura, cadeiras estofadas e balcões revestidos de cobre. Chaleiras, bules e samovares de bronze ocupam prateleiras do chão ao teto, todos mantidos com brilho impecável.
@@ -22,9 +24,11 @@ A carta muda com frequência e reúne folhas, flores, especiarias e frutas trazi
 
 Cada pedido chega acompanhado de uma ampulheta escolhida por Camila. Ela afirma que nenhum chá deve ser contado em minutos comuns e que cada mistura possui seu próprio tipo de tempo. Clientes habituais aprendem a esperar que a areia termine, mesmo quando Camila vira a ampulheta novamente no último instante.
 
+![[CamilaCartola.png]]
+
 ## Camila Cartola
 
-**Camila Cartola** é uma Gnoma de cabelos castanho-avermelhados, olhos vivos e sorriso quase permanente. Usa vestidos elegantes em cores intensas, luvas que nunca formam um par e uma cartola de cobre adornada com fitas, penas, engrenagens e pequenos relógios. A composição muda todos os dias e, às vezes, várias vezes durante o mesmo turno.
+**Camila Cartola** é uma Gnoma de cabelos bicolores, castanho-escuros de um lado e prateados do outro, olhos vivos e um sorriso divertido quase permanente. Veste calças largas, botas de couro e um longo casaco assimétrico em tons de vinho e azul-petróleo, coberto por bordados e detalhes de bronze. Seis relógios de bolso pendem de correntes presas ao chapéu, aos ombros, à cintura e aos bolsos. Sua cartola começa justa à cabeça, alarga-se à medida que sobe e termina inclinada para um dos lados, como se estivesse prestes a desabar sem jamais realmente cair.
 
 Divertida, inquieta e imprevisível, Camila atravessa o salão em passos rápidos, muda clientes de mesa no meio de uma conversa e interrompe pedidos para anunciar que determinada chaleira está “três minutos atrasada para ontem”. Ela fala depressa, coleciona trocadilhos e trata qualquer dúvida como o início de um jogo cuja regra só ela conhece.
 
