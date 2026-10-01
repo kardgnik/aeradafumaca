@@ -35,7 +35,7 @@ Um continente construído em alturas impossíveis, onde subir também significa 
 - [[Helaine]]
 - [[Darian Cobrevento]]
 - [[Frederick Van Krueger]]
-- Camélia Thervee
+- [[Camélia Thervee]]
 
 ####  DEUSES E CRENÇAS
 

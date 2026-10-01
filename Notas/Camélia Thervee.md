@@ -145,7 +145,7 @@ Essa opção faria de Camélia alguém acostumada a água, barcos e caminhos que
 
 ## Os anos de fuga
 
-Camélia não precisa ter vindo diretamente da casa dos pais para o início da campanha. Ela pode estar fugindo há meses ou décadas — uma diferença importante para uma personagem criada por elfos e alterada pela morte.
+Camélia não precisa ter vindo diretamente da casa dos pais para o início da campanha. Ela pode estar fugindo há meses ou anos — uma diferença importante para uma personagem criada por elfos e alterada pela morte.
 
 Durante esse período, pode ter vivido de furtos, pequenos golpes, trabalhos de mensageira, abertura de fechaduras, recuperação de objetos e invasões realizadas para pessoas que não faziam perguntas. Pode ter atravessado Vhalaris em vagões de carga, embarcações fluviais e caravanas, permanecendo em cada lugar somente até sentir que alguém começava a reconhecê-la.
 
@@ -188,8 +188,7 @@ Algumas perguntas importantes:
 - Ela evita equipamentos de Éter ou aprendeu a utilizá-los justamente para nunca mais ficar indefesa diante deles?
 - Lâmpadas e células provocam fome, náusea, lembranças ou alterações nos sentidos?
 - Camélia considera o Éter culpado, ou culpa apenas quem o utilizou?
-- Ela acredita que remover do corpo qualquer vestígio da exposição poderia curá-la — ou matá-la novamente?
-- Seu corpo reage de maneira visível a fulgurações etéricas?
+- Ela acredita que remover do corpo qualquer vestígio da exposição poderia curá-la — ou matá-la completamente?
 - Ela procuraria uma cura se isso significasse perder capacidades que hoje garantem sua sobrevivência?
 
 ## O que ainda precisamos decidir
