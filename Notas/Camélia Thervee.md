@@ -26,13 +26,13 @@ Por fim, concluíram que duas vidas poderiam ser estabilizadas se fossem ancorad
 
 E escolheram a própria filha.
 
-Eles podem ter dito a Camélia que precisavam de sua ajuda. Podem ter escondido a natureza do procedimento. Podem até ter acreditado sinceramente que ela sobreviveria. Nada disso muda o fato central: decidiram que tinham o direito de arriscar a vida dela sem permitir que escolhesse.
+Convenceram a si mesmos de que Camélia sobreviveria, de que ela seria apenas uma âncora temporária e de que, quando tudo terminasse, os três continuariam vivos. A decisão, porém, nunca pertenceu à filha. Seus pais escolheram por ela e chamaram essa escolha de necessidade.
 
 ## A transformação — proposta ligada ao Éter
 
 Em vez de um pacto realizado apenas por meio de magia antiga, a transformação de Camélia pode ter ocorrido numa **Matriz de Retenção Vital**, um aparelho experimental construído pelos pais a partir de ritualística, alquimia, instrumentos cirúrgicos e tecnologia de [[Éter]].
 
-A máquina possuiria três posições ligadas por tubos, condutores de cobre, círculos gravados e células de Éter adulteradas. O objetivo não seria invocar uma entidade, mas registrar o padrão vital dos três participantes e redistribuir continuamente sua força: a filha funcionaria como ponto de convergência, enquanto os pais teriam o envelhecimento desacelerado.
+A máquina possuiria três posições ligadas por tubos, condutores de cobre, círculos gravados e **células de Éter frias**. O objetivo não seria invocar uma entidade, mas registrar o padrão vital dos três participantes e redistribuir continuamente sua força: a filha funcionaria como ponto de convergência, enquanto os pais teriam o envelhecimento desacelerado.
 
 O procedimento falhou.
 
@@ -44,13 +44,25 @@ Sua pele estava fria. Seus sentidos haviam mudado. Sons internos — respiraçã
 
 O procedimento a transformou em uma dhampir.
 
+### Uma presença extraplanar?
+
+A Matriz de Retenção Vital explica o mecanismo que matou Camélia e obrigou seu corpo a funcionar novamente. Ela não precisa explicar sozinha o que aconteceu no intervalo entre essas duas coisas.
+
+Se uma divindade extraplanar percebeu Camélia durante a morte, três possibilidades combinam especialmente bem com caminhos diferentes para a personagem:
+
+- **[[Namyss]]** preserva identidade, memória e alma através de mudanças impostas ao corpo ou ao nome. Sua influência faria da sobrevivência de Camélia uma recusa a permitir que os pais decidissem quem ela teria permissão para ser.
+- **[[Quor-Aven]]** governa limiares, passagens e possibilidades. A matriz pode ter criado por alguns instantes uma porta entre vida e morte, e Camélia talvez tenha retornado por um caminho que não deveria existir.
+- **[[Azhur-Maal]]** representa a fome que aumenta quanto mais é alimentada. Sua presença ofereceria uma origem mais sombria para a necessidade dhampir e para a sensação de que alguma coisa faminta atravessou com ela.
+
+Não é necessário decidir agora se um deles realmente interferiu. Camélia pode conhecer esses nomes apenas depois de chegar a Brumaferro e reconhecer em seus símbolos, mitos ou devotos algo parecido com as lembranças incompletas da morte. A escolha depende do tom desejado: resistência e identidade com Namyss, limiar e mistério com Quor-Aven, ou fome e ameaça com Azhur-Maal.
+
 Essa versão mantém em aberto a parte mais importante do mistério. A tecnologia explica **como** seu corpo foi levado à morte e forçado a retornar, mas não necessariamente **o que** retornou com ele. Camélia conserva lembranças fragmentadas daquele intervalo: talvez uma voz, uma silhueta ou a sensação de ter aceitado alguma condição. Ela não sabe se realmente encontrou uma presença, se ouviu os pais através da máquina ou se a exposição ao Éter reorganizou suas memórias durante a morte clínica.
 
 Também não está definido por que a matriz produziu esse resultado. Algumas possibilidades:
 
 - a herança infernal de Camélia reagiu ao Éter de forma imprevisível;
 - os pais combinaram textos antigos com tecnologia que não compreendiam completamente;
-- as células adulteradas continham algo além de Éter refinado;
+- as células de Éter frias continham algo além do que seus pais acreditavam ter comprado;
 - o aparelho funcionou exatamente como fora projetado, mas seus pais mentiram sobre o resultado esperado;
 - alguma coisa percebeu a passagem aberta no instante da morte e respondeu.
 
@@ -62,7 +74,9 @@ Os pais também foram alterados. Seu envelhecimento desacelerou de maneira perce
 
 A filha, portanto, não era a vítima de uma experiência fracassada. Era a peça que precisava ser recuperada.
 
-Quando Camélia percebeu que pretendiam submetê-la novamente à matriz — talvez depois de repará-la, talvez em uma instalação melhor — fugiu. Levou apenas aquilo que conseguiu carregar e abandonou a vida que possuía antes de morrer.
+Quando Camélia percebeu que pretendiam submetê-la novamente à matriz, fugiu. Pouco antes da partida, ouviu os pais discutirem reparos, uma instalação melhor e algo chamado **Projeto Crisálida**. Não compreendeu se era um lugar, uma pesquisa ou o nome de pessoas capazes de ajudá-los. Levou apenas aquilo que conseguiu carregar e abandonou a vida que possuía antes de morrer.
+
+> **Para a jogadora:** o Projeto Crisálida é um projeto secreto apresentado em uma Verdade Oculta. Camélia conhece somente o nome e o fato de que seus pais acreditavam que ele poderia ajudá-los a continuar o procedimento.
 
 Desde então, vive em movimento.
 
@@ -123,7 +137,11 @@ Se Camélia nasceu em [[Brumaferro]], seus pais podem ter pertencido aos círcul
 
 A cidade oferece acesso a laboratórios, células refinadas, instrumentos de precisão e tratamentos de longevidade associados a instituições como [[Os Curadores do Espelho]]. A matriz poderia ter sido montada numa residência respeitável dos bairros altos ou num laboratório escondido sob uma fachada perfeitamente legal.
 
-Nesse caso, Camélia não veio para Brumaferro: **ela nunca conseguiu deixá-la por completo**. Conhece parte da cidade, mas evita ruas, sobrenomes e instituições ligadas à antiga vida.
+O dinheiro necessário para sustentar décadas de pesquisa, comprar instrumentos cirúrgicos e adquirir células de Éter frias indica que a família possuía riqueza própria, patronos influentes ou ambos. Camélia pode ter crescido em conforto, cercada por criados, professores particulares e ambientes nos quais pobreza era algo observado à distância. Talvez tenha sido educada para ser refinada e tenha se tornado exigente, orgulhosa ou até esnobe antes da transformação.
+
+Nesse caso, Camélia não veio para Brumaferro: **ela nunca conseguiu deixá-la por completo**. Em vez de procurar outro continente, pode ter descido para o [[Bairro das Caldeiras]] ou se instalado em [[Rebitadores]], lugares modestos que os pais dificilmente associariam à filha que criaram. Conhece parte da cidade, mas evita ruas, sobrenomes e instituições ligadas à antiga vida.
+
+Isso cria uma pergunta importante: **como Camélia enxerga a vida humilde que leva hoje?** Ela sente falta do conforto, despreza hábitos que ainda não aprendeu, trata a pobreza como um disfarce temporário ou descobriu liberdade em fazer a própria comida, lavar a própria roupa e possuir apenas aquilo que consegue carregar? Moradores percebem pelo sotaque, pelos modos ou por conhecimentos inúteis para uma trabalhadora que ela não nasceu entre eles?
 
 ### Ponte-Cinza
 
@@ -157,7 +175,7 @@ Se Camélia não nasceu em Brumaferro, precisamos escolher o que a trouxe até a
 
 ### Desaparecer entre milhões
 
-Brumaferro é grande, vertical e cheia de viajantes. Uma pessoa com dinheiro para poucos dias pode alugar uma cama na [[Pensão do Terceiro Turno]] sem apresentar documentos, desde que pague adiantado. No [[Bairro das Caldeiras]], fechaduras, mecanismos e mercadorias de procedência duvidosa circulam por oficinas como a [[Oficina Dente de Latão]].
+Brumaferro é grande, vertical e cheia de viajantes. Uma pessoa com dinheiro para poucos dias pode alugar uma cama na [[Pensão do Terceiro Turno]] sem apresentar documentos, desde que pague adiantado. No [[Bairro das Caldeiras]], fechaduras, mecanismos e mercadorias de procedência duvidosa circulam por oficinas como a [[Oficina Dente de Latão]]. Em [[Rebitadores]], Camélia poderia ocupar um quarto pequeno entre técnicos, ferroviários, artesãos e estudantes sem chamar a atenção que despertaria nos bairros ricos.
 
 Camélia veio porque uma metrópole oferece aquilo que uma vila jamais oferece: anonimato.
 
@@ -169,7 +187,7 @@ Camélia pode detestar estudiosos interessados em seu corpo e, ainda assim, prec
 
 ### Seguir o rastro dos pais
 
-As peças necessárias para reconstruir a matriz são caras, controladas e difíceis de esconder. Uma célula adulterada, um instrumento cirúrgico ou uma encomenda interceptada pode ter apontado para Brumaferro.
+As peças necessárias para reconstruir a matriz são caras, controladas e difíceis de esconder. Uma célula de Éter fria, um instrumento cirúrgico ou uma encomenda interceptada pode ter apontado para Brumaferro.
 
 Camélia não sabe se os pais estão na cidade, se contrataram alguém nela ou se apenas compram componentes por intermediários. Veio para descobrir antes que consigam encontrá-la.
 
@@ -195,6 +213,8 @@ Algumas perguntas importantes:
 
 - Onde Camélia nasceu e onde ocorreu a transformação?
 - Como seus pais se chamam e qual era a reputação pública deles?
+- Se nasceu rica, do que sente falta e o que aprendeu sobre a vida humilde somente depois da fuga?
+- Ela consegue esconder os modos, o sotaque e os conhecimentos de alguém criada com dinheiro?
 - Eles pertenciam a alguma instituição ou trabalhavam de forma independente?
 - Camélia sabia que participaria do procedimento?
 - Quantos anos tinha quando morreu?
@@ -234,15 +254,19 @@ Essas lacunas não enfraquecem o background. São espaços nos quais a história
 
 [[Academia Vhalariana de Ciências Arcanas|Academia da Cúpula]] e [[Os Curadores do Espelho]] se Camélia procurar respostas sobre o procedimento, longevidade ou sua condição atual.
 
+[[Namyss]], [[Quor-Aven]] e [[Azhur-Maal]] para as três possíveis leituras extraplanares de sua passagem pela morte.
+
 [[Ponte-Cinza]] e [[Instituto Arcano de Valebrando|Colégio do Sino]] para uma possível origem acadêmica fora da metrópole.
 
 [[Mata-de-Carvalume|Mata de Carvalume]] para uma origem isolada ligada a uma antiga família élfica.
 
 [[Baixios-de-Mouralume|Baixios de Mouralume]] para uma origem marcada por laboratórios escondidos, água e rotas móveis.
 
-[[Bairro das Caldeiras]] e [[Pensão do Terceiro Turno]] se ela estiver tentando desaparecer dentro de Brumaferro.
+[[Bairro das Caldeiras]], [[Rebitadores]] e [[Pensão do Terceiro Turno]] se ela estiver tentando desaparecer dentro de Brumaferro.
 
 [[Taverna da Rosa de Ouro]] se desejar um possível contato tiefling na cidade.
 
 ## [[Camélia Thervee-Oculto|Verdades ocultas]]
+
+
 
