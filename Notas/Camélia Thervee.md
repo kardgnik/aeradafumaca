@@ -12,6 +12,8 @@ Ninguém jamais lhe ofereceu uma explicação satisfatória. Talvez uma influên
 
 Durante a infância, essa diferença pode ter sido tratada com afeto, vergonha, curiosidade acadêmica ou uma combinação desconfortável das três. Esta é uma das primeiras coisas que ainda precisamos decidir: **antes de sacrificá-la, os pais de Camélia foram capazes de amá-la como filha, ou sempre a enxergaram também como um fenômeno a ser estudado?**
 
+![[Camélia Thervee.png]]
+
 ## Os estudiosos que temiam o fim
 
 Os pais de Camélia eram estudiosos do oculto. Como elfos, possuíam algo que a maioria dos mortais jamais conheceria: séculos de vida.
