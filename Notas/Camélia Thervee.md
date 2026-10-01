@@ -76,8 +76,6 @@ Ainda precisamos decidir quando esse nome surgiu. Pode ter sido escolhido na pri
 
 Também vale decidir o que o nome significa para ela. É somente um disfarce substituível ou a primeira identidade que realmente pôde escolher? Camélia corrige quem pronuncia “Thervee” de maneira errada? Já abandonou outros nomes antes desse? Existe alguém que a conheceu por um deles?
 
-O nome usado antes da fuga e qualquer informação que permita ligá-la diretamente à família devem permanecer fora do background público.
-
 ## Liberdade e controle
 
 Camélia não tolera que decidam por ela.
@@ -114,7 +112,6 @@ Algumas perguntas podem ajudar a transformar essa presença em relação:
 - Ele reage a células, lâmpadas ou vazamentos de Éter?
 - Alguma vez trouxe um objeto que não poderia ter encontrado sozinho?
 - Camélia já tentou abandoná-lo deliberadamente?
-- Que nome ela quase lhe deu, mas se recusou a usar?
 
 ## Possíveis lugares de origem
 
