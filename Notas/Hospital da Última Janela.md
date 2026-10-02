@@ -11,6 +11,8 @@ O nome vem da única abertura dos porões para a rua: uma janela baixa, protegid
 
 [[Salma Veir]] dirige o lugar com uma regra simples: primeiro se impede a morte; nomes, dívidas e culpas podem esperar. Trabalhadores sem documentos, fugitivos, contrabandistas, prostitutas, criminosos e vítimas dos próprios criminosos dividem os mesmos bancos. Quem chega armado precisa entregar a arma antes de atravessar a segunda porta.
 
+![[Última Janela.png]]
+
 ## Por que permanece clandestino
 
 As Casas da Janela ligadas a Ambrienne e os hospitais das Mãos da Chuva de [[Lysara]] realizam grande parte do atendimento público da cidade. Muitos recebem verbas municipais, doações industriais, filtros, medicamentos e acesso à rede oficial de [[Éter]]. Esses recursos mantêm leitos abertos, mas trazem inspeções e pressão constante.
@@ -39,7 +41,7 @@ O hospital reutiliza materiais sempre que a esterilização permite e descarta a
 
 ## Suprimentos e contrabando
 
-Medicamentos, sangue preservado, filtros, reagentes e peças chegam por várias rotas. Moradores do bairro fazem doações; oficinas adaptam instrumentos; integrantes do [[Sindicato dos Fogistas]] desviam componentes descartados; e os [[Os Cães da Caldeira|Cães da Caldeira]] transportam caixas que não podem passar por inspeção.
+Medicamentos, sangue, filtros, reagentes e peças chegam por várias rotas. Moradores do bairro fazem doações; oficinas adaptam instrumentos; integrantes do [[Sindicato dos Fogistas]] desviam componentes descartados; e os [[Os Cães da Caldeira|Cães da Caldeira]] transportam caixas que não podem passar por inspeção.
 
 Parte do contrabando interno vem de hospitais, fábricas e depósitos de Brumaferro. Cargas externas atravessam portos e continentes por intermediários, algumas vindas da [[Bandeira Queimada]] em [[Caldeiras]]. Salma testa o que pode antes de utilizar. Mesmo assim, um selo falso, um frasco mal conservado ou uma válvula fatigada podem transformar tratamento em desastre.
 
