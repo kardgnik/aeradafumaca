@@ -14,7 +14,7 @@ Elian permaneceu ligado à família Booker. Seu filho Samuel tornou-se o melhor 
 
 ![[Elian Mercer.png]]
 
->Qualquer semelhança com a realidade é mera coincidencia.
+>Qualquer semelhança com a realidade é mera coincidência.
 ## A equipe desaparecida
 
 Uma equipe sob responsabilidade de Elian foi enviada para investigar a antiga estação depois que equipamentos desconectados começaram a apresentar leituras de energia. Samuel fazia parte do grupo.
