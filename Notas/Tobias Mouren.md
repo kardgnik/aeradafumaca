@@ -6,6 +6,8 @@
 
 É um homem de poucas perguntas. Nos Baixios, aprendeu que pessoas perdidas nem sempre desejam contar de onde vieram, e que oferecer abrigo primeiro pode salvar uma vida antes que a verdade tenha tempo de aparecer.
 
+![[Tobias Mouren.png]]
+
 ## A casa dos Mouren
 
 Tobias foi casado com **Lídia Mouren**, parteira e conhecedora das plantas dos baixios. Ela morreu depois de uma infecção contraída durante uma cheia, poucas semanas antes da chegada de [[Camélia Thervee|Peônia Ethever]]. A perda ainda era recente quando Tobias encontrou a viajante debilitada. Talvez por isso tenha sido incapaz de abandonar outra pessoa à própria sorte; talvez apenas tenha feito o que Lídia teria feito.
