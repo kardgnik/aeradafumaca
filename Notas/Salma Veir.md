@@ -1,20 +1,17 @@
 # Salma Veir
 
 #NPCs
-
-[[Brumaferro]]
-[[Bairro das Caldeiras]]
-[[Hospital da Última Janela]]
-
 Salma Veir é uma médica clandestina do Bairro das Caldeiras e a principal responsável pelo Hospital da Última Janela. Fala com precisão, economiza movimentos e possui o hábito de explicar um procedimento enquanto prepara os instrumentos, como se informação também fosse parte do tratamento.
 
 Ela não pergunta primeiro como alguém se feriu. Pergunta há quanto tempo, quanto sangue perdeu e se consegue respirar.
+
+![[Salma Veir.png]]
 
 ## As Plumas
 
 Salma cresceu no [[Orfanato das Plumas]] sob os cuidados de [[Irmã Maura]]. Nunca conheceu os pais e aprendeu cedo que, num lugar com poucas mãos e muitas crianças, cuidar significava observar antes que alguém precisasse pedir ajuda.
 
-Era quem percebia febres, lavava arranhões e permanecia acordada ao lado de crianças doentes. Maura reuniu livros usados, recomendações e favores até conseguir que Salma fosse aceita como auxiliar numa enfermaria reconhecida. A formação começou com limpeza, preparação de instrumentos e registro de pacientes; avançou para anatomia, farmacologia, transfusão e cirurgia.
+Era quem percebia febres, lavava arranhões e permanecia acordada ao lado de crianças doentes. Maura reuniu livros usados, recomendações e favores até conseguir que Salma fosse aceita como auxiliar numa enfermaria reconhecida. A formação começou com limpeza, progrediu para preparação de instrumentos; avançou para anatomia, farmacologia, transfusão e cirurgia.
 
 Salma continua ajudando o orfanato com medicamentos, ataduras e dinheiro. As entregas raramente carregam seu nome. Uma pequena pluma de metal amarrada ao pacote basta para que Maura reconheça a procedência.
 

@@ -1,10 +1,6 @@
 # Hospital da Última Janela
 
 #Lugares #Medicina
-
-[[Brumaferro]]
-[[Bairro das Caldeiras]]
-
 O Hospital da Última Janela é uma enfermaria clandestina instalada nos níveis de serviço de uma antiga casa de banhos do Bairro das Caldeiras. Para quem passa pela rua, o prédio parece dividido entre depósitos, quartos alugados e uma oficina de caldeiras. A entrada verdadeira fica atrás de um armário de ferramentas e desce por uma escada estreita.
 
 O nome vem da única abertura dos porões para a rua: uma janela baixa, protegida por grades e marcada com uma pequena chama de cobre. O símbolo recorda [[Ambrienne]], mas o hospital não pertence ao culto, não recebe auxílio do governo e não aparece nos registros de saúde de [[Brumaferro]].
