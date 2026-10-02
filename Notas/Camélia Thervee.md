@@ -137,7 +137,7 @@ Esse é um dos poucos aspectos de si mesma que realmente a assusta. Não apenas 
 
 Camélia não tolera decisões tomadas em seu nome. Ordens sem explicação, coerção, chantagem e informações escondidas “para seu próprio bem” despertam nela uma reação intensa. Eldri e Lauran não tomaram seu corpo pela força; fizeram algo pior aos olhos da filha. Permitiram que ela dissesse sim somente depois de retirar tudo que tornaria aquela escolha verdadeira.
 
-Nos anos de fuga, aprendeu a desaparecer, esconder rastros, reconhecer vigilância, abrir fechaduras e escolher saídas antes de entrar num cômodo. Passou a realizar entregas, recuperar objetos, invadir propriedades e aceitar trabalhos de pessoas que pagavam pela discrição. Aquilo que começou como necessidade transformou-a numa ladina.
+Nos anos de fuga, aprendeu a desaparecer, esconder rastros, reconhecer vigilância, abrir fechaduras e escolher saídas. Passou a realizar entregas, "recuperar objetos", invadir propriedades e aceitar trabalhos de pessoas que pagavam pela discrição. Aquilo que começou como necessidade transformou-a numa ladina.
 
 Também precisou aprender a viver sem a riqueza dos Evereth. Não sente falta da propriedade, mas sente falta de banhos longos e quentes, roupas feitas especialmente para ela, uma cama grande e a tranquilidade de não calcular o preço das coisas. Nos primeiros meses, gastava demais por não compreender quanto deveriam custar comida, hospedagem ou pequenos serviços.
 
