@@ -16,7 +16,7 @@ O entreposto não possui campos de treinamento, currais de contenção nem espa�
 
 No salão principal, balcões reforçados recebem materiais trazidos por caçadores, fazendeiros, ferroviários e equipes contratadas pelas indústrias. Cada peça é examinada, pesada e registrada antes de ser aceita. Peles, couros, ossos, dentes, glândulas, venenos, secreções, órgãos e corações sem procedência confiável podem ser recusados mesmo quando possuem grande valor.
 
-Armários envidraçados apresentam ferramentas, munições especiais, antissépticos, recipientes de coleta, redes, correntes leves, livros de campo e pequenas quantidades de materiais autorizados para venda. Nada fica exposto apenas por curiosidade: componentes perigosos permanecem trancados, e compradores precisam explicar a finalidade de substâncias capazes de envenenar um quarteirão.
+Armários envidraçados apresentam ferramentas, munições especiais, antissépticos, recipientes de coleta, redes, correntes leves, livros de campo e pequenas quantidades de materiais autorizados para venda. Nada fica exposto apenas por curiosidade: componentes perigosos permanecem trancados, e compradores precisam explicar a finalidade de substâncias perigosas.
 
 Um pavimento interno abriga o arquivo, a sala de contratos e uma mesa grande onde mapas podem ser abertos. Nos níveis inferiores do próprio edifício ficam as câmaras frias, tanques de salmoura e armários alquímicos usados para conservar espécimes. O cheiro predominante é uma mistura de couro tratado, álcool, ervas amargas e metal limpo.
 
