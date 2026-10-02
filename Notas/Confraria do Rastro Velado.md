@@ -14,6 +14,9 @@ Essa distinção coloca a Confraria em conflito tanto com quem deseja exterminar
 
 > **Primeiro o rastro. Depois a causa. Só então a lâmina.**
 
+
+![[Confraria do Rastro Velado.png]]
+
 ## Origem e tradição
 
 A Confraria nasceu muito antes da Era da Fumaça, quando caçadores de diferentes regiões começaram a trocar cadernos sobre presas que atravessavam fronteiras. Os primeiros acordos não criaram um comando único. Criaram sinais reconhecíveis, preços mínimos, regras para divisão de contratos e um compromisso de socorro entre pessoas que quase sempre trabalhavam longe de qualquer autoridade.
