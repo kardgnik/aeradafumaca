@@ -25,7 +25,7 @@ Ela voltou às Caldeiras levando conhecimento suficiente para trabalhar e contat
 
 ## A Última Janela
 
-O [[Hospital da Última Janela]] nasceu de quartos emprestados, instrumentos descartados e um porão que possuía água, drenagem e mais de uma saída. Salma não o fundou sozinha: moradores abriram paredes, mecânicos adaptaram bombas, devotos anônimos forneceram material limpo e os [[Os Cães da Caldeira|Cães da Caldeira]] fizeram as patrulhas aprenderem a olhar para outra rua.
+O [[Hospital da Última Janela]] nasceu de quartos emprestados, instrumentos descartados e um porão que possuía água e drenagem. Salma não o fundou sozinha: moradores abriram paredes, mecânicos adaptaram bombas, devotos anônimos forneceram material limpo e os [[Os Cães da Caldeira|Cães da Caldeira]] fizeram as patrulhas aprenderem a olhar para outra rua.
 
 Salma aceita a proteção da gangue sem aceitar sua autoridade clínica. Trata seus integrantes, mas também suas vítimas e seus rivais. Ameaças, cobranças e armas ficam do lado de fora.
 
