@@ -4,6 +4,8 @@
 
 A antiga Estação de Monte Farpado não possui uma reserva de [[Éter]] naturalmente maior do que todas as outras. A cidade permanece aquecida porque [[Coriolano da Rocha]] ordenou ao Ofício das Linhas que redirecionasse energia através de partes da rede subterrânea.
 
+![[Rumo ao Branco Sem Retorno.png]]
+
 ## O desvio
 
 Os operadores não sabem realizar transposição nem compreendem a totalidade do sistema. Conseguem apenas abrir e fechar determinados condutos, alterando a direção do fluxo. Quando Monte Farpado precisa expandir suas estufas, aquecer novos bairros ou atravessar um inverno particularmente severo, energia é retirada de outras Estações e conduzida para a estrutura central.
