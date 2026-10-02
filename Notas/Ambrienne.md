@@ -42,6 +42,8 @@ Uma prática recorrente é a Refeição do Retorno. A primeira porção é servi
 
 Em [[Brumaferro]], Ambrienne é especialmente venerada nos bairros operários. Cozinhas comunitárias, enfermarias de fábrica e pensões mantêm pequenas janelas iluminadas acima da névoa. Depois de explosões, desabamentos ou desaparecimentos nos túneis, essas luzes permitem que sobreviventes encontrem atendimento quando a rede pública falha.
 
+O [[Hospital da Última Janela]], no [[Bairro das Caldeiras]], utiliza o símbolo e os princípios de Ambrienne sem pertencer formalmente ao culto. A distinção é deliberada: Casas da Janela reconhecidas podem receber auxílio municipal ou industrial, mas também enfrentam inspeções, exigências de registro e pressão para revelar pacientes ou limitar atendimento. A Última Janela não recebe esse dinheiro e não aceita essa autoridade. Alguns Guardiões consideram o lugar uma expressão legítima da fé; outros temem que sua infraestrutura precária transforme hospitalidade em risco.
+
 Nos [[Campos-de-Valebrando|Campos de Valebrando]], sua presença aparece na mesa coletiva da [[Festa-do-Ultimo-Feixe|Festa do Último Feixe]]. Oferecer lugar e alimento a trabalhadores sazonais é considerado uma obrigação religiosa, ainda que grandes proprietários tentem transformar a hospitalidade em demonstração de prestígio.
 
 Em [[Juncoalto]], casas que recebem famílias deslocadas pelas cheias pintam o símbolo de Ambrienne nas estacas mais altas. A divindade não governa as águas, mas protege a promessa de reconstruir um lar depois que elas recuam.

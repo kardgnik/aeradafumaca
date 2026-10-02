@@ -44,6 +44,8 @@ Medicamentos preparados em seus templos recebem o símbolo da gota apenas depois
 
 Em [[Brumaferro]], a chuva constante deveria tornar Lysara onipresente. Contudo, a fuligem transforma água em lama escura antes que ela alcance o chão. Seus templos mantêm filtros públicos, banhos para trabalhadores expostos e enfermarias especializadas em queimaduras, doenças respiratórias e contato com [[Éter]].
 
+Algumas Mãos da Chuva fornecem discretamente sabão, instrumentos esterilizados e medicamentos ao [[Hospital da Última Janela]]. O culto não reconhece oficialmente a enfermaria: suas células de Éter frias, cápsulas reutilizadas e ausência de registros violam padrões médicos importantes. Mesmo assim, há sacerdotes que preferem reduzir o perigo de um atendimento clandestino a fingir que ele deixará de existir.
+
 Nos [[Baixios-de-Mouralume|Baixios de Mouralume]], Lysara possui enorme importância. Curandeiros de [[Juncoalto]] combinam suas práticas com conhecimentos de plantas medicinais e leitura das águas. A [[Primeira Água]] não é formalmente um rito religioso, mas muitos participantes carregam uma gota de metal ou recebem uma bênção antes da travessia.
 
 Em [[Ponte-Cinza]], a abertura da [[Feira-das-Quatro-Chuvas|Feira das Quatro Chuvas]] é acompanhada por devotos de Lysara, que examinam os recipientes trazidos de cada período do ano. A água derramada sobre a ponte recorda que nenhuma colheita existe sem chuva, mas também permite observar mudanças preocupantes em cheiro, cor e resíduos.
