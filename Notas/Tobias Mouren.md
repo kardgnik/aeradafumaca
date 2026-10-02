@@ -22,8 +22,10 @@ Tobias encontrou Amélia morta sob uma árvore, com Peônia ao lado. A jovem fug
 
 ## O prêmio que talvez exista
 
-Amigos e vizinhos recomendaram que Tobias procurasse a [[Confraria do Rastro Velado]] e oferecesse um prêmio pela **aberração que levara sua filha**. Alguns afirmam que ele foi visto navegando na direção do [[Entreposto da Maré Funda]] com um envelope selado e uma descrição da forasteira. Outros dizem que o mesmo envelope foi encontrado queimando num braseiro diante de sua casa.
+Durante meses, amigos e vizinhos insistiram para que Tobias procurasse a [[Confraria do Rastro Velado]] e abrisse um contrato contra a **aberração que matou sua filha**. Ele nunca respondeu claramente a essas recomendações.
 
-A Maré Funda não confirma se recebeu o pedido, e nenhum contrato com o nome de Tobias apareceu publicamente em seu quadro.
+Tobias também jamais contou aos amigos ou vizinhos o que encontrou sob a árvore. Nunca disse se viu a criatura, se reconheceu quem matou Amélia ou se sabe o que aconteceu naquela noite. Quando alguém tenta obter uma descrição, ele encerra a conversa.
 
-Desde a morte de Amélia, ele fala menos e passa longos períodos fora, conduzindo o barco por canais onde não há passageiros esperando. Ainda acolhe viajantes em perigo, embora ninguém saiba se isso é fidelidade à memória de Lídia, uma tentativa de preservar aquilo que Amélia havia se tornado ou a esperança de que, algum dia, uma jovem usando nome falso volte aos Baixios para terminar a conversa da qual fugiu.
+Não se sabe se Tobias finalmente deu ouvidos aos conselhos. O que se sabe é que existe atualmente, no [[Entreposto da Maré Funda]], um contrato aberto para localizar uma criatura que estaria atacando seres vivos nos Baixios e sugando seu sangue por meio de **duas presas**. O aviso não informa quem solicitou a caçada e não menciona Amélia Mouren.
+
+Desde a morte da filha, Tobias fala menos e passa longos períodos fora, conduzindo o barco por canais onde não há passageiros esperando. Continua acolhendo viajantes em perigo, mas não conversa sobre Peônia Ethever, sobre a árvore ou sobre o contrato.
