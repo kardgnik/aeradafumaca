@@ -8,6 +8,8 @@ Não é uma casa abandonada nem um armazém improvisado. Sua fachada é mantida 
 
 O lugar é administrado por [[Damião Rusk]].
 
+![[Entreposto do Rastro Velado.png]]
+
 ## Uma sede urbana
 
 O entreposto não possui campos de treinamento, currais de contenção nem espaço para formar muitos aprendizes. Sua função é servir como ponto de apoio da Confraria dentro da maior cidade de [[Vhalaris]].
