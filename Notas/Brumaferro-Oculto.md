@@ -6,6 +6,8 @@ Os segredos de Brumaferro não nasceram separadamente. A refinaria, as linhas de
 
 A maior metrópole industrial de [[Vhalaris]] acredita controlar uma fonte de energia. Na realidade, está conectando máquinas modernas a uma rede que jamais compreendeu por inteiro — e cada nova fábrica, estação ou laboratório torna a cidade mais dependente daquilo que permanece ativo sob suas fundações.
 
+![[As Camadas de Brumaferro.png]]
+
 ## A cidade construída sobre uma máquina
 
 Brumaferro ocupa uma das maiores concentrações conhecidas de instalações criadas pela [[Vhalaris-Oculto|civilização anterior]]. Condutos colossais, câmaras de regulação e linhas de transmissão já existiam quando os primeiros exploradores encontraram o que chamariam de jazidas de [[Éter]]. A cidade não descobriu um recurso natural: abriu reservatórios e pontos de vazamento de uma rede construída para retirar energia do Sol.
@@ -63,6 +65,8 @@ Financiadores do [[Coração de Cinza]] escolheram Brumaferro porque vazamentos,
 [[Masato]] reage aos pulsos porque o componente instalado dentro dele foi criado para estabelecer contato com a mesma malha. Sua presença aproxima os financiadores de [[Arnoldes]], mas também permite que o construto perceba partes da cidade que não aparecem em nenhum mapa moderno. O projeto buscava uma máquina capaz de esconder uma fonte de energia e, sem compreender o resultado, criou uma fonte que começou a aprender com a máquina.
 
 Os financiadores, o teste planejado e o componente alojado em Masato são aprofundados nas [[Coração de Cinza-Oculto|Verdades Ocultas do Coração de Cinza]].
+
+![[A cidade que sobrevive abaixo da cidade.png]]
 
 ## A cidade que sobrevive abaixo da cidade
 
