@@ -41,15 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Orfanato das Plumas.md",
+                "file": "NOTAS/Elian Mercer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Orfanato das Plumas"
+              "title": "Elian Mercer"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "elian mer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +105,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -225,11 +227,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "693f25683829544a",
+  "active": "ddb6daba822cb05f",
   "lastOpenFiles": [
+    "NOTAS/Samuel Mercer.md",
+    "NOTAS/Brumaferro-Oculto.md",
+    "NOTAS/Orfanato das Plumas.md",
+    "NOTAS/Vhalaris.md",
+    "NOTAS/Refinaria de Brumaferro.md",
     "NOTAS/Éter.md",
     "NOTAS/Eter-Oculto.md",
-    "NOTAS/Vhalaris.md",
     "NOTAS/Estações de Transposição.md",
     "NOTAS/Estacoes-de-Transposicao-Oculto.md",
     "O Teorema da Balança e a Invariância de Massa.png",
@@ -241,7 +247,6 @@
     "NOTAS/Malik.md",
     "NOTAS/Malik-Oculto.md",
     "IMAGENS/Malik no Roubo.png",
-    "NOTAS/Brumaferro-Oculto.md",
     "IMAGENS/As Camadas de Brumaferro.png",
     "IMAGENS/A cidade que sobrevive abaixo da cidade.png",
     "NOTAS/Brumaferro.md",
@@ -260,9 +265,6 @@
     "NOTAS/Bairro das Caldeiras.md",
     "NOTAS/Caldeiras.md",
     "NOTAS/Bandeira Queimada.md",
-    "NOTAS/Orfanato das Plumas.md",
-    "NOTAS/Irmã Maura.md",
-    "NOTAS/Consórcio Carbono-Éter.md",
     "PJ",
     "IMAGENS",
     "NOTAS"
