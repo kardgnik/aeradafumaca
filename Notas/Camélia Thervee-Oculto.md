@@ -8,6 +8,8 @@ Seu nome verdadeiro é **Astri Evereth**.
 
 Ela adotou a identidade de Camélia Thervee depois de fugir dos pais e da experiência que a transformou em dhampir. O momento exato em que escolheu esse nome, a origem dos documentos e as pessoas que ainda conhecem Astri permanecem em aberto até a conclusão do background.
 
+![[A dívida antes do nascimento.png]]
+
 ## A dívida antes do nascimento
 
 A bisavó materna de Astri pertenceu à [[Vhalaris-Oculto|civilização anterior]]. Quando seus sobreviventes abandonaram este mundo, ela escolheu permanecer por medo do desconhecido. Foi uma das poucas elfas que ficaram para trás, convencida de que sua longevidade permitiria prosperar num mundo esvaziado e de que, com menos habitantes, as reservas de [[Éter]] representariam riqueza quase inesgotável.
