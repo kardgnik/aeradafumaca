@@ -4,7 +4,7 @@
 
 Camélia Thervee escolheu o próprio nome na primeira manhã em que despertou livre.
 
-Antes disso, fora a filha única de **Eldri e Lauran Evereth**, dois elfos ricos e respeitados de [[Brumaferro]]. Depois disso, tornou-se uma fugitiva, uma ladina e algo que ainda respira sem pertencer inteiramente ao lado dos vivos.
+Antes disso, fora a filha única de **[[Eldri e Lauran Evereth]]**, dois elfos ricos e respeitados de [[Brumaferro]]. Depois disso, tornou-se uma fugitiva, uma ladina e algo que ainda respira sem pertencer inteiramente ao lado dos vivos.
 
 Ela tinha vinte e cinco anos quando morreu.
 
@@ -14,7 +14,7 @@ Hoje tem vinte e oito — e ainda está aprendendo o preço de ter voltado.
 
 ## A filha dos Evereth
 
-Eldri e Lauran Evereth são conhecidos nos círculos acadêmicos e arcanos de Brumaferro como estudiosos reservados, excêntricos e extremamente dedicados. Não eram celebridades, mas possuíam dinheiro, educação e contatos suficientes para que o sobrenome Evereth abrisse portas que permaneceriam fechadas para pesquisadores menos influentes.
+[[Eldri e Lauran Evereth]] são conhecidos nos círculos acadêmicos e arcanos de Brumaferro como estudiosos reservados, excêntricos e extremamente dedicados. Não eram celebridades, mas possuíam dinheiro, educação e contatos suficientes para que o sobrenome Evereth abrisse portas que permaneceriam fechadas para pesquisadores menos influentes.
 
 Eldri dedicava-se aos processos arcanos de preservação da vida e do corpo. Lauran estudava os aspectos ritualísticos, históricos e teóricos da longevidade. Publicamente, eram um casal interessado em compreender a vida. Em segredo, tentavam derrotar a morte.
 
@@ -94,7 +94,7 @@ Camélia alcançou os [[Baixios-de-Mouralume|Baixios de Mouralume]] debilitada e
 
 A comida havia perdido parte do sabor. O sono não restaurava suas forças. Batimentos cardíacos tornavam-se claros demais, e Camélia sentia o cheiro de sangue antes de vê-lo.
 
-Foi nos Baixios que conheceu **Tobias Mouren** e sua filha de dezenove anos, **Amélia**.
+Foi nos Baixios que conheceu **[[Tobias Mouren]]** e sua filha de dezenove anos, **Amélia**.
 
 Tobias encontrou a viajante exausta e decidiu acolhê-la. Percebeu que ela fugia de alguma coisa, mas não exigiu explicações. Ofereceu comida, um lugar para dormir e tempo para que recuperasse as forças.
 
@@ -187,9 +187,9 @@ Nem sempre acredita no que diz.
 
 ## Contatos
 
-- **Eldri Evereth:** pai de Camélia, pesquisador de processos arcanos aplicados à preservação da vida e do corpo. Continua procurando a filha.
-- **Lauran Evereth:** mãe de Camélia, especialista em ritualística, história e teorias da longevidade. Continua procurando a filha.
-- **Tobias Mouren:** morador dos Baixios que acolheu Camélia quando ela estava debilitada. Ela fugiu depois de matar sua filha e nunca descobriu o que ele faria ao encontrá-la novamente.
+- **[[Eldri e Lauran Evereth|Eldri Evereth]]:** pai de Camélia, pesquisador de processos arcanos aplicados à preservação da vida e do corpo. Continua procurando a filha.
+- **[[Eldri e Lauran Evereth|Lauran Evereth]]:** mãe de Camélia, especialista em ritualística, história e teorias da longevidade. Continua procurando a filha.
+- **[[Tobias Mouren]]:** morador dos Baixios que acolheu Camélia quando ela estava debilitada. Ela fugiu depois de matar sua filha e nunca descobriu o que ele faria ao encontrá-la novamente.
 - **Amélia Mouren:** filha de Tobias, morta aos dezenove anos durante o primeiro ataque de fome de Camélia. Sua memória deu origem às regras que a dhampir segue atualmente.
 - **Salma Veir:** médica clandestina que contratou Camélia para recuperar uma maleta de transfusão no Bairro das Caldeiras.
 - **O gato preto:** companheiro sem nome que sempre consegue reencontrá-la e evita qualquer fonte de Éter.
