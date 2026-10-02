@@ -82,7 +82,7 @@ Ao despertar, decidiu que aquela seria sua primeira manhã como alguém livre.
 
 Escolheu **Camélia** em homenagem às flores silenciosas daquela janela. **Thervee** nasceu das letras de Evereth reorganizadas: um fragmento da identidade que abandonava, desmontado e reconstruído por sua própria vontade.
 
-Desde então, protege cuidadosamente o nome que recebeu ao nascer. Antigos empregados da propriedade ainda poderiam reconhecê-la, assim como estudiosos próximos de Eldri e Lauran talvez recordem a filha tiefling do casal. Eldri e Lauran talvez ainda ignorem o nome que ela usa agora; o perigo está no caminho inverso. Se alguém de sua vida atual a chamasse pelo nome de nascimento, isso significaria que a ligação entre Camélia Thervee e a filha desaparecida dos Evereth havia sido descoberta — e que seus pais talvez não estivessem muito distantes.
+Desde então, protege cuidadosamente o nome que recebeu ao nascer. Eldri e Lauran não sabem que ela agora vive como Camélia Thervee. Se alguém a chamasse pelo nome de nascimento, significaria que sua identidade havia sido descoberta — e que seus pais talvez estivessem próximos.
 
 Ela também levou da Matriz uma cicatriz. A marca começa próxima ao centro do peito e se divide em linhas muito finas, normalmente escondidas pela roupa. Quando sua fome se intensifica ou quando utiliza determinadas capacidades de dhampir, alguns ramos tornam-se mais visíveis.
 
