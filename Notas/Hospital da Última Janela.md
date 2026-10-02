@@ -35,6 +35,8 @@ As cápsulas de estabilização são o recurso mais valioso e mais perigoso do h
 
 O hospital reutiliza materiais sempre que a esterilização permite e descarta aquilo que não pode ser limpo com segurança. A distinção é vigiada com rigor porque pobreza não torna infecção aceitável.
 
+![[Hospital da Última Janela.png]]
+
 ## Suprimentos e contrabando
 
 Medicamentos, sangue preservado, filtros, reagentes e peças chegam por várias rotas. Moradores do bairro fazem doações; oficinas adaptam instrumentos; integrantes do [[Sindicato dos Fogistas]] desviam componentes descartados; e os [[Os Cães da Caldeira|Cães da Caldeira]] transportam caixas que não podem passar por inspeção.
