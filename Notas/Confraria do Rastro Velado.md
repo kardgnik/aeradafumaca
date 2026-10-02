@@ -83,6 +83,8 @@ A **Casa da Raiz Clara**, na [[Mata-de-Carvalume|Mata de Carvalume]], é uma das
 
 Em [[Ponte-Cinza]], a **Casa do Sino Baixo** recebe contratos de fazendeiros dos [[Campos-de-Valebrando|Campos de Valebrando]], acompanha migrações alteradas pelas ferrovias e mantém currais de contenção fora da vila.
 
+Nos [[Baixios-de-Mouralume|Baixios de Mouralume]], o [[Entreposto da Maré Funda]] mantém embarcações rasas e equipamento pesado para as raras ocasiões em que grandes animais marinhos chegam aos pantanais. Seus membros procuram conduzi-los de volta às águas profundas; quando isso não é possível, coordenam o abate e a conservação de materiais sem transformar uma ocorrência excepcional em caça predatória.
+
 ### Keldrann
 
 Em [[Monte Farpado]], a **Casa do Rastro Branco** treina guias para gelo, túneis e regiões cortadas por tempestades. Seu arquivo reúne descrições de presas encontradas perto de minas e linhas interrompidas.
