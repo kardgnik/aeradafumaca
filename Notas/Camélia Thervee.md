@@ -14,13 +14,13 @@ Hoje tem vinte e oito — e ainda está aprendendo o preço de ter voltado.
 
 ## A filha dos Evereth
 
-Eldri e Lauran Evereth eram conhecidos nos círculos acadêmicos e arcanos de Brumaferro como estudiosos reservados, excêntricos e extremamente dedicados. Não eram celebridades, mas possuíam dinheiro, educação e contatos suficientes para que o sobrenome Evereth abrisse portas que permaneceriam fechadas para pesquisadores menos influentes.
+Eldri e Lauran Evereth são conhecidos nos círculos acadêmicos e arcanos de Brumaferro como estudiosos reservados, excêntricos e extremamente dedicados. Não eram celebridades, mas possuíam dinheiro, educação e contatos suficientes para que o sobrenome Evereth abrisse portas que permaneceriam fechadas para pesquisadores menos influentes.
 
 Eldri dedicava-se aos processos arcanos de preservação da vida e do corpo. Lauran estudava os aspectos ritualísticos, históricos e teóricos da longevidade. Publicamente, eram um casal interessado em compreender a vida. Em segredo, tentavam derrotar a morte.
 
 Camélia nasceu tiefling, embora ambos os pais fossem elfos. A razão jamais lhe foi explicada. Talvez alguma influência dos Planos Inferiores permanecesse adormecida na linhagem familiar havia gerações. Talvez Eldri e Lauran soubessem mais do que admitiam. Talvez a resposta estivesse ligada à razão pela qual, anos depois, decidiram que a filha seria indispensável para sua pesquisa.
 
-Sua infância foi confortável. A propriedade dos Evereth ficava numa região elevada de Brumaferro, afastada da fuligem mais densa, e possuía empregados, biblioteca e espaço suficiente para laboratórios que visitantes raramente conheciam por inteiro. Camélia recebeu professores particulares, aprendeu etiqueta e cresceu cercada por livros, tecidos finos e refeições preparadas de acordo com suas preferências.
+Sua infância foi confortável. A propriedade dos Evereth ficava numa região elevada de Brumaferro, afastada da fuligem mais densa, e possuía empregados, biblioteca e espaço suficiente para um laboratório clandestino. Camélia recebeu professores particulares, aprendeu etiqueta e cresceu cercada por livros, tecidos finos e refeições preparadas de acordo com suas preferências.
 
 Os pais nunca a maltrataram. Também quase nunca estavam presentes.
 
@@ -32,9 +32,9 @@ Somente muito mais tarde compreenderia que, naquele período, os pais começavam
 
 Como elfos, Eldri e Lauran já possuíam séculos de vida. Para eles, ainda não era suficiente.
 
-Décadas de pesquisa os levaram à **Matriz de Retenção Vital**, uma máquina experimental que combinava ritualística, alquimia, instrumentos cirúrgicos e tecnologia de [[Éter]]. Três posições eram ligadas por tubos, condutores de cobre, círculos gravados e **células de Éter frias**. O aparelho deveria registrar o padrão vital dos participantes e redistribuir continuamente sua força. Duas vidas seriam preservadas se permanecessem ancoradas a uma terceira.
+Décadas de pesquisa os levaram à **Matriz de Retenção Vital**, uma máquina experimental que combinava ritualística, alquimia, instrumentos cirúrgicos e tecnologia de [[Éter]]. Três posições eram ligadas por tubos, condutores de cobre, círculos arcanos gravados e **células de Éter frias**. O aparelho deveria registrar o padrão vital dos participantes e redistribuir continuamente sua força. Duas vidas seriam preservadas se permanecessem ancoradas a uma terceira.
 
-Eldri e Lauran escolheram a própria filha.
+Eldri e Lauran escolheram, naturalmente, a própria filha.
 
 Não precisaram acorrentá-la. Disseram que precisavam de sua ajuda, apresentaram o procedimento como resultado dos estudos sobre sua condição de tiefling e garantiram que não haveria perigo. Camélia sabia que participaria de um experimento. Não sabia que sua vida seria utilizada como âncora.
 
