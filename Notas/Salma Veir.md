@@ -31,14 +31,6 @@ Salma aceita a proteção da gangue sem aceitar sua autoridade clínica. Trata s
 
 Ela conhece os riscos da infraestrutura. Utiliza células de Éter frias, cápsulas além do número recomendado de ciclos e medicamentos trazidos por contrabandistas. Testa, repara e esteriliza tudo que consegue, explica os perigos e cancela procedimentos quando considera que o equipamento transformaria uma pequena esperança numa morte certa. Algumas vezes, porém, não existe opção segura — apenas a menos impossível.
 
-## Camélia Thervee
-
-Salma contratou [[Camélia Thervee]] para recuperar uma maleta de transfusão roubada durante uma entrega. A caixa contém instrumentos, frascos e registros que exporiam doadores e pacientes da Última Janela.
-
-Como pagamento, ofereceu quatro frascos de sangue humano fresco obtidos de adultos voluntários. Salma percebeu que o pedido de Camélia era incomum, mas não exigiu uma confissão. Para ela, estabelecer uma fonte controlada e consentida é mais seguro do que obrigar alguém desesperado a esconder a própria necessidade.
-
-Salma não conhece o nome Astri Evereth nem a verdadeira relação de Camélia com a Matriz de Retenção Vital.
-
 ## Relações
 
 - **[[Irmã Maura]]:** cuidadora que a criou e primeira pessoa a reconhecer sua vocação.
