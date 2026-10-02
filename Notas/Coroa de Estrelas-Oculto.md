@@ -8,6 +8,8 @@ Sob o lago de fogo existe uma das maiores concentrações conhecidas de [[Éter]
 
 Misturado à lava, submetido a enorme pressão e atravessando minerais vulcânicos, o Éter perde sua luminosidade azul-esverdeada habitual. Sua manifestação dourada, alaranjada e vermelha torna-se indistinguível do fogo. Por isso, gerações de engenheiros acreditaram estar apenas convertendo calor.
 
+![[Fundaçoes de Coroa de Estrelas.png]]
+
 ## As plataformas
 
 As primeiras plataformas foram construídas sobre pontos nos quais energia e pressão permaneciam excepcionalmente estáveis. Seus fundadores acreditavam ter encontrado formações naturais adequadas. Na realidade, apoiaram a cidade sobre junções da rede antiga.
