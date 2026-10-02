@@ -9,6 +9,8 @@ A Matriz exigia três posições vitais. Duas seriam preservadas por meio de uma
 
 Eles disseram à filha que precisavam de sua ajuda e apresentaram apenas uma parte do procedimento. Ela consentiu em participar de um experimento, não em arriscar a vida para sustentar a imortalidade dos pais.
 
+![[Eldri e Lauran Evereth — Verdades ocultas.png]]
+
 ## O resultado
 
 A filha morreu na posição central. A sobrecarga da Matriz a devolveu como dhampir e alterou também os Evereth: o envelhecimento de ambos desacelerou, mas seus corpos não recuperaram a juventude nem se tornaram invulneráveis.
