@@ -19,7 +19,7 @@ Eles pretendem reparar a Matriz e submeter a filha novamente ao procedimento. N�
 
 ## Projeto Crisálida
 
-Antes da fuga, a filha ouviu os pais discutirem uma instalação melhor e algo chamado **Projeto Crisálida**. Os Evereth acreditam que o projeto possa oferecer conhecimento, equipamentos ou condições capazes de estabilizar uma segunda ativação da Matriz. A natureza exata dessa relação permanece aberta: eles podem ter apenas encontrado referências fragmentárias, negociado acesso ou despertado o interesse de pessoas ligadas ao projeto.
+Antes da fuga, a filha ouviu os pais discutirem uma instalação melhor e algo chamado **Projeto Crisálida**, registrado nas [[Academia Vhalariana de Ciências Arcanas-Oculto#O Projeto Crisálida|Verdades Ocultas da Academia]]. Os Evereth acreditam que o projeto possa oferecer conhecimento, equipamentos ou condições capazes de estabilizar uma segunda ativação da Matriz. A natureza exata dessa relação permanece aberta: eles podem ter apenas encontrado referências fragmentárias, negociado acesso ou despertado o interesse de pessoas ligadas ao projeto.
 
 A amizade com [[Consórcio Carbono-Éter#Casa Valmont-Shor (A Destilação e as Finanças)|Lady Vivienne Valmont-Shor]] dá aos Evereth acesso social a círculos capazes de obter componentes raros e tecnologia de alto nível. Isso **não significa**, por si só, que Vivienne conheça a função real da Matriz ou o que aconteceu com a filha. Decidir quanto ela sabe — e se ajudaria os amigos após descobrir a verdade — fica em aberto.
 
