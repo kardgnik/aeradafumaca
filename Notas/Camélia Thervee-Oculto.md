@@ -18,7 +18,7 @@ Ela se casou novamente com outro elfo que também recusara a partida. Quando des
 
 Saldren ofereceu-lhe uma filha. Em troca, exigiu **a neta que essa filha um dia teria**. Desesperada, a elfa aceitou sem perguntar por que a divindade desejava uma criança que talvez levasse séculos para nascer. O contrato também não dizia quando a cobrança aconteceria, o que seria tomado ou se a descendente prometida precisaria ser entregue fisicamente.
 
-A filha nasceu elfa. Sua filha, Lauran, também. Durante gerações, a dívida pareceu esquecida.
+A filha nasceu elfa. Sua filha, ´, também. Durante gerações, a dívida pareceu esquecida.
 
 Então nasceu Astri.
 
