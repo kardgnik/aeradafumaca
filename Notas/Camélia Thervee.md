@@ -163,6 +163,8 @@ Camélia considera tudo isso estranho, mas nunca relacionou o animal à Matriz, 
 
 Ainda não lhe deu um nome definitivo. Talvez porque nomeá-lo significaria admitir que, de alguma forma, ele já faz parte de sua vida.
 
+![[O Olhos de Namyss.png]]
+
 ## De volta a Brumaferro
 
 Depois de três anos em movimento, Camélia retornou à cidade onde Eldri e Lauran ainda possuem influência.
