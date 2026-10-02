@@ -106,11 +106,11 @@ Durante duas semanas, Camélia quase acreditou que poderia permanecer ali.
 
 A condição de Camélia continuou piorando até que já não podia escondê-la. Quando finalmente revelou parte do que estava acontecendo, Tobias não recuou nem a tratou como monstro. Ele e Amélia permaneceram ao seu lado, e os três estabeleceram intervalos para impedir que a fome alcançasse o limite. Sangue de animais seria sempre a primeira opção; quando não bastava, pai e filha ofereciam pequenas quantidades do próprio sangue.
 
-Durante alguns dias, aquela rotina pareceu suficiente. Camélia começou a acreditar que havia encontrado não apenas uma maneira de controlar a fome, mas talvez um lugar onde pudesse permanecer.
+Durante algum tempo, aquela rotina pareceu suficiente. Camélia começou a acreditar que havia encontrado não apenas uma maneira de controlar a fome, mas talvez um lugar onde pudesse permanecer.
 
 Certa noite, Amélia não voltou para casa no horário habitual. Camélia saiu à sua procura e a encontrou caída sob uma árvore. O ferimento era pequeno, mas havia sangue, e Camélia já estava faminta havia tempo demais.
 
-A lembrança que conserva é feita de fragmentos: a voz de Amélia tentando alcançá-la, o próprio corpo lutando para se afastar e um coração que parecia bater mais alto do que todos os sons dos Baixios. Depois, a memória se rompe. Quando retorna, o coração está em silêncio.
+A lembrança que conserva é feita de fragmentos: a voz de Amélia tentando alcançá-la, o próprio corpo lutando para se afastar e um coração que parecia bater mais alto do que todos os sons dos Baixios. Depois, a memória se rompe. Quando retorna, o coração já está em silêncio.
 
 Tobias encontrou as duas sob a árvore. No rosto do homem que a acolhera havia uma dor para a qual nenhuma explicação serviria, porque palavra alguma poderia devolver sua filha. Camélia fugiu antes de descobrir o que ele faria e nunca retornou aos Baixios para procurá-lo.
 
