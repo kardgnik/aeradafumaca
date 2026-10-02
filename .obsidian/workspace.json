@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Keldrann-Oculto.md",
+                "file": "NOTAS/Kharvyr-Oculto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Keldrann-Oculto"
+              "title": "Kharvyr-Oculto"
             }
           },
           {
@@ -227,9 +227,11 @@
   },
   "active": "8e86c8089e6004e6",
   "lastOpenFiles": [
+    "IMAGENS/Litoral das Agulhas.png",
+    "NOTAS/Kharvyr.md",
+    "NOTAS/Keldrann-Oculto.md",
     "IMAGENS/A rede subterrânea da primeira civilização.png",
     "NOTAS/Keldrann.md",
-    "NOTAS/Keldrann-Oculto.md",
     "NOTAS/Coroa de Estrelas.md",
     "NOTAS/Coroa de Estrelas-Oculto.md",
     "IMAGENS/Fundaçoes de Coroa de Estrelas.png",
@@ -261,8 +263,6 @@
     "IMAGENS/A cidade que sobrevive abaixo da cidade.png",
     "NOTAS/Brumaferro.md",
     "NOTAS/Nicolau Cobrevento.md",
-    "IMAGENS/Nicolau Cobrevento.png",
-    "NOTAS/Maela Cobrevento.md",
     "PJ",
     "IMAGENS",
     "NOTAS"

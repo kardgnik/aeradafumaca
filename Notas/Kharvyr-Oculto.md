@@ -10,6 +10,8 @@ Séculos de frio envolveram os condutos em gelo, mas a rede continuou respondend
 
 Sob a maior agulha ligada ao continente existe uma reserva de Éter comparável às maiores Estações de Keldrann. Ela nunca foi perfurada, refinada ou conectada às redes industriais modernas.
 
+![[Litoral das Agulhas.png]]
+
 ## Um conhecimento dividido
 
 Os Kharvyr descendem de comunidades que aprenderam a sobreviver ao redor da instalação depois do desaparecimento da primeira civilização. Eles não preservaram manuais, linguagem técnica ou uma explicação completa sobre a origem da rede. Preservaram procedimentos.
