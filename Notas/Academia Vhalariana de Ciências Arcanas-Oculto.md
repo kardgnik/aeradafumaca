@@ -38,8 +38,22 @@ O Projeto Crisálida ainda não criou um condutor estável. Alguns Vagalumes tol
 
 O resultado mais promissor foi a preservação parcial da memória depois da metamorfose. Um sujeito conseguiu reconhecer o nome da filha e repetir o caminho até sua antiga casa, mesmo sem conservar forma humana. A Casa Valmont-Shor considera isso prova de progresso. Os pesquisadores responsáveis registraram o episódio como falha de obediência.
 
+## Os Evereth e a Matriz
+
+[[Eldri e Lauran Evereth]] não criaram o Projeto Crisálida e não figuram entre seus pesquisadores reconhecidos. A Matriz de Retenção Vital nasceu de uma linha independente de estudos sobre longevidade, ritualística e preservação do corpo. Ainda assim, as duas pesquisas chegaram a princípios próximos: utilizar Éter para manter padrões vitais, impedir o colapso da matéria orgânica e transformar um corpo vivo em parte do circuito.
+
+Por meio de contatos acadêmicos e da amizade com [[Consórcio Carbono-Éter#Casa Valmont-Shor (A Destilação e as Finanças)|Lady Vivienne Valmont-Shor]], os Evereth encontraram referências fragmentárias a requisições, equipamentos e resultados associados ao Crisálida. Não sabem tudo que ocorre sob a Academia, mas acreditam que o projeto possua instalações capazes de suportar uma segunda ativação da Matriz.
+
+Do outro lado, o Projeto Crisálida ainda não conhece formalmente o resultado alcançado pelos Evereth. Se seus pesquisadores descobrirem que [[Camélia Thervee]] morreu, retornou como dhampir e conservou memória e identidade, poderão considerá-la o primeiro condutor estável produzido fora de seus laboratórios — mesmo que sua transformação tenha dependido de forças que nenhum instrumento consegue medir.
+
+A proximidade entre os Evereth e o projeto permanece incompleta. Lady Vivienne pode ter facilitado acesso a componentes sem conhecer sua finalidade, ou pode perceber aos poucos que os amigos ocultaram uma experiência humana. Essa incerteza não diminui o risco: basta uma informação atravessar a distância entre os dois estudos para que a busca dos pais por Camélia deixe de ser um assunto familiar e se torne interesse institucional.
+
 ## Pamela Leozzi
 
 Relatórios do Projeto Crisálida utilizam cálculos e modelos publicados por [[Pamela Leozzi]], especialmente seus estudos sobre alterações em matrizes de conjuração provocadas pelo Éter. O nome dela aparece em cópias internas, requisições de laboratório e anotações feitas por outros pesquisadores.
 
 Os registros não esclarecem se Pamela conhece a origem dos dados enviados ao seu departamento, se percebeu que seu trabalho está sendo utilizado em pessoas vivas ou se já começou a investigar as inconsistências. Dentro da Academia, há quem a considere valiosa demais para ser informada e perigosa demais para permanecer completamente no escuro.
+
+As demais estruturas enterradas sob a cidade e as relações entre Refinaria, Consórcio, Nó 7B e Coração de Cinza são reunidas nas [[Brumaferro-Oculto|Verdades Ocultas de Brumaferro]].
+
+
