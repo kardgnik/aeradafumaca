@@ -56,7 +56,7 @@ Recém-chegado, ele atravessa o Bairro das Caldeiras tentando encontrar seu cami
 
 A conversa acaba revelando sua profissão e sua ligação com a [[Confraria do Rastro Velado]].
 
-Com algumas orientações sobre a cidade e um caminho a seguir, Frederick alcança a parada do bonde. Ali entende que, em Brumaferro, “subir para a praça” não é apenas uma expressão.
+Ao saber que Frederick procura a Confraria, o vendedor o orienta a subir até a [[Praça das Pontes]], onde [[Damião Rusk]] administra o [[Entreposto do Rastro Velado]]. O bonde é o caminho mais direto. Frederick alcança a parada e entende que, em Brumaferro, “subir para a praça” não é apenas uma expressão.
 
 Os trilhos literalmente deixam o chão.
 

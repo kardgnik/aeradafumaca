@@ -90,7 +90,7 @@ Frederick compreendeu que permanecer em Carvalume transformaria o grimório em h
 
 ## O caminho para Brumaferro
 
-Antes de morrer, Alaric falou de **Damião Rusk**, antigo companheiro de caçadas que vivia em [[Brumaferro]]. Frederick nunca o conheceu. Sabia apenas que Damião administrava o pequeno entreposto local da Confraria, negociando peles, órgãos, corações, venenos e outros materiais destinados a médicos e estudiosos.
+Antes de morrer, Alaric falou de **[[Damião Rusk]]**, antigo companheiro de caçadas que vivia em [[Brumaferro]]. Frederick nunca o conheceu. Sabia apenas que Damião administrava o [[Entreposto do Rastro Velado]], na [[Praça das Pontes]], negociando peles, órgãos, corações, venenos e outros materiais destinados a médicos e estudiosos.
 
 Entre as cartas de Alaric havia uma recomendação lacrada em nome de Frederick.
 
