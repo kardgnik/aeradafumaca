@@ -6,6 +6,8 @@
 
 Vivem numa propriedade elevada, distante da fuligem mais espessa, com empregados, biblioteca particular e laboratórios construídos ao longo de muitos anos. Recebem poucas pessoas, mas aquelas que atravessam seus portões costumam pertencer à elite intelectual, financeira ou política da cidade.
 
+![[Lauran Evereth.png]]
+
 ## Dois caminhos para a mesma pergunta
 
 Eldri dedica-se a processos arcanos aplicados à preservação da vida e do corpo. Estuda anatomia, alquimia, instrumentos de medição e maneiras de manter tecidos, órgãos e funções vitais além de seus limites conhecidos. Seu trabalho é preciso, material e cercado de aparelhos.
@@ -13,6 +15,8 @@ Eldri dedica-se a processos arcanos aplicados à preservação da vida e do corp
 Lauran ocupa-se da parte que os instrumentos não alcançam com facilidade. Pesquisa ritos funerários, teorias antigas sobre longevidade, relatos de retorno da morte e tradições que tratam corpo, identidade e alma como elementos separáveis. É uma leitora meticulosa de textos ocultos e uma anfitriã muito mais hábil que o marido.
 
 Juntos, os Evereth procuram aproximar tradições arcanas antigas das possibilidades abertas pela tecnologia de [[Éter]]. Publicamente, afirmam que esse trabalho pode aperfeiçoar tratamentos, preservar pacientes durante procedimentos arriscados e ampliar o conhecimento sobre as fronteiras da vida. A discrição com que conduzem seus experimentos é atribuída tanto ao temperamento reservado do casal quanto ao receio de roubo acadêmico.
+
+![[Eldri Evereth.png]]
 
 ## Fortuna e relações
 
