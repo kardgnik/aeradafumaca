@@ -50,6 +50,8 @@ Camélia despertou diferente. Sua pele estava fria. Os sentidos haviam se tornad
 
 A Matriz a transformara em uma dhampir.
 
+![[A Matrix de Retençao Vital.png]]
+
 ## Aquilo que a trouxe de volta
 
 A máquina explica como Camélia morreu e como seu corpo voltou a funcionar. Não explica tudo que aconteceu no intervalo.
