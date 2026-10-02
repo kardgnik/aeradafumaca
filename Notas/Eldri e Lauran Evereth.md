@@ -2,9 +2,9 @@
 
 #NPC
 
-**Eldri e Lauran Evereth** são dois elfos de antiga fortuna, conhecidos nos círculos acadêmicos e arcanos de [[Brumaferro]]. O sobrenome Evereth não pertence a uma das casas que governam a cidade, mas dinheiro, educação e décadas de relações cuidadosamente cultivadas lhes garantem acesso a bibliotecas, salões e pesquisadores que poucos estudiosos independentes alcançariam.
+**Eldri e Lauran Evereth** são dois elfos de antiga fortuna, conhecidos nos círculos acadêmicos e arcanos de [[Brumaferro]]. O sobrenome Evereth não pertence a uma das casas que governam a cidade, mas dinheiro, educação e séculos de relações cuidadosamente cultivadas lhes garantem acesso a bibliotecas, salões e pesquisadores que poucos estudiosos independentes alcançariam.
 
-Vivem numa propriedade elevada, distante da fuligem mais espessa, com empregados, biblioteca particular e laboratórios construídos ao longo de muitos anos. Recebem poucas pessoas, mas aquelas que atravessam seus portões costumam pertencer à elite intelectual, financeira ou política da cidade.
+Vivem numa propriedade elevada, distante da fuligem mais espessa, com empregados, biblioteca particular e laboratório construído ao longo de muitos anos. Recebem poucas pessoas, mas aquelas que atravessam seus portões costumam pertencer à elite intelectual, financeira ou política da cidade.
 
 ![[Lauran Evereth.png]]
 
