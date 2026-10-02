@@ -8,6 +8,8 @@ Quando jovem, concluiu a [[Primeira Água]]. Sua marca era formada pelo tradicio
 
 Antes de sua última viagem, Nicolau entregou a marca a Darian. Não explicou a decisão, limitando-se a dizer que um navegador não precisa carregar todas as provas de que sabe voltar.
 
+![[Nicolau Cobrevento.png]]
+
 ## A última viagem
 
 Nicolau desapareceu durante uma travessia entre Keldrann e Pelágora. A embarcação contornava o [[Litoral das Agulhas]], onde corredores entre formações de gelo podem desaparecer de uma viagem para outra.
