@@ -8,6 +8,8 @@ A maior parte do ano, o entreposto atende ocorrências comuns dos pantanais. Seu
 
 Em anos de cheia excepcional, marés violentas ou alterações nos canais costeiros, **grandes animais marinhos** alcançam Mouralume. Alguns seguem cardumes para dentro do pântano; outros chegam feridos, doentes, desorientados por ruídos industriais ou fugindo de criaturas ainda maiores. Esses encontros são raros, mas uma única criatura presa num canal estreito pode destruir embarcações, plataformas e casas antes de encontrar o caminho de volta.
 
+![[Entreposto da Maré Funda.png]]
+
 ## Caça de águas grandes
 
 A Maré Funda mantém arpões pesados, cabos de ancoragem, redes largas, boias de marcação e embarcações de fundo raso reforçadas. Apesar desse arsenal, o primeiro objetivo não é o abate. Os caçadores estudam a direção das águas, fecham canais menores e utilizam som, iscas e barreiras flutuantes para conduzir o animal novamente às águas profundas.
