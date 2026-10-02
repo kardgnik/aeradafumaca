@@ -169,7 +169,7 @@ Ainda não lhe deu um nome definitivo. Talvez porque nomeá-lo significaria admi
 
 Depois de três anos em movimento, Camélia retornou à cidade onde Eldri e Lauran ainda possuem influência.
 
-Uma médica clandestina chamada **Salma Veir**, conhecida por tratar trabalhadores que não podem procurar hospitais ou fornecer documentos, ofereceu-lhe um serviço que parecia rápido: recuperar uma maleta de transfusão roubada durante uma entrega no [[Bairro das Caldeiras]]. A caixa contém instrumentos, registros de pacientes e frascos destinados a uma pequena enfermaria ilegal. Em troca, Salma prometeu quatro frascos de sangue humano fresco, retirado de doadores adultos e voluntários.
+Uma médica clandestina chamada **[[Salma Veir]]**, responsável pelo [[Hospital da Última Janela]], ofereceu-lhe um serviço que parecia rápido: recuperar uma maleta de transfusão roubada durante uma entrega no [[Bairro das Caldeiras]]. A caixa contém instrumentos, registros de pacientes e frascos destinados ao hospital clandestino. Em troca, Salma prometeu quatro frascos de sangue humano fresco, retirado de doadores adultos e voluntários.
 
 Era uma forma de se alimentar sem caçar, ferir ou dever intimidade a alguém. Camélia aceitou.
 
@@ -193,7 +193,7 @@ Nem sempre acredita no que diz.
 - **[[Eldri e Lauran Evereth|Lauran Evereth]]:** mãe de Camélia, especialista em ritualística, história e teorias da longevidade. Continua procurando a filha.
 - **[[Tobias Mouren]]:** morador dos Baixios que acolheu Camélia quando ela estava debilitada. Ela fugiu depois de matar sua filha e nunca descobriu o que ele faria ao encontrá-la novamente.
 - **Amélia Mouren:** filha de Tobias, morta aos dezenove anos durante o primeiro ataque de fome de Camélia. Sua memória deu origem às regras que a dhampir segue atualmente.
-- **Salma Veir:** médica clandestina que contratou Camélia para recuperar uma maleta de transfusão no Bairro das Caldeiras.
+- **[[Salma Veir]]:** médica clandestina responsável pelo [[Hospital da Última Janela]]. Contratou Camélia para recuperar uma maleta de transfusão roubada no Bairro das Caldeiras.
 - **O gato preto:** companheiro sem nome que sempre consegue reencontrá-la e evita qualquer fonte de Éter.
 
 ## [[Camélia Thervee-Oculto|Verdades ocultas]]

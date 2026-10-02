@@ -56,6 +56,12 @@ A Bandeira Queimada não se apresenta como protetora dos pobres. Cobra caro, tom
 
 Essa utilidade não a torna menos violenta. Significa apenas que, em Caldeiras, necessidade e crime frequentemente percorrem a mesma estrada.
 
+## Remédios além-mar
+
+Pequenas cargas de medicamentos, reagentes, válvulas clínicas e peças de equipamentos médicos atravessam as rotas da Bandeira misturadas a mercadorias mais lucrativas. Parte segue para intermediários em outros continentes, incluindo redes clandestinas de [[Brumaferro]].
+
+O [[Hospital da Última Janela]] recebe alguns desses suprimentos através de atravessadores ligados aos [[Os Cães da Caldeira|Cães da Caldeira]]. A Bandeira não administra o hospital e seus capitães podem sequer conhecer o destino final das caixas. Para [[Salma Veir]], a procedência criminosa não torna um anestésico menos necessário, mas obriga a testar cada frasco: cargas desviadas, mal conservadas ou falsificadas já chegaram com o mesmo selo.
+
 ## Artífices clandestinos
 
 Entre os serviços mais valorizados pela Bandeira estão os de mecânicos capazes de alterar uma carga sem torná-la irreconhecível. Fundos falsos, lacres substituíveis, motores ocultos e compartimentos que se abrem apenas depois de uma inspeção permitem que uma mesma carroça atravesse diferentes autoridades transportando mercadorias distintas.
