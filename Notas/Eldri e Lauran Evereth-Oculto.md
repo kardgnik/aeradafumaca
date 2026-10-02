@@ -1,10 +1,6 @@
 # Eldri e Lauran Evereth — Verdades ocultas
 
 #Spoiler #NPC
-
-> [!warning] Conteúdo de mestre
-> Esta nota reúne informações que não devem aparecer na versão pública dos personagens.
-
 ## O verdadeiro objetivo
 
 Eldri e Lauran não buscavam apenas preservar pacientes. Embora já possuíssem a longevidade élfica, consideravam a morte uma limitação a ser vencida por método, investimento e vontade. A pesquisa do casal convergiu para a **Matriz de Retenção Vital**, uma máquina que combinava ritualística, alquimia, instrumentos cirúrgicos e células de Éter frias.
