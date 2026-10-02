@@ -173,7 +173,7 @@ Era uma forma de se alimentar sem caçar, ferir ou dever intimidade a alguém. C
 
 Instalou-se sob nome falso num quarto pequeno da [[Pensão do Terceiro Turno]], onde o ruído das tubulações ajuda a esconder seus horários e poucas pessoas perguntam de onde veio uma hóspede que paga adiantado. Pretende recuperar a maleta, receber o pagamento e deixar Brumaferro antes que o sobrenome Evereth volte a alcançá-la.
 
-Também ouviu falar da [[Taverna da Rosa de Ouro]], na [[Praça das Pontes]]. Dizem que sua proprietária, [[Taverna da Rosa de Ouro#Ermelinda dos Corações Perdidos|Ermelinda]], acolhe viajantes, segredos e pedidos estranhos sem começar pelo julgamento. Camélia ainda não conhece Ermelinda, mas pretende procurar a taverna caso precise obter alimento por meios seguros ou encontrar alguém capaz de compreender uma tiefling sem tratá-la imediatamente como ameaça.
+Também ouviu falar da [[Taverna da Rosa de Ouro]], na [[Praça das Pontes]]. Dizem que sua proprietária, [[Taverna da Rosa de Ouro|Ermelinda]], acolhe viajantes, segredos e pedidos estranhos sem começar pelo julgamento. Camélia ainda não conhece Ermelinda, mas pretende procurar a taverna caso precise obter alimento por meios seguros ou encontrar alguém capaz de compreender uma tiefling sem tratá-la imediatamente como ameaça.
 
 Ela diz que deseja apenas distância dos pais. Não construiu a própria vida em torno de matá-los e não sabe o que faria se os encontrasse frágeis, incapazes de envelhecer e ainda assim próximos da morte. Detestaria descobrir que alguma parte da menina que desejava sua atenção continua viva.
 
