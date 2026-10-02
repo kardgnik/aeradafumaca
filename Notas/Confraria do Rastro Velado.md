@@ -99,13 +99,11 @@ O **Entreposto da Escama Salgada**, em [[Porto Escória]], recebe espécimes vin
 
 ### Brumaferro
 
-Brumaferro possui apenas o **Entreposto do Rastro Velado**, uma sede pequena instalada num antigo armazém de tijolos próximo aos canais de carga. Não é uma grande escola de caçadores. Funciona sobretudo como ponto de compra, venda, avaliação e conservação de materiais.
+Brumaferro possui apenas o [[Entreposto do Rastro Velado]], uma sede urbana pequena e ativa instalada numa galeria da [[Praça das Pontes]]. O patamar fica acima dos bairros industriais e oferece acesso às linhas de bonde, passarelas e elevadores de carga que conectam diferentes camadas da cidade.
 
-Fazendeiros, ferroviários e caçadores independentes levam até ali peles, couros, ossos, glândulas, órgãos e corações. Médicos, boticários, naturalistas e pesquisadores da [[Academia Vhalariana de Ciências Arcanas|Academia da Cúpula]] procuram componentes para tratamento, comparação anatômica e estudo. Câmaras frias, tanques de salmoura e armários alquímicos ocupam mais espaço que os alojamentos.
+O entreposto não é uma grande escola de caçadores. Funciona sobretudo como ponto de compra, venda, avaliação e conservação de materiais, além de registrar contratos, manter correspondência com outras casas e oferecer um arquivo de campo a membros de passagem. Fazendeiros, ferroviários e caçadores independentes levam até ali peles, couros, ossos, glândulas, órgãos e corações. Médicos, boticários, naturalistas e pesquisadores da [[Academia Vhalariana de Ciências Arcanas|Academia da Cúpula]] procuram componentes para tratamento, comparação anatômica e estudo.
 
-O entreposto é administrado por **Damião Rusk**, antigo caçador de campo que abandonou as longas expedições depois de perder mobilidade numa perna. Ele conheceu **Alaric Vossen** muitos anos atrás e ainda lhe devia favores quando recebeu uma carta anunciando que, um dia, um jovem chamado Frederick Van Krueger poderia bater à sua porta.
-
-Damião nunca encontrou Frederick. Conhece apenas o nome, a caligrafia de Alaric e a recomendação curta deixada pelo velho amigo: **“Se ele pedir livros, abra o arquivo. Se pedir uma lâmina, pergunte primeiro o que pretende poupar.”**
+A sede é administrada por [[Damião Rusk]], antigo caçador de campo que deixou as longas expedições depois de perder mobilidade numa perna. Amigo e correspondente de **Alaric Vossen**, Damião foi avisado de que o pupilo do velho caçador poderia chegar a Brumaferro levando uma carta de recomendação e um grimório herdado.
 
 ## Reputação
 
