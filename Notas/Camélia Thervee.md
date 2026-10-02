@@ -72,13 +72,17 @@ Levou apenas o que conseguiu carregar e não procurou ninguém conhecido. Qualqu
 
 ## A primeira manhã
 
-Na primeira noite depois da fuga, caminhou até o corpo não aguentar mais. Ainda carregava na pele as marcas da Matriz quando encontrou um campo de camélias e adormeceu entre as flores.
+Na primeira noite depois da fuga, Camélia não deixou Brumaferro. Desceu.
+
+Atravessou camada após camada da cidade, trocando as avenidas elevadas por passarelas de manutenção, pontes estreitas, ruas comprimidas entre fábricas e becos que não conhecia. Caminhou até o corpo não aguentar mais, ainda carregando na pele as marcas da Matriz.
+
+Quando as pernas finalmente cederam, abrigou-se sob a varanda estreita de uma casa apagada. Numa janela baixa, uma floreira de ferro sustentava algumas camélias, improváveis naquela região coberta por fuligem. Camélia passou o restante da noite encolhida sob elas, ouvindo a chuva percorrer os telhados e as tubulações da cidade.
 
 Ao despertar, decidiu que aquela seria sua primeira manhã como alguém livre.
 
-Escolheu **Camélia** em homenagem às flores que haviam testemunhado a noite. **Thervee** nasceu das letras de Evereth reorganizadas: um fragmento da identidade que abandonava, desmontado e reconstruído por sua própria vontade.
+Escolheu **Camélia** em homenagem às flores silenciosas daquela janela. **Thervee** nasceu das letras de Evereth reorganizadas: um fragmento da identidade que abandonava, desmontado e reconstruído por sua própria vontade.
 
-Desde então, protege o nome anterior com cuidado absoluto. Antigos empregados da propriedade ainda poderiam reconhecê-la, assim como estudiosos próximos de Eldri e Lauran talvez recordem a filha tiefling do casal. Ninguém de sua vida atual conhece toda a identidade que existia antes de Camélia Thervee. Escutar aquele primeiro nome na boca de alguém que não deveria conhecê-lo seria suficiente para fazê-la compreender que está em perigo.
+Desde então, protege cuidadosamente o nome que recebeu ao nascer. Antigos empregados da propriedade ainda poderiam reconhecê-la, assim como estudiosos próximos de Eldri e Lauran talvez recordem a filha tiefling do casal. Eldri e Lauran talvez ainda ignorem o nome que ela usa agora; o perigo está no caminho inverso. Se alguém de sua vida atual a chamasse pelo nome de nascimento, isso significaria que a ligação entre Camélia Thervee e a filha desaparecida dos Evereth havia sido descoberta — e que seus pais talvez não estivessem muito distantes.
 
 Ela também levou da Matriz uma cicatriz. A marca começa próxima ao centro do peito e se divide em linhas muito finas, normalmente escondidas pela roupa. Quando sua fome se intensifica ou quando utiliza determinadas capacidades de dhampir, alguns ramos tornam-se mais visíveis.
 
@@ -94,27 +98,25 @@ Foi nos Baixios que conheceu **Tobias Mouren** e sua filha de dezenove anos, **A
 
 Tobias encontrou a viajante exausta e decidiu acolhê-la. Percebeu que ela fugia de alguma coisa, mas não exigiu explicações. Ofereceu comida, um lugar para dormir e tempo para que recuperasse as forças.
 
-Amélia era diferente do pai. Curiosa, falante e insistente, continuava tentando conversar mesmo quando recebia respostas curtas e grosseiras. Foi ela quem começou a ensinar Camélia a preparar refeições simples, lavar as próprias roupas sem estragá-las e realizar tarefas que, na propriedade dos Evereth, sempre haviam sido responsabilidade de outra pessoa.
+Amélia era diferente do pai. Curiosa, falante e insistente, continuava tentando conversar mesmo quando recebia respostas curtas e grosseiras. Foi ela quem começou a ensinar Camélia a preparar refeições simples, lavar as próprias roupas sem estragá-las e realizar tarefas que, na propriedade dos Evereth, sempre haviam sido responsabilidade dos criados.
 
 Durante duas semanas, Camélia quase acreditou que poderia permanecer ali.
 
 ## Amélia Mouren
 
-A condição de Camélia continuou piorando. Quando finalmente revelou parte do que estava acontecendo, Tobias tentou ajudá-la sem tratá-la como monstro. Os três estabeleceram intervalos para impedir que a fome chegasse ao limite. Sangue de animais era a primeira opção; quando não bastava, Tobias e Amélia ofereciam pequenas quantidades do próprio sangue.
+A condição de Camélia continuou piorando até que já não podia escondê-la. Quando finalmente revelou parte do que estava acontecendo, Tobias não recuou nem a tratou como monstro. Ele e Amélia permaneceram ao seu lado, e os três estabeleceram intervalos para impedir que a fome alcançasse o limite. Sangue de animais seria sempre a primeira opção; quando não bastava, pai e filha ofereciam pequenas quantidades do próprio sangue.
 
-Por algum tempo, pareceu funcionar.
+Durante alguns dias, aquela rotina pareceu suficiente. Camélia começou a acreditar que havia encontrado não apenas uma maneira de controlar a fome, mas talvez um lugar onde pudesse permanecer.
 
-Então Amélia não voltou para casa no horário habitual.
+Certa noite, Amélia não voltou para casa no horário habitual. Camélia saiu à sua procura e a encontrou caída sob uma árvore. O ferimento era pequeno, mas havia sangue, e Camélia já estava faminta havia tempo demais.
 
-Camélia saiu para procurá-la e a encontrou caída sob uma árvore. O ferimento não era grave, mas havia sangue. Camélia já estava faminta havia tempo demais. Recorda-se de Amélia falando com ela. Recorda-se de tentar se afastar. Depois, recorda-se apenas do coração parando.
+A lembrança que conserva é feita de fragmentos: a voz de Amélia tentando alcançá-la, o próprio corpo lutando para se afastar e um coração que parecia bater mais alto do que todos os sons dos Baixios. Depois, a memória se rompe. Quando retorna, o coração está em silêncio.
 
-Amélia morreu ali.
+Tobias encontrou as duas sob a árvore. No rosto do homem que a acolhera havia uma dor para a qual nenhuma explicação serviria, porque palavra alguma poderia devolver sua filha. Camélia fugiu antes de descobrir o que ele faria e nunca retornou aos Baixios para procurá-lo.
 
-Foi naquele instante que Camélia compreendeu verdadeiramente o que a Matriz havia feito. Tobias encontrou as duas, e nenhuma explicação poderia devolver sua filha. Camélia fugiu antes de descobrir o que ele faria. Não conseguiu permanecer diante do homem que a acolhera sabendo que havia matado a pessoa mais importante da vida dele.
+Das duas semanas que passou com os Mouren, prefere guardar outra imagem: Amélia tentando ensiná-la a preparar uma refeição simples, rindo com ternura da completa incapacidade de uma jovem tão instruída diante de uma tarefa tão comum.
 
-Nunca retornou aos Baixios para procurar Tobias.
-
-Prefere recordar Amélia tentando ensiná-la a cozinhar enquanto ria de sua completa incapacidade de realizar uma tarefa banal. Amélia Mouren foi uma das primeiras pessoas a conhecer Camélia Thervee. Foi também a primeira pessoa que Camélia matou.
+Amélia Mouren foi uma das primeiras pessoas a conhecer Camélia Thervee — e foi também a primeira pessoa que Camélia matou.
 
 ## As regras da fome
 
@@ -171,7 +173,7 @@ Era uma forma de se alimentar sem caçar, ferir ou dever intimidade a alguém. C
 
 Instalou-se sob nome falso num quarto pequeno da [[Pensão do Terceiro Turno]], onde o ruído das tubulações ajuda a esconder seus horários e poucas pessoas perguntam de onde veio uma hóspede que paga adiantado. Pretende recuperar a maleta, receber o pagamento e deixar Brumaferro antes que o sobrenome Evereth volte a alcançá-la.
 
-Também ouviu falar da [[Taverna da Rosa de Ouro]], na [[Praça das Pontes]]. Dizem que sua proprietária, [[Taverna da Rosa de Ouro#Ermelinda dos Corações Perdidos|Ermelinda dos Corações Perdidos]], acolhe viajantes, segredos e pedidos estranhos sem começar pelo julgamento. Camélia ainda não conhece Ermelinda, mas pretende procurar a taverna caso precise obter alimento por meios seguros ou encontrar alguém capaz de compreender uma tiefling sem tratá-la imediatamente como ameaça.
+Também ouviu falar da [[Taverna da Rosa de Ouro]], na [[Praça das Pontes]]. Dizem que sua proprietária, [[Taverna da Rosa de Ouro#Ermelinda dos Corações Perdidos|Ermelinda]], acolhe viajantes, segredos e pedidos estranhos sem começar pelo julgamento. Camélia ainda não conhece Ermelinda, mas pretende procurar a taverna caso precise obter alimento por meios seguros ou encontrar alguém capaz de compreender uma tiefling sem tratá-la imediatamente como ameaça.
 
 Ela diz que deseja apenas distância dos pais. Não construiu a própria vida em torno de matá-los e não sabe o que faria se os encontrasse frágeis, incapazes de envelhecer e ainda assim próximos da morte. Detestaria descobrir que alguma parte da menina que desejava sua atenção continua viva.
 
