@@ -26,6 +26,7 @@ Cada pedido chega acompanhado de uma ampulheta escolhida por Camila. Ela afirma 
 
 ![[CamilaCartola.png]]
 
+>Qualquer semelhança com a realidade é mera coincidência.
 ## Camila Cartola
 
 **Camila Cartola** é uma Gnoma de cabelos bicolores, ruivo caju com uma franja branca, olhos vivos e um sorriso divertido quase permanente. Veste calças largas, botas de couro e um longo casaco assimétrico em tons de vinho e azul-petróleo, coberto por bordados e detalhes de bronze. Seis relógios de bolso pendem de correntes presas ao chapéu, aos ombros, à cintura e aos bolsos. Sua cartola começa justa à cabeça, alarga-se à medida que sobe e termina inclinada para um dos lados, como se estivesse prestes a desabar sem jamais realmente cair.
