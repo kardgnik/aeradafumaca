@@ -8,7 +8,7 @@
 
 Afastar-se do campo não o tornou menos atento. No entreposto, reconhece couro mal conservado pelo cheiro, percebe quando um relatório foi escrito por alguém que não presenciou a caçada e raramente aceita a primeira versão de uma história.
 
-![[Damião Rusk.png]]
+![[Samiao Rusk.png]]
 
 ## Guardião sem título
 
