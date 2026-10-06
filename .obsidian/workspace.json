@@ -11,10 +11,14 @@
             "id": "693f25683829544a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "A Era da Fumaça.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A Era da Fumaça"
             }
           },
           {
@@ -37,16 +41,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS/Damião Rusk.md",
+                "file": "A Era da Fumaça.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Damião Rusk"
+              "title": "A Era da Fumaça"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,16 +225,18 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "8e86c8089e6004e6",
+  "active": "693f25683829544a",
   "lastOpenFiles": [
+    "NOTAS/Malik.md",
+    "A Era da Fumaça.md",
+    "NOTAS/Éter.md",
+    "NOTAS/Vhalaris.md",
+    "NOTAS/Damião Rusk.md",
     "IMAGENS/Samiao Rusk.png",
     "IMAGENS/Damião Rusk.png",
     "NOTAS/Frederick Van Krueger.md",
-    "A Era da Fumaça.md",
-    "NOTAS/Éter.md",
     "NOTAS/Helaine.md",
     "NOTAS/Vhalaris-Oculto.md",
-    "NOTAS/Vhalaris.md",
     "NOTAS/A Chaleira da Hora.md",
     "NOTAS/Praça das Pontes.md",
     "NOTAS/Brumaferro.md",
@@ -257,9 +262,7 @@
     "NOTAS/Caldeiras.md",
     "NOTAS/Caldeiras-Oculto.md",
     "IMAGENS/Rede pré-humana.png",
-    "NOTAS/Eter-Oculto.md",
     "IMAGENS/Fulguração Etérica (Pulso Silencioso).png",
-    "IMAGENS/O Teorema da Balança e a Invariância de Massa.png",
     "PJ",
     "IMAGENS",
     "NOTAS"
