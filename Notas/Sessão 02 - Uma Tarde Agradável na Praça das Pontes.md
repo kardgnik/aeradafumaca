@@ -46,7 +46,7 @@ Camélia e Magnus chegaram pela galeria comercial no mesmo instante em que Malik
 
 Camélia foi a primeira a falar com Damião. Perguntou por contratos dos Baixios relacionados a uma criatura humanoide rápida, dotada de presas e conhecida por beber sangue. O registro inicial parecia corresponder ao que procurava, mas informações trazidas de outro arquivo revelaram algo diferente: não era um contrato de caça, e sim um pedido antigo de informações sobre uma jovem tiefling desaparecida.
 
-Nao havia nome registrado.
+Nao nome registrado era Peônia.
 
 A recompensa também não era de quinhentas peças de ouro, como Damião pensara a princípio. Eram cinquenta por informações. Camélia guardou a folha destacada do arquivo sem explicar que a desaparecida estava diante dele.
 
