@@ -80,7 +80,7 @@ O gabinete possuía apenas três lugares de espera. Do outro lado da praça havi
 
 ## Uma tarde agradável na Praça das Pontes
 
-A [[Taverna da Rosa de Ouro]] estava cheia quando o grupo chegou. Amaro, constrangido pelas próprias roupas, preferiu permanecer do lado de fora. Camélia já havia encontrado uma mesa próxima à entrada, pedido um ensopado de caça e uma dose de Aguardente Fogo da Paixão. Quando os demais apareceram, aceitou a companhia com um aceno silencioso.
+A [[Taverna da Rosa de Ouro]] estava cheia quando o grupo chegou. Amaro, constrangido pelas próprias roupas, preferiu permanecer do lado de fora. Camélia já havia encontrado uma mesa próxima à entrada, pedido um ensopado de caça e uma dose de Aguardente Fogo da Paixão. Quando os demais apareceram, "aceitou" a companhia, pois haviam apenas 3 lugares no balcão e a mesa dela próxima a porta.
 
 O encontro que começara por acidente no bonde finalmente reuniu os sete ao redor da mesma mesa.
 
