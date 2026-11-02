@@ -118,6 +118,9 @@
         "priority": 0
       },
       "hidden": false,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -154,6 +157,9 @@
         "priority": 0
       },
       "hidden": false,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -190,6 +196,9 @@
         "priority": 0
       },
       "hidden": false,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -226,6 +235,9 @@
         "priority": 0
       },
       "hidden": false,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -262,6 +274,9 @@
         "priority": 0
       },
       "hidden": false,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -298,6 +313,9 @@
         "priority": 0
       },
       "hidden": false,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -334,6 +352,9 @@
         "priority": 0
       },
       "hidden": false,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -370,11 +391,15 @@
         "priority": 0
       },
       "hidden": false,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     }
   ],
   "notes": [],
   "sounds": [],
+  "regions": [],
   "templates": [],
   "tiles": [
     {
@@ -415,6 +440,9 @@
         "autoplay": true,
         "volume": 0
       },
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {
         "monks-active-tiles": {
           "name": "Sifão do Coração de Cinza (Sala 6 — Segredo de Arnoldes)",
@@ -492,6 +520,9 @@
         "autoplay": true,
         "volume": 0
       },
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {
         "monks-active-tiles": {
           "name": "Tenda Médica do Projeto Crisálida (Sala 7 — Camélia e Helaine)",
@@ -569,6 +600,9 @@
         "autoplay": true,
         "volume": 0
       },
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {
         "monks-active-tiles": {
           "name": "A Comporta Pré-Humana (Sala 8 — Magnus e Masato)",
@@ -632,6 +666,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -656,6 +693,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -680,6 +720,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -704,6 +747,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -728,6 +774,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -752,6 +801,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -776,6 +828,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -800,6 +855,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -824,6 +882,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -848,6 +909,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -872,6 +936,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -896,6 +963,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -920,6 +990,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -944,6 +1017,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -968,6 +1044,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -992,6 +1071,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1016,6 +1098,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1040,6 +1125,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1064,6 +1152,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1088,6 +1179,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1112,6 +1206,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1136,6 +1233,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1160,6 +1260,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1184,6 +1287,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1208,6 +1314,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1232,6 +1341,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1256,6 +1368,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1280,6 +1395,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1304,6 +1422,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1328,6 +1449,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1352,6 +1476,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1376,6 +1503,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1400,6 +1530,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1424,6 +1557,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1448,6 +1584,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1472,6 +1611,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1496,6 +1638,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1520,6 +1665,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1544,6 +1692,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1568,6 +1719,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1592,6 +1746,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1616,6 +1773,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1640,6 +1800,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1664,6 +1827,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1688,6 +1854,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1712,6 +1881,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1736,6 +1908,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1760,6 +1935,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1784,6 +1962,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1808,6 +1989,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1832,6 +2016,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1856,6 +2043,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1880,6 +2070,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1904,6 +2097,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1928,6 +2124,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1952,6 +2151,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1976,6 +2178,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -2000,6 +2205,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -2024,6 +2232,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -2048,6 +2259,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -2072,6 +2286,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -2096,6 +2313,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -2120,6 +2340,55 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
+      "flags": {}
+    }
+  ],
+  "initialLevel": "defaultLevel0000",
+  "levels": [
+    {
+      "_id": "defaultLevel0000",
+      "name": "Nó 7B — Nível 2: Zona de Costura e Escavação",
+      "elevation": {
+        "bottom": null,
+        "top": null
+      },
+      "background": {
+        "src": "no7b_nivel2_gridless.webp",
+        "anchorX": 0,
+        "anchorY": 0,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0
+      },
+      "foreground": {
+        "src": null,
+        "anchorX": 0,
+        "anchorY": 0,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0
+      },
+      "visibility": {
+        "levels": []
+      },
+      "fog": {
+        "src": null,
+        "tint": "#ffffff"
+      },
+      "sort": 0,
       "flags": {}
     }
   ],

@@ -118,6 +118,9 @@
         "priority": 0
       },
       "hidden": false,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -154,6 +157,9 @@
         "priority": 0
       },
       "hidden": false,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -190,6 +196,9 @@
         "priority": 0
       },
       "hidden": false,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -226,6 +235,9 @@
         "priority": 0
       },
       "hidden": false,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -262,6 +274,9 @@
         "priority": 0
       },
       "hidden": false,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -298,6 +313,9 @@
         "priority": 0
       },
       "hidden": false,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -334,6 +352,9 @@
         "priority": 0
       },
       "hidden": false,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -370,11 +391,15 @@
         "priority": 0
       },
       "hidden": false,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     }
   ],
   "notes": [],
   "sounds": [],
+  "regions": [],
   "templates": [],
   "tiles": [
     {
@@ -415,6 +440,9 @@
         "autoplay": true,
         "volume": 0
       },
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {
         "monks-active-tiles": {
           "name": "Livro de Ponto — Guarita (Sala 1)",
@@ -492,6 +520,9 @@
         "autoplay": true,
         "volume": 0
       },
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {
         "monks-active-tiles": {
           "name": "Mesa de Plantas & Gaveta (Sala 2 — Segredo de Darian)",
@@ -569,6 +600,9 @@
         "autoplay": true,
         "volume": 0
       },
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {
         "monks-active-tiles": {
           "name": "O Regulador de Caleb Booker (Sala 3 — Segredo de Malik)",
@@ -646,6 +680,9 @@
         "autoplay": true,
         "volume": 0
       },
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {
         "monks-active-tiles": {
           "name": "Plataforma do Elevador de Carga (Sala 4 -> Nível 2)",
@@ -709,6 +746,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -733,6 +773,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -757,6 +800,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -781,6 +827,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -805,6 +854,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -829,6 +881,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -853,6 +908,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -877,6 +935,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -901,6 +962,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -925,6 +989,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -949,6 +1016,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -973,6 +1043,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -997,6 +1070,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1021,6 +1097,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1045,6 +1124,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1069,6 +1151,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1093,6 +1178,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1117,6 +1205,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1141,6 +1232,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1165,6 +1259,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1189,6 +1286,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1213,6 +1313,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1237,6 +1340,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1261,6 +1367,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1285,6 +1394,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1309,6 +1421,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1333,6 +1448,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1357,6 +1475,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1381,6 +1502,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1405,6 +1529,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1429,6 +1556,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1453,6 +1583,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1477,6 +1610,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1501,6 +1637,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1525,6 +1664,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1549,6 +1691,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1573,6 +1718,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1597,6 +1745,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1621,6 +1772,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1645,6 +1799,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1669,6 +1826,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1693,6 +1853,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1717,6 +1880,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1741,6 +1907,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1765,6 +1934,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1789,6 +1961,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1813,6 +1988,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1837,6 +2015,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1861,6 +2042,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1885,6 +2069,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1909,6 +2096,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1933,6 +2123,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1957,6 +2150,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -1981,6 +2177,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -2005,6 +2204,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -2029,6 +2231,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -2053,6 +2258,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -2077,6 +2285,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -2101,6 +2312,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -2125,6 +2339,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -2149,6 +2366,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -2173,6 +2393,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -2197,6 +2420,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -2221,6 +2447,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -2245,6 +2474,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -2269,6 +2501,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -2293,6 +2528,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -2317,6 +2555,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -2341,6 +2582,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -2365,6 +2609,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -2389,6 +2636,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -2413,6 +2663,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -2437,6 +2690,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -2461,6 +2717,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -2485,6 +2744,9 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
       "flags": {}
     },
     {
@@ -2509,6 +2771,55 @@
         "attenuation": false
       },
       "animation": null,
+      "levels": [
+        "defaultLevel0000"
+      ],
+      "flags": {}
+    }
+  ],
+  "initialLevel": "defaultLevel0000",
+  "levels": [
+    {
+      "_id": "defaultLevel0000",
+      "name": "Nó 7B — Nível 1: A Fachada Industrial",
+      "elevation": {
+        "bottom": null,
+        "top": null
+      },
+      "background": {
+        "src": "no7b_nivel1_gridless.webp",
+        "anchorX": 0,
+        "anchorY": 0,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0
+      },
+      "foreground": {
+        "src": null,
+        "anchorX": 0,
+        "anchorY": 0,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0
+      },
+      "visibility": {
+        "levels": []
+      },
+      "fog": {
+        "src": null,
+        "tint": "#ffffff"
+      },
+      "sort": 0,
       "flags": {}
     }
   ],
