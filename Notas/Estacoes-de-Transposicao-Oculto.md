@@ -25,6 +25,8 @@ Antes de liberar a carga nos anéis, o console dos Reguladores executa uma rotin
 
 $$M^* = \left( \int_{\mathcal{V}} \rho(\mathbf{x}, t)\, d^3\mathbf{x} \right) \cdot \left[ \frac{1}{2\pi i} \oint_{\Gamma} \frac{dz}{z - 1} \right] \cdot \left( \int_{-\infty}^{\infty} \frac{1}{\sigma \sqrt{2\pi}} e^{-\frac{(k - k_0)^2}{2\sigma^2}} dk \right) + \frac{1}{c^2} \left[ \sqrt{-\eta_{\mu\nu} P^\mu P^\nu} - M_0 c \right] \cdot \left( \det(e^{\mathbf{K}}) \, e^{-\operatorname{Tr}(\mathbf{K})} \right) + \int_{t_1}^{t_2} \left[ \frac{\partial \rho}{\partial t} + \nabla \cdot (\rho \mathbf{u}) \right] dt + \frac{\hbar}{i c^2} \left( \langle \psi | \left[ \hat{x}, \hat{p}_x \right] | \psi \rangle - i\hbar \right) + \frac{\lambda_{\text{éter}}}{c} \int_{\mathcal{V}} \nabla \cdot (\nabla \times \mathbf{A})\, d^3\mathbf{x}$$
 
+![[O Teorema da Balança e a Invariância de Massa.png]]
+
 ## A Malha Pré-Humana e Coordenadas Fantasmas
 
 As rotas modernas utilizam apenas uma fração ínfima de uma malha muito mais vasta. Os sistemas atuais reconhecem entre 10 e 14 rotas interurbanas, mas os consoles antigos soterrados guardam coordenadas que transcendem o continente:

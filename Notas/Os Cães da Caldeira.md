@@ -28,6 +28,7 @@ Seu lema resume essa visão:
 - Casas de moradores não podem ser incendiadas por dívida.
 - Um comerciante que paga proteção deve receber proteção.
 - Problemas internos não podem atrair a Guarda para as Caldeiras.
+- O [[Hospital da Última Janela]] é terreno de cuidado: ninguém pode cobrar dívidas, recrutar pacientes ou entrar armado.
 - Ordens de Silas não são repetidas.
 
 As regras não tornam a gangue justa. Apenas tornam sua violência previsível, característica que muitos moradores preferem à arbitrariedade de criminosos externos ou seguranças industriais.
@@ -39,6 +40,12 @@ Silas controla acordos, territórios e relações políticas. Abaixo dele existe
 [[Abel Morel|Trinco]] coordena cobranças e interrogatórios. [[Bruna Costa|Ferrugem]] cuida de armas improvisadas, explosivos e acesso a peças. [[Jonas Dantas|Pavio]] supervisiona mensageiros e integrantes mais jovens.
 
 [[Malik|Mão Pesada]] foi durante anos o lutador mais reconhecido da gangue. Sua saída dividiu opiniões e continua sendo uma ferida aberta entre os Cães.
+
+## A Última Janela
+
+Os Cães protegem discretamente os acessos do [[Hospital da Última Janela]], desviam patrulhas e fazem com que cargas médicas atravessem o bairro sem inspeção. [[Salma Veir]] trata integrantes da gangue, mas também atende rivais, trabalhadores, fugitivos e pessoas feridas pelos próprios Cães. Essa neutralidade foi uma condição imposta por ela e aceita por [[Silas Rook]], que considera o hospital valioso demais para se tornar apenas mais uma propriedade da organização.
+
+A proteção não é caridade. Ela reforça a autoridade dos Cães e lhes garante atendimento sem perguntas. Ainda assim, a gangue não recebe prontuários, não escolhe pacientes e não pode retirar alguém de um leito.
 
 ## A Casa da Pressão
 

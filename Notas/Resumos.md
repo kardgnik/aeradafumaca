@@ -5,3 +5,4 @@ Aqui estão registrados os acontecimentos de cada sessão de **A Era da Fumaça:
 ## Sessões
 
 - [[Sessão 01 - Uma Manhã Qualquer]]
+- [[Sessão 02 - Uma Tarde Agradável na Praça das Pontes]]

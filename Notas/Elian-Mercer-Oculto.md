@@ -10,6 +10,8 @@ Essas linhas não estavam abastecendo a instalação. Elas retiravam energia de 
 
 O desaparecimento da equipe está ligado a uma ativação parcial da antiga rede de transposição. A Companhia conhece inconsistências na versão oficial e omitiu registros de consumo, plantas do nível inferior e as últimas comunicações enviadas ao setor de Mercer.
 
+![[Elian compara Registros.png]]
+
 ## Caleb Booker
 
 [[Caleb Booker]] trabalhava diretamente sob a supervisão de Elian quando morreu. Os registros originais indicavam que o regulador recebeu pressão depois que o sistema havia sido isolado, algo que não deveria ser possível.

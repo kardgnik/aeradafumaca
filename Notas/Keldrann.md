@@ -6,6 +6,8 @@ Keldrann é uma terra de cordilheiras, geleiras e extensões onde o degelo jamai
 
 O continente possui algumas das maiores reservas conhecidas de carvão, ferro, diamantes e pedras preciosas. Essa abundância, porém, jamais tornou Keldrann próspero. O solo cultivável é escasso, as colheitas são pequenas e uma única interrupção nas rotas comerciais pode transformar um inverno difícil em fome generalizada.
 
+![[MapaKeldran.png]]
+
 ## Geografia
 
 Keldrann possui um formato amplo e relativamente compacto, cercado por águas profundas. Grande parte de sua costa permanece navegável durante boa parte do ano, especialmente nas regiões onde correntes marítimas impedem que o gelo se feche por completo. A [[Corrente Rubra]], aquecida nas águas vulcânicas de [[Caldeiras]], alcança parte do litoral e contribui para manter navegável a baía de [[Água Negra]]. Portos naturais e cidades costeiras recebem alimentos, ferramentas e pequenas quantidades de [[Éter]] trazidas de [[Vhalaris]].

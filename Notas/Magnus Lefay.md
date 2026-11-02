@@ -3,7 +3,7 @@
 #PJs
 ## O Diário Arcano e Grimório de Magnus Lefay
 
-### 04 de Primavera de 1872 — Lembranças da infância em [[Ponte-Cinza]]
+### 04 de Primavera de 66 — Lembranças da infância em [[Ponte-Cinza]]
 
 Ainda me lembro do cheiro de poeira e grãos secos nos celeiros comunitários perto do rio. Eu devia ter uns oito anos quando me perdi entre as sacas de trigo enquanto os adultos discutiam a chegada do trem da tarde. Enquanto as outras crianças corriam atrás dos vagões, eu ficava fascinado com a fumaça cinzenta que subia e o som ritmado do sino metálico da ponte.
 
@@ -11,13 +11,13 @@ Foi naquela época que encontrei, jogado em um canto do armazém ferroviário, u
 
 ![[Magnus Ledray.png]]
 
-### 12 de Verão de 1880 — Memórias da adolescência
+### 12 de Verão de 74 — Memórias da adolescência
 
 Aos dezesseis anos, minha falta de habilidade física já era motivo de piada em [[Ponte-Cinza]]. Enquanto meus colegas carregavam fardos e ajudavam nas docas, eu mal conseguia puxar um balde de água do rio sem tropeçar nas próprias pernas. Passei a me refugiar na [[Feira-das-Quatro-Chuvas|Feira das Quatro Chuvas]], onde um velho arcanista itinerante montava sua barraca de bugigangas.
 
 Ele notou meu interesse pelos seus mapas e frascos. Foi ele quem me ensinou que a magia não era um dom divino ou um truque de circo, mas uma ciência rigorosa que exigia disciplina, leitura e observação. Ele se tornou meu mestre, ensinando-me os primeiros encantamentos em troca de ajuda para catalogar suas curiosidades.
 
-### 19 de Outono de 1886 — A provação na Academia e a despedida do mestre
+### 19 de Outono de 80 — A provação na Academia e a despedida do mestre
 
 Passei os últimos anos me dividindo entre os ensinamentos práticos do mercado e os tomos teóricos para os testes formais de aptidão arcana. Quando finalmente recebi a confirmação de minha aprovação, meu mestre já estava fraco demais para viajar.
 
@@ -27,7 +27,7 @@ Ele me entregou seus manuais pessoais e um antigo sino de ferro manchado de fuli
 
 Nos salões do [[Instituto Arcano de Valebrando]], entre jovens nobres e estudantes ambiciosos, ganhei a fama e o apelido irônico de “O Genial Magnus”: um jovem capaz de decifrar tratados complexos em minutos, mas incapaz de segurar um cajado sem parecer desajeitado.
 
-### 08 de Primavera de 1898 — A menina da feira
+### 08 de Primavera de 92 — A menina da feira
 
 Uma menina de oito anos apareceu hoje à porta de minha sala no [[Instituto Arcano de Valebrando|Colégio do Sino]], interessada em aprender magia. Seu nome é [[Pamela Leozzi]]. Vem de uma das famílias mais pobres de [[Ponte-Cinza]] e trazia consigo apenas um caderno gasto, uma pena curta demais para ser confortável e perguntas suficientes para ocupar uma tarde inteira.
 
@@ -35,7 +35,7 @@ Descobri, antes do fim da primeira lição, que ela já sabia ler em três idiom
 
 Vi em seus olhos a mesma curiosidade que meu mestre encontrou em mim tantos anos atrás. Talvez por isso não tenha conseguido mandá-la embora. Arrumei uma cadeira, encontrei para ela uma pena melhor e prometi ensinar o que soubesse. Pela primeira vez, compreendi por que aquele velho arcanista desperdiçou tanto tempo comigo.
 
-### 14 de Outono de 1904 — A vida de estudo e ensino
+### 14 de Outono de 98 — A vida de estudo e ensino
 
 Décadas se passaram entre os muros de pedra e as bibliotecas infestadas de traças do [[Instituto Arcano de Valebrando|Colégio do Sino]]. Dediquei minha vida adulta ao ensino de teologia arcana, história antiga e ciências naturais na Cátedra de Estudos Arcanos Clássicos. Meus alunos zombavam silenciosamente de minhas roupas manchadas de tinta e do meu hábito de esquecer de aparar a barba enquanto traduzia pergaminhos.
 
@@ -43,7 +43,7 @@ Pamela, no entanto, adotou o hábito de chegar antes dos demais. Recolhe os pap�
 
 O mundo lá fora estava mudando rápido demais. A magia teórica que eu lecionava começou a ser vista como uma relíquia do passado, substituída por motores, engrenagens e pela promessa de um futuro movido pela tecnologia.
 
-### 21 de Outono de 1906 — A partida de minha melhor aprendiz
+### 21 de Outono de 100 — A partida de minha melhor aprendiz
 
 [[Pamela Leozzi|Pamela]] partiu hoje para [[Brumaferro]]. Tem apenas dezesseis anos.
 
@@ -53,7 +53,7 @@ Não consigo decidir se hoje foi um dos dias mais felizes ou mais tristes de min
 
 Sinto um orgulho que mal cabe nestas páginas e uma tristeza que não consigo justificar. Talvez todo professor descubra, cedo ou tarde, que ensinar alguém é prepará-lo para partir.
 
-### 28 de Inverno de 1912 — Experiência alquímica e manipulação de Éter
+### 28 de Inverno de 106 — Experiência alquímica e manipulação de Éter
 
 Realizei hoje um experimento comparativo em meu laboratório. Coletei uma amostra de [[Éter]] purificado de uma lâmpada da estação e a coloquei ao lado de um frasco de essência arcana tradicional. Ao aplicar calor e reagentes alquímicos, percebi que o Éter não é apenas uma substância combustível: ele reage diretamente com a teia arcana ao seu redor, absorvendo a energia do ambiente e criando pequenas microfissuras no fluxo mágico natural.
 
@@ -63,19 +63,19 @@ Para conjurar uma barreira invisível capaz de repelir impactos mecânicos ou ra
 
 A barreira se solidificou em um clarão tênue, desviando uma fagulha que teria queimado meus velhos papéis.
 
-### 03 de Primavera de 1920 — A anomalia no sino de Ponte-Cinza
+### 03 de Primavera de 114 — A anomalia no sino de Ponte-Cinza
 
 O sino ferroviário de Ponte-Cinza tocou fora de hora hoje, e os relógios das oficinas atrasaram seis minutos sem qualquer falha mecânica. Ao aproximar o antigo sino de ferro do meu mestre das linhas de telegrafia, ele começou a vibrar sozinho, emitindo um zumbido grave.
 
 As oscilações no Éter estão ficando mais frequentes e intensas. Não se trata de problemas em engrenagens ou falta de manutenção. A tecnologia de [[Brumaferro]] está estressando a estrutura arcana de [[Vhalaris]]. Se isso continuar, os celeiros e as pontes da minha terra natal serão os primeiros a sofrer.
 
-### 18 de Outono de 1924 — A rotina do velho professor
+### 18 de Outono de 118 — A rotina do velho professor
 
 Aos sessenta anos, olhar no espelho é ver o tempo impresso na pele. A calvície na frente da cabeça avançou, contrastando com os cabelos longos e a barba vasta e desleixada que recusa os cuidados de uma tesoura. Minhas costas doem após poucas horas de leitura e minhas mãos tremem ao segurar a pena. Mas minha mente permanece tão afiada quanto nos dias de juventude.
 
 Percebi que ficar trancado em um gabinete escrevendo teses não salvará nada. O conhecimento precisa ser levado para o campo.
 
-### 12 de Verão de 1926 — A partida para Brumaferro
+### 12 de Verão de 120 — A partida para Brumaferro
 
 Tranquei a porta do meu antigo gabinete no [[Instituto Arcano de Valebrando|Colégio do Sino]] e me despedi das ruas de [[Ponte-Cinza]], onde cresci. Como minhas pernas frágeis não aguentariam carregar o peso dos meus tomos, gastei minhas últimas economias para comprar uma mula de carga pacífica. Ela carrega minhas caixas de livros, meus frascos de reagentes e o velho sino de ferro.
 
@@ -83,7 +83,7 @@ Meu objetivo é juntar moedas suficientes ao longo do caminho para comprar uma c
 
 ![[Lefay.jpeg]]
 
-### 29 de Verão de 1926 — Uma carroça no [[Pátio do Eixo Cansado]]
+### 29 de Verão de 120 — Uma carroça no [[Pátio do Eixo Cansado]]
 
 [[Brumaferro]] finalmente nos recebeu, embora não da maneira grandiosa que eu talvez tenha imaginado durante a viagem. As hospedarias próximas às torres cobravam por uma noite mais do que eu poderia gastar em uma semana. O [[Bairro das Caldeiras|bairro das Caldeiras]] foi o que nos acolheu ou, ao menos, o único que cabia em minha verba.
 

@@ -16,6 +16,12 @@ Doações de comerciantes, trabalhadores, oficinas e moradores do bairro mantêm
 
 Sua forma de cuidar contrasta com a dureza das ruas ao redor. Maura presta atenção às pequenas necessidades que facilmente se perdem em um lugar cheio de crianças: quem teve pesadelos, quem está comendo menos, quem precisa de roupas novas, quem está quieto demais. Não consegue dar a cada uma delas uma família, mas se esforça para que nenhuma se sinta apenas mais uma boca para alimentar.
 
+## Salma Veir
+
+[[Salma Veir]] cresceu no Orfanato das Plumas sob os cuidados de Maura. Desde jovem auxiliava com febres, cortes e acidentes domésticos, demonstrando a calma necessária para cuidar de alguém antes mesmo de possuir formação médica.
+
+Hoje Salma mantém contato com o orfanato e faz chegar remédios, ataduras e pequenas quantias sempre que pode. As crianças a conhecem como uma antiga moradora que se tornou médica. Maura evita explicar onde ela trabalha ou por que algumas entregas chegam sem remetente.
+
 ## Helaine
 
 [[Helaine]] viveu no Orfanato das Plumas durante alguns meses quando tinha oito anos. Foi um dos poucos períodos de sua infância em que teve cama, refeições regulares e adultos cuidando dele.

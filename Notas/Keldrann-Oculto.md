@@ -10,6 +10,8 @@ Em [[Monte Farpado]], o Primaz [[Coriolano da Rocha]] ordenou ao Ofício das Lin
 
 O interior inacessível não está vazio. Todas as linhas antigas de Keldrann convergem para uma estrutura soterrada sob as geleiras centrais. As Estações periféricas ainda a reconhecem como destino, embora nenhum registro conhecido revele o que deveria chegar ali ou partir daquele lugar.
 
+![[A rede subterrânea da primeira civilização.png]]
+
 ## As raízes das Agulhas
 
 As Agulhas Antigas não são um arquipélago separado de Keldrann. Sua formação fixa permanece fundida à costa e avança para dentro do continente antes de continuar pelo oceano. Mapas que representam água entre todo o campo de agulhas e a massa continental estão incorretos.

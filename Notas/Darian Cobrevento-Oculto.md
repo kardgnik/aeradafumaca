@@ -8,6 +8,8 @@ O autômato de [[Darian Cobrevento]] não registrou uma reação produzida pelo 
 
 O núcleo de memória recuperado depois da explosão não foi destruído. Os registros correspondentes aos minutos anteriores ao acidente foram apagados de maneira deliberada, depois de o autômato ter sido recolhido. Darian ainda não possui prova de quem teve acesso ao aparelho durante as duas semanas em que permaneceu inconsciente.
 
+![[Darian e o núcleo de memória adulterado.png]]
+
 ## O benfeitor acadêmico
 
 O tratamento realizado pelos [[Os Curadores do Espelho|Curadores do Espelho]] foi autorizado e pago por um patrono ligado aos círculos acadêmicos de Brumaferro. Ele possuía influência suficiente para obter uma clínica particular, enxertos especializados e uma estrutura protética experimental sem que o nome do paciente aparecesse nos registros públicos.

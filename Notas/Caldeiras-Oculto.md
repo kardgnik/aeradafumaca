@@ -10,6 +10,8 @@ Isso explica por que tantos assentamentos surgiram ao redor das antigas estaçõ
 
 [[Forja-Baixa]] é um dos casos mais claros. A vila ocupa os níveis inferiores de uma Estação considerada morta e utiliza placas retiradas de seus condutos como pedras de aquecimento. Um motor de Éter reparado por [[Arnoldes]] provocou uma resposta da rede, contaminou uma cisterna e revelou que as galerias continuam recebendo energia. O Conselho das Cisternas ocultou a extensão do fenômeno, enquanto a [[Bandeira Queimada]] transformou a instalação em campo de testes para os primeiros componentes do [[Coração de Cinza]].
 
+![[Rede pré-humana.png]]
+
 ## Pontos de exposição
 
 Sob o lago de lava de [[Coroa de Estrelas]] existe uma reserva gigantesca de Éter ligada à rede antiga. Misturado à lava, o Éter não apresenta sua luminosidade azul-esverdeada habitual. Sua energia assume tons dourados, alaranjados e vermelhos, tornando-se indistinguível do fogo.

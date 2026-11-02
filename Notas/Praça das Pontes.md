@@ -14,7 +14,7 @@ Quem sobe do [[Bairro das Caldeiras]] percebe a mudança sem encontrar ainda o l
 
 A Praça das Pontes é um dos principais centros comerciais de Brumaferro e atende tanto moradores quanto pessoas apenas de passagem entre diferentes regiões da cidade.
 
-Em suas ruas e galerias encontram-se armarinhos, ferragens, alfaiates, sapateiros, relojoeiros, papelarias, livreiros, boticários, casas de penhores, pequenos joalheiros, vendedores de ferramentas, equipamentos de viagem, armas, instrumentos musicais, peças para autômatos e componentes mecânicos. Bancas de comida e vendedores ambulantes ocupam os espaços entre estabelecimentos permanentes.
+Em suas ruas e galerias encontram-se armarinhos, ferragens, alfaiates, sapateiros, relojoeiros, papelarias, livreiros, boticários, casas de penhores, pequenos joalheiros, casas de chá como [[A Chaleira da Hora]], vendedores de ferramentas, equipamentos de viagem, armas, instrumentos musicais, peças para autômatos e componentes mecânicos. Bancas de comida e vendedores ambulantes ocupam os espaços entre estabelecimentos permanentes.
 
 Mercadorias comuns podem ser encontradas com facilidade. Algumas lojas também trabalham com produtos mais caros, raros ou especializados, embora itens verdadeiramente exclusivos normalmente precisem ser encomendados ou procurados nas regiões mais ricas de Brumaferro.
 
