@@ -32,7 +32,7 @@ A folha possuía duas misturas marcadas como esgotadas: **Brasa Rubra** e **Ess�
 
 As letras marcavam o começo e o fim de um percurso. A posição das alças indicava qual letra deveria ser retirada de cada nome atravessado pelo caminho. Quando as escolhas foram colocadas na ordem correta, a mensagem finalmente surgiu:
 
-> **LIGA CARVÃO**
+> **DIGA CARVÃO**
 
 Ao ouvir a palavra “carvão”, Camila pediu que a seguissem. A gnoma girou duas vezes um dos relógios próximos à escada, fazendo um painel deslizar para dentro da parede e revelar uma passagem secreta.
 
